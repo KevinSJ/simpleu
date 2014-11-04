@@ -1,0 +1,326 @@
+@Sites-International
+#USA-AOL
+127.0.0.1 ads.aol.co.uk
+127.0.0.1 adserver.aol.fr
+127.0.0.1 ads.newline.aol.com
+127.0.0.1 ads.web.aol.com
+127.0.0.1 advertising.aol.com
+127.0.0.1 affiliate.aol.com
+127.0.0.1 dynamic.aol.com
+127.0.0.1 free.aol.com
+127.0.0.1 o.sa.aol.com
+127.0.0.1 s.sa.aol.com
+127.0.0.1 ar.atwola.com
+127.0.0.1 ar1.atwola.com
+127.0.0.1 ar7.atwola.com
+127.0.0.1 ar9.atwola.com
+127.0.0.1 at.atwola.com
+127.0.0.1 atwola.com
+127.0.0.1 cdn.at.atwola.com
+127.0.0.1 cdn.atwola.com
+127.0.0.1 pr.atwola.com
+127.0.0.1 ads.intergi.com
+127.0.0.1 ng3.ads.warnerbros.com
+#USA-hollywood
+127.0.0.1 js.moatads.com
+#USA-Intel
+127.0.0.1 prcappzone.intel.com
+127.0.0.1 syndication.intel.com
+127.0.0.1 www.cnetdirectintl.com
+127.0.0.1 www91.intel.com
+#USA-Lycos
+127.0.0.1 adbuyer3.lycos.com
+127.0.0.1 ads.lycos.com
+127.0.0.1 ads.tripod.lycos.co.uk
+127.0.0.1 ads.tripod.lycos.de
+127.0.0.1 ads.tripod.lycos.es
+127.0.0.1 ads.tripod.lycos.nl
+127.0.0.1 advertising.lycos.com
+127.0.0.1 client.sidesearch.lycos.com
+127.0.0.1 cm8.lycos.com
+127.0.0.1 fe.lea.lycos.co.uk
+127.0.0.1 guestworld.tripod.lycos.com
+127.0.0.1 hit.webcentre.lycos.co.uk
+127.0.0.1 install.sidesearch.lycos.com
+127.0.0.1 oascentral.lycos.com
+127.0.0.1 ratings.lycos.com
+127.0.0.1 titan.guestworld.tripod.lycos.com
+#USA-Live
+127.0.0.1 analytics.live.com
+127.0.0.1 c.live.com
+127.0.0.1 digg.analytics.live.com
+127.0.0.1 ms.analytics.live.com
+127.0.0.1 rad.live.com
+127.0.0.1 watson.live.com
+127.0.0.1 msnportal.112.2o7.net
+#USA-Msn
+127.0.0.1 ads1.msn.com
+127.0.0.1 g.msn.com
+127.0.0.1 rad.msn.com
+127.0.0.1 a.rad.msn.com
+127.0.0.1 b.rad.msn.com
+127.0.0.1 0.r.msn.com
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msn.com
+127.0.0.1 ac2.msn.com
+127.0.0.1 ac3.msn.com
+127.0.0.1 ads.beta1.idss.msn.com
+127.0.0.1 ads.eu.msn.com
+127.0.0.1 ads.msn.com
+127.0.0.1 ads2.msn.com
+127.0.0.1 adsyndication.msn.com
+127.0.0.1 amer.rel.msn.com
+127.0.0.1 analytics.msn.com
+127.0.0.1 analytics.r.msn.com
+127.0.0.1 arc1.msn.com
+127.0.0.1 arc2.msn.com
+127.0.0.1 arc3.msn.com
+127.0.0.1 arc9.msn.com
+127.0.0.1 b.ads1.msn.com
+127.0.0.1 ads.ninemsn.com.au
+127.0.0.1 direct.ninemsn.com.au
+127.0.0.1 c.msn.com
+127.0.0.1 c.msn.com.cn
+127.0.0.1 catalog.video.msn.com
+127.0.0.1 exp.www.msn.com
+127.0.0.1 h.msn.com
+127.0.0.1 popup.msn.com
+127.0.0.1 r.msn.com
+127.0.0.1 rmads.eu.msn.com
+127.0.0.1 rmads.msn.com
+127.0.0.1 toolbar.msn.com
+127.0.0.1 udc.msn.com
+127.0.0.1 a.global.msads.net
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads2.msads.net
+127.0.0.1 global.msads.net
+127.0.0.1 crl.microsoft.com
+127.0.0.1 rad.microsoft.com
+127.0.0.1 watson.microsoft.com
+#USA-Manutd
+127.0.0.1 delivery.adserver.manutd.com
+#USA-Playboy
+127.0.0.1 ads.playboy.com
+127.0.0.1 pei-ads.playboy.com
+#USA-ABCNews
+127.0.0.1 adsatt.abcnews.starwave.com
+127.0.0.1 adsatt.disney.starwave.com
+127.0.0.1 adsatt.espn.starwave.com
+127.0.0.1 adsatt.familyfun.starwave.com
+127.0.0.1 adsatt.go.starwave.com
+127.0.0.1 adsatt.movies.starwave.com
+127.0.0.1 adsintl.starwave.com
+127.0.0.1 espn-ak.starwave.com
+127.0.0.1 odc.starwave.com
+127.0.0.1 3ps.go.com
+127.0.0.1 ad.go.com
+127.0.0.1 adimages.go.com
+127.0.0.1 dcapps.disney.go.com
+127.0.0.1 adsatt.espn.go.com
+127.0.0.1 log.go.com
+127.0.0.1 ngads.go.com
+127.0.0.1 oascentral.abclocal.go.com
+127.0.0.1 seavideo-ak.espn.go.com
+127.0.0.1 w88.go.com
+#USA-Ap.org
+127.0.0.1 ads.mm.ap.org
+127.0.0.1 oascentral.hosted.ap.org
+127.0.0.1 te.ap.org
+127.0.0.1 ads.dixcom.com
+127.0.0.1 ap.search.theplatform.com
+#USA-CNN
+127.0.0.1 ads.cnn.com
+127.0.0.1 cnn.dyn.cnn.com
+127.0.0.1 customad.cnn.com
+127.0.0.1 gdyn.cnn.com
+127.0.0.1 i.l.cnn.net
+127.0.0.1 metrics.cnn.com
+127.0.0.1 ad.auditude.com
+#USA-deviantart
+127.0.0.1 adcast.deviantart.com
+127.0.0.1 adimg.deviantart.net
+#USA-Discovery
+127.0.0.1 ads.discovery.com
+127.0.0.1 omnikool.discovery.com
+#USA-SunTimes
+127.0.0.1 oascentral.suntimes.com
+#USA-Time
+127.0.0.1 tiads.time.com
+#USA-Sites
+127.0.0.1 ads.xprofiles.com
+#Australia-Sensismediasmart
+127.0.0.1 ad.sensismediasmart.com.au
+#Brazil-globo
+127.0.0.1 ads.globo.com
+#Britain-BBC
+127.0.0.1 external.bbc.co.uk
+127.0.0.1 stats.bbc.co.uk
+127.0.0.1 visualscience.external.bbc.co.uk
+#Germany-abacho.de
+127.0.0.1 ads.unister-gmbh.de
+127.0.0.1 ad.turn.com
+#Germany-Blide.de
+127.0.0.1 ad.yieldlab.net
+127.0.0.1 asv.nuggad.net
+127.0.0.1 ced.sascdn.com
+127.0.0.1 rem-track.bild.de
+#Germany-Chip
+127.0.0.1 adx.chip.de
+#Germany-web.de
+127.0.0.1 adclient.uimserv.net
+127.0.0.1 adimg.uimserv.net
+127.0.0.1 madclient.uimserv.ne
+127.0.0.1 creativeproxy.uimserv.net
+127.0.0.1 fips.uimserv.net
+#Japan-Asahi
+127.0.0.1 c.iogous.com
+127.0.0.1 imp.asahi.com
+#Japan-excite.co.jp
+127.0.0.1 adimp.excite.co.jp
+#Japan-Mixi
+127.0.0.1 n2.ads.mreco0.jp
+#Japan-Yahoo.co.jp
+127.0.0.1 ai.yimg.jp
+127.0.0.1 ard.yahoo.co.jp
+127.0.0.1 bc.geocities.yahoo.co.jp
+127.0.0.1 rd.ane.yahoo.co.jp
+127.0.0.1 yjaxc.yahoo.co.jp
+127.0.0.1 yads.yahoo.co.jp
+#Japan-b10f
+127.0.0.1 ads.b10f.jp
+#Korea-Auction
+127.0.0.1 adfront.auction.co.kr
+#Korea-Chosun
+127.0.0.1 adimg1.chosun.com
+127.0.0.1 cad.chosun.com
+127.0.0.1 hitlog2.chosun.com
+#Korea-Naver
+127.0.0.1 ad.naver.com
+127.0.0.1 adcr.naver.com
+127.0.0.1 adcreative.naver.com
+127.0.0.1 nv1.ad.naver.com
+127.0.0.1 nv2.ad.naver.com
+127.0.0.1 nv1.adcreative.naver.net
+127.0.0.1 nv2.adcreative.naver.net
+127.0.0.1 adimg3.search.naver.net
+#Korea-Daum
+127.0.0.1 m1.daumcdn.net
+127.0.0.1 alea.adam.ad.daum.net
+#Korea-Gmarket
+127.0.0.1 adscript.gmarket.co.kr
+#Korea-Nate
+127.0.0.1 cyad1.nate.com
+#France-voila
+127.0.0.1 all.orfr.adgtw.orangeads.fr
+127.0.0.1 voila.refr.adgtw.orangeads.fr
+#Russia-3dnews
+127.0.0.1 ad.3dnews.ru
+#Russia-Bigmir
+127.0.0.1 ad0.bigmir.net
+127.0.0.1 ad1.bigmir.net
+127.0.0.1 ad4.bigmir.net
+127.0.0.1 ad5.bigmir.net
+127.0.0.1 ad6.bigmir.net
+127.0.0.1 ad7.bigmir.net
+127.0.0.1 adi.bigmir.net
+127.0.0.1 c.bigmir.net
+127.0.0.1 i.bigmir.net
+127.0.0.1 stat.bigmir.net
+127.0.0.1 h.holder.com.ua
+#Singapore-AsiaOne
+127.0.0.1 adtag.asiaone.com
+#Singapore-ZaoBao
+127.0.0.1 ads.zaobao.com
+127.0.0.1 lhzpimedia.allyes.com
+127.0.0.1 creative.allyes.com.cn
+@Sites-HKTW
+#Anyway
+127.0.0.1 ad.anyway.com.tw
+127.0.0.1 advertisement.anyway.com.tw
+#Chinatimes
+127.0.0.1 ad.cyberone.com.tw
+127.0.0.1 admanager.cyberone.com.tw
+127.0.0.1 marketing.chinatimes.com
+#Cyberctm
+127.0.0.1 ads.cyberctm.com
+#GoGoBox
+127.0.0.1 ads.pics.gogobox.com.tw
+127.0.0.1 advs.gogobox.com.tw
+127.0.0.1 event.gogobox.com.tw
+#Hinet
+127.0.0.1 p8u.hinet.net
+127.0.0.1 vatrack.hinet.net
+127.0.0.1 adasad.myweb.hinet.net
+127.0.0.1 blogad01.myweb.hinet.net
+127.0.0.1 blogad02.myweb.hinet.net
+#Nownews
+127.0.0.1 ad1.nownews.com
+127.0.0.1 tw.adx.nextmedia.com
+#Expedia
+127.0.0.1 ads.expedia.com
+#FTChinese
+127.0.0.1 dolphin.ftimg.net
+#Onead
+127.0.0.1 ad-specs.guoshipartners.com
+#Pchome
+127.0.0.1 ad.pchome.com.tw
+127.0.0.1 adcl.pchome.com.tw
+127.0.0.1 pic.adver.com.tw
+#Pixnet
+127.0.0.1 ad.pixnet.in
+127.0.0.1 ad.pixnet.net
+#Udn
+127.0.0.1 ad1.udn.com
+127.0.0.1 ad2.udn.com
+127.0.0.1 ad3.udn.com
+127.0.0.1 ad4.udn.com
+#Yam
+127.0.0.1 ad.blog.yam.com
+127.0.0.1 ad2.yam.com
+127.0.0.1 admd.yam.com
+127.0.0.1 ads.yam.com
+127.0.0.1 analytics.yam.com
+127.0.0.1 rec.n.yam.com
+127.0.0.1 yam.adsbro.com
+#hotrank
+127.0.0.1 h01.hotrank.com.tw
+127.0.0.1 www.hotrank.com.tw
+#Sitebro
+127.0.0.1 track.sitebro.com.tw
+#Yahoo Taiwan
+127.0.0.1 ad.wretch.cc
+#dvworld
+127.0.0.1 ads.dvworld.com.tw
+#SecretChina
+127.0.0.1 ad.secretchina.com
+127.0.0.1 static1.secretchina.com
+127.0.0.1 a.epochtimes.com
+127.0.0.1 ad.epochtimes.com
+127.0.0.1 ads3.epochtimes.com
+#SinoVision
+127.0.0.1 ad.sinovision.net
+127.0.0.1 adsys.sinovision.net
+#TT1069
+127.0.0.1 ad.sitemaji.com
+#TaiwanSites
+127.0.0.1 www.admaji.com
+127.0.0.1 a.jojos.tw
+127.0.0.1 ad.cacafly.com
+127.0.0.1 ad.funp.com
+127.0.0.1 ad.hiiir.com
+127.0.0.1 ad.jamba.net
+127.0.0.1 ad.jamster.co.uk
+127.0.0.1 ad.obuy.tw
+127.0.0.1 ad.snsplus.com
+127.0.0.1 ad.sogi.com.tw
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 ads.citytalk.tw
+127.0.0.1 ads.doublemax.net
+127.0.0.1 ads.fetnet.net
+127.0.0.1 ads.ign.com
+127.0.0.1 ads.miniclip.com
+127.0.0.1 ads.ttv.com.tw
+127.0.0.1 drd.hauchi.com.tw
+127.0.0.1 ysm.hauchi.com.tw
+127.0.0.1 r.pixgold.com
+127.0.0.1 ad.evozi.com

@@ -1,0 +1,147 @@
+@Shield Soft Ads
+#Avira
+127.0.0.1 notifier.avira.com
+#ESTsoft
+127.0.0.1 advert.estsoft.com
+#Potplayer
+127.0.0.1 m.adtc.daum.net
+#RealPlayer
+127.0.0.1 client-software.real.com
+127.0.0.1 free-dl.cn.real.com
+127.0.0.1 track.cn.real.com
+127.0.0.1 adimg.realnetworks.com.cn
+127.0.0.1 log.realone.com
+#SopCast
+127.0.0.1 home.sopserv.com
+#TtkVod
+127.0.0.1 ad.ttkvod.com
+127.0.0.1 www.diupin.com
+127.0.0.1 ttash.com
+127.0.0.1 hao.kaikai001.com
+#UUSee
+127.0.0.1 g.uusee.com
+127.0.0.1 pop.uusee.com
+127.0.0.1 sa.uusee.com
+127.0.0.1 saw.uusee.com
+127.0.0.1 traffic.uusee.com
+127.0.0.1 uhms.uusee.com
+#Bitcomet
+127.0.0.1 inside.bitcomet.com
+#FlashGet
+127.0.0.1 ack.flashget.com
+127.0.0.1 ad.flashget.com
+127.0.0.1 cad1.flashget.com
+127.0.0.1 dll.flashget.com
+127.0.0.1 down1.flashget.com
+127.0.0.1 down2.flashget.com
+127.0.0.1 down3.flashget.com
+127.0.0.1 down4.flashget.com
+127.0.0.1 down5.flashget.com
+127.0.0.1 down6.flashget.com
+127.0.0.1 down7.flashget.com
+127.0.0.1 error.flashget.com
+127.0.0.1 fetch.flashget.com
+127.0.0.1 ggstat.flashget.com
+127.0.0.1 guanggaobu.flashget.com
+127.0.0.1 news.flashget.com
+127.0.0.1 olstat.flashget.com
+127.0.0.1 stac.flashget.com
+127.0.0.1 stat.flashget.com
+127.0.0.1 zx.flashget.com
+127.0.0.1 adstat.fgsta.com
+127.0.0.1 bc.kuaiche.com
+127.0.0.1 cimg.kuaiche.com
+127.0.0.1 client.kuaiche.com
+127.0.0.1 dl.game.kuaiche.com
+127.0.0.1 imgcache.kuaiche.com
+127.0.0.1 ufile.kuaiche.com
+127.0.0.1 directui.kuaiche.com.showq.net
+127.0.0.1 static.u966.com
+127.0.0.1 m.u966.com
+127.0.0.1 al.myrice.com
+127.0.0.1 all.myrice.com
+127.0.0.1 client.myrice.com
+127.0.0.1 www.pzjczx.com
+127.0.0.1 bc.qushimeiti.com
+127.0.0.1 zdhtbeian.95881.com
+#Duomi
+127.0.0.1 pc.boxshows.com
+#Fetion
+127.0.0.1 gg.joytod.com
+127.0.0.1 hdss1fta.fetion.com.cn
+127.0.0.1 huodong.feixin.10086.cn
+127.0.0.1 imgl.fetionpic.com
+127.0.0.1 minisite.fetionpic.com
+127.0.0.1 minisite0.fetionpic.com
+#Hotspot Shield
+127.0.0.1 rss2search.com
+127.0.0.1 box.anchorfree.net
+#Immunet FREE
+127.0.0.1 banner.immunet.com
+#isoshu
+127.0.0.1 mobile.isoshu.com
+127.0.0.1 mobile1.isoshu.com
+127.0.0.1 pub.isoshu.com
+#isGame
+127.0.0.1 isgame.ipark.cn
+127.0.0.1 ghpage.iuzone.com
+127.0.0.1 page.iuzone.com
+#Qianqian
+127.0.0.1 ads.qianqian.com
+127.0.0.1 ttads.ttplayer.com
+127.0.0.1 ttmsg.qianqian.com
+127.0.0.1 ttpack.qianqian.com
+#Micronichefinder
+127.0.0.1 www.micronichefinder.com
+127.0.0.1 micronichefinder.com
+#Neoimaging
+127.0.0.1 ad.neoimaging.cn
+127.0.0.1 clientconfig.neoimaging.cn
+127.0.0.1 jump.neoimaging.cn
+127.0.0.1 recommend.neoimaging.cn
+#P2pover
+127.0.0.1 cache.netsoft2005.com
+127.0.0.1 ext.netsoft2005.com
+127.0.0.1 i.netsoft2005.com
+127.0.0.1 www.uu654.com
+#Pctutu
+127.0.0.1 info.klplayer.com
+127.0.0.1 update.klplayer.com
+127.0.0.1 info.pcpc8.com
+127.0.0.1 m.pcpc8.com
+127.0.0.1 info.pctutu.net
+127.0.0.1 link.pctutu.com
+127.0.0.1 srtj.pctutu.net
+127.0.0.1 tj.pctutu.net
+127.0.0.1 update.pctutu.com
+127.0.0.1 update.pctutu.net
+#QQceo
+127.0.0.1 ad.qqceo.net
+127.0.0.1 toufei.qqceo.net
+127.0.0.1 toufei2.qqceo.net
+127.0.0.1 nl.tg.laolinow.com
+127.0.0.1 qqbmad.mycode8.com
+#QQChaoShi
+127.0.0.1 update.imqzone.com
+#QQvoice
+127.0.0.1 union.qqvoice.com
+127.0.0.1 union.uucall.hk
+#Vagaa
+127.0.0.1 btjoy.com
+127.0.0.1 img.daodao001.cn
+127.0.0.1 text.mplayer.org.cn
+127.0.0.1 download.verycd.com
+#WPS
+127.0.0.1 union.wps.kingsoft.com
+127.0.0.1 minisite.wps.cn
+127.0.0.1 activation.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 adm.bbcss.com
+127.0.0.1 www.39yss.com
+#XiGua
+127.0.0.1 ad.xigua.com
+127.0.0.1 adi.xigua.com
+#Yunduan
+127.0.0.1 newbox.yunduan.cn
+127.0.0.1 tj.yunduan.cn
+127.0.0.1 update.yunduan.cn
