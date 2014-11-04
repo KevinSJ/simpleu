@@ -1,2 +1,2 @@
 #hosts
-ÕâÊÇÒ»¸ö¹ØÓÚhostsÎÄ¼þµÄÏîÄ¿
+è¿™æ˜¯ä¸€ä¸ªå…³äºŽhostsæ–‡ä»¶çš„é¡¹ç›®
