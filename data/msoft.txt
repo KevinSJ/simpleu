@@ -454,6 +454,7 @@
 127.0.0.1 feedback.ttpod.itlily.com
 127.0.0.1 v1.ard.update.itlily.com
 #Tudou
+127.0.0.1 union.tudou.com
 127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 adcontrol.tudou.com
 127.0.0.1 adextensioncontrol.tudou.com

@@ -1213,6 +1213,9 @@
 127.0.0.1 s.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
+127.0.0.1 s6.cnzz.com
+127.0.0.1 v1.cnzz.com
+127.0.0.1 z7.cnzz.com
 127.0.0.1 cache.cnzz.com
 127.0.0.1 click.cnzz.com
 127.0.0.1 clickjs.cnzz.com
