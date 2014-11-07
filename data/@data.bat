@@ -15,6 +15,7 @@ copy /b txthinking.txt+imouto.txt hosts
 sed -i "/googlesyndication/d" hosts
 sed -i "/google-analytics/d" hosts
 sed -i "/googleadservices/d" hosts
+sed -i "/mtalk.google.com/d" hosts
 sed -i "/127.0.0.1/d" hosts
 sed -i "/^$/d" hosts
 sed -i "/^#/d" hosts
@@ -22,7 +23,7 @@ sed -i "1i\#redirect (Powered by txthinking & imouto)" hosts
 gawk "!a[$0]++" hosts >rd3rd.txt
 del /f imouto.txt google.txt txthinking.txt hosts 1.txt 2.txt
 @echo off
-ver=0.2.1.6
+ver=0.2.1.8
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
