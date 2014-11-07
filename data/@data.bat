@@ -5,23 +5,21 @@ wget -q -O- http://dn-mwsl-hosts.qbox.me/hosts | gawk "NR>10{print \"127.0.0.1\"
 gawk "!a[$0]++" 2.txt >mwsl.txt
 sed -i "1i\#MWSL Lists" mwsl.txt
 rem https://www.dropbox.com/sh/lw0ljk3sllmimpz/sMifu8lErM https://www.dropbox.com/sh/lw0ljk3sllmimpz/AADvmg0wxOXHAtLQ9WhPlvAva/imouto.host.txt?dl=1
-wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
-wget -c --no-check-certificate -O txthinking.txt https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-sed -i "s/\t/ /g" imouto.txt
+rem wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt  https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts sed -i "1i\#redirect (Powered by sundys)" grd.txt
+wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/sundys/android/master/hosts
+sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
-sed -i "s/[ ]\{2,\}/ /g" txthinking.txt
+sed -i "s/[ ]\{2,\}/ /g" grd.txt
 rem 将文件内的三个空格替换为空格
-copy /b txthinking.txt+imouto.txt hosts
-sed -i "/googlesyndication/d" hosts
-sed -i "/google-analytics/d" hosts
-sed -i "/googleadservices/d" hosts
-sed -i "/mtalk.google.com/d" hosts
-sed -i "/127.0.0.1/d" hosts
-sed -i "/^$/d" hosts
-sed -i "/^#/d" hosts
-sed -i "1i\#redirect (Powered by txthinking & imouto)" hosts
-gawk "!a[$0]++" hosts >rd3rd.txt
-del /f imouto.txt google.txt txthinking.txt hosts 1.txt 2.txt
+sed -i "/googlesyndication/d" grd.txt
+sed -i "/google-analytics/d" grd.txt
+sed -i "/googleadservices/d" grd.txt
+sed -i "/mtalk.google.com/d" grd.txt
+sed -i "/127.0.0.1/d" grd.txt
+sed -i "/^$/d" grd.txt
+sed -i "/^#/d" grd.txt
+gawk "!a[$0]++" grd.txt >rd3rd.txt
+del /f grd.txt 2.txt
 @echo off
 ver=0.2.1.8
 SetLocal EnableExtensions
