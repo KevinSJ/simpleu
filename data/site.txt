@@ -300,8 +300,6 @@
 #SinoVision
 127.0.0.1 ad.sinovision.net
 127.0.0.1 adsys.sinovision.net
-#TT1069
-127.0.0.1 ad.sitemaji.com
 #TaiwanSites
 127.0.0.1 www.admaji.com
 127.0.0.1 a.jojos.tw
@@ -325,4 +323,3 @@
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 ads.techbang.com
-127.0.0.1 ads.yahoo.com

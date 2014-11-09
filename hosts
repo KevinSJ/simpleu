@@ -3,32 +3,12 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411091846
+;version=201411092109
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
 ;Down=https://raw.githubusercontent.com/vokins/simpleu/master/hosts 
 @SmartDirect
-#Localhost
-127.0.0.1	localhost
-::1             localhost
-#Windows
-127.0.0.1 localhost.localdomain
-127.0.0.1 localhost.localdomain localhost
-#Ubuntu
-127.0.1.1   #Fill Your Ubuntu Pc name here
-::1 localhost ip6-localhost ip6-loopback
-fe00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-#MacOS
-fe80::1%lo0	localhost
-255.255.255.255	broadcasthost
-127.0.0.1 advertising.apple.com
-127.0.0.1 iphone-services.apple.com
-127.0.0.1 iphonesubmissions.apple.com
 #iOS-BigBoss
 127.0.0.1 a.adorika.net
 127.0.0.1 a.ad-sys.com
@@ -4107,6 +4087,26 @@ fe80::1%lo0	localhost
 74.125.68.141 feedly-beta.appspot.com
 74.125.26.82 cjxlist.googlecode.com
 @Mobile ADPlatform
+#Localhost
+127.0.0.1	localhost
+::1             localhost
+#Windows
+127.0.0.1 localhost.localdomain
+127.0.0.1 localhost.localdomain localhost
+#Ubuntu
+127.0.1.1   #Fill Your Ubuntu Pc name here
+::1 localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+#MacOS
+fe80::1%lo0	localhost
+255.255.255.255	broadcasthost
+127.0.0.1 advertising.apple.com
+127.0.0.1 iphone-services.apple.com
+127.0.0.1 iphonesubmissions.apple.com
 #MobPay
 127.0.0.1 epay.keepc.com
 127.0.0.1 api.mopay.com
@@ -8721,8 +8721,6 @@ fe80::1%lo0	localhost
 #SinoVision
 127.0.0.1 ad.sinovision.net
 127.0.0.1 adsys.sinovision.net
-#TT1069
-127.0.0.1 ad.sitemaji.com
 #TaiwanSites
 127.0.0.1 www.admaji.com
 127.0.0.1 a.jojos.tw
@@ -8746,7 +8744,6 @@ fe80::1%lo0	localhost
 127.0.0.1 r.pixgold.com
 127.0.0.1 ad.evozi.com
 127.0.0.1 ads.techbang.com
-127.0.0.1 ads.yahoo.com
 @Sites-China
 @Sites-China/Area
 #AH-Hefei
@@ -9382,6 +9379,55 @@ fe80::1%lo0	localhost
 127.0.0.1 download.cdn.ilivid.com
 127.0.0.1 lp.ilivid.com
 127.0.0.1 download.ilivid.com
+#Porn Sites
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 creatives.livejasmin.com
+127.0.0.1 img.jizzads.com
+127.0.0.1 promo.awempire.com
+127.0.0.1 www.livejasmin.com
+127.0.0.1 ad.sitemaji.com
+127.0.0.1 jzy002.com
+127.0.0.1 s01.hangzhouedm.com
+127.0.0.1 www.x767x.com
+127.0.0.1 uu.942r.com
+127.0.0.1 www.yy357.com
+127.0.0.1 www.d8245.com
+127.0.0.1 img0.livejasmin.com
+127.0.0.1 imgx0.livejasmin.com
+127.0.0.1 imgx2.livejasmin.com
+127.0.0.1 imgx3.livejasmin.com
+127.0.0.1 members.livejasmin.com
+127.0.0.1 new.livejasmin.com
+127.0.0.1 click.livejasmin.com
+#Porn Pop ad
+127.0.0.1 a.newlinkexchange.me
+127.0.0.1 adv.s8bbs.com
+127.0.0.1 adtest.wbcao.com
+127.0.0.1 www.cuons.com
+127.0.0.1 www.bozlm.com
+127.0.0.1 www.xuany.cn
+127.0.0.1 1js.shkk365.com
+127.0.0.1 baidu.adsxin.com
+127.0.0.1 pic.qq66qq.com
+127.0.0.1 www.zhenren888.com
+127.0.0.1 wzw.la
+127.0.0.1 tag.tlvmedia.com
+127.0.0.1 nats.interdollars.com
+127.0.0.1 images.adultcammodels.com
+127.0.0.1 www.bravospots.com
+127.0.0.1 pcash.imlive.com
+127.0.0.1 imagefreak001.com
+127.0.0.1 incezt.net
+127.0.0.1 www.999betwin.com
+127.0.0.1 www.88btt.com
+127.0.0.1 hav.tv
+127.0.0.1 4086.qqi.com.tw
+127.0.0.1 refer.ccbill.com
+127.0.0.1 gjsq.me
+127.0.0.1 ad.avsexnight.com
+127.0.0.1 widget.clips4sale.com
+127.0.0.1 click.kink.com
+127.0.0.1 c.actiondesk.com
 #Email Marketing
 127.0.0.1 mail.topengroup.net
 127.0.0.1 image.yi114.com
@@ -9498,7 +9544,6 @@ fe80::1%lo0	localhost
 127.0.0.1 pkwrqr.pop.kaixinjiehun.com
 127.0.0.1 ruurqo.pop.kaixinjiehun.com
 127.0.0.1 dap.gentags.net
-127.0.0.1 js.i8001.com
 127.0.0.1 sub.dazheme.cn
 127.0.0.1 code77.xzyituo.com
 127.0.0.1 265daohang.gouwuke.com

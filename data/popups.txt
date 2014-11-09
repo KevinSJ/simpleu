@@ -9,7 +9,6 @@
 127.0.0.1 pkwrqr.pop.kaixinjiehun.com
 127.0.0.1 ruurqo.pop.kaixinjiehun.com
 127.0.0.1 dap.gentags.net
-127.0.0.1 js.i8001.com
 127.0.0.1 sub.dazheme.cn
 127.0.0.1 code77.xzyituo.com
 127.0.0.1 265daohang.gouwuke.com

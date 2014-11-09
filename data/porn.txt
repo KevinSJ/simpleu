@@ -1,4 +1,10 @@
 #Porn Sites
+127.0.0.1 ads.adxpansion.com
+127.0.0.1 creatives.livejasmin.com
+127.0.0.1 img.jizzads.com
+127.0.0.1 promo.awempire.com
+127.0.0.1 www.livejasmin.com
+127.0.0.1 ad.sitemaji.com
 127.0.0.1 jzy002.com
 127.0.0.1 s01.hangzhouedm.com
 127.0.0.1 www.x767x.com
@@ -10,7 +16,6 @@
 127.0.0.1 imgx2.livejasmin.com
 127.0.0.1 imgx3.livejasmin.com
 127.0.0.1 members.livejasmin.com
-127.0.0.1 www.livejasmin.com
 127.0.0.1 new.livejasmin.com
 127.0.0.1 click.livejasmin.com
 #Porn Pop ad
@@ -29,7 +34,6 @@
 127.0.0.1 nats.interdollars.com
 127.0.0.1 images.adultcammodels.com
 127.0.0.1 www.bravospots.com
-127.0.0.1 pu.trafficshop.com
 127.0.0.1 pcash.imlive.com
 127.0.0.1 imagefreak001.com
 127.0.0.1 incezt.net
@@ -43,4 +47,3 @@
 127.0.0.1 widget.clips4sale.com
 127.0.0.1 click.kink.com
 127.0.0.1 c.actiondesk.com
-
