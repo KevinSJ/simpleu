@@ -65,6 +65,7 @@
 127.0.0.1 bc.qushimeiti.com
 127.0.0.1 zdhtbeian.95881.com
 #Duomi
+127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
 #Fetion
 127.0.0.1 gg.joytod.com

@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411071000
+;version=201411091846
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5068,6 +5068,7 @@ fe80::1%lo0	localhost
 #BaiduCommon
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 api.share.baidu.com
+127.0.0.1 api.youqian.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
@@ -6467,6 +6468,9 @@ fe80::1%lo0	localhost
 #SteelHouseMedia
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
+#Supplyframe
+127.0.0.1 ads.supplyframe.cn
+127.0.0.1 images.ads.supplyframe.com
 #SuiZong
 127.0.0.1 api.suizong.com
 127.0.0.1 sandbox.sapi.suizong.com
@@ -6795,6 +6799,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ztqq.wrating.com
 #Yahoo.com
 127.0.0.1 ads.yahoo.com
+127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 info.yahoo.com
@@ -8333,6 +8338,7 @@ fe80::1%lo0	localhost
 127.0.0.1 bc.qushimeiti.com
 127.0.0.1 zdhtbeian.95881.com
 #Duomi
+127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
 #Fetion
 127.0.0.1 gg.joytod.com
@@ -9249,6 +9255,8 @@ fe80::1%lo0	localhost
 127.0.0.1 tracker.zdnet.com.au
 @Sites Block
 #VirusDown
+127.0.0.1 js.i8001.com
+127.0.0.1 excel999.com
 127.0.0.1 www.taolecun.com
 127.0.0.1 conf.bangmangxuan.com
 127.0.0.1 a.5aad.com

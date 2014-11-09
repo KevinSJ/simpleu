@@ -960,6 +960,7 @@
 #BaiduCommon
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 api.share.baidu.com
+127.0.0.1 api.youqian.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
@@ -2359,6 +2360,9 @@
 #SteelHouseMedia
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 rto.steelhousemedia.com
+#Supplyframe
+127.0.0.1 ads.supplyframe.cn
+127.0.0.1 images.ads.supplyframe.com
 #SuiZong
 127.0.0.1 api.suizong.com
 127.0.0.1 sandbox.sapi.suizong.com
@@ -2687,6 +2691,7 @@
 127.0.0.1 ztqq.wrating.com
 #Yahoo.com
 127.0.0.1 ads.yahoo.com
+127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 info.yahoo.com
