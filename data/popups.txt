@@ -1,5 +1,4 @@
 @Float Ads
-127.0.0.1 code.ze5.com
 127.0.0.1 d.www580.com
 127.0.0.1 vip.tc600.com
 127.0.0.1 a.0591101.com

@@ -124,9 +124,6 @@
 127.0.0.1 imglog.moumentei.com
 #Qreader
 127.0.0.1 ad.qreader.me
-#Skype
-127.0.0.1 mobileads.msn.com
-127.0.0.1 msnms.allyes.com.cn
 #SpeedTest
 127.0.0.1 ads.ookla.com
 127.0.0.1 cdn.ads.ookla.com

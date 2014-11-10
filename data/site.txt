@@ -9,6 +9,7 @@
 127.0.0.1 dynamic.aol.com
 127.0.0.1 free.aol.com
 127.0.0.1 o.sa.aol.com
+127.0.0.1 px.at.aol.com
 127.0.0.1 s.sa.aol.com
 127.0.0.1 ar.atwola.com
 127.0.0.1 ar1.atwola.com
@@ -19,6 +20,8 @@
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 pr.atwola.com
+127.0.0.1 px.at.atwola.com
+127.0.0.1 tacoda.at.atwola.com
 127.0.0.1 ads.intergi.com
 127.0.0.1 ng3.ads.warnerbros.com
 #USA-hollywood
@@ -79,7 +82,6 @@
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 direct.ninemsn.com.au
-127.0.0.1 c.msn.com
 127.0.0.1 c.msn.com.cn
 127.0.0.1 catalog.video.msn.com
 127.0.0.1 exp.www.msn.com
@@ -91,7 +93,6 @@
 127.0.0.1 toolbar.msn.com
 127.0.0.1 udc.msn.com
 127.0.0.1 a.global.msads.net
-127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
 127.0.0.1 global.msads.net
 127.0.0.1 crl.microsoft.com
@@ -175,6 +176,8 @@
 #Japan-Asahi
 127.0.0.1 c.iogous.com
 127.0.0.1 imp.asahi.com
+#Japan-goo.ne.jp
+127.0.0.1 adcdn.goo.ne.jp
 #Japan-excite.co.jp
 127.0.0.1 adimp.excite.co.jp
 #Japan-Mixi
@@ -194,6 +197,8 @@
 127.0.0.1 adimg1.chosun.com
 127.0.0.1 cad.chosun.com
 127.0.0.1 hitlog2.chosun.com
+#Korea-Cyworld
+127.0.0.1 stat.cyworld.com
 #Korea-Naver
 127.0.0.1 ad.naver.com
 127.0.0.1 adcr.naver.com
@@ -204,8 +209,10 @@
 127.0.0.1 nv2.adcreative.naver.net
 127.0.0.1 adimg3.search.naver.net
 #Korea-Daum
-127.0.0.1 m1.daumcdn.net
 127.0.0.1 alea.adam.ad.daum.net
+127.0.0.1 display.ad.daum.net
+127.0.0.1 adimg.daumcdn.net
+127.0.0.1 m1.daumcdn.net
 #Korea-Gmarket
 127.0.0.1 adscript.gmarket.co.kr
 #Korea-Nate
@@ -311,7 +318,6 @@
 127.0.0.1 ad.obuy.tw
 127.0.0.1 ad.snsplus.com
 127.0.0.1 ad.sogi.com.tw
-127.0.0.1 ads.adxpansion.com
 127.0.0.1 ads.citytalk.tw
 127.0.0.1 ads.doublemax.net
 127.0.0.1 ads.fetnet.net

@@ -333,6 +333,7 @@
 #HuJiang
 127.0.0.1 a4.yeshj.com
 127.0.0.1 a5.yeshj.com
+127.0.0.1 track.yeshj.com
 127.0.0.1 a6.hujiang.com
 127.0.0.1 track.hujiang.com
 #Hudong

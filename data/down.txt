@@ -124,6 +124,3 @@
 127.0.0.1 show.t157.com
 127.0.0.1 download.uibia.com
 127.0.0.1 down.tututool.com
-127.0.0.1 download.cdn.ilivid.com
-127.0.0.1 lp.ilivid.com
-127.0.0.1 download.ilivid.com
