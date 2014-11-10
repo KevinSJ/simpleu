@@ -3551,6 +3551,7 @@
 127.0.0.1 img.twcczhu.com
 127.0.0.1 p.btyou.com
 127.0.0.1 r.btyou.com
+127.0.0.1 rc.btyou.com
 127.0.0.1 s.00oo00.com
 127.0.0.1 m.00oo00.com
 127.0.0.1 5577.com
@@ -3664,3 +3665,5 @@
 127.0.0.1 404.safedog.cn
 127.0.0.1 f1.p0y.cn
 127.0.0.1 t.luxiangxin.com
+127.0.0.1 cpc.88rpg.net
+127.0.0.1 p.370fd.net
