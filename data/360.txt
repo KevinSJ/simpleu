@@ -9,15 +9,6 @@
 127.0.0.1 hw.jnakn.cn.com
 127.0.0.1 upiao360.com
 127.0.0.1 qianye888.com
-127.0.0.1 fz98.ftp21.net
-127.0.0.1 www.hanhaixingyan.com
-127.0.0.1 www.innova-bio.com
-127.0.0.1 shuo.rsyts.cn
-127.0.0.1 baidu.52hufu.com.cn
-127.0.0.1 shop.ctmss.com.cn
-127.0.0.1 a888.tftpd.net
-127.0.0.1 www.bodatz6699.com
-127.0.0.1 sdxhcpyf.tk
 127.0.0.1 aaa.meituanauto.com
 127.0.0.1 www.ukuiliguo.cn
 127.0.0.1 www.nkuiliguo.cn
@@ -243,6 +234,7 @@
 127.0.0.1 www.grbjt.cn
 127.0.0.1 www.movdh.com
 127.0.0.1 mojo.pk
+127.0.0.1 fz98.ftp21.net
 127.0.0.1 bot.nu
 127.0.0.1 1737i.com
 127.0.0.1 1737l.com
