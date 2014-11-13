@@ -1,5 +1,9 @@
 @Sites Block
 #VirusDown
+127.0.0.1 down.yxdfc.com
+127.0.0.1 kan.douww.com
+127.0.0.1 statistics.sanlin8.com
+127.0.0.1 www.aplotech.cc
 127.0.0.1 down.xianlipin.org
 127.0.0.1 js.i8001.com
 127.0.0.1 excel999.com
