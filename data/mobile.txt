@@ -3025,8 +3025,10 @@
 127.0.0.1 ads.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
+127.0.0.1 hk-cm.ysm.yahoo.com
 127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 info.yahoo.com
+127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 js.tongji.cn.yahoo.com
 127.0.0.1 o.analytics.yahoo.com
 127.0.0.1 p3p.yahoo.com

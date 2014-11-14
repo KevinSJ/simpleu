@@ -269,6 +269,8 @@
 127.0.0.1 dolphin.ftimg.net
 #Onead
 127.0.0.1 ad-specs.guoshipartners.com
+#Price.com.hk
+127.0.0.1 aos-creative.prf.hn
 #Pchome
 127.0.0.1 ad.pchome.com.tw
 127.0.0.1 adcl.pchome.com.tw

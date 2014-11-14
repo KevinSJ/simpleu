@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411131700
+;version=201411141112
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -64,6 +64,9 @@ fe80::1%lo0	localhost
 108.160.167.206 www.dropbox.com
 108.160.165.62 dropbox.com
 23.21.206.219 forums.dropbox.com
+#Firefox AMO
+117.18.232.191 mozorg.cdn.mozilla.net
+117.18.232.191 addons.cdn.mozilla.net
 #Feedly
 74.125.21.141 feedly-beta.appspot.com
 141.101.127.247 s3.feedly.com
@@ -7161,8 +7164,10 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
+127.0.0.1 hk-cm.ysm.yahoo.com
 127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 info.yahoo.com
+127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 js.tongji.cn.yahoo.com
 127.0.0.1 o.analytics.yahoo.com
 127.0.0.1 p3p.yahoo.com
@@ -9071,6 +9076,8 @@ fe80::1%lo0	localhost
 127.0.0.1 dolphin.ftimg.net
 #Onead
 127.0.0.1 ad-specs.guoshipartners.com
+#Price.com.hk
+127.0.0.1 aos-creative.prf.hn
 #Pchome
 127.0.0.1 ad.pchome.com.tw
 127.0.0.1 adcl.pchome.com.tw

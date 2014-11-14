@@ -54,6 +54,9 @@ fe80::1%lo0	localhost
 108.160.167.206 www.dropbox.com
 108.160.165.62 dropbox.com
 23.21.206.219 forums.dropbox.com
+#Firefox AMO
+117.18.232.191 mozorg.cdn.mozilla.net
+117.18.232.191 addons.cdn.mozilla.net
 #Feedly
 74.125.21.141 feedly-beta.appspot.com
 141.101.127.247 s3.feedly.com
