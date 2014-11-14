@@ -4,6 +4,7 @@ gawk "!a[$0]++" 1.txt >360.txt
 wget -q -O- http://dn-mwsl-hosts.qbox.me/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 gawk "!a[$0]++" 2.txt >mwsl.txt
 sed -i "1i\#MWSL Lists" mwsl.txt
+rem http://serve.netsh.org/pub/ping.php
 rem https://www.dropbox.com/sh/lw0ljk3sllmimpz/sMifu8lErM https://www.dropbox.com/sh/lw0ljk3sllmimpz/AADvmg0wxOXHAtLQ9WhPlvAva/imouto.host.txt?dl=1
 rem wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt  https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts sed -i "1i\#redirect (Powered by sundys)" grd.txt
 wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/sundys/android/master/hosts
@@ -21,7 +22,7 @@ sed -i "/^#/d" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
 @echo off
-ver=0.2.2.1
+ver=0.2.2.3
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
