@@ -45,6 +45,7 @@ fe80::1%lo0	localhost
 54.192.91.214 cdn.flipboard.com
 23.23.137.254 beacon.flipboard.com
 #GoogleGCM
+202.65.246.80 www.google.com.hk
 64.233.182.188 mtalk.google.com
 #Soutong
 76.164.232.68 bbs.5isotoi5.org
