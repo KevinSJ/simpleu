@@ -2603,6 +2603,7 @@
 #Skimresources
 127.0.0.1 r.skimresources.com
 127.0.0.1 s.skimresources.com
+127.0.0.1 p.skimresources.com
 #SmartAdserver
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 www6.smartadserver.com
