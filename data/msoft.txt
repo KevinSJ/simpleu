@@ -530,6 +530,8 @@
 127.0.0.1 tlog.hiido.com
 127.0.0.1 trans.hiido.com
 127.0.0.1 ylog.hiido.com
+#Ximalaya
+127.0.0.1 ad.ximalaya.com
 #XunLei
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 analytics-union.xunlei.com

@@ -2899,6 +2899,7 @@
 127.0.0.1 statse.webtrendslive.com
 127.0.0.1 webtrendslive.com
 #Webterren
+127.0.0.1 cl.webterren.com
 127.0.0.1 cl2.webterren.com
 127.0.0.1 cl3.webterren.com
 127.0.0.1 cl4.webterren.com

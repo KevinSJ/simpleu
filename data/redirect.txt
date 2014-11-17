@@ -54,14 +54,11 @@ fe80::1%lo0	localhost
 2001:470:7b:99::2 ipv6.5isotoi5.org
 2001:470:7b:9a::2 ipv6.5isotoi5.org
 #Firefox AMO
-117.18.232.191 addons.cdn.mozilla.net
-93.184.215.191 addons.cdn.mozilla.net
 117.18.232.191 mozorg.cdn.mozilla.net
-93.184.215.191 mozorg.cdn.mozilla.net
-63.245.216.132 addons.mozilla.org
-223.202.6.17 addons.mozilla.org
+117.18.232.191 developer.cdn.mozilla.net
+117.18.232.191 support.cdn.mozilla.net
 117.18.232.191 download-installer.cdn.mozilla.net
-93.184.215.191 download-installer.cdn.mozilla.net
+117.18.232.191 addons.cdn.mozilla.net
 68.232.45.109 df6a.https.cdn.softlayer.net
 68.232.44.169 static.linkbucks.com
 #Feedly
