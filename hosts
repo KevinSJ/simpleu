@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411191030
+;version=201411191057
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6547,7 +6547,6 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 60.adsina.allyes.com
 127.0.0.1 adsina.allyes.com
 127.0.0.1 sina.allyes.com
-127.0.0.1 17173im.allyes.com
 127.0.0.1 a3.allyes.com
 127.0.0.1 adtaobao.allyes.cn
 127.0.0.1 adzjvnet.allyes.com
@@ -8144,7 +8143,6 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 cb.l.qq.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 lb.l.qq.com
-127.0.0.1 livew.l.qq.com
 127.0.0.1 ls.l.qq.com
 127.0.0.1 m.l.qq.com
 127.0.0.1 p2.l.qq.com
@@ -9749,7 +9747,6 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 plog.dc.letv.com
 127.0.0.1 dc.letv.com
 127.0.0.1 dev.dc.letv.com
-127.0.0.1 ark.letv.com
 127.0.0.1 pro.letv.com
 127.0.0.1 pro.hoye.letv.com
 127.0.0.1 stat.letv.com
@@ -9929,7 +9926,6 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vhtml.atm.youku.com

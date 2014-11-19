@@ -800,7 +800,6 @@
 127.0.0.1 60.adsina.allyes.com
 127.0.0.1 adsina.allyes.com
 127.0.0.1 sina.allyes.com
-127.0.0.1 17173im.allyes.com
 127.0.0.1 a3.allyes.com
 127.0.0.1 adtaobao.allyes.cn
 127.0.0.1 adzjvnet.allyes.com
@@ -2397,7 +2396,6 @@
 127.0.0.1 cb.l.qq.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 lb.l.qq.com
-127.0.0.1 livew.l.qq.com
 127.0.0.1 ls.l.qq.com
 127.0.0.1 m.l.qq.com
 127.0.0.1 p2.l.qq.com
