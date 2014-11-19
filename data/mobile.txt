@@ -410,6 +410,7 @@
 127.0.0.1 www.admarvel.com
 #Admaster
 127.0.0.1 admaster.mobi
+127.0.0.1 cm.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
