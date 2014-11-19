@@ -2338,6 +2338,7 @@
 127.0.0.1 data.puffcenter.com
 127.0.0.1 test.puffcenter.com
 #QQ-common
+127.0.0.1 game.weixin.qq.com
 127.0.0.1 prom.b.qq.com
 127.0.0.1 adsrich.qq.com
 127.0.0.1 badjs.qq.com

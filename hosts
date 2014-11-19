@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411191024
+;version=201411191030
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -8085,6 +8085,7 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 data.puffcenter.com
 127.0.0.1 test.puffcenter.com
 #QQ-common
+127.0.0.1 game.weixin.qq.com
 127.0.0.1 prom.b.qq.com
 127.0.0.1 adsrich.qq.com
 127.0.0.1 badjs.qq.com
