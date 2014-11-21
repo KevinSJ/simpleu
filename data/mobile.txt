@@ -3213,12 +3213,7 @@
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 amazon-adsystem.amazon.com
-127.0.0.1 fls-na-amazon.com
-127.0.0.1 g-ecx.images-amazon.com
 127.0.0.1 mads.amazon.com
-127.0.0.1 rcm-images.amazon.com
-127.0.0.1 rcm.amazon.com
-127.0.0.1 rcm-cn.amazon.cn
 #Amazon AWS
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
