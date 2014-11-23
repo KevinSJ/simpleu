@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201411231017
+;version=201411231025
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6695,6 +6695,7 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 #QQ-Browser
 127.0.0.1 m.qq.com
 127.0.0.1 msm.qq.com
+127.0.0.1 p.mb.qq.com
 127.0.0.1 pms.mb.qq.com
 #QQ-Tencent
 127.0.0.1 wa.gtimg.com

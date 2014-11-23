@@ -2381,6 +2381,7 @@
 #QQ-Browser
 127.0.0.1 m.qq.com
 127.0.0.1 msm.qq.com
+127.0.0.1 p.mb.qq.com
 127.0.0.1 pms.mb.qq.com
 #QQ-Tencent
 127.0.0.1 wa.gtimg.com
