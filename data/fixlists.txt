@@ -10,7 +10,7 @@
 127.0.0.1 analytics.doplive.com.cn
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 app.aplus.pptv.com
-127.0.0.1 ark.letv.com
+127.0.0.1 g-ecx.images-amazon.com
 127.0.0.1 bs.baidu.com
 127.0.0.1 c.isdspeed.qq.com
 127.0.0.1 cache.soso.com

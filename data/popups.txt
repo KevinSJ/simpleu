@@ -1,4 +1,5 @@
 @Float Ads
+127.0.0.1 sp3.yousee.com
 127.0.0.1 fengche.cpv6.com
 127.0.0.1 w.ran10.com.cn
 127.0.0.1 zm.i0081.cn
