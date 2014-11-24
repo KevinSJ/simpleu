@@ -1,11 +1,11 @@
 #MWSL Lists
-127.0.0.1 00002nd.rcomhost.com
 127.0.0.1 000063.pw
 127.0.0.1 000083.pw
 127.0.0.1 0000bkb.rcomhost.com
 127.0.0.1 0001122.com
 127.0.0.1 0004bc.com
 127.0.0.1 000wl.com
+127.0.0.1 001.8090a.net
 127.0.0.1 001.sky88.cn
 127.0.0.1 001.vwoool.com
 127.0.0.1 001456.com
@@ -160,6 +160,7 @@
 127.0.0.1 055006.com
 127.0.0.1 055007.com
 127.0.0.1 0551tea.cc
+127.0.0.1 0553news.com
 127.0.0.1 0554bc.com
 127.0.0.1 0554fang.com
 127.0.0.1 0554fl.com
@@ -183,9 +184,11 @@
 127.0.0.1 0595jia.com
 127.0.0.1 0596gl.com
 127.0.0.1 05cy.com
+127.0.0.1 05sun.paoba.com.cn
 127.0.0.1 06000.cn
 127.0.0.1 060633.com
 127.0.0.1 0632qyw.com
+127.0.0.1 0632zlhy.com
 127.0.0.1 064666.com
 127.0.0.1 064888.com
 127.0.0.1 0668tea.com
@@ -199,6 +202,7 @@
 127.0.0.1 0744zpl.cn
 127.0.0.1 0755look.com
 127.0.0.1 0755new.com
+127.0.0.1 07574008.com
 127.0.0.1 0757yuke.com
 127.0.0.1 07583.net
 127.0.0.1 0769chuangyue.com
@@ -378,9 +382,11 @@
 127.0.0.1 11abcd.com
 127.0.0.1 11-app.com
 127.0.0.1 11sasa.com
+127.0.0.1 11yishu.com
 127.0.0.1 11zzzz.com
 127.0.0.1 12.fjyuya.cn
 127.0.0.1 12.meimei855.cn
+127.0.0.1 120care.com
 127.0.0.1 120jidi.net
 127.0.0.1 120zgw.cn
 127.0.0.1 121.12.125.159
@@ -437,6 +443,7 @@
 127.0.0.1 126free.com
 127.0.0.1 126hd.net
 127.0.0.1 127678.com
+127.0.0.1 127q.com
 127.0.0.1 128.3n.cc
 127.0.0.1 128388.com
 127.0.0.1 128567.com
@@ -507,6 +514,12 @@
 127.0.0.1 1403383340.vsnis.com
 127.0.0.1 1403994483.vsnis.com
 127.0.0.1 1407031110.bzhualin.com
+127.0.0.1 1416317042.bjzhongankang.com
+127.0.0.1 1416320537.hebei-mengcun.com
+127.0.0.1 1416396231.chengxinjiameng.com
+127.0.0.1 1416463436.lcfwpoxz.tk:9024
+127.0.0.1 1416472503.kdwmgym.tk:9011
+127.0.0.1 1416484302.kxgqtmbv.tk:9011
 127.0.0.1 141edu.com
 127.0.0.1 144.kkxxyy.com
 127.0.0.1 14497.com
@@ -517,10 +530,12 @@
 127.0.0.1 147h.com
 127.0.0.1 148qipai.com
 127.0.0.1 14ii.com
+127.0.0.1 14p.pw
 127.0.0.1 14se.com
 127.0.0.1 15.aiqing29.com
 127.0.0.1 151199.com
 127.0.0.1 151dailian.com
+127.0.0.1 15296.vvchem.com
 127.0.0.1 1532888.com
 127.0.0.1 155.tnw123.com
 127.0.0.1 155505.com
@@ -559,6 +574,7 @@
 127.0.0.1 1688szk.com
 127.0.0.1 168bet.com
 127.0.0.1 168diban.com
+127.0.0.1 168mv.cn
 127.0.0.1 168slw.cc
 127.0.0.1 168xxfb.com
 127.0.0.1 169sj.com
@@ -685,6 +701,7 @@
 127.0.0.1 1matong.com
 127.0.0.1 1noob.com
 127.0.0.1 1o0lklkij10.com
+127.0.0.1 1qingdao.com
 127.0.0.1 1qp4g3u.com
 127.0.0.1 1sexin18.com
 127.0.0.1 1su.net
@@ -728,6 +745,7 @@
 127.0.0.1 2014www.yjh868.com
 127.0.0.1 2014xz.0378jj.cn
 127.0.0.1 2014xz.jxblood.cn
+127.0.0.1 2014yuhed.com
 127.0.0.1 2015.wftcx.cn
 127.0.0.1 202.823629.com
 127.0.0.1 2020.bank-k.cn
@@ -773,6 +791,7 @@
 127.0.0.1 211015.com
 127.0.0.1 2113.cc
 127.0.0.1 211hk.com
+127.0.0.1 21232.z123.info
 127.0.0.1 213122.lerqu.com
 127.0.0.1 213789.com
 127.0.0.1 214ttgouw.com
@@ -795,6 +814,7 @@
 127.0.0.1 222.186.58.33
 127.0.0.1 222.186.58.51
 127.0.0.1 222.3n.cc
+127.0.0.1 2222178.com
 127.0.0.1 222222.in
 127.0.0.1 222279.com
 127.0.0.1 222627.com
@@ -894,6 +914,7 @@
 127.0.0.1 2677c.com
 127.0.0.1 2677cc.com
 127.0.0.1 268682.com
+127.0.0.1 268cp.com
 127.0.0.1 268qiche.com
 127.0.0.1 26974.yun236.com
 127.0.0.1 269988.cn
@@ -916,6 +937,7 @@
 127.0.0.1 27nnn.com
 127.0.0.1 27ring.com
 127.0.0.1 27wk.com
+127.0.0.1 28.1377.com
 127.0.0.1 28.lzxaf.com
 127.0.0.1 280878.com
 127.0.0.1 282850.cn
@@ -955,6 +977,7 @@
 127.0.0.1 2river.yznu.cn
 127.0.0.1 2rrr.com
 127.0.0.1 2scsky.com
+127.0.0.1 2seo8.com
 127.0.0.1 2urylp.eu
 127.0.0.1 2vmei.com
 127.0.0.1 2vortex.com
@@ -1033,6 +1056,7 @@
 127.0.0.1 325gt.com
 127.0.0.1 326g.com
 127.0.0.1 328556.com
+127.0.0.1 33.duote.org
 127.0.0.1 33049.com
 127.0.0.1 33221.com.cn
 127.0.0.1 332336.com
@@ -1168,6 +1192,7 @@
 127.0.0.1 372155.com
 127.0.0.1 3721e.serverpit.com
 127.0.0.1 3721f.serverpit.com
+127.0.0.1 373qy.com
 127.0.0.1 373sf.com
 127.0.0.1 37637.33epvpyj.in
 127.0.0.1 377455.com
@@ -1223,6 +1248,7 @@
 127.0.0.1 3ghacker.com
 127.0.0.1 3glm.com.cn
 127.0.0.1 3gqqb.net
+127.0.0.1 3guogame.com
 127.0.0.1 3gzxw.cn
 127.0.0.1 3iiii.com
 127.0.0.1 3lijz.com
@@ -1443,6 +1469,7 @@
 127.0.0.1 51.v265m.lclr.net
 127.0.0.1 512kc.com
 127.0.0.1 512s.net
+127.0.0.1 512wansf.com
 127.0.0.1 512xin.com
 127.0.0.1 515144888.com
 127.0.0.1 51518000.com
@@ -1490,6 +1517,7 @@
 127.0.0.1 51msdy.com
 127.0.0.1 51naxia.com
 127.0.0.1 51pat.cn
+127.0.0.1 51rg.haoeyo.com
 127.0.0.1 51ribi.ifei.com.tw
 127.0.0.1 51sese-www.sao05.com
 127.0.0.1 51she.info
@@ -1651,6 +1679,7 @@
 127.0.0.1 55show.cn
 127.0.0.1 55sugouw.com
 127.0.0.1 55xxwang.com
+127.0.0.1 55y.huashui.org
 127.0.0.1 560009.com
 127.0.0.1 56126.mgm001.com
 127.0.0.1 561633.com
@@ -1707,6 +1736,7 @@
 127.0.0.1 589528.com
 127.0.0.1 589diy.com
 127.0.0.1 58ad.cn
+127.0.0.1 58fbw.com
 127.0.0.1 58kyw.com
 127.0.0.1 58led.net
 127.0.0.1 58news.net
@@ -1798,6 +1828,7 @@
 127.0.0.1 611248.com
 127.0.0.1 612100.cn
 127.0.0.1 612l.com
+127.0.0.1 61426.42la.com.cn
 127.0.0.1 6149.czteyuc9.tk
 127.0.0.1 616136.com
 127.0.0.1 616544.com
@@ -1805,6 +1836,7 @@
 127.0.0.1 616635.com
 127.0.0.1 616651.com
 127.0.0.1 61674.com
+127.0.0.1 616book.com
 127.0.0.1 618638.com
 127.0.0.1 6186ppaiw.com
 127.0.0.1 61hc.com
@@ -2214,6 +2246,7 @@
 127.0.0.1 7crw.com
 127.0.0.1 7ddxx.com
 127.0.0.1 7dlong1.10086ka.com
+127.0.0.1 7dlq.com
 127.0.0.1 7dlt.com
 127.0.0.1 7dot.org
 127.0.0.1 7e.com.cn
@@ -2306,6 +2339,7 @@
 127.0.0.1 8312.com
 127.0.0.1 8312345.cn
 127.0.0.1 832962.com
+127.0.0.1 83332f03558d0987ee1bf5d4f96eeb53.360wzb.cn
 127.0.0.1 833378.com
 127.0.0.1 8355zx.com
 127.0.0.1 836ppaiw.com
@@ -2346,6 +2380,7 @@
 127.0.0.1 860588.com
 127.0.0.1 8611syw.com
 127.0.0.1 862.39213.jvukp.com
+127.0.0.1 8632.net
 127.0.0.1 8636808.cn
 127.0.0.1 86410.o1qb3.cn
 127.0.0.1 86534.net
@@ -2516,6 +2551,7 @@
 127.0.0.1 8zyk.com
 127.0.0.1 9.153.cc
 127.0.0.1 9.a777.cn
+127.0.0.1 9.hndx2.crsky.com
 127.0.0.1 9.qq.com.mcl.usa.cc
 127.0.0.1 9.technology11.ga
 127.0.0.1 9000pay.com
@@ -2926,6 +2962,7 @@
 127.0.0.1 abyssports.com
 127.0.0.1 ac.mloha.cn.com
 127.0.0.1 ac1177.com
+127.0.0.1 ac3886169d0c6865.cdn.jiashule.com
 127.0.0.1 ac59.com
 127.0.0.1 academicjourneyonline.com
 127.0.0.1 accbj.com
@@ -2935,6 +2972,7 @@
 127.0.0.1 aceugg.cn
 127.0.0.1 acglab.com
 127.0.0.1 acgou.cn
+127.0.0.1 acmetranslation.com
 127.0.0.1 act.hwx8090.com
 127.0.0.1 act.xx.ztgame.com
 127.0.0.1 act.zz.zqgame.com
@@ -2945,6 +2983,7 @@
 127.0.0.1 ad.55bbcc.com
 127.0.0.1 ad.admsger.com
 127.0.0.1 ad.av1212.com
+127.0.0.1 ad.ccc876.com
 127.0.0.1 ad.ccttx.com
 127.0.0.1 ad.ddnc.net
 127.0.0.1 ad.ganxuesheng.com
@@ -2975,6 +3014,7 @@
 127.0.0.1 adgoogle.xzhngm.com
 127.0.0.1 adguannian.com
 127.0.0.1 adhesivecn.com
+127.0.0.1 adkgs.com
 127.0.0.1 adkkr.pl
 127.0.0.1 adm.114junshi.com
 127.0.0.1 adm.bbcss.com
@@ -3048,6 +3088,7 @@
 127.0.0.1 ahgy.cc
 127.0.0.1 ahhpfs.com
 127.0.0.1 ahkmbee.com
+127.0.0.1 ahlswh.net
 127.0.0.1 ahlxsz.com
 127.0.0.1 ahnjjl.gov.cn
 127.0.0.1 ahnx-em.szgm.org
@@ -3061,10 +3102,12 @@
 127.0.0.1 ahwblm.com
 127.0.0.1 ahwfbj.com
 127.0.0.1 ahww.gov.cn
+127.0.0.1 ahwydljt.com
 127.0.0.1 ahyishiye.com
 127.0.0.1 ah-yq.com
 127.0.0.1 ahyxwd.com
 127.0.0.1 ahzcmy.com
+127.0.0.1 ahzxy.com
 127.0.0.1 ai87gw.com
 127.0.0.1 ai88fenshang.net
 127.0.0.1 aiaikk.com
@@ -3089,6 +3132,7 @@
 127.0.0.1 aimenger.com.cn
 127.0.0.1 aimengever.com
 127.0.0.1 aimenhu.cn
+127.0.0.1 aimirongyan.com
 127.0.0.1 aiokok.zuitea.com
 127.0.0.1 aip088.com
 127.0.0.1 aip68.com
@@ -3228,6 +3272,7 @@
 127.0.0.1 andy520.com
 127.0.0.1 andyporn.com
 127.0.0.1 anfu020.cn
+127.0.0.1 angel100.com.cn
 127.0.0.1 anhuaa.kirilina.com
 127.0.0.1 anhuibaijiu.com
 127.0.0.1 anikoko.cn
@@ -3260,6 +3305,7 @@
 127.0.0.1 anzhuo086.com
 127.0.0.1 anzhuo6.com
 127.0.0.1 anzhuo806.com
+127.0.0.1 anzhuolaser.com
 127.0.0.1 anzhuosyw.com
 127.0.0.1 anzhuoysp.com
 127.0.0.1 anzy88.com
@@ -3271,6 +3317,7 @@
 127.0.0.1 aoliangl.com
 127.0.0.1 aonash.com
 127.0.0.1 aoo.gzyuanli.cn
+127.0.0.1 aos1738.com
 127.0.0.1 aotovote.com
 127.0.0.1 aou28.com
 127.0.0.1 aoxiangdianzi.com
@@ -3286,11 +3333,16 @@
 127.0.0.1 aphi.biz
 127.0.0.1 api.71wyx.com
 127.0.0.1 api.sne3.com
+127.0.0.1 apk.zhuannet.com
+127.0.0.1 apk0320.91912.com
+127.0.0.1 apkbox.tinghuqu.com
+127.0.0.1 apkcache.ppcool.com.cn
 127.0.0.1 apkda.com
 127.0.0.1 aplusdrivingca.com
 127.0.0.1 apochina.net
 127.0.0.1 aposio68.com
 127.0.0.1 app.10086aa.com
+127.0.0.1 app.a20141024.info
 127.0.0.1 app.joyfile.co.kr
 127.0.0.1 app.st532.com
 127.0.0.1 app.whxysm.com
@@ -3316,6 +3368,7 @@
 127.0.0.1 applehuang.com
 127.0.0.1 apples.osnr.cn.com
 127.0.0.1 appletowel.com
+127.0.0.1 appmarket.zmapp.com:8080
 127.0.0.1 apps.pcpp.cn
 127.0.0.1 appss.kuzu88.net
 127.0.0.1 appug750.com
@@ -3359,6 +3412,7 @@
 127.0.0.1 artist88.com
 127.0.0.1 artjinchundai.com
 127.0.0.1 artong007.net.cn
+127.0.0.1 artonline-cn.com
 127.0.0.1 artszk.com
 127.0.0.1 artwork.1stpads.com
 127.0.0.1 artyunnan.com
@@ -3418,6 +3472,7 @@
 127.0.0.1 australianvision.net
 127.0.0.1 authbay.net
 127.0.0.1 authenticuggs.net
+127.0.0.1 auto.zhxone.com
 127.0.0.1 autocare808.com
 127.0.0.1 autochs.com
 127.0.0.1 autoearn.duapp.com
@@ -3466,6 +3521,7 @@
 127.0.0.1 axx88.com
 127.0.0.1 ay988.cc6.org
 127.0.0.1 aya66.com
+127.0.0.1 ayahoo12.3.24c.cn
 127.0.0.1 aycsq.com
 127.0.0.1 aycxbiz.com
 127.0.0.1 ayg.cl
@@ -3485,6 +3541,7 @@
 127.0.0.1 b.3guousb.com
 127.0.0.1 b.6x3x.com
 127.0.0.1 b.78sjw.com
+127.0.0.1 b.9thegamejuststarted14k9.com
 127.0.0.1 b.app.vip.91k.ruhr
 127.0.0.1 b.bazz-club.co.il
 127.0.0.1 b.dysqjm.com
@@ -3500,6 +3557,7 @@
 127.0.0.1 b5013.com
 127.0.0.1 b5171.com
 127.0.0.1 b6u.net
+127.0.0.1 b7.gpxz.net
 127.0.0.1 b7073.yun969.com
 127.0.0.1 b8788.com
 127.0.0.1 ba.bahw.cn
@@ -3634,8 +3692,10 @@
 127.0.0.1 baoxianj.cn
 127.0.0.1 baoyang66.com
 127.0.0.1 baoyang8.cc
+127.0.0.1 baoyingzhaopin.com
 127.0.0.1 baoyuanbmw.com
 127.0.0.1 baozhen365.com
+127.0.0.1 baozi.cnrepair.com
 127.0.0.1 baozituangou.com
 127.0.0.1 baqyy.com
 127.0.0.1 baracademie.ca
@@ -3706,6 +3766,7 @@
 127.0.0.1 bbs.lssl168.cn
 127.0.0.1 bbs.maonao.com.cn
 127.0.0.1 bbs.maynet.com.cn
+127.0.0.1 bbs.mumayi.net
 127.0.0.1 bbs.ningma.com
 127.0.0.1 bbs.opto88.com
 127.0.0.1 bbs.qljt.net.cn
@@ -3771,6 +3832,7 @@
 127.0.0.1 bd.arting10.com
 127.0.0.1 bd.axxyw.cn
 127.0.0.1 bd.baihuidiban.com
+127.0.0.1 bd.bdfei.com
 127.0.0.1 bd.cn170.com
 127.0.0.1 bd.ctvwm.com
 127.0.0.1 bd.dtyjqx.cn
@@ -3845,6 +3907,7 @@
 127.0.0.1 benxi88.com
 127.0.0.1 berryliving.com
 127.0.0.1 besidesdream.com
+127.0.0.1 besper.cc
 127.0.0.1 bessjob.com
 127.0.0.1 bestapp246.biz
 127.0.0.1 bestarp.com
@@ -3871,6 +3934,7 @@
 127.0.0.1 bf.titan007.com
 127.0.0.1 bf2sc.bf2sc8.com
 127.0.0.1 bf678.com
+127.0.0.1 bfclient.178.com
 127.0.0.1 bfeol.com
 127.0.0.1 bffc9z14z.com.cn
 127.0.0.1 bfnd.taneituan.net
@@ -3934,6 +3998,7 @@
 127.0.0.1 bizwebtechnologies.com
 127.0.0.1 bj.allscity.com
 127.0.0.1 bj.tostudy.com
+127.0.0.1 bj10010.b0.upaiyun.com
 127.0.0.1 bj55186.com
 127.0.0.1 bj888sohu.blog.sohu.com
 127.0.0.1 bjaeh.com
@@ -3942,12 +4007,14 @@
 127.0.0.1 bjaszdwl.com
 127.0.0.1 bjbctxgs.com
 127.0.0.1 bjbkws.com.cn
+127.0.0.1 bj-bycm.com
 127.0.0.1 bjbycy.cn
 127.0.0.1 bjbywswl.com
 127.0.0.1 bjbzsm.com
 127.0.0.1 bjcameraman.com
 127.0.0.1 bjchjlb.com
 127.0.0.1 bjcljt.com
+127.0.0.1 bjcltart.com
 127.0.0.1 bjctsho.net
 127.0.0.1 bjcyzd.com
 127.0.0.1 bjd01.com
@@ -3956,6 +4023,7 @@
 127.0.0.1 bjdh168.com
 127.0.0.1 bjdjp88.com
 127.0.0.1 bjdwyy.com
+127.0.0.1 bj-dy.cn
 127.0.0.1 bjfadsm.com
 127.0.0.1 bjfc3d.5d6d.com
 127.0.0.1 bjfmss.com
@@ -4065,6 +4133,7 @@
 127.0.0.1 blog.sina.com.cn.yptqb.com
 127.0.0.1 blogs.or.id
 127.0.0.1 bluebirdme.com
+127.0.0.1 blueendless.com
 127.0.0.1 bluefox-o.com
 127.0.0.1 bluekr.com
 127.0.0.1 blueprintpro.org
@@ -4106,6 +4175,7 @@
 127.0.0.1 bobo.bo3366.com
 127.0.0.1 bobo.sqwyl.com
 127.0.0.1 bobomt.com
+127.0.0.1 boc.lyg.gov.cn
 127.0.0.1 bo-ca1.com
 127.0.0.1 bocabe.com
 127.0.0.1 bocabf.com
@@ -4172,6 +4242,7 @@
 127.0.0.1 bosiditan.cn
 127.0.0.1 bosl.info.gf
 127.0.0.1 bossmb.com
+127.0.0.1 boszg.com
 127.0.0.1 bo-tak.info
 127.0.0.1 bote-outdoor.com
 127.0.0.1 botnetdown.gicp.net
@@ -4201,6 +4272,7 @@
 127.0.0.1 br8cqswa8.jtwutfsdds.com
 127.0.0.1 brand.cinio.org
 127.0.0.1 brandalliance.net.cn
+127.0.0.1 brenz.pl
 127.0.0.1 bringcase.com
 127.0.0.1 brisly.com
 127.0.0.1 brothersbj.com
@@ -4211,6 +4283,7 @@
 127.0.0.1 bs.scu.edu.cn
 127.0.0.1 bs0311.com
 127.0.0.1 bseotzm.com
+127.0.0.1 bsmzgz.com
 127.0.0.1 bsy818.com
 127.0.0.1 bsyif.com
 127.0.0.1 btbole.com
@@ -4249,6 +4322,7 @@
 127.0.0.1 buy860.com
 127.0.0.1 buyhaocha.com
 127.0.0.1 buyhouse8.cn
+127.0.0.1 buymall360.com
 127.0.0.1 buyu12.com
 127.0.0.1 buyuba.com
 127.0.0.1 bvc5.pw
@@ -4311,6 +4385,7 @@
 127.0.0.1 c.88ng.com
 127.0.0.1 c.count.xj.cn
 127.0.0.1 c.es17wan.net
+127.0.0.1 c.fxxgw.com
 127.0.0.1 c.hifou.net
 127.0.0.1 c.img001.com
 127.0.0.1 c.itdzh.com
@@ -4324,6 +4399,7 @@
 127.0.0.1 c.xihawan8.com
 127.0.0.1 c.xx.taobo11.cc
 127.0.0.1 c.zjgow.com
+127.0.0.1 c0093.cn
 127.0.0.1 c1.is686.com
 127.0.0.1 c1.link88.be
 127.0.0.1 c10i-ww.w-vvppw.com
@@ -4357,6 +4433,7 @@
 127.0.0.1 cabprom.ru
 127.0.0.1 cache.ad.womenwan.com
 127.0.0.1 cache.adm.cnzz.net
+127.0.0.1 cache.adm-cnzz.net
 127.0.0.1 cache.ttkvod.com
 127.0.0.1 cache.yyupload.com
 127.0.0.1 cadatop100.net
@@ -4411,8 +4488,10 @@
 127.0.0.1 case.cmd05.info
 127.0.0.1 cash.cashtop1.net
 127.0.0.1 cashier.meiju01.net
+127.0.0.1 casinousa.cn
 127.0.0.1 casio.hui-zheng.cn
 127.0.0.1 casta1.com
+127.0.0.1 castlehotel-genzon.com
 127.0.0.1 cathysz.com
 127.0.0.1 catvboss.com
 127.0.0.1 caurmhoc.tk
@@ -4529,6 +4608,8 @@
 127.0.0.1 cdlinsheng.com
 127.0.0.1 cdlxmy.com
 127.0.0.1 cdmc.cc
+127.0.0.1 cdn.1000su.com
+127.0.0.1 cdn.188nb.com
 127.0.0.1 cdn.217wo.com
 127.0.0.1 cdn.279wo.com
 127.0.0.1 cdn.5alm.net
@@ -4544,6 +4625,7 @@
 127.0.0.1 cdn.e024.com.cn
 127.0.0.1 cdn.ebcf8340.down6bucket.us
 127.0.0.1 cdn.i8ti.com
+127.0.0.1 cdn.loli175.com
 127.0.0.1 cdn.nini456.com
 127.0.0.1 cdn.paodao123.com
 127.0.0.1 cdn.ttkvod.com
@@ -4553,6 +4635,7 @@
 127.0.0.1 cdn1.daydayup.tv
 127.0.0.1 cdn1.down.17173ie.com
 127.0.0.1 cdn1.game906.com
+127.0.0.1 cdn1.joloplay.cn
 127.0.0.1 cdn2.down.apk.gfan.com
 127.0.0.1 cdn2.jinhuashenghuo.com
 127.0.0.1 cdn2.wuji.com
@@ -4584,6 +4667,7 @@
 127.0.0.1 ce444.com
 127.0.0.1 cebbaek.com
 127.0.0.1 cebhang.net
+127.0.0.1 cechoice.com
 127.0.0.1 ceelee.cn
 127.0.0.1 cegjl.com
 127.0.0.1 celabon.com
@@ -4611,6 +4695,7 @@
 127.0.0.1 cet426.com
 127.0.0.1 cetsolve.com
 127.0.0.1 ceutan.com
+127.0.0.1 cf22.pw
 127.0.0.1 cf41.com
 127.0.0.1 cf669.com
 127.0.0.1 cf6kp.com
@@ -4630,6 +4715,7 @@
 127.0.0.1 cfile202.uf.daum.net
 127.0.0.1 cfkyx5.com
 127.0.0.1 cfnp3.com
+127.0.0.1 cfpww.com
 127.0.0.1 cfqzkq.com
 127.0.0.1 cfrde.com
 127.0.0.1 cfsn.cn
@@ -4648,6 +4734,7 @@
 127.0.0.1 cfzj.us
 127.0.0.1 cfzk6.com
 127.0.0.1 cfznm.com
+127.0.0.1 cfztb.gov.cn
 127.0.0.1 cfzw6.com
 127.0.0.1 cg199.com
 127.0.0.1 cg818.com
@@ -4768,6 +4855,7 @@
 127.0.0.1 chinagsmr.cn
 127.0.0.1 chinahaoan.com
 127.0.0.1 china-hbv.com
+127.0.0.1 chinahtybj.com
 127.0.0.1 chinaipa.net
 127.0.0.1 china-jiufa.com
 127.0.0.1 chinaljn000.d1.eastdisk.com
@@ -4782,6 +4870,7 @@
 127.0.0.1 china-shengyi.com
 127.0.0.1 chinaslats.com
 127.0.0.1 chinasocom.com
+127.0.0.1 chinasound.biz
 127.0.0.1 china-sssk.com
 127.0.0.1 chinasupply.cc
 127.0.0.1 chinataoyong.com
@@ -4879,6 +4968,7 @@
 127.0.0.1 cldidai.com
 127.0.0.1 clgdgs.com
 127.0.0.1 clgwsh.com
+127.0.0.1 click.892155.com
 127.0.0.1 click.am1.adm.cnzz.net
 127.0.0.1 click.t3nlink.com
 127.0.0.1 client.enterdesk.com
@@ -4893,6 +4983,7 @@
 127.0.0.1 clocks.net.au
 127.0.0.1 clogoo.net
 127.0.0.1 cloud.link.db.tv002.com
+127.0.0.1 cloud.safes100.com
 127.0.0.1 cloud.youxizhe.com
 127.0.0.1 cloveing188.com
 127.0.0.1 clqczyc.com
@@ -4925,7 +5016,9 @@
 127.0.0.1 cn2.tiansf.com
 127.0.0.1 cn910.cn
 127.0.0.1 cname1.net
+127.0.0.1 cn-bc.mobi
 127.0.0.1 cnc.icafead.com
+127.0.0.1 cnc4.cdn.119g.com
 127.0.0.1 cncasket.com
 127.0.0.1 cncbsc.com
 127.0.0.1 cncc.ccbkr.com
@@ -4959,6 +5052,7 @@
 127.0.0.1 cnlodobescu.ro
 127.0.0.1 cnlpaper.com
 127.0.0.1 cnlsjm.cn
+127.0.0.1 cnmdw.net
 127.0.0.1 cnmdzw.com
 127.0.0.1 cnmemory.cn
 127.0.0.1 cn-minghan.com
@@ -4986,6 +5080,7 @@
 127.0.0.1 cnszxw.net
 127.0.0.1 cntagy.cn
 127.0.0.1 cntakeout.com
+127.0.0.1 cntax315.com
 127.0.0.1 cnting.org
 127.0.0.1 cntmtc.com
 127.0.0.1 cntmtu.cn
@@ -4998,6 +5093,7 @@
 127.0.0.1 cny8.com
 127.0.0.1 cnygtex.com
 127.0.0.1 cnyl788.com
+127.0.0.1 cnyongjiang.com
 127.0.0.1 cnytxx.com
 127.0.0.1 cnzdy.cn
 127.0.0.1 cnzdy.com.cn
@@ -5038,11 +5134,14 @@
 127.0.0.1 colopor.com
 127.0.0.1 colorsmail.cn
 127.0.0.1 com.clf7.com
+127.0.0.1 commidities.net
 127.0.0.1 company7bbq.com
 127.0.0.1 competitionlaw.cn
 127.0.0.1 computerbbs.cn
 127.0.0.1 comwww.74bo.com
 127.0.0.1 comwww.94vv.com
+127.0.0.1 com-yo.net
+127.0.0.1 concerone.com
 127.0.0.1 config.nage.com.cn
 127.0.0.1 confignew.3lsoft.com
 127.0.0.1 congchunghoguom.vn
@@ -5132,9 +5231,11 @@
 127.0.0.1 crqbz.cn
 127.0.0.1 crsinter.com
 127.0.0.1 cs.778vip.com
+127.0.0.1 cs.mo45.com
 127.0.0.1 cs.nanshahd.cn
 127.0.0.1 cs.photobase.com.cn
 127.0.0.1 cs.tqkaoyan.com
+127.0.0.1 cs.zgsmw.org
 127.0.0.1 csbale.cn
 127.0.0.1 csbjkj.com
 127.0.0.1 csclothingonline.com
@@ -5166,6 +5267,7 @@
 127.0.0.1 cspcmj.com
 127.0.0.1 cspmj.cn
 127.0.0.1 csrdapeng.com
+127.0.0.1 csrpmen.com
 127.0.0.1 css.be.ma
 127.0.0.1 css.res.szgla.cn
 127.0.0.1 css.sarl.tk
@@ -5224,6 +5326,7 @@
 127.0.0.1 cxfbnf.biz
 127.0.0.1 cxgbpx.net
 127.0.0.1 cxhk.net
+127.0.0.1 cximnik.cn
 127.0.0.1 cxjybj.com
 127.0.0.1 cx-qisheng.com
 127.0.0.1 cxsxy.net
@@ -5250,6 +5353,7 @@
 127.0.0.1 cyhk178.com
 127.0.0.1 cyj998.com
 127.0.0.1 cyklw.com
+127.0.0.1 cylm.jh56.cn
 127.0.0.1 cypartnerpds.nowcdn.co.kr
 127.0.0.1 cyqh.cc
 127.0.0.1 cysdkj.com
@@ -5274,6 +5378,7 @@
 127.0.0.1 czdln.com
 127.0.0.1 czhrsy.com
 127.0.0.1 czhwjx.com
+127.0.0.1 czhyjz.com
 127.0.0.1 czhzdz.com
 127.0.0.1 cz-inter.com
 127.0.0.1 czj.maoming.gov.cn
@@ -5281,6 +5386,7 @@
 127.0.0.1 czj58.com
 127.0.0.1 czjnch.com
 127.0.0.1 czmcjxsb.com
+127.0.0.1 czmlfc.sxtm30.badudns.cc
 127.0.0.1 czmphg.com
 127.0.0.1 czqmc.com
 127.0.0.1 czsde.com
@@ -5304,6 +5410,7 @@
 127.0.0.1 d.9wcom.cn
 127.0.0.1 d.ayxz.com
 127.0.0.1 d.dnf01.com
+127.0.0.1 d.downbai.com
 127.0.0.1 d.falvs.com
 127.0.0.1 d.haoimg.com
 127.0.0.1 d.hot361.cn
@@ -5336,6 +5443,7 @@
 127.0.0.1 d19.yctxdk.com
 127.0.0.1 d2.baidud.cn
 127.0.0.1 d2.gamersky.net
+127.0.0.1 d2.gj555.net
 127.0.0.1 d2.hackhome.org
 127.0.0.1 d2.kuai8.com
 127.0.0.1 d20.aysgf.net
@@ -5401,17 +5509,20 @@
 127.0.0.1 daili.rqw168.com
 127.0.0.1 daipai58.com
 127.0.0.1 daishoudaifu.com
+127.0.0.1 daiwangkennel.com
 127.0.0.1 dajiacy.com
 127.0.0.1 dakeinc.com
 127.0.0.1 dakeshop.com
 127.0.0.1 dalaobie.com
 127.0.0.1 dalcos.com
+127.0.0.1 dalian.runsky.com
 127.0.0.1 dalianjinshitan.cn
 127.0.0.1 dalianpx.com
 127.0.0.1 dan8wang.com
 127.0.0.1 dancingchina.com
 127.0.0.1 dang5173dang.com
 127.0.0.1 dang8wang.com
+127.0.0.1 dangci222.com
 127.0.0.1 dangi8wang.com
 127.0.0.1 dangong.cn
 127.0.0.1 dangrangou.com
@@ -5465,6 +5576,7 @@
 127.0.0.1 dbfx.guanwanglianmeng.com
 127.0.0.1 dbmogu.com
 127.0.0.1 dbpwgbdk.tk
+127.0.0.1 dbsnycyy.com
 127.0.0.1 dbste.com
 127.0.0.1 dbtwoool.com
 127.0.0.1 dccl.org.cn
@@ -5473,6 +5585,7 @@
 127.0.0.1 dd.cytmsys.com
 127.0.0.1 dd.hhs11.net
 127.0.0.1 dd.mnyhb.net
+127.0.0.1 dd.myapp.com
 127.0.0.1 dd.xaledao.com
 127.0.0.1 dd.younili.com
 127.0.0.1 dd818sc.com
@@ -5510,6 +5623,7 @@
 127.0.0.1 deepagri.com
 127.0.0.1 deez.com.cn
 127.0.0.1 deffiber.com
+127.0.0.1 defushi.com
 127.0.0.1 degao168.com
 127.0.0.1 dehua99.com
 127.0.0.1 dejangorgievski.com
@@ -5524,6 +5638,7 @@
 127.0.0.1 df.decoter.cn
 127.0.0.1 df123.hlwiv.com
 127.0.0.1 df5999.com
+127.0.0.1 df888yl6280.com
 127.0.0.1 df-arflow.com
 127.0.0.1 dfassdf.com
 127.0.0.1 dfcvggg.com
@@ -5555,6 +5670,7 @@
 127.0.0.1 dgcyjz.com
 127.0.0.1 dgdcjy.cn
 127.0.0.1 dgdkgs2.com
+127.0.0.1 dgdyhr.com
 127.0.0.1 dgekm.com
 127.0.0.1 dgfv.cn
 127.0.0.1 dghangk.com
@@ -5593,6 +5709,8 @@
 127.0.0.1 dianzh.cn
 127.0.0.1 diaoyu123.com
 127.0.0.1 dididing.com
+127.0.0.1 diet.com-ac.net
+127.0.0.1 diet.com-uy.net
 127.0.0.1 dieulinh.net
 127.0.0.1 digbigoil.cz.cc
 127.0.0.1 digitalmediaresource.com
@@ -5664,12 +5782,15 @@
 127.0.0.1 dktjdz.com
 127.0.0.1 dktsanqi.com
 127.0.0.1 dkw.shsq.net.cn
+127.0.0.1 dl.07073.com
+127.0.0.1 dl.123juzi.net
 127.0.0.1 dl.196y.com
 127.0.0.1 dl.60776.com
 127.0.0.1 dl.919yi.com
 127.0.0.1 dl.9365.info
 127.0.0.1 dl.9sv.cn
 127.0.0.1 dl.aizhuomian.com
+127.0.0.1 dl.anfensi.com
 127.0.0.1 dl.baduqq.com
 127.0.0.1 dl.czqjcy.cn
 127.0.0.1 dl.dianying2.com
@@ -5685,6 +5806,7 @@
 127.0.0.1 dl.sqlbu.com
 127.0.0.1 dl.tao8866.com
 127.0.0.1 dl.uvwcii.com
+127.0.0.1 dl.wuhan2.com
 127.0.0.1 dl.wxtxgj.net
 127.0.0.1 dl.yizhan123.com
 127.0.0.1 dl0017.com
@@ -5716,6 +5838,7 @@
 127.0.0.1 dlmglux.com
 127.0.0.1 dlnrj.com
 127.0.0.1 dlrchy.com
+127.0.0.1 dlrdgc.com
 127.0.0.1 dlrmd.com
 127.0.0.1 dl-sz-wap.pch-img.net
 127.0.0.1 dltms999.com
@@ -5754,6 +5877,7 @@
 127.0.0.1 dnwk.eu5.org
 127.0.0.1 dnwx.org
 127.0.0.1 dn-xiaoky.qbox.me
+127.0.0.1 dn-yuy89.qbox.me
 127.0.0.1 do1.3h3.com
 127.0.0.1 do1788.com
 127.0.0.1 do555.com
@@ -5771,6 +5895,7 @@
 127.0.0.1 doneshop.net
 127.0.0.1 donetit.cn
 127.0.0.1 dongcnet.com
+127.0.0.1 donghuige.com
 127.0.0.1 dongjunlv.com
 127.0.0.1 donglaodafood.com
 127.0.0.1 donglinsq.com
@@ -5800,6 +5925,7 @@
 127.0.0.1 down.035x.com
 127.0.0.1 down.1000y4.com
 127.0.0.1 down.10pan.cc
+127.0.0.1 down.129idc.com
 127.0.0.1 down.12taojin.com
 127.0.0.1 down.168hda.com
 127.0.0.1 down.18taojin.com
@@ -5829,6 +5955,7 @@
 127.0.0.1 down.9vh.net
 127.0.0.1 down.aiqingzhihui.com
 127.0.0.1 down.anjiebofang.com
+127.0.0.1 down.appjumi.com
 127.0.0.1 down.aq8.cc
 127.0.0.1 down.arpun.com
 127.0.0.1 down.bianya.cc
@@ -5861,10 +5988,12 @@
 127.0.0.1 down.hack59.com
 127.0.0.1 down.haharili.com
 127.0.0.1 down.handao.cc
+127.0.0.1 down.heydee.cn
 127.0.0.1 down.hit020.com
 127.0.0.1 down.hongchuanjx.com
 127.0.0.1 down.huaxingtk.com
 127.0.0.1 down.iemao.com
+127.0.0.1 down.jiaoyuxiu.net
 127.0.0.1 down.jinyuantg.com
 127.0.0.1 down.jlrywh.com
 127.0.0.1 down.jufuyou.com
@@ -5887,6 +6016,7 @@
 127.0.0.1 down.plhwym.com
 127.0.0.1 down.qixiu98.com
 127.0.0.1 down.qq38.org
+127.0.0.1 down.qqtn.com
 127.0.0.1 down.qunasou.com
 127.0.0.1 down.qxiazai.com
 127.0.0.1 down.reaboo.com
@@ -5901,13 +6031,16 @@
 127.0.0.1 down.tt86.com
 127.0.0.1 down.tu6.cn
 127.0.0.1 down.tututool.com
+127.0.0.1 down.txzshc.com
 127.0.0.1 down.u5c.net
 127.0.0.1 down.unadnet.com.cn
+127.0.0.1 down.upanfile.com:88
 127.0.0.1 down.upantool.com
 127.0.0.1 down.vbuv.cn
 127.0.0.1 down.vrbrothers.com
 127.0.0.1 down.waisong8.com
 127.0.0.1 down.wan555.com
+127.0.0.1 down.wangshi116.com
 127.0.0.1 down.wannianli365.com
 127.0.0.1 down.wlds.net
 127.0.0.1 down.xia16.com
@@ -5915,16 +6048,21 @@
 127.0.0.1 down.xiaoxinrili.com
 127.0.0.1 down.xiazaidi.com
 127.0.0.1 down.xmzs8.com
+127.0.0.1 down.yiduofen.com
 127.0.0.1 down.yinfeng668.net
 127.0.0.1 down.yinyue.fm
 127.0.0.1 down.youbo.cc
 127.0.0.1 down.yxdfc.com
 127.0.0.1 down.yxlm.la
+127.0.0.1 down.zhewulian.com
 127.0.0.1 down.zhuoku.com
 127.0.0.1 down.zjfeilei.com
 127.0.0.1 down.zonsung.com
+127.0.0.1 down1.121down.com:8080
 127.0.0.1 down1.314151.com
 127.0.0.1 down1.biaop.com
+127.0.0.1 down1.deepxz.com
+127.0.0.1 down1.downcc.com
 127.0.0.1 down1.downxia.com
 127.0.0.1 down1.downyouxi.com
 127.0.0.1 down1.xkxz.com
@@ -5935,8 +6073,10 @@
 127.0.0.1 down2.aspjzy.com
 127.0.0.1 down2.cngr.cn
 127.0.0.1 down2.feiyang163.com
+127.0.0.1 down2.kviso.com
 127.0.0.1 down2.qxiazai.com
 127.0.0.1 down2.sh5y.com
+127.0.0.1 down3.aizhan.com
 127.0.0.1 down3.baiduwebgame.com
 127.0.0.1 down3.emstock.com.cn
 127.0.0.1 down4.downyouxi.com
@@ -5955,7 +6095,9 @@
 127.0.0.1 downlaod1.uduoduo.com
 127.0.0.1 downlaod1.vstart.net
 127.0.0.1 download.035668.com
+127.0.0.1 download.071dt.com
 127.0.0.1 download.095518.com
+127.0.0.1 download.200n.com
 127.0.0.1 download.3ddianshiji.com
 127.0.0.1 download.4056.com
 127.0.0.1 download.58611.net
@@ -5964,6 +6106,7 @@
 127.0.0.1 download.cardesales.com
 127.0.0.1 download.cdn.downloadsetup.net
 127.0.0.1 download.cpudln.com
+127.0.0.1 download.css361.com
 127.0.0.1 download.daocaoren.cn
 127.0.0.1 download.dlmgg.com
 127.0.0.1 download.dns-vip.net
@@ -5971,7 +6114,9 @@
 127.0.0.1 download.expressdownload.net
 127.0.0.1 download.favorit-network.com
 127.0.0.1 download.filesfrog.com
+127.0.0.1 download.game499.cn
 127.0.0.1 download.game499.com
+127.0.0.1 download.go2050.com
 127.0.0.1 download.hih.net.cn
 127.0.0.1 download.i2ii.cn
 127.0.0.1 download.itv189.com
@@ -5997,6 +6142,7 @@
 127.0.0.1 download.wrzc.net
 127.0.0.1 download.wuji.com
 127.0.0.1 download.xcplay.cn
+127.0.0.1 download.xiaoxinrili.com
 127.0.0.1 download.yspbrsz.net
 127.0.0.1 download04.120dxyy.com
 127.0.0.1 download05.120dxyy.com
@@ -6011,6 +6157,10 @@
 127.0.0.1 download5.77169.com
 127.0.0.1 downloadcdn.filebulldog.com
 127.0.0.1 downloaderfile.brothersoft.com
+127.0.0.1 downloadold.3ddianshiji.com
+127.0.0.1 downloadold.xiaocen.com
+127.0.0.1 downloads.itmop.com
+127.0.0.1 downloads003.civilcn.com
 127.0.0.1 down-sc.upanfile.com
 127.0.0.1 downsoft.52z.com
 127.0.0.1 downtimepatrol.org
@@ -6019,6 +6169,7 @@
 127.0.0.1 dp.fdodo.cn
 127.0.0.1 dp0736.net
 127.0.0.1 dp456.com
+127.0.0.1 dpgjjs.com
 127.0.0.1 dpkjgf.com
 127.0.0.1 dpmsdjw.com
 127.0.0.1 dpt1967.com
@@ -6057,6 +6208,7 @@
 127.0.0.1 dsp.ctrtb.com
 127.0.0.1 dsp.hz3137.com
 127.0.0.1 dsp.youdao.com
+127.0.0.1 dspcdn.000dn.com
 127.0.0.1 dsswcs.com
 127.0.0.1 dstjtwa.com
 127.0.0.1 dt668.blogbus.com
@@ -6098,24 +6250,32 @@
 127.0.0.1 dw2.azm8.com
 127.0.0.1 dwblue.com
 127.0.0.1 dx.53307.com
+127.0.0.1 dx.7230.com
+127.0.0.1 dx.9ht.com
 127.0.0.1 dx.guofs.com
+127.0.0.1 dx.ouyaoxiazai.com
 127.0.0.1 dx.qqtn.com
 127.0.0.1 dx.xrwl.com.cn
 127.0.0.1 dx.yuuboo.com
 127.0.0.1 dx.zhibaizhen.com
 127.0.0.1 dx1.962.net
+127.0.0.1 dx1.newasp.net
 127.0.0.1 dx12.962.net
 127.0.0.1 dx2.52z.com
 127.0.0.1 dx2.962.net
 127.0.0.1 dx2.97sky.cn
+127.0.0.1 dx2down.150book.com
 127.0.0.1 dx3.52z.com
 127.0.0.1 dx3.fxxz.com
 127.0.0.1 dx3.newasp.net
 127.0.0.1 dx3.xiazaizhijia.com
 127.0.0.1 dx4.52z.com
+127.0.0.1 dx4.fxxz.com
 127.0.0.1 dx5.52z.com
 127.0.0.1 dx528.com
 127.0.0.1 dx6.52z.com
+127.0.0.1 dx6.haote.com
+127.0.0.1 dx63.downyouxi.com
 127.0.0.1 dx7.52z.com
 127.0.0.1 dx8.52z.com
 127.0.0.1 dx8.97sky.cn
@@ -6128,10 +6288,12 @@
 127.0.0.1 dxhcjt.com
 127.0.0.1 dxhz.wxxr.cn
 127.0.0.1 dxjeh.com
+127.0.0.1 dxjmko.com
 127.0.0.1 dxnjcc.com
 127.0.0.1 dxoihge.ooff.ru
 127.0.0.1 dxqtz.com
 127.0.0.1 dxscgw.com
+127.0.0.1 dxt.liaotian234.com
 127.0.0.1 dxxq.uqc.cn
 127.0.0.1 dxyfishing.cn
 127.0.0.1 dxysm.com
@@ -6182,6 +6344,7 @@
 127.0.0.1 dzgem.com
 127.0.0.1 dzjyno1.com
 127.0.0.1 dzjzds.com
+127.0.0.1 dzred.com
 127.0.0.1 dzsw.eastpharm.com
 127.0.0.1 dztlhq.com
 127.0.0.1 dzxcv.onepod.cn
@@ -6200,6 +6363,7 @@
 127.0.0.1 e.tlinee.com.cn
 127.0.0.1 e00my.5520.pw
 127.0.0.1 e100china.com
+127.0.0.1 e232e.com
 127.0.0.1 e3d5c3a.lnjdsc.com
 127.0.0.1 e6869.com
 127.0.0.1 e7yoo.cn
@@ -6287,6 +6451,7 @@
 127.0.0.1 ejajie.com
 127.0.0.1 ejatkar.cn
 127.0.0.1 ejinwww.com
+127.0.0.1 ejinyuan.com
 127.0.0.1 ejobas.cn
 127.0.0.1 ejohb.com
 127.0.0.1 ejoy-pack.com
@@ -6298,6 +6463,7 @@
 127.0.0.1 ekubook.com
 127.0.0.1 ekudai.cc
 127.0.0.1 e-land.tv
+127.0.0.1 elearning.zjff.net
 127.0.0.1 elec.net.cn
 127.0.0.1 eleng.org
 127.0.0.1 eletroteste.com
@@ -6310,6 +6476,7 @@
 127.0.0.1 elita.si
 127.0.0.1 elitetaste.com.cn
 127.0.0.1 eljzs.com
+127.0.0.1 elloworld.com
 127.0.0.1 elwinn.com
 127.0.0.1 em70.com
 127.0.0.1 e-mail.viaumd.net
@@ -6322,6 +6489,7 @@
 127.0.0.1 emiwo.com
 127.0.0.1 emode.my
 127.0.0.1 employee-monitoring.ws
+127.0.0.1 en.ntdzkj.com
 127.0.0.1 en.pudn.com
 127.0.0.1 enblom.org
 127.0.0.1 encashhr.com
@@ -6382,6 +6550,7 @@
 127.0.0.1 ese-edu.cn
 127.0.0.1 eshidaikj.com
 127.0.0.1 eshop800.cn
+127.0.0.1 esir.adqmcb.com
 127.0.0.1 esou.873511178.com
 127.0.0.1 esoumao.com
 127.0.0.1 espring-tw.com
@@ -6418,6 +6587,7 @@
 127.0.0.1 ewtibcs.rilfww.608soufun.com
 127.0.0.1 ex.jpdesk.com
 127.0.0.1 exaccess.ru
+127.0.0.1 exam.hmedu.com
 127.0.0.1 exinshu.com
 127.0.0.1 expatrent.com
 127.0.0.1 ext365.cn
@@ -6460,6 +6630,8 @@
 127.0.0.1 facai88.x169.zgsj.net
 127.0.0.1 facebookdy.com
 127.0.0.1 facebook-surprise-cvsa.tk
+127.0.0.1 faceeibbook.com
+127.0.0.1 faceiibuikszz.com
 127.0.0.1 fach.cn
 127.0.0.1 fadalawinfo.com
 127.0.0.1 fadsm.com
@@ -6549,6 +6721,7 @@
 127.0.0.1 feifanwallpaper.com
 127.0.0.1 feifeiyaoqin.com
 127.0.0.1 feigo.net
+127.0.0.1 feilongjiasi.com
 127.0.0.1 feispace.com
 127.0.0.1 feituu.com
 127.0.0.1 feixiang-paper.com
@@ -6572,12 +6745,15 @@
 127.0.0.1 fengyepyiaow.com
 127.0.0.1 fengyuangps.net
 127.0.0.1 fenlei.pdf163.com
+127.0.0.1 ferarilatka.cn
+127.0.0.1 fesq.fkyqe.com
 127.0.0.1 festivejs.com
 127.0.0.1 fesung.com
 127.0.0.1 fetish-cn.net
 127.0.0.1 feuscb.cf
 127.0.0.1 fewjo43.com
 127.0.0.1 ff.ldsls.com
+127.0.0.1 ff.weitao2.com
 127.0.0.1 ff27.com
 127.0.0.1 ffaec.com
 127.0.0.1 ffdy.51web8.net
@@ -6621,7 +6797,9 @@
 127.0.0.1 figou17.com
 127.0.0.1 file.8849.com
 127.0.0.1 file.bi-biomed.com
+127.0.0.1 file.lenovosoft.com
 127.0.0.1 file.wjxjs.com
+127.0.0.1 file1.huozhang.com
 127.0.0.1 fileaio.com
 127.0.0.1 filecdn.anydown.cn
 127.0.0.1 filedata999.com
@@ -6669,6 +6847,7 @@
 127.0.0.1 fk.waxxm.com
 127.0.0.1 fk.yc88.net
 127.0.0.1 fk8.theflingcard.com
+127.0.0.1 fkczy.com
 127.0.0.1 fkjbyy.com
 127.0.0.1 fkk8785.com
 127.0.0.1 fkm-moto.com
@@ -6687,13 +6866,16 @@
 127.0.0.1 flhly.com
 127.0.0.1 flight.eleng.org
 127.0.0.1 flight.tqbbb.cn
+127.0.0.1 float2006.tq.cn
 127.0.0.1 floodad.com
 127.0.0.1 flsjr.com
+127.0.0.1 flssos.oailqvy.tk
 127.0.0.1 flv.softpzivrubajjui.net
 127.0.0.1 fly.beiyuanchun.net
 127.0.0.1 fly808.cn
 127.0.0.1 flykee.com
 127.0.0.1 flyus.com.cn
+127.0.0.1 fm120.cn
 127.0.0.1 fm881.cqwin.com
 127.0.0.1 fmclegt.com
 127.0.0.1 fn.szgxzb.net
@@ -6717,6 +6899,7 @@
 127.0.0.1 forum.d99q.cn
 127.0.0.1 foshouw.com
 127.0.0.1 foto808.com
+127.0.0.1 fotokani.com
 127.0.0.1 foundcloud.cn
 127.0.0.1 foupian.cn
 127.0.0.1 foyowell.com
@@ -6760,6 +6943,7 @@
 127.0.0.1 fskeruite.com
 127.0.0.1 fskld.com
 127.0.0.1 fskzp6.com
+127.0.0.1 fsnanhong.com
 127.0.0.1 fsqb.net
 127.0.0.1 fssrc.com
 127.0.0.1 fssyt.com.cn
@@ -6779,6 +6963,7 @@
 127.0.0.1 ftp.vsatsh.net
 127.0.0.1 ftp.webdensiparis.com
 127.0.0.1 ftp.xbprc.com
+127.0.0.1 ftp263324.host140.zhujiwu.net
 127.0.0.1 ftsfw.com
 127.0.0.1 ftswjt.com
 127.0.0.1 fu678.com
@@ -6834,6 +7019,7 @@
 127.0.0.1 fvhbxc.info.gf
 127.0.0.1 fvhjjng.com
 127.0.0.1 fvxdeqe.com
+127.0.0.1 fwap.tao-jinan.com
 127.0.0.1 fx.2425.com.cn
 127.0.0.1 fx.ac-doors.com
 127.0.0.1 fxcsw.com
@@ -6856,6 +7042,7 @@
 127.0.0.1 fy.94huore.com
 127.0.0.1 fy.szgxzb.net
 127.0.0.1 fy-bj.com
+127.0.0.1 fybw.net.cn
 127.0.0.1 fycehua.com
 127.0.0.1 fycmzy.com
 127.0.0.1 fydfff.cn
@@ -7027,7 +7214,6 @@
 127.0.0.1 gd1115.com
 127.0.0.1 gdbgwj.com
 127.0.0.1 gdca-tech.net
-127.0.0.1 gdcourts.gov.cn
 127.0.0.1 gdcts-cz.com
 127.0.0.1 gdetc.com
 127.0.0.1 gdgzgt.com
@@ -7037,8 +7223,10 @@
 127.0.0.1 gdjurong.com
 127.0.0.1 gdk-cn.net
 127.0.0.1 gdkgdx.com
+127.0.0.1 gdlhyd.com
 127.0.0.1 gdlzh.com
 127.0.0.1 gdnt.net
+127.0.0.1 gdprob.b0.upaiyun.com
 127.0.0.1 gdrpcl.com
 127.0.0.1 gdsgrl.com
 127.0.0.1 gdstcl.com.cn
@@ -7083,6 +7271,7 @@
 127.0.0.1 gfnc9z14z.com
 127.0.0.1 gfsn888.com
 127.0.0.1 gfsyxh.com
+127.0.0.1 gfzx.com
 127.0.0.1 gg.99xk.com
 127.0.0.1 gg.hongyuetextile.com
 127.0.0.1 gg.thwt.net
@@ -7207,6 +7396,7 @@
 127.0.0.1 goldenoudhproperties.com
 127.0.0.1 golf114.net
 127.0.0.1 golfcoco.com
+127.0.0.1 golfpeople.cn
 127.0.0.1 golgs.com
 127.0.0.1 golinstra.com
 127.0.0.1 gomaisp858.com
@@ -7319,6 +7509,7 @@
 127.0.0.1 gtmvu.com
 127.0.0.1 gto.rubocn.net
 127.0.0.1 gtophr.com
+127.0.0.1 gtsyxx.com
 127.0.0.1 gtuan-dev.com
 127.0.0.1 gtw-china.com
 127.0.0.1 gtwmall.com
@@ -7355,6 +7546,7 @@
 127.0.0.1 guhaiss.com
 127.0.0.1 guichengrc.com
 127.0.0.1 guidiy.com
+127.0.0.1 guihua-china.com
 127.0.0.1 guihuaht.com
 127.0.0.1 guiyan-beijing.com
 127.0.0.1 guiyilou.com
@@ -7408,6 +7600,7 @@
 127.0.0.1 gx.91234m.com
 127.0.0.1 gx1.80au.com
 127.0.0.1 gx9763.com
+127.0.0.1 gxamsq.com
 127.0.0.1 gxbinfo.com
 127.0.0.1 gxbzx.org
 127.0.0.1 gxcfzs.com
@@ -7426,6 +7619,7 @@
 127.0.0.1 gxqyyq.com
 127.0.0.1 gxte.net
 127.0.0.1 gxwenrui.com
+127.0.0.1 gxzeyu.com
 127.0.0.1 gxzhxf.com
 127.0.0.1 gy-168.com
 127.0.0.1 gyc114.com
@@ -7486,6 +7680,7 @@
 127.0.0.1 gz-leeo.com
 127.0.0.1 gzlf007.com
 127.0.0.1 gzlhx.com
+127.0.0.1 gzlightinghotel.com
 127.0.0.1 gzlip.com
 127.0.0.1 gzliqun.com
 127.0.0.1 gzlq6688.com
@@ -7549,6 +7744,7 @@
 127.0.0.1 haidiannet.com
 127.0.0.1 haier4006.com
 127.0.0.1 haigyw.com
+127.0.0.1 haihetz.com
 127.0.0.1 haihn.info.gf
 127.0.0.1 hailincn.net
 127.0.0.1 haiminbd.com
@@ -7560,6 +7756,7 @@
 127.0.0.1 hairui77.com
 127.0.0.1 hairypiano.com
 127.0.0.1 haitaohaishen.com
+127.0.0.1 haitaotm.com
 127.0.0.1 haitwy.com
 127.0.0.1 haixianmark.com
 127.0.0.1 haixiljs.com
@@ -7567,6 +7764,7 @@
 127.0.0.1 haiyangsheji.com
 127.0.0.1 haiyangshen.com
 127.0.0.1 hajyjggw.com
+127.0.0.1 halinwood.com
 127.0.0.1 halo-idc.com
 127.0.0.1 hamshack.info
 127.0.0.1 hamyqy.com
@@ -7580,6 +7778,7 @@
 127.0.0.1 hanmtv.com
 127.0.0.1 hanpaifs.net
 127.0.0.1 hanshang.ac.cn
+127.0.0.1 hanshill.cn
 127.0.0.1 hao.1362828.com
 127.0.0.1 hao.20aabb.com
 127.0.0.1 hao.235xxoo.com
@@ -7721,6 +7920,7 @@
 127.0.0.1 hbtsjt.cn
 127.0.0.1 hbw588.com
 127.0.0.1 hbweige.com
+127.0.0.1 hbwqly.com
 127.0.0.1 hb-xs.cn
 127.0.0.1 hbyake.cn
 127.0.0.1 hbycr.com
@@ -7770,6 +7970,7 @@
 127.0.0.1 health.takungpao.com
 127.0.0.1 hebeiqu.021hancheng.com
 127.0.0.1 hebhg8.com
+127.0.0.1 hebmy120.com
 127.0.0.1 hebpi.cn
 127.0.0.1 heb-yh.com
 127.0.0.1 hechxm.com
@@ -7781,6 +7982,7 @@
 127.0.0.1 hefenji.org
 127.0.0.1 hehengmt.com
 127.0.0.1 heigouqi.mywjf.com
+127.0.0.1 heiheinn.cn
 127.0.0.1 heilig.com
 127.0.0.1 heilishi.com
 127.0.0.1 heima.com
@@ -7816,6 +8018,7 @@
 127.0.0.1 henuvu.52baixingshuo.com
 127.0.0.1 heping9.com
 127.0.0.1 heruiw.com
+127.0.0.1 herunoutdoor.com.cn
 127.0.0.1 herve.osa.pl
 127.0.0.1 herzogotc.com
 127.0.0.1 heshunzi.com
@@ -7840,6 +8043,7 @@
 127.0.0.1 hfrjgc.com
 127.0.0.1 hfsqdq.com
 127.0.0.1 hfwfjj.com
+127.0.0.1 hg.qust.edu.cn
 127.0.0.1 hg00.com
 127.0.0.1 hg00288.com
 127.0.0.1 hg0288.com
@@ -7951,6 +8155,7 @@
 127.0.0.1 hka365.com
 127.0.0.1 hkbc888.com
 127.0.0.1 hkblcs.com
+127.0.0.1 hkhxtc.com
 127.0.0.1 hkip5.com
 127.0.0.1 hkjrj.com
 127.0.0.1 hklyddzkj.com
@@ -8000,6 +8205,7 @@
 127.0.0.1 hm8k9ghtk.tk
 127.0.0.1 hmgpw.com
 127.0.0.1 hmmlh.com
+127.0.0.1 hmqzsp.com
 127.0.0.1 hmsfp.com
 127.0.0.1 hmshf.com
 127.0.0.1 hmv-mov.com
@@ -8033,6 +8239,7 @@
 127.0.0.1 hnhxbxg.com
 127.0.0.1 hnhyhs.com
 127.0.0.1 hnhyjh.com
+127.0.0.1 hnitat.com.cn
 127.0.0.1 hnjianxin.cn
 127.0.0.1 hnjiuye.net
 127.0.0.1 hnjuzhu.com
@@ -8061,6 +8268,7 @@
 127.0.0.1 hntlsm.com
 127.0.0.1 hntqcb.com
 127.0.0.1 hnwbls.com
+127.0.0.1 hnweicheng.com
 127.0.0.1 hnwgad.com
 127.0.0.1 hnwkhr.com
 127.0.0.1 hnwwq.com
@@ -8070,6 +8278,7 @@
 127.0.0.1 hnydtz.com
 127.0.0.1 hnyicai.net
 127.0.0.1 hnyouyidz.hnrich.net
+127.0.0.1 hnzghxh.com
 127.0.0.1 hnzyty.com
 127.0.0.1 hoco123.com
 127.0.0.1 hoho-2.cn
@@ -8252,6 +8461,7 @@
 127.0.0.1 huanyu588.com
 127.0.0.1 huaqiaohotel.net
 127.0.0.1 huar123.com
+127.0.0.1 huashunvip.com
 127.0.0.1 huasnn.com
 127.0.0.1 huasum.net
 127.0.0.1 huasxx.com
@@ -8374,6 +8584,7 @@
 127.0.0.1 hyd.me
 127.0.0.1 hydc007007.com
 127.0.0.1 hydjs.com
+127.0.0.1 hygfh.com
 127.0.0.1 hyhzyl.com
 127.0.0.1 hyict.com
 127.0.0.1 hyjimei.com
@@ -8404,6 +8615,7 @@
 127.0.0.1 hzdshj.com
 127.0.0.1 hzdvs.com
 127.0.0.1 hzdy998.com
+127.0.0.1 hzetek.com
 127.0.0.1 hzflgy.com
 127.0.0.1 hzfzty.com
 127.0.0.1 hzhsqx.com
@@ -8528,6 +8740,7 @@
 127.0.0.1 ieseg.cn
 127.0.0.1 iexx.com
 127.0.0.1 ifeii.com
+127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 ifilms.com.cn
 127.0.0.1 ifix8.com
 127.0.0.1 ifjnu.com
@@ -8556,6 +8769,7 @@
 127.0.0.1 ijinhuo.com
 127.0.0.1 ijmj.cn
 127.0.0.1 ijmoq.com
+127.0.0.1 ijwqes.com
 127.0.0.1 ikanpptv.com
 127.0.0.1 iklong.com.cn
 127.0.0.1 iklwumd.com
@@ -8566,6 +8780,7 @@
 127.0.0.1 iloli.com.cn
 127.0.0.1 ilovechu.net
 127.0.0.1 ilrpls.com
+127.0.0.1 im.tuyitu.com
 127.0.0.1 image.51nacs.com
 127.0.0.1 image.qndown.com
 127.0.0.1 images.7794.com
@@ -8658,6 +8873,7 @@
 127.0.0.1 incas.co.kr
 127.0.0.1 incon.ch.ma
 127.0.0.1 incorpnow.cn
+127.0.0.1 index.114115.com
 127.0.0.1 index.5944.net
 127.0.0.1 indodota.net
 127.0.0.1 inetfo.com
@@ -8673,6 +8889,7 @@
 127.0.0.1 informatscp.com
 127.0.0.1 informe.com
 127.0.0.1 ingscale.com
+127.0.0.1 ini.egkj.com
 127.0.0.1 ininu.com
 127.0.0.1 inkel-xmastrees.com
 127.0.0.1 inmvcb.nut.cc
@@ -8737,6 +8954,7 @@
 127.0.0.1 it2sc.com
 127.0.0.1 it376.com
 127.0.0.1 itakr.com
+127.0.0.1 itee.com.cn
 127.0.0.1 itempire.com.cn
 127.0.0.1 item-taobao.com-iodf.cx.cc
 127.0.0.1 itgzz.cn
@@ -8776,6 +8994,7 @@
 127.0.0.1 j.s.qiuliao.org
 127.0.0.1 j.union9500.com
 127.0.0.1 j.wmhackjobs.com
+127.0.0.1 j.zsjczs.com
 127.0.0.1 j0161.jieke8000.com
 127.0.0.1 j0642.jkgame8808.com
 127.0.0.1 j0695.jkgame9006.com
@@ -8808,6 +9027,7 @@
 127.0.0.1 jbilo.com
 127.0.0.1 jblongju.com
 127.0.0.1 jbpw6.copyright.ml
+127.0.0.1 jbqyc.gov.cn
 127.0.0.1 jbssa.cn
 127.0.0.1 jbwjj.com
 127.0.0.1 jbxskj.com
@@ -8836,6 +9056,7 @@
 127.0.0.1 jdem.cz
 127.0.0.1 jdgh.ujs.edu.cn
 127.0.0.1 jd-gy.cn
+127.0.0.1 jdhuaxia.com
 127.0.0.1 jdnxt.com
 127.0.0.1 jdsc360.com
 127.0.0.1 jdshuyr.tk
@@ -8876,6 +9097,7 @@
 127.0.0.1 jh.01lm.com
 127.0.0.1 jhafmy.com
 127.0.0.1 jhbfzs.com
+127.0.0.1 jh-city.cn
 127.0.0.1 jheeo.com
 127.0.0.1 jhfyqz.com
 127.0.0.1 jhg51.com
@@ -8897,6 +9119,7 @@
 127.0.0.1 jiachenggw.com
 127.0.0.1 jiachenggw.net
 127.0.0.1 jiacidian.com
+127.0.0.1 jiactech.com
 127.0.0.1 jiafengsl.com
 127.0.0.1 jiafenyuan.com
 127.0.0.1 jiahe20.com
@@ -8911,6 +9134,7 @@
 127.0.0.1 jiangqinxing.cn
 127.0.0.1 jiangsu.cfsn.cn
 127.0.0.1 jiangweijun.com
+127.0.0.1 jiangxi.jz5u.com
 127.0.0.1 jiangyachao.com
 127.0.0.1 jiangyintong.com
 127.0.0.1 jiankang.16xx.cc
@@ -8979,11 +9203,13 @@
 127.0.0.1 jingdong22.com
 127.0.0.1 jingetx.com
 127.0.0.1 jinghuashibao01.com
+127.0.0.1 jingjia.org
 127.0.0.1 jingjing.info
 127.0.0.1 jingjingvote.com
 127.0.0.1 jingle-design.com
 127.0.0.1 jingmaoguojicheng.com
 127.0.0.1 jingpin.lstc.edu.cn
+127.0.0.1 jingsen.com.cn
 127.0.0.1 jingtaiart.com
 127.0.0.1 jingtaolue.com
 127.0.0.1 jingying.psyin.com
@@ -8992,6 +9218,7 @@
 127.0.0.1 jinjj315.com
 127.0.0.1 jinlong01.com
 127.0.0.1 jinmaka.net
+127.0.0.1 jinmeii.com
 127.0.0.1 jinniou6.vicp.net
 127.0.0.1 jinniou9.vicp.net
 127.0.0.1 jinsbuo.com
@@ -9004,6 +9231,7 @@
 127.0.0.1 jinupai57.com
 127.0.0.1 jinxiang56.com
 127.0.0.1 jinximanor.com
+127.0.0.1 jinyumingyuan.com
 127.0.0.1 jinzhuozi.net
 127.0.0.1 jiobmnesu.pop.game3737.com
 127.0.0.1 jiongbaobao.org
@@ -9034,6 +9262,7 @@
 127.0.0.1 jjh.cnu.edu.cn
 127.0.0.1 jjhb.net
 127.0.0.1 jjhgame.58lcw.com
+127.0.0.1 jjhgame.arendonk.cn
 127.0.0.1 jjhuanjie.com
 127.0.0.1 jjj.longwg.com
 127.0.0.1 jjj777.skalet.net
@@ -9092,11 +9321,13 @@
 127.0.0.1 jm.e21.cn
 127.0.0.1 jmact.com
 127.0.0.1 jmbioanalises.com.br
+127.0.0.1 jmemse.com
 127.0.0.1 jmeyes.com
 127.0.0.1 jmfujia.com
 127.0.0.1 jmghys.cn
 127.0.0.1 jmiller3d.com
 127.0.0.1 jmitshop.com
+127.0.0.1 jm-job.com.cn
 127.0.0.1 jmjxc.com.cn
 127.0.0.1 jmjyxs.com
 127.0.0.1 jmming.com
@@ -9106,6 +9337,7 @@
 127.0.0.1 jmp8.5166.info
 127.0.0.1 jmp9.5166.info
 127.0.0.1 jmpenterprises.co.uk
+127.0.0.1 jmsdzc.com
 127.0.0.1 jmservice.servicos.ws
 127.0.0.1 jmtz555.com
 127.0.0.1 jmxai.com
@@ -9155,6 +9387,7 @@
 127.0.0.1 jpcake.com
 127.0.0.1 jpjsh.com
 127.0.0.1 jpkc.jnu.edu.cn
+127.0.0.1 jpkc.lzpcc.edu.cn
 127.0.0.1 jpkt.whu.edu.cn
 127.0.0.1 jplsz.com
 127.0.0.1 jpmcn.com
@@ -9261,6 +9494,7 @@
 127.0.0.1 jtosc.com
 127.0.0.1 jtuo.com.cn
 127.0.0.1 ju.yolofreshjuice.com
+127.0.0.1 ju33.com
 127.0.0.1 juan125.com
 127.0.0.1 juawu.com
 127.0.0.1 jubavu.52baixingshuo.com
@@ -9299,6 +9533,7 @@
 127.0.0.1 jwmdcjw1.ref.club
 127.0.0.1 jwsly.com
 127.0.0.1 jwzhwj.com
+127.0.0.1 jx.119cp.cn
 127.0.0.1 jx0916.cn
 127.0.0.1 jx3.xoyojy.com
 127.0.0.1 jxaoding.com
@@ -9308,6 +9543,7 @@
 127.0.0.1 jxdt2013.blog.163.com
 127.0.0.1 jxesp.com
 127.0.0.1 jxfcxx.com
+127.0.0.1 jxfy.syyyy.com.cn
 127.0.0.1 jxfzc.com
 127.0.0.1 jxfzhouse.com
 127.0.0.1 jxhmsk.com
@@ -9318,6 +9554,7 @@
 127.0.0.1 jxjpzt3.cf.gs
 127.0.0.1 jxjpzt5.cf.gs
 127.0.0.1 jxkqjj.com
+127.0.0.1 jxmjyl.com
 127.0.0.1 jxnacvc.wwdd.sx
 127.0.0.1 jxndps.com
 127.0.0.1 jxnyc.com
@@ -9349,6 +9586,7 @@
 127.0.0.1 jysspzt2.info.gf
 127.0.0.1 jysywu.com
 127.0.0.1 jytianming.com
+127.0.0.1 jywt2.newhua.com
 127.0.0.1 jyxcw.gov.cn
 127.0.0.1 jyxy.hfut.edu.cn
 127.0.0.1 jyy0909.com
@@ -9419,6 +9657,7 @@
 127.0.0.1 kaishikuanggao333.hmihc.com
 127.0.0.1 kaixin-you.com
 127.0.0.1 kaiyuanhw.com
+127.0.0.1 kajiho.bjerguotou.com
 127.0.0.1 kak2.u2m.ru
 127.0.0.1 kaku588.51sole.com
 127.0.0.1 kallyfashion.com
@@ -9434,10 +9673,12 @@
 127.0.0.1 kanjixie.com
 127.0.0.1 kankanmx.com
 127.0.0.1 kankanw.cn
+127.0.0.1 kanto.cc
 127.0.0.1 kaohao580.com
 127.0.0.1 kaoyan985.com
 127.0.0.1 kaoyaya.com
 127.0.0.1 karadenizlojistik.com.tr
+127.0.0.1 kashun.hk.cn
 127.0.0.1 kattming.com
 127.0.0.1 kaxya.net
 127.0.0.1 kayang617540.blog.163.com
@@ -9455,6 +9696,7 @@
 127.0.0.1 kbg.yaloe8027.com
 127.0.0.1 kble66.com.cn
 127.0.0.1 kbpfu.com
+127.0.0.1 kc.zjkszjzx.com
 127.0.0.1 kc_jsj.tjxxc.com
 127.0.0.1 kcbing.com
 127.0.0.1 kcehd.stcmeurope.com
@@ -9490,6 +9732,7 @@
 127.0.0.1 kepko.net
 127.0.0.1 keren.la
 127.0.0.1 kerterance.com
+127.0.0.1 keruicranes.com
 127.0.0.1 ke-shi.biz
 127.0.0.1 keshihk.biz
 127.0.0.1 keshihk.com
@@ -9524,6 +9767,7 @@
 127.0.0.1 kingkinglove.tk
 127.0.0.1 king-tour.com.cn
 127.0.0.1 kinlv.com
+127.0.0.1 kinslate.com
 127.0.0.1 kintstdio.com
 127.0.0.1 kioader.ht.cx
 127.0.0.1 kipcn.com
@@ -9682,6 +9926,7 @@
 127.0.0.1 kumingcheng.com
 127.0.0.1 kumkang.com.cn
 127.0.0.1 kunbang.9415jia.com
+127.0.0.1 kunbang.yinyue.fm
 127.0.0.1 kunpeng.hz01.host724.cn
 127.0.0.1 kunqiang.net
 127.0.0.1 kunshangwjx.com
@@ -9751,6 +9996,7 @@
 127.0.0.1 langge888.com
 127.0.0.1 langmanlove.com
 127.0.0.1 langqun1.com
+127.0.0.1 langtupx.com
 127.0.0.1 lanhaisj.com
 127.0.0.1 lanhecha315.com
 127.0.0.1 lanjiaer.net
@@ -9770,6 +10016,7 @@
 127.0.0.1 laocaijie.com
 127.0.0.1 laodaer.com
 127.0.0.1 laozhang.c5332.com
+127.0.0.1 laspfxb.com
 127.0.0.1 lasthy.hbxzc.net
 127.0.0.1 latmcq.cn
 127.0.0.1 lauramoorefashion.co.uk
@@ -9788,6 +10035,7 @@
 127.0.0.1 lbslsy.com
 127.0.0.1 lbxz.net
 127.0.0.1 lc.dglib.cn
+127.0.0.1 lc.licheng.gov.cn
 127.0.0.1 lc.piaodown.com
 127.0.0.1 lcacsc.cn
 127.0.0.1 lcjiancai.cn
@@ -9847,6 +10095,7 @@
 127.0.0.1 lewang118.com
 127.0.0.1 lewucn.com
 127.0.0.1 lex.ykdg.com.cn
+127.0.0.1 lexingtonshenyang.cn
 127.0.0.1 leyotao.com
 127.0.0.1 leyouswim.com
 127.0.0.1 leyu100.com
@@ -9923,6 +10172,7 @@
 127.0.0.1 libaotaobao.com
 127.0.0.1 libaowanggou.com
 127.0.0.1 libredegripe.com
+127.0.0.1 lichengjiazheng.com
 127.0.0.1 lidme.com
 127.0.0.1 liduguoji.woniuqie.com
 127.0.0.1 lielts.com
@@ -9959,6 +10209,7 @@
 127.0.0.1 lingluanqi.cn
 127.0.0.1 lingodome.com
 127.0.0.1 lingv68.com
+127.0.0.1 lingxianwenhua.com
 127.0.0.1 linjunzhe.com
 127.0.0.1 link.daolijia.com
 127.0.0.1 link.e-teng.cc
@@ -9981,6 +10232,7 @@
 127.0.0.1 lishui.jz5u.com
 127.0.0.1 list.ttkvod.com
 127.0.0.1 listen-it.com
+127.0.0.1 liteudx.cn.la
 127.0.0.1 liteurl.com
 127.0.0.1 liuchi001.com
 127.0.0.1 liufangccvv.com
@@ -10013,6 +10265,7 @@
 127.0.0.1 ljsbgy.com
 127.0.0.1 ljshym.com
 127.0.0.1 ljtytrdr.zayuka.com
+127.0.0.1 ljwlawyer.com
 127.0.0.1 ljx08100.blog.163.com
 127.0.0.1 lk.hnzzbs.com
 127.0.0.1 lk.hubte.com
@@ -10257,6 +10510,7 @@
 127.0.0.1 lyuce.com
 127.0.0.1 lyxgh.com
 127.0.0.1 lyxinya.cn
+127.0.0.1 lyxql.com
 127.0.0.1 lyxrr.mcro.org
 127.0.0.1 lyxuo.mcro.org
 127.0.0.1 lyxyzs.com
@@ -10285,6 +10539,7 @@
 127.0.0.1 m-.cc8.findhere.org
 127.0.0.1 m.chinese007.net
 127.0.0.1 m.ctop.cc
+127.0.0.1 m.dfml.cn
 127.0.0.1 m.fulixin.com.cn
 127.0.0.1 m.go-run.com.cn
 127.0.0.1 m.grskl.com.cn
@@ -10338,6 +10593,7 @@
 127.0.0.1 maca.ycxts.cn
 127.0.0.1 maca400.com
 127.0.0.1 maca8.tulifang.cc
+127.0.0.1 macerlighting.com
 127.0.0.1 machaozhong.com
 127.0.0.1 madao2011.com
 127.0.0.1 madoufl.com
@@ -10398,6 +10654,7 @@
 127.0.0.1 mariowilke.com
 127.0.0.1 mariwield.cz.cc
 127.0.0.1 market.jinti.com
+127.0.0.1 market.nduoa.com
 127.0.0.1 markstore.ir
 127.0.0.1 marmanjosurf.com.br
 127.0.0.1 marrydq.com
@@ -10464,6 +10721,7 @@
 127.0.0.1 mebel.by.ru.fqwerz.cn
 127.0.0.1 mecherry.com
 127.0.0.1 mecn.com.cn
+127.0.0.1 med.seu.edu.cn
 127.0.0.1 media.17leyi.com
 127.0.0.1 media.8jkx.com
 127.0.0.1 media.tianjimedia.com
@@ -10554,6 +10812,7 @@
 127.0.0.1 mhjr.poptopic.net
 127.0.0.1 mhjy99.com
 127.0.0.1 mhwlawyer.com
+127.0.0.1 mhx3b4zfzktanxj67xi.tianqiaohospital.com
 127.0.0.1 mhxp.net
 127.0.0.1 mi.99bitgc.org
 127.0.0.1 mi.ishufu.cn
@@ -10676,6 +10935,7 @@
 127.0.0.1 mm16.net
 127.0.0.1 mm3.t4009.com
 127.0.0.1 mm356dl.yyh8.net
+127.0.0.1 mm456.cn
 127.0.0.1 mm520mm.com
 127.0.0.1 mm765.com
 127.0.0.1 mma.org.cn
@@ -10708,6 +10968,7 @@
 127.0.0.1 mnw7.cz.cc
 127.0.0.1 mo3112.htjlgs.com
 127.0.0.1 moaoyo.com
+127.0.0.1 mobi.hhtx999.com
 127.0.0.1 mobile.apidai.com
 127.0.0.1 mobile009.com
 127.0.0.1 mo-cha.dtff.com.cn
@@ -10817,6 +11078,7 @@
 127.0.0.1 muzitong.tk
 127.0.0.1 muzqs.com
 127.0.0.1 mv17.com
+127.0.0.1 mv6228.com
 127.0.0.1 mvdlogistics.com
 127.0.0.1 mvnetwork.cl
 127.0.0.1 mvp-hengyuan.com
@@ -10981,11 +11243,13 @@
 127.0.0.1 new.egooad.com
 127.0.0.1 newbeiyang.com.cn
 127.0.0.1 newcp88.com
+127.0.0.1 new-hongji.com
 127.0.0.1 newidc.tk
 127.0.0.1 newimg.dadazou.com
 127.0.0.1 newimg.santaishiji.com.cn
 127.0.0.1 newkangsen.com
 127.0.0.1 newmicr.dynet.com
+127.0.0.1 newpathfound.org
 127.0.0.1 news.2duche.com
 127.0.0.1 news.eastpharm.com
 127.0.0.1 news.flashget.com
@@ -11089,6 +11353,7 @@
 127.0.0.1 niuniu3.cn
 127.0.0.1 niuniuchaoliu.cn
 127.0.0.1 niuniuwz.com
+127.0.0.1 niushe.com.img.800cdn.com
 127.0.0.1 nivbe.com
 127.0.0.1 nivel11.es
 127.0.0.1 nixia.cfsn.cn
@@ -11106,6 +11371,7 @@
 127.0.0.1 njjdyp.com
 127.0.0.1 njjzyzs.com
 127.0.0.1 njlhome.net
+127.0.0.1 njlydl.com
 127.0.0.1 njnsjd.com.cn
 127.0.0.1 njomdzx.com
 127.0.0.1 njourdry01.com
@@ -11128,6 +11394,7 @@
 127.0.0.1 nllys.com
 127.0.0.1 nlszdh.cn
 127.0.0.1 nm.onlinedown.net
+127.0.0.1 nm-cx.com
 127.0.0.1 nmdpw.com
 127.0.0.1 nmgcq.net
 127.0.0.1 nmgdj.com
@@ -11191,12 +11458,16 @@
 127.0.0.1 ns.taontc.com
 127.0.0.1 ns02.us
 127.0.0.1 ns2.easiwan.co.za
+127.0.0.1 ns53.benz111.com
+127.0.0.1 ns53.ljw006.com
 127.0.0.1 nscczgr.com
 127.0.0.1 nse88.com
 127.0.0.1 nssf.info.gf
 127.0.0.1 nszie.com
+127.0.0.1 nt002.cn
 127.0.0.1 ntblj.com
 127.0.0.1 ntbyhs.com
+127.0.0.1 ntcenoz.com
 127.0.0.1 ntd100.com
 127.0.0.1 ntpamy.cn
 127.0.0.1 ntvzh.com
@@ -11204,6 +11475,7 @@
 127.0.0.1 nugmachine.com
 127.0.0.1 nujimi.bjerguotou.com
 127.0.0.1 nuluyu.com
+127.0.0.1 nupeju.qiushibaikeba.com
 127.0.0.1 nuty11.com
 127.0.0.1 nux.co.za
 127.0.0.1 nvface.com
@@ -11247,6 +11519,7 @@
 127.0.0.1 oayya.com
 127.0.0.1 obd2-obd2.com
 127.0.0.1 obl66.com
+127.0.0.1 ocm.cn
 127.0.0.1 ocm8.com
 127.0.0.1 ocna-mures.org
 127.0.0.1 od.odnvcet.cn.com
@@ -11258,6 +11531,7 @@
 127.0.0.1 oem2.26907.com
 127.0.0.1 ofcz366.com
 127.0.0.1 ofeisi.com
+127.0.0.1 offer.imosi.com
 127.0.0.1 office3.ze.tc
 127.0.0.1 office4.ze.tc
 127.0.0.1 officeon.ch.ma
@@ -11285,13 +11559,16 @@
 127.0.0.1 okalub.com
 127.0.0.1 okcp68.com
 127.0.0.1 okdff.com
+127.0.0.1 oke123.com
 127.0.0.1 okfli.com
 127.0.0.1 okman999.com
 127.0.0.1 okok.asidbet.gr
 127.0.0.1 okok.freesa.org
+127.0.0.1 okqiandu.com
 127.0.0.1 okszty.com
 127.0.0.1 oktieta.com
 127.0.0.1 olbip.pl
+127.0.0.1 old.cul-studies.com
 127.0.0.1 old.shafc.edu.cn
 127.0.0.1 old.suburbs510.com
 127.0.0.1 olt.me
@@ -11338,6 +11615,7 @@
 127.0.0.1 orangehoetl.com.cn
 127.0.0.1 orenznakomstva.ru
 127.0.0.1 oretlw.pw
+127.0.0.1 oriental-cherry.com
 127.0.0.1 orsvx.com
 127.0.0.1 orsvy.com
 127.0.0.1 osnr.cn.com
@@ -11430,6 +11708,7 @@
 127.0.0.1 p2010b.zbjimg.com
 127.0.0.1 p2p.123nat.com
 127.0.0.1 p3.images22.51img1.com
+127.0.0.1 p3.shysoft.cn
 127.0.0.1 p30download.net
 127.0.0.1 p4949ep.com
 127.0.0.1 p5.highsms.com
@@ -11487,17 +11766,20 @@
 127.0.0.1 paopaoxy.com
 127.0.0.1 papa.lnwoo.net
 127.0.0.1 papa.one-power.net
+127.0.0.1 paqz.net
 127.0.0.1 paratix.ch
 127.0.0.1 paritzky.co.il
 127.0.0.1 parkelec.co.kr
 127.0.0.1 parking.139app.3322.org
 127.0.0.1 partshotlist.com
 127.0.0.1 parujas.com
+127.0.0.1 pass1116.dbankcloud.com
 127.0.0.1 patch.52lishi.com
 127.0.0.1 patch.wanyx.com
 127.0.0.1 patch1.51mag.com
 127.0.0.1 patch10.ali213.net
 127.0.0.1 patch2.800vod.com
+127.0.0.1 patch2.99ddd.com
 127.0.0.1 patch3.800vod.com
 127.0.0.1 patf.com
 127.0.0.1 pattystudio.com.cn
@@ -11528,12 +11810,14 @@
 127.0.0.1 payer123.xky-tech.com
 127.0.0.1 paygm.net
 127.0.0.1 pazyx.com
+127.0.0.1 pb.besoft.com.cn
 127.0.0.1 pbnk.ru
 127.0.0.1 pbtxw.com
 127.0.0.1 pbxcc.com
 127.0.0.1 pbxoa.com.cn
 127.0.0.1 pc.999178.com
 127.0.0.1 pc.ccweis.com
+127.0.0.1 pc.cqjhd.com
 127.0.0.1 pc.cyousoft.com
 127.0.0.1 pc.elxjx.com
 127.0.0.1 pc.ingday.com
@@ -11585,6 +11869,7 @@
 127.0.0.1 pengchengdc.com
 127.0.0.1 pengjing12.com
 127.0.0.1 pengjinshun.com
+127.0.0.1 pengpeng.uxhvhe.com
 127.0.0.1 pengpengshuo.com
 127.0.0.1 perfekt.us
 127.0.0.1 perpusfibundip.com
@@ -11659,6 +11944,7 @@
 127.0.0.1 ping.acc.sogou.com
 127.0.0.1 pingan.loouul.com
 127.0.0.1 pingan.nixindo.com
+127.0.0.1 pinggu.hnjmxy.cn
 127.0.0.1 pingminshop.com
 127.0.0.1 pingtaiceshi25.com
 127.0.0.1 pingtung.tv
@@ -11732,6 +12018,7 @@
 127.0.0.1 pornovanje.si
 127.0.0.1 porn-tube-xxx.ru
 127.0.0.1 port0.org
+127.0.0.1 portal.acaa.cn
 127.0.0.1 pos-001.cn
 127.0.0.1 pos-002.cn
 127.0.0.1 pos-003.cn
@@ -11799,9 +12086,11 @@
 127.0.0.1 ppw0i.com
 127.0.0.1 pq.mgwl668.com
 127.0.0.1 pq.o091i.com
+127.0.0.1 pr.sc.cn
 127.0.0.1 prdfsy.pw
 127.0.0.1 prehistoric.biz
 127.0.0.1 premierasp.com
+127.0.0.1 press.swjtu.edu.cn
 127.0.0.1 pressclub.com.pk
 127.0.0.1 primatechange.com
 127.0.0.1 primavera.hk
@@ -11815,6 +12104,7 @@
 127.0.0.1 protectyourpc-11.com
 127.0.0.1 provis.es
 127.0.0.1 psaaaaa.com
+127.0.0.1 psga.gov.cn
 127.0.0.1 pshsc.com
 127.0.0.1 pspmovie.com.cn
 127.0.0.1 psyeah.com
@@ -11933,6 +12223,7 @@
 127.0.0.1 qghhvf.com.cn
 127.0.0.1 qhd110.net
 127.0.0.1 qhdas.com
+127.0.0.1 qhdast.com
 127.0.0.1 qhddymm.com
 127.0.0.1 qhdhjgy.com
 127.0.0.1 qhdzpw.cn
@@ -11975,6 +12266,7 @@
 127.0.0.1 qing888.com
 127.0.0.1 qingcailan.cn
 127.0.0.1 qingcity.com.cn
+127.0.0.1 qingfo.com
 127.0.0.1 qinghuachuguo.com
 127.0.0.1 qingqianliu.dc96.com
 127.0.0.1 qingren.bjh868.com
@@ -12034,6 +12326,7 @@
 127.0.0.1 qq.7gys.com
 127.0.0.1 qq.com.my
 127.0.0.1 qq.d88.pw
+127.0.0.1 qq.eshowba.com
 127.0.0.1 qq.games-square.com
 127.0.0.1 qq.q38.pw
 127.0.0.1 qq.tedbuy.com
@@ -12072,6 +12365,7 @@
 127.0.0.1 qqq888.com
 127.0.0.1 qqq94.com
 127.0.0.1 qqqbbb.net
+127.0.0.1 qqqhw.com
 127.0.0.1 qqqq777.com
 127.0.0.1 qqrr.r.haizhangs.com
 127.0.0.1 qqshipin.duapp.com
@@ -12085,6 +12379,7 @@
 127.0.0.1 qqyuchang.net
 127.0.0.1 qsbyt.com
 127.0.0.1 qsdjj.com
+127.0.0.1 qshdch.com
 127.0.0.1 qsjld.com
 127.0.0.1 qst.otwooo.com
 127.0.0.1 qsuma.com
@@ -12134,6 +12429,7 @@
 127.0.0.1 qvod-www.aaa62.com
 127.0.0.1 qw2.dacais.com
 127.0.0.1 qwcpw.com
+127.0.0.1 qwe32d.com
 127.0.0.1 qwe456123qwe.3322.org
 127.0.0.1 qwelkw.8tanvn.com
 127.0.0.1 qwer33.linkpc.net
@@ -12142,6 +12438,7 @@
 127.0.0.1 qwsrbj.com
 127.0.0.1 qwsz.zzbj360.com
 127.0.0.1 qwvalg.com
+127.0.0.1 qxcanyin.com
 127.0.0.1 qxdgzx.com
 127.0.0.1 qxn.hicode.cn
 127.0.0.1 qxnon.com
@@ -12163,6 +12460,7 @@
 127.0.0.1 qyv1.com
 127.0.0.1 qyyjly.com
 127.0.0.1 qyzs.cc
+127.0.0.1 qz.ecblk.cn
 127.0.0.1 qzapsl.com
 127.0.0.1 qzdbxyk.com
 127.0.0.1 qzdnhs.com
@@ -12253,6 +12551,7 @@
 127.0.0.1 reocm.yjjzzx.com
 127.0.0.1 repligear.com
 127.0.0.1 report.llqizi.cn
+127.0.0.1 report.mobile009.com
 127.0.0.1 report.zengtaitc.com
 127.0.0.1 request.hysup.net
 127.0.0.1 res.d1ad.com
@@ -12264,6 +12563,7 @@
 127.0.0.1 restoe.org
 127.0.0.1 restreplica.com
 127.0.0.1 retophd.cn
+127.0.0.1 rewen8.com
 127.0.0.1 rf5858.com
 127.0.0.1 rfb.jc.gansu.gov.cn
 127.0.0.1 rfrzs.com
@@ -12353,6 +12653,7 @@
 127.0.0.1 rt3.getdownload.net
 127.0.0.1 rt4.getdownload.net
 127.0.0.1 rt85.com
+127.0.0.1 rtbn2.cn
 127.0.0.1 rtcc7y.pinandktg.com
 127.0.0.1 rtfgre.serverpit.com
 127.0.0.1 rtv.sabaj.pl
@@ -12380,6 +12681,7 @@
 127.0.0.1 ruzhounews.com
 127.0.0.1 rwx168.cc
 127.0.0.1 rx134.com
+127.0.0.1 rxhzgs.com
 127.0.0.1 rxue.com
 127.0.0.1 ryanbrain.stepladderonline.co.uk
 127.0.0.1 ryanjlowe.us
@@ -12412,6 +12714,7 @@
 127.0.0.1 s.zjdsq.com
 127.0.0.1 s0161.lsgame502.com
 127.0.0.1 s1.xiguaplayer.com
+127.0.0.1 s1.xlskad.cn
 127.0.0.1 s149789846.onlinehome.fr
 127.0.0.1 s1788.com
 127.0.0.1 s2.hka365.com
@@ -12431,6 +12734,7 @@
 127.0.0.1 s8s8s8.com
 127.0.0.1 s8s8s8.oss-cn-qingdao.aliyuncs.com
 127.0.0.1 s99988.com
+127.0.0.1 sa.bupt.edu.cn
 127.0.0.1 saaslib.sh.cn
 127.0.0.1 sacvzw.duapp.com
 127.0.0.1 sadafs.cc
@@ -12662,6 +12966,8 @@
 127.0.0.1 searchnexus.info
 127.0.0.1 Searchportal.yousee.com
 127.0.0.1 searchshrine.info
+127.0.0.1 seb.bjhbet88.net
+127.0.0.1 seb.hjc999.net
 127.0.0.1 secularpineapple.com
 127.0.0.1 secure.oi-installer4.com
 127.0.0.1 secure.oi-installer7.com
@@ -12683,6 +12989,7 @@
 127.0.0.1 seqing.sdjzw.cn
 127.0.0.1 seqsixxx.com
 127.0.0.1 sequoiapartners.com
+127.0.0.1 sermax-mobility.com
 127.0.0.1 serv.ahau.edu.cn
 127.0.0.1 servernux.com
 127.0.0.1 serw.clicksor.com
@@ -12811,6 +13118,7 @@
 127.0.0.1 shengda.co.cc
 127.0.0.1 shengdaaq.com
 127.0.0.1 shengdagoui.ce.ms
+127.0.0.1 shengdatravel.com
 127.0.0.1 shengmingstone.com
 127.0.0.1 shengrongdkl.com
 127.0.0.1 shengyang.tacocity.com.tw
@@ -13000,6 +13308,7 @@
 127.0.0.1 shuntaidanbao.com
 127.0.0.1 shunxiangyizhan.com
 127.0.0.1 shunyg.com
+127.0.0.1 shunyi.chinashunyi.com
 127.0.0.1 shuo.rsyts.cn
 127.0.0.1 shuoxin.sicdz.com
 127.0.0.1 shuyangvip.com
@@ -13018,6 +13327,7 @@
 127.0.0.1 shxlchpf.com
 127.0.0.1 shxmmr.com
 127.0.0.1 shxqh.com
+127.0.0.1 shxyjdkj.com
 127.0.0.1 shyczk.net
 127.0.0.1 shydiwl.com
 127.0.0.1 shyemao.com
@@ -13027,6 +13337,7 @@
 127.0.0.1 shytxedk.com
 127.0.0.1 shyuhua17.com
 127.0.0.1 shyunsin.com
+127.0.0.1 shyymed.com
 127.0.0.1 shzd188.com
 127.0.0.1 sh-zjtz.com
 127.0.0.1 shzydzgy.cn
@@ -13107,6 +13418,7 @@
 127.0.0.1 skachkavip.ru
 127.0.0.1 skg4.tk
 127.0.0.1 skinghouse.com
+127.0.0.1 skld3k.com
 127.0.0.1 sklr8.com
 127.0.0.1 sksoe.cn
 127.0.0.1 sku.dianlvdaquan.cn
@@ -13193,6 +13505,8 @@
 127.0.0.1 soft.33.la
 127.0.0.1 soft.5411.com
 127.0.0.1 soft.aojack.cn
+127.0.0.1 soft.chaiha.com
+127.0.0.1 soft.daweidian.com
 127.0.0.1 soft.ddooo.com
 127.0.0.1 soft.engworld.com.cn
 127.0.0.1 soft.foxtab.com
@@ -13213,11 +13527,14 @@
 127.0.0.1 soft2rent.com
 127.0.0.1 soft379.com
 127.0.0.1 softda.com
+127.0.0.1 softdown.goodgupiao.com
+127.0.0.1 softdownload.hao123.com
 127.0.0.1 softlicious.info
 127.0.0.1 soft-out1.aqgj.cn
 127.0.0.1 software.aicharm.cn
 127.0.0.1 software.apxsw8.cn
 127.0.0.1 software.huafugongmao.com
+127.0.0.1 software.k219.com
 127.0.0.1 software.liaoliao98.net
 127.0.0.1 software.lingxiu98.com.cn
 127.0.0.1 software.m013.com
@@ -13294,6 +13611,7 @@
 127.0.0.1 soywo517.com
 127.0.0.1 soywo889.com
 127.0.0.1 sozebu.52baixingshuo.com
+127.0.0.1 sp.qnpower.com
 127.0.0.1 sp.youthwant.com.tw
 127.0.0.1 sp3.yousee.com
 127.0.0.1 sp68.cn
@@ -13305,6 +13623,7 @@
 127.0.0.1 speed45.com
 127.0.0.1 speedite.cc
 127.0.0.1 spgjz.com
+127.0.0.1 sphardware-wg.com
 127.0.0.1 sphzfj.com
 127.0.0.1 spj234.com
 127.0.0.1 spjzzs.com
@@ -13399,6 +13718,7 @@
 127.0.0.1 starsmell.com
 127.0.0.1 stat.wauee.com
 127.0.0.1 stat-googlecom.cz.cc
+127.0.0.1 static.7xz.com
 127.0.0.1 static.acs86.com
 127.0.0.1 static.adshendun.com
 127.0.0.1 static.apic.51img1.com
@@ -13406,6 +13726,7 @@
 127.0.0.1 static.droidnetwork.net
 127.0.0.1 static.mediav.com
 127.0.0.1 static.nimp.org
+127.0.0.1 static.qiyi.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 static.wan.com
 127.0.0.1 static1983cdn.com
@@ -13444,11 +13765,13 @@
 127.0.0.1 sttc0817.com
 127.0.0.1 stu.sipfz.cn
 127.0.0.1 studiaweb.com
+127.0.0.1 study.gcp.edu.cn
 127.0.0.1 studyboy.cn
 127.0.0.1 stuff.cdn.biddingx.com
 127.0.0.1 stw.gov.cn
 127.0.0.1 su118.com
 127.0.0.1 su78.cn
+127.0.0.1 subeihm.com
 127.0.0.1 subsurfaceui.com
 127.0.0.1 subtrontext.ueuo.com
 127.0.0.1 succexy.net
@@ -13513,6 +13836,7 @@
 127.0.0.1 suxiying.com.cn
 127.0.0.1 suyou006.com
 127.0.0.1 suyou06.com
+127.0.0.1 suzhoukuaiji.com
 127.0.0.1 suzhouwitty.com
 127.0.0.1 suzhuangwutai.com
 127.0.0.1 sv360cn.com
@@ -13555,6 +13879,7 @@
 127.0.0.1 swyouc880.com
 127.0.0.1 swzg365.com
 127.0.0.1 sx.guguzhu.com
+127.0.0.1 sx.xinshide.com
 127.0.0.1 sx.yimiedu.com
 127.0.0.1 sx5296.com
 127.0.0.1 sx566.com
@@ -13563,6 +13888,7 @@
 127.0.0.1 sxcj.beingway.com
 127.0.0.1 sxckzk.com
 127.0.0.1 sxdayy.com
+127.0.0.1 sxdinglu.com
 127.0.0.1 sxfgq.com
 127.0.0.1 sxg.cytyqc.com
 127.0.0.1 sxg.sxxhly.com
@@ -13593,6 +13919,7 @@
 127.0.0.1 sxsuoyu.com
 127.0.0.1 sxtckm.com
 127.0.0.1 sx-tex.com
+127.0.0.1 sxtrds.com
 127.0.0.1 sxusa.cn
 127.0.0.1 sxwsb.com
 127.0.0.1 sxwzsj.com
@@ -13623,6 +13950,7 @@
 127.0.0.1 sygzn.com
 127.0.0.1 syhhssx.com
 127.0.0.1 syhjk.com
+127.0.0.1 syhxgs.com
 127.0.0.1 syhzzh.com
 127.0.0.1 syil.cc
 127.0.0.1 syimai.com
@@ -13671,6 +13999,7 @@
 127.0.0.1 syx.linanr.com
 127.0.0.1 syxhmm.com
 127.0.0.1 syxtc.com
+127.0.0.1 syxx.yzedu.net
 127.0.0.1 syyjyl.com
 127.0.0.1 syyy58.com
 127.0.0.1 syzchm.com
@@ -13703,6 +14032,7 @@
 127.0.0.1 szdx1688.com
 127.0.0.1 szdzsm.com
 127.0.0.1 szenze.com
+127.0.0.1 szesun.net
 127.0.0.1 szfstkj.cn
 127.0.0.1 szfucheng.net
 127.0.0.1 szfyz.com
@@ -13710,6 +14040,7 @@
 127.0.0.1 szhbsj.com
 127.0.0.1 szhfnpx.com
 127.0.0.1 szhncmsc.com
+127.0.0.1 szhono.com
 127.0.0.1 szhrkj.net
 127.0.0.1 szinwsr.wang
 127.0.0.1 szjf10086.cn
@@ -13780,6 +14111,7 @@
 127.0.0.1 t.160015.com
 127.0.0.1 t.1stcngame.com
 127.0.0.1 t.52kmk.com
+127.0.0.1 t.6211111.net
 127.0.0.1 t.7837.com
 127.0.0.1 t.7cip.com
 127.0.0.1 t.aligolf.com
@@ -13792,6 +14124,7 @@
 127.0.0.1 t.hao168.pw
 127.0.0.1 t.hq9988.com
 127.0.0.1 t.iacliuxue.org
+127.0.0.1 t.ju33.com
 127.0.0.1 t.ku63.com
 127.0.0.1 t.life0551.com
 127.0.0.1 t.opalcy.com
@@ -13861,10 +14194,17 @@
 127.0.0.1 taobao.114so.cn
 127.0.0.1 taobao.260260.com
 127.0.0.1 taobao.313yf.com
+127.0.0.1 taobao.colmban.com
 127.0.0.1 taobao.com.wojcicka.org
 127.0.0.1 taobao.comobao.com
+127.0.0.1 taobao.cpe24.com
+127.0.0.1 taobao.cytecko.com
+127.0.0.1 taobao.d2brus.com
 127.0.0.1 taobao.ht.cx
 127.0.0.1 taobao.jh596.com
+127.0.0.1 taobao.jyme.com
+127.0.0.1 taobao.kan2580.com
+127.0.0.1 taobao.uqotpmd.com
 127.0.0.1 taobaob.v92.cn
 127.0.0.1 taobaofijw.com
 127.0.0.1 taobaofrt1.wtkev.xyz
@@ -13925,6 +14265,7 @@
 127.0.0.1 tb222.com
 127.0.0.1 tb388.com
 127.0.0.1 tbao2014.com
+127.0.0.1 tbaomtb.com
 127.0.0.1 tbfftl.com
 127.0.0.1 tbl-kit.com
 127.0.0.1 tbphoto4.bababian.com
@@ -13999,6 +14340,7 @@
 127.0.0.1 test.bjcjfttx.com
 127.0.0.1 test.gaxtoa.com
 127.0.0.1 test.isdsm.com
+127.0.0.1 test.okserver.net
 127.0.0.1 test11.twspda.com
 127.0.0.1 test2a1f.ch.ma
 127.0.0.1 test4cdn.b0.upaiyun.com
@@ -14040,6 +14382,7 @@
 127.0.0.1 tg98.ftp21.net
 127.0.0.1 tgc.hlggtc.com
 127.0.0.1 tgcc.cn
+127.0.0.1 tgcyxx.com
 127.0.0.1 tghyfr.com
 127.0.0.1 tgjie.com
 127.0.0.1 tgkogga.com
@@ -14050,6 +14393,7 @@
 127.0.0.1 thaisn.com
 127.0.0.1 thankyou1.count.xj.cn
 127.0.0.1 thatsmytopper.com
+127.0.0.1 thbgw.com
 127.0.0.1 thcgirls.com
 127.0.0.1 thdqczt10.info.gf
 127.0.0.1 thdqczt9.info.gf
@@ -14097,6 +14441,7 @@
 127.0.0.1 tianmaotrip.net
 127.0.0.1 tianqitz.hs.vc
 127.0.0.1 tianshink.com
+127.0.0.1 tiantaifood.com
 127.0.0.1 tiantian618.com
 127.0.0.1 tiantianw528.com
 127.0.0.1 tianxiahuiyule.com
@@ -14279,9 +14624,11 @@
 127.0.0.1 toptenreport.com
 127.0.0.1 topzad.com
 127.0.0.1 topzd.com
+127.0.0.1 tor.nmenu.cn
 127.0.0.1 torreslink.com
 127.0.0.1 tosheng.com
 127.0.0.1 totten.se
+127.0.0.1 tou01.chiefbanks.com:8080
 127.0.0.1 touchdalian.com
 127.0.0.1 tougao01.cn
 127.0.0.1 tour2dl.com
@@ -14300,6 +14647,7 @@
 127.0.0.1 tpoprpq.tk
 127.0.0.1 tpp.dynet.com
 127.0.0.1 tpzh.tjtdjsb116.xyz
+127.0.0.1 tq.fumianxiaoxi.com
 127.0.0.1 tqbbb.cn
 127.0.0.1 tqkaoyan.com
 127.0.0.1 tqskk.com
@@ -14346,6 +14694,7 @@
 127.0.0.1 tt.downxia.com
 127.0.0.1 tt.muyuti.com
 127.0.0.1 tt1155.com
+127.0.0.1 tt16.xxzxveot.tk:9024
 127.0.0.1 tt356n.com
 127.0.0.1 tt3838.com
 127.0.0.1 tt5577.com
@@ -14438,6 +14787,7 @@
 127.0.0.1 tw3.5i6cn.info
 127.0.0.1 twannen.biaop.com
 127.0.0.1 twittmix.com
+127.0.0.1 two4.16admin.com
 127.0.0.1 two-seventy.com
 127.0.0.1 tw-sax.com
 127.0.0.1 twtv24.com
@@ -14503,6 +14853,7 @@
 127.0.0.1 tzhbf.com
 127.0.0.1 tzhot.net
 127.0.0.1 tzisha.com
+127.0.0.1 tzjinmin.com
 127.0.0.1 tzkuangshan.com
 127.0.0.1 tzlc.orc.st
 127.0.0.1 tzmygs.com
@@ -14522,6 +14873,7 @@
 127.0.0.1 u.1qwe3r.com
 127.0.0.1 u.3393.com
 127.0.0.1 u.3jy.com
+127.0.0.1 u.7654.com
 127.0.0.1 u.9lwan.com
 127.0.0.1 u.cpajz.com
 127.0.0.1 u.f1190.com
@@ -14574,6 +14926,7 @@
 127.0.0.1 uffq.jsbyy.org
 127.0.0.1 ufree.org
 127.0.0.1 ug.okhyl.cn.com
+127.0.0.1 ug00zvyevc3u0awq55.jdxqv.cn
 127.0.0.1 ugw688.com
 127.0.0.1 ugw889.com
 127.0.0.1 ugw898.com
@@ -14603,6 +14956,7 @@
 127.0.0.1 union.ll0o.com
 127.0.0.1 union.maccms.com
 127.0.0.1 union.pet9966.com
+127.0.0.1 union.xiaobai.com
 127.0.0.1 union.yoyolm.net
 127.0.0.1 unipower-china.com
 127.0.0.1 unitecontinentalmerger.com
@@ -14632,6 +14986,7 @@
 127.0.0.1 update.protectone.co.kr
 127.0.0.1 update.qixi55.com
 127.0.0.1 update.unmsg.net
+127.0.0.1 update.upx.wang
 127.0.0.1 update.woai310.com
 127.0.0.1 update2.pctutu.net
 127.0.0.1 updown.pcfaster.baidu.co.th
@@ -14649,8 +15004,10 @@
 127.0.0.1 uqidc.net
 127.0.0.1 urban028.com
 127.0.0.1 url.7958.com
+127.0.0.1 url.cncrk.com
 127.0.0.1 url.eastday.com
 127.0.0.1 url.orsoon.com
+127.0.0.1 url.pc0359.cn
 127.0.0.1 url.uuuwg.com
 127.0.0.1 urycf.com
 127.0.0.1 us.cnn.com
@@ -14662,6 +15019,7 @@
 127.0.0.1 usbao.net
 127.0.0.1 usdental-cn.com
 127.0.0.1 user.kuaibu.org
+127.0.0.1 user.yswm.net
 127.0.0.1 users.belgacom.net
 127.0.0.1 usplb.com
 127.0.0.1 ussweet.com
@@ -14701,6 +15059,7 @@
 127.0.0.1 v.ltmm20.com
 127.0.0.1 v.sphwq.net
 127.0.0.1 v.tg.com.cn
+127.0.0.1 v.ttrili.com
 127.0.0.1 v.vv49.com
 127.0.0.1 v.wqsph.net
 127.0.0.1 v.wqzyt.net
@@ -14728,6 +15087,7 @@
 127.0.0.1 vate.com.cn
 127.0.0.1 vaub.net
 127.0.0.1 vball.gdsdcm.cn
+127.0.0.1 vbaoyang.com
 127.0.0.1 vbg16z.cc
 127.0.0.1 vbgg9z14z.com
 127.0.0.1 vbghda.com.cn
@@ -15231,6 +15591,7 @@
 127.0.0.1 wawj58.cn
 127.0.0.1 waxchong.com
 127.0.0.1 wayzoon.com
+127.0.0.1 wb.justdied.com
 127.0.0.1 wb12318.com
 127.0.0.1 wbdxr.xyz
 127.0.0.1 wbo.zerpg.com.cn
@@ -15240,6 +15601,7 @@
 127.0.0.1 wcapi.9vh.net
 127.0.0.1 wcegn.com
 127.0.0.1 wchtcw.com
+127.0.0.1 wcte.com.cn
 127.0.0.1 wctzlc.com
 127.0.0.1 wd.bertintech.com
 127.0.0.1 wd.gyyx.pdagod.com
@@ -15270,8 +15632,10 @@
 127.0.0.1 web.77169.com
 127.0.0.1 web.bakehr.xyz
 127.0.0.1 web.bmbke.xyz
+127.0.0.1 web.cup.edu.cn
 127.0.0.1 web.dian520.com
 127.0.0.1 web.game536.com
+127.0.0.1 web.hnust.cn
 127.0.0.1 web.lfkys.com
 127.0.0.1 web.meinvhui.cc
 127.0.0.1 web.qgjk.org
@@ -15411,6 +15775,7 @@
 127.0.0.1 wibgz.com
 127.0.0.1 wiflycity.net
 127.0.0.1 willfater.net
+127.0.0.1 win345.cn
 127.0.0.1 win558.com
 127.0.0.1 winagri.com
 127.0.0.1 windoor168.com
@@ -15495,6 +15860,7 @@
 127.0.0.1 wolesnicy.info
 127.0.0.1 womanhospital.cn
 127.0.0.1 womanoholic.com
+127.0.0.1 womeigardening.com
 127.0.0.1 wonebar.com
 127.0.0.1 woodcarving.com
 127.0.0.1 wood-made-china.com
@@ -15572,9 +15938,12 @@
 127.0.0.1 wszdy.com
 127.0.0.1 wt.455356.com
 127.0.0.1 wt.918948.com
+127.0.0.1 wt.dns99.cn
+127.0.0.1 wt.mt30.com
 127.0.0.1 wt.soft711.com
 127.0.0.1 wt1.cngr.cn
 127.0.0.1 wt10.52z.com
+127.0.0.1 wt10.97sky.cn
 127.0.0.1 wt110.gameyx.com
 127.0.0.1 wt111.downyouxi.com
 127.0.0.1 wt112.downyouxi.com
@@ -15587,6 +15956,7 @@
 127.0.0.1 wtdown.2cto.com
 127.0.0.1 wtdown.bugwg.com
 127.0.0.1 wtdown1.xixiwg.com
+127.0.0.1 wtdpcb.com
 127.0.0.1 wtll.kupan.cc
 127.0.0.1 wttv.bjjwhttx.com
 127.0.0.1 wtyz.com
@@ -15664,6 +16034,7 @@
 127.0.0.1 ww.zuixun.net
 127.0.0.1 ww.zuowangzhanla.com
 127.0.0.1 ww.zw1099.com
+127.0.0.1 ww1.expo321.com
 127.0.0.1 ww1.ulinx.com
 127.0.0.1 ww2.fl909.com
 127.0.0.1 ww2.game747.cc
@@ -15698,6 +16069,7 @@
 127.0.0.1 www.00008888.com
 127.0.0.1 www.0000hg.com
 127.0.0.1 www.0000mgm.com
+127.0.0.1 www.0003mgm.com
 127.0.0.1 www.0004mgm.com
 127.0.0.1 www.000555.com
 127.0.0.1 www.000964.com
@@ -15717,6 +16089,7 @@
 127.0.0.1 www.005006.com
 127.0.0.1 www.005445.com
 127.0.0.1 www.0059.com
+127.0.0.1 www.006512.com
 127.0.0.1 www.006bai.net
 127.0.0.1 www.006sb.com
 127.0.0.1 www.0073388.com
@@ -15769,6 +16142,7 @@
 127.0.0.1 www.0280.net
 127.0.0.1 www.028anyi.com
 127.0.0.1 www.028buyu.com
+127.0.0.1 www.028it.com.cn
 127.0.0.1 www.028tc.cc
 127.0.0.1 www.028ymw.com
 127.0.0.1 www.0298669.cn
@@ -15807,6 +16181,7 @@
 127.0.0.1 www.0575sos.cn
 127.0.0.1 www.0576glasses.com
 127.0.0.1 www.0577yijia.com
+127.0.0.1 www.0577yx.com
 127.0.0.1 www.0579ly.cn
 127.0.0.1 www.058100.com
 127.0.0.1 www.058500.com
@@ -15849,10 +16224,12 @@
 127.0.0.1 www.0799zs.com
 127.0.0.1 www.07hhh.com
 127.0.0.1 www.07win.com
+127.0.0.1 www.0826114.net
 127.0.0.1 www.08368.com
 127.0.0.1 www.0851ggw.net
 127.0.0.1 www.0851seo.com
 127.0.0.1 www.0852028.net
+127.0.0.1 www.0866.com
 127.0.0.1 www.086piju.com
 127.0.0.1 www.0888zr.com
 127.0.0.1 www.0889.com
@@ -15936,6 +16313,7 @@
 127.0.0.1 www.1101wish.com
 127.0.0.1 www.110568.cn
 127.0.0.1 www.110qipaipingcew.com
+127.0.0.1 www.110v220v.com
 127.0.0.1 www.1110022.com
 127.0.0.1 www.1110099.com
 127.0.0.1 www.11109.com
@@ -15962,6 +16340,7 @@
 127.0.0.1 www.1122hg.com
 127.0.0.1 www.1122mt.com
 127.0.0.1 www.11322.com
+127.0.0.1 www.113447.com
 127.0.0.1 www.113639.com
 127.0.0.1 www.1138.com
 127.0.0.1 www.11444.com
@@ -15991,6 +16370,7 @@
 127.0.0.1 www.11ip.info
 127.0.0.1 www.11qifa.com
 127.0.0.1 www.11rere.com
+127.0.0.1 www.11rj.qyjh.com
 127.0.0.1 www.11sasa.com
 127.0.0.1 www.11xa.com
 127.0.0.1 www.11zr888.com
@@ -16004,6 +16384,7 @@
 127.0.0.1 www.1223vip.com
 127.0.0.1 www.122444.com
 127.0.0.1 www.123.cnctw.com
+127.0.0.1 www.12306.com
 127.0.0.1 www.123188.com
 127.0.0.1 www.123188.com.www.123188.com.www.123188.com.www.123188.com.www.123188.com.101.41237.585588.com
 127.0.0.1 www.1231888.com
@@ -16048,6 +16429,7 @@
 127.0.0.1 www.133737.cn
 127.0.0.1 www.133msc.com
 127.0.0.1 www.133sb.com
+127.0.0.1 www.134560.com
 127.0.0.1 www.135135.com
 127.0.0.1 www.135511.com
 127.0.0.1 www.13593928811.com
@@ -16066,6 +16448,7 @@
 127.0.0.1 www.13819.com
 127.0.0.1 www.138bocai.com
 127.0.0.1 www.138cash.com
+127.0.0.1 www.13903825045.com
 127.0.0.1 www.139398.com
 127.0.0.1 www.139dd.com
 127.0.0.1 www.139gouwu.net
@@ -16074,6 +16457,7 @@
 127.0.0.1 www.13e13e.cn
 127.0.0.1 www.13kxw.com
 127.0.0.1 www.13wo.com
+127.0.0.1 www.13xm.com
 127.0.0.1 www.13you9.cn
 127.0.0.1 www.143.f1010.com
 127.0.0.1 www.1444.com
@@ -16085,6 +16469,7 @@
 127.0.0.1 www.148hn.cn
 127.0.0.1 www.149669.com
 127.0.0.1 www.15017590123.com
+127.0.0.1 www.15018168886.com
 127.0.0.1 www.150se.com
 127.0.0.1 www.1532777.com
 127.0.0.1 www.15355.com
@@ -16125,6 +16510,7 @@
 127.0.0.1 www.168rnb.cn
 127.0.0.1 www.169006.com
 127.0.0.1 www.169xxoo.com
+127.0.0.1 www.16a6.com
 127.0.0.1 www.16ing.com
 127.0.0.1 www.16yes.com
 127.0.0.1 www.17175.com
@@ -16304,6 +16690,7 @@
 127.0.0.1 www.221188.com
 127.0.0.1 www.22132.com
 127.0.0.1 www.222127.com
+127.0.0.1 www.2222123.com
 127.0.0.1 www.22223600.com
 127.0.0.1 www.222238.com
 127.0.0.1 www.222256.com
@@ -16336,6 +16723,7 @@
 127.0.0.1 www.223you.com
 127.0.0.1 www.226636.com
 127.0.0.1 www.226639.com
+127.0.0.1 www.2266js.com
 127.0.0.1 www.227226.com
 127.0.0.1 www.228365365.com
 127.0.0.1 www.22881.com
@@ -16533,10 +16921,12 @@
 127.0.0.1 www.318chuanzang.com
 127.0.0.1 www.31vv.com
 127.0.0.1 www.31watch.com
+127.0.0.1 www.320823.com
 127.0.0.1 www.321jzw.com
 127.0.0.1 www.321see.com
 127.0.0.1 www.323777.com
 127.0.0.1 www.3239333.com
+127.0.0.1 www.323fuzhu.com
 127.0.0.1 www.325858.com
 127.0.0.1 www.325fs.com
 127.0.0.1 www.325gt.com
@@ -16572,6 +16962,7 @@
 127.0.0.1 www.3374.com
 127.0.0.1 www.3377qq.com
 127.0.0.1 www.33789.com
+127.0.0.1 www.3380000.com
 127.0.0.1 www.338801.com
 127.0.0.1 www.338829.com
 127.0.0.1 www.338895.com
@@ -16612,6 +17003,7 @@
 127.0.0.1 www.34819.com
 127.0.0.1 www.3483.com
 127.0.0.1 www.3485.com
+127.0.0.1 www.349999.com
 127.0.0.1 www.34hp.com
 127.0.0.1 www.350200.com
 127.0.0.1 www.35188.com
@@ -16661,10 +17053,12 @@
 127.0.0.1 www.365cuit.com
 127.0.0.1 www.365dvd7000.com
 127.0.0.1 www.365easy.net.cn
+127.0.0.1 www.365educ.cn
 127.0.0.1 www.365here.com
 127.0.0.1 www.365ind.cn
 127.0.0.1 www.365j.com
 127.0.0.1 www.365jiemeng.com
+127.0.0.1 www.365mango.com
 127.0.0.1 www.365meibai.com
 127.0.0.1 www.365tea.net
 127.0.0.1 www.365tpay.com
@@ -16770,6 +17164,7 @@
 127.0.0.1 www.3i.publicvm.com
 127.0.0.1 www.3iiii.com
 127.0.0.1 www.3kqipai.com
+127.0.0.1 www.3l4s.net
 127.0.0.1 www.3l8z.com
 127.0.0.1 www.3lijz.com
 127.0.0.1 www.3mfilms.cn
@@ -16798,6 +17193,7 @@
 127.0.0.1 www.4006160631.cn
 127.0.0.1 www.4006543021.com
 127.0.0.1 www.4006981311.com
+127.0.0.1 www.4009997279.com
 127.0.0.1 www.401999.com
 127.0.0.1 www.4026.com
 127.0.0.1 www.402999.com
@@ -16930,6 +17326,7 @@
 127.0.0.1 www.4aaxx.com
 127.0.0.1 www.4abcee.cn.com
 127.0.0.1 www.4ddxx.com
+127.0.0.1 www.4f5555.com
 127.0.0.1 www.4fsb.com
 127.0.0.1 www.4kc.cn
 127.0.0.1 www.4mm7f.com
@@ -16993,6 +17390,7 @@
 127.0.0.1 www.51998qp.com
 127.0.0.1 www.519bar.cn
 127.0.0.1 www.519yoyo.net
+127.0.0.1 www.51artedu.com
 127.0.0.1 www.51dd.com
 127.0.0.1 www.51ewang.com
 127.0.0.1 www.51fjw.com.cn
@@ -17000,6 +17398,7 @@
 127.0.0.1 www.51jetso.com
 127.0.0.1 www.51juben.com.cn
 127.0.0.1 www.51liaotian.net
+127.0.0.1 www.51lvyu.com
 127.0.0.1 www.51mdn.com
 127.0.0.1 www.51mxw.com
 127.0.0.1 www.51play.info
@@ -17013,6 +17412,7 @@
 127.0.0.1 www.51tmao.net
 127.0.0.1 www.51trainer.cn
 127.0.0.1 www.51wlian.com
+127.0.0.1 www.51xcedu.com
 127.0.0.1 www.51xf.net
 127.0.0.1 www.51xysj.com
 127.0.0.1 www.51yaowan.com
@@ -17035,6 +17435,7 @@
 127.0.0.1 www.520zhidao.cn
 127.0.0.1 www.521jzw.com
 127.0.0.1 www.521kly.com
+127.0.0.1 www.52209997.com
 127.0.0.1 www.52333.com
 127.0.0.1 www.523k.com
 127.0.0.1 www.5252b.com
@@ -17160,6 +17561,7 @@
 127.0.0.1 www.55lulu.com
 127.0.0.1 www.55pp.com
 127.0.0.1 www.55taose.com
+127.0.0.1 www.55tools.com
 127.0.0.1 www.55tutu.com
 127.0.0.1 www.55zr888.com
 127.0.0.1 www.560978.com
@@ -17167,6 +17569,7 @@
 127.0.0.1 www.561655.com
 127.0.0.1 www.561666.com
 127.0.0.1 www.5617.com.cn
+127.0.0.1 www.5619990.com
 127.0.0.1 www.562ss.com
 127.0.0.1 www.565a.com
 127.0.0.1 www.566868.com
@@ -17181,6 +17584,7 @@
 127.0.0.1 www.56bj56.com
 127.0.0.1 www.56bw.com
 127.0.0.1 www.56crm.net
+127.0.0.1 www.56hj.cn
 127.0.0.1 www.56jjj.com
 127.0.0.1 www.56mv.pw
 127.0.0.1 www.5757tt.com
@@ -17218,6 +17622,8 @@
 127.0.0.1 www.5883788.com
 127.0.0.1 www.5888sb.com
 127.0.0.1 www.588hhh.com
+127.0.0.1 www.589999.com
+127.0.0.1 www.58gnw.com
 127.0.0.1 www.58hezuoshe.com
 127.0.0.1 www.58jsw.com
 127.0.0.1 www.58news.net
@@ -17234,6 +17640,7 @@
 127.0.0.1 www.591kx.com
 127.0.0.1 www.591live.com
 127.0.0.1 www.591php.com
+127.0.0.1 www.591wsf.com
 127.0.0.1 www.591xzw.cn
 127.0.0.1 www.592geek.com
 127.0.0.1 www.592wg.cc
@@ -17287,6 +17694,7 @@
 127.0.0.1 www.5yaogao.cn
 127.0.0.1 www.5ybb.cn
 127.0.0.1 www.5yuango.com
+127.0.0.1 www.6.158pm.com
 127.0.0.1 www.6.523au.cn
 127.0.0.1 www.600049.com
 127.0.0.1 www.6000ka.com
@@ -17374,10 +17782,12 @@
 127.0.0.1 www.6611js.com
 127.0.0.1 www.661789.com
 127.0.0.1 www.66328.com
+127.0.0.1 www.664663.com
 127.0.0.1 www.665228.com
 127.0.0.1 www.665500.com
 127.0.0.1 www.665669.com
 127.0.0.1 www.665959.com
+127.0.0.1 www.66600619.com
 127.0.0.1 www.666158.cn
 127.0.0.1 www.66630.com
 127.0.0.1 www.666300.com
@@ -17417,6 +17827,7 @@
 127.0.0.1 www.66blg.com
 127.0.0.1 www.66dy.net
 127.0.0.1 www.66er.org
+127.0.0.1 www.66hggj.com
 127.0.0.1 www.66jzlm.com
 127.0.0.1 www.66ki.cn
 127.0.0.1 www.66kuiliguo.cn
@@ -17560,6 +17971,7 @@
 127.0.0.1 www.75bo.com
 127.0.0.1 www.75ea.com
 127.0.0.1 www.75hk.net
+127.0.0.1 www.75pp.com
 127.0.0.1 www.75xy.com
 127.0.0.1 www.760558.com
 127.0.0.1 www.761616.com
@@ -17635,6 +18047,7 @@
 127.0.0.1 www.778qipai8.com
 127.0.0.1 www.778-ty.com
 127.0.0.1 www.778youxii.com
+127.0.0.1 www.779.bbstoy.cn
 127.0.0.1 www.779vv.com
 127.0.0.1 www.779zz.com
 127.0.0.1 www.77baojian.cn
@@ -17929,6 +18342,7 @@
 127.0.0.1 www.888yx.com
 127.0.0.1 www.888zhenren.com
 127.0.0.1 www.888zjlm.com
+127.0.0.1 www.888zr.com
 127.0.0.1 www.888zr111.com
 127.0.0.1 www.888zr222.com
 127.0.0.1 www.888zr9.com
@@ -18017,10 +18431,12 @@
 127.0.0.1 www.900jpg.com
 127.0.0.1 www.901001.com
 127.0.0.1 www.9057.com
+127.0.0.1 www.906567.com
 127.0.0.1 www.907896.com
 127.0.0.1 www.908070.com
 127.0.0.1 www.908r.cn
 127.0.0.1 www.9090go.com
+127.0.0.1 www.909777.com
 127.0.0.1 www.909dh.com
 127.0.0.1 www.90fly.com
 127.0.0.1 www.90goo.com
@@ -18082,6 +18498,7 @@
 127.0.0.1 www.930273.com
 127.0.0.1 www.9312530.cn
 127.0.0.1 www.9348.cn
+127.0.0.1 www.9353.org
 127.0.0.1 www.938855.com
 127.0.0.1 www.93998.com
 127.0.0.1 www.939cm.com
@@ -18157,6 +18574,7 @@
 127.0.0.1 www.9800ok.cn
 127.0.0.1 www.980wyt.com
 127.0.0.1 www.98139.com
+127.0.0.1 www.981718.cn
 127.0.0.1 www.98188.com
 127.0.0.1 www.981abc.com
 127.0.0.1 www.982490.com
@@ -18186,6 +18604,7 @@
 127.0.0.1 www.9909.com
 127.0.0.1 www.991101.com
 127.0.0.1 www.991106.com
+127.0.0.1 www.9912.com
 127.0.0.1 www.991513.com
 127.0.0.1 www.991567.cn
 127.0.0.1 www.991sun.com
@@ -18205,6 +18624,7 @@
 127.0.0.1 www.9978fhy.com
 127.0.0.1 www.9978yx.com
 127.0.0.1 www.99797.com
+127.0.0.1 www.997993.com
 127.0.0.1 www.997wyt.com
 127.0.0.1 www.998006.com
 127.0.0.1 www.998116.com
@@ -18255,6 +18675,7 @@
 127.0.0.1 www.9a444.com
 127.0.0.1 www.9a777.com
 127.0.0.1 www.9a991.com
+127.0.0.1 www.9a998.com
 127.0.0.1 www.9a9a66.com
 127.0.0.1 www.9abet.com
 127.0.0.1 www.9bet365.com
@@ -18333,6 +18754,7 @@
 127.0.0.1 www.abcdaf.cn
 127.0.0.1 www.abcebiz.com
 127.0.0.1 www.abcjianzhi.com
+127.0.0.1 www.abcladies.com
 127.0.0.1 www.abcwm.net
 127.0.0.1 www.abflt.lt
 127.0.0.1 www.abkyt.com
@@ -18351,6 +18773,7 @@
 127.0.0.1 www.adcash.com
 127.0.0.1 www.adhesivecn.com
 127.0.0.1 www.admin6.com
+127.0.0.1 www.admlaw.cn
 127.0.0.1 www.adoberd.com
 127.0.0.1 www.adpro.com.cn
 127.0.0.1 www.adqoo.com.cn
@@ -18365,6 +18788,7 @@
 127.0.0.1 www.afhui.com
 127.0.0.1 www.afwfb.com
 127.0.0.1 www.ag3333.com
+127.0.0.1 www.ag8.com
 127.0.0.1 www.ag88.net
 127.0.0.1 www.ag888.com
 127.0.0.1 www.agent.yf618.com
@@ -18386,6 +18810,7 @@
 127.0.0.1 www.ahfeifei.cn
 127.0.0.1 www.ahgaoshi.cn
 127.0.0.1 www.ahgylm.com
+127.0.0.1 www.ahhpjj.com
 127.0.0.1 www.ahhsjs.gov.cn
 127.0.0.1 www.ahhtk.com
 127.0.0.1 www.ahhyty.cn
@@ -18393,7 +18818,9 @@
 127.0.0.1 www.ahlongxuan.com
 127.0.0.1 www.ahsyhy.cn
 127.0.0.1 www.ahtmall.com
+127.0.0.1 www.ahtmcm.com
 127.0.0.1 www.ahwblm.com
+127.0.0.1 www.ahxldgy.com
 127.0.0.1 www.ahyywz.com
 127.0.0.1 www.ahzz888.com
 127.0.0.1 www.ai.8888se.com
@@ -18414,6 +18841,7 @@
 127.0.0.1 www.ainuokang.net
 127.0.0.1 www.aipai18.com
 127.0.0.1 www.aiqingboke.com
+127.0.0.1 www.airuite.com
 127.0.0.1 www.aishiyaoye.com
 127.0.0.1 www.aisiqq.com
 127.0.0.1 www.aisjiaju.com
@@ -18498,8 +18926,10 @@
 127.0.0.1 www.anaiav.com
 127.0.0.1 www.anchor.co.jp
 127.0.0.1 www.anfu020.cn
+127.0.0.1 www.angelmm.com.cn
 127.0.0.1 www.anhuie.com
 127.0.0.1 www.anhuigarden.com
+127.0.0.1 www.anhui-rili.com
 127.0.0.1 www.anhuiyahai.cn
 127.0.0.1 www.anjianchina.cn
 127.0.0.1 www.anjiebofang.com
@@ -18513,6 +18943,7 @@
 127.0.0.1 www.anqiye.com
 127.0.0.1 www.anquanshu.com
 127.0.0.1 www.anquyese.com
+127.0.0.1 www.ansunre.com
 127.0.0.1 www.anti-virus-professional.com
 127.0.0.1 www.antivirusstudioware2010.com
 127.0.0.1 www.antongapk.com
@@ -18529,9 +18960,11 @@
 127.0.0.1 www.aobo1.com
 127.0.0.1 www.aobo11.com
 127.0.0.1 www.aobo777.com
+127.0.0.1 www.aobpp.com
 127.0.0.1 www.aobux.cn
 127.0.0.1 www.aoctian.com
 127.0.0.1 www.aoketanni.com
+127.0.0.1 www.aolikes.com
 127.0.0.1 www.aomem.com
 127.0.0.1 www.aomen1.com
 127.0.0.1 www.aomenduchanggonglue8.com
@@ -18541,12 +18974,14 @@
 127.0.0.1 www.aozhouxiong.com
 127.0.0.1 www.apanda.com.cn
 127.0.0.1 www.apeixin.com
+127.0.0.1 www.apexmeco.com
 127.0.0.1 www.apfuquan.com
 127.0.0.1 www.apink-panda.com
 127.0.0.1 www.apk57.com
 127.0.0.1 www.apkda.com
 127.0.0.1 www.apmey.com
 127.0.0.1 www.appbaby.cn
+127.0.0.1 www.apple1919.net
 127.0.0.1 www.apple1e.com
 127.0.0.1 www.aqbly.com
 127.0.0.1 www.aqcwyy.com
@@ -18567,12 +19002,14 @@
 127.0.0.1 www.artsandcrafts.co.uk
 127.0.0.1 www.artwealth.net
 127.0.0.1 www.as227.com
+127.0.0.1 www.asanscape.com
 127.0.0.1 www.asd12580.com
 127.0.0.1 www.asdsj222.com
 127.0.0.1 www.asgdhnt.com
 127.0.0.1 www.asiafun888.com
 127.0.0.1 www.ask668.com
 127.0.0.1 www.askfgz.com
+127.0.0.1 www.aslocal.com
 127.0.0.1 www.asoke.net
 127.0.0.1 www.aspia.cn
 127.0.0.1 www.asqcw.net
@@ -18669,6 +19106,7 @@
 127.0.0.1 www.babamao.com
 127.0.0.1 www.babuwater.cn
 127.0.0.1 www.baby178.com
+127.0.0.1 www.baby321.com
 127.0.0.1 www.badebade.com
 127.0.0.1 www.badoink.com
 127.0.0.1 www.bady365.com
@@ -18789,11 +19227,15 @@
 127.0.0.1 www.beidandy.com
 127.0.0.1 www.beihailyw.com
 127.0.0.1 www.beihaiyy.com
+127.0.0.1 www.beijing-dailijizhang.com
 127.0.0.1 www.beijingleader.com.cn
+127.0.0.1 www.beijingrenshidaili.com
+127.0.0.1 www.beinfo.cn
 127.0.0.1 www.beiqibx.com
 127.0.0.1 www.beiwo.tv
 127.0.0.1 www.bel88.com
 127.0.0.1 www.bellsnow.com
+127.0.0.1 www.bemrc.com
 127.0.0.1 www.ben0055.com
 127.0.0.1 www.ben0088.com
 127.0.0.1 www.ben2222.com
@@ -18836,6 +19278,7 @@
 127.0.0.1 www.beyondmv.com
 127.0.0.1 www.bf591.com
 127.0.0.1 www.bf92.com
+127.0.0.1 www.bffzb.com
 127.0.0.1 www.bfjy.ysjyweb.com
 127.0.0.1 www.bg0001.com
 127.0.0.1 www.bg0003.com
@@ -18856,6 +19299,7 @@
 127.0.0.1 www.bg9222.com
 127.0.0.1 www.bg9333.com
 127.0.0.1 www.bg9888.com
+127.0.0.1 www.bga100.cn
 127.0.0.1 www.bgca.ma
 127.0.0.1 www.bgfw6.cn
 127.0.0.1 www.bgl168.com
@@ -18863,6 +19307,7 @@
 127.0.0.1 www.bh887.com
 127.0.0.1 www.bhhzzd.com
 127.0.0.1 www.bhls0027.org
+127.0.0.1 www.bhpds.com
 127.0.0.1 www.bhuwlxy.edu.cn
 127.0.0.1 www.bhxdxx.com
 127.0.0.1 www.bianpingyou8.com
@@ -18876,6 +19321,8 @@
 127.0.0.1 www.binhai100.com
 127.0.0.1 www.binina.com
 127.0.0.1 www.binlixiang.com
+127.0.0.1 www.binzhoumama.com
+127.0.0.1 www.biochemlab.cn
 127.0.0.1 www.biowu.com
 127.0.0.1 www.bishou88.com
 127.0.0.1 www.bitspro.com
@@ -18888,6 +19335,7 @@
 127.0.0.1 www.bj12345.net
 127.0.0.1 www.bj1988.com
 127.0.0.1 www.bj551.com
+127.0.0.1 www.bjaimu.cn
 127.0.0.1 www.bjb0033.com
 127.0.0.1 www.bjb2222.com
 127.0.0.1 www.bjb22222.com
@@ -18901,6 +19349,7 @@
 127.0.0.1 www.bjb88888.com
 127.0.0.1 www.bjb9999.com
 127.0.0.1 www.bjbdesfd.tk
+127.0.0.1 www.bjbqzl.cn
 127.0.0.1 www.bjbrtj.cn
 127.0.0.1 www.bjbshkair.com
 127.0.0.1 www.bjcjdx.com
@@ -18947,10 +19396,12 @@
 127.0.0.1 www.bjmhjyiyu.tk
 127.0.0.1 www.bjmidkeng.tk
 127.0.0.1 www.bjmz.com.cn
+127.0.0.1 www.bjnavi.net
 127.0.0.1 www.bjomar.com
 127.0.0.1 www.bjp118.com
 127.0.0.1 www.bjpcj.com
 127.0.0.1 www.bjpgfw.com
+127.0.0.1 www.bjporshe4s.com
 127.0.0.1 www.bjprxy.com.cn
 127.0.0.1 www.bjqssj.com.cn
 127.0.0.1 www.bjrkax.com
@@ -18964,16 +19415,19 @@
 127.0.0.1 www.bjwcc.com
 127.0.0.1 www.bjwjsyzl.com
 127.0.0.1 www.bjxjgj.com
+127.0.0.1 www.bjxrykj.com
 127.0.0.1 www.bjyandkie.tk
 127.0.0.1 www.bjyb815.com
 127.0.0.1 www.bjyckz.com
 127.0.0.1 www.bjyhcyzb.com
 127.0.0.1 www.bjylzyy.com
 127.0.0.1 www.bjyzyz.net
+127.0.0.1 www.bjzaht.com
 127.0.0.1 www.bjzsjx.com
 127.0.0.1 www.bjzxch.com
 127.0.0.1 www.bjzxyk.tk
 127.0.0.1 www.bk6677.com
+127.0.0.1 www.bkook.cn
 127.0.0.1 www.bkvishwakarma.com
 127.0.0.1 www.bl0088.com
 127.0.0.1 www.bl011.com
@@ -19026,6 +19480,7 @@
 127.0.0.1 www.boee3.com
 127.0.0.1 www.bofangqipaihang.com
 127.0.0.1 www.bogo-gift.com
+127.0.0.1 www.bogou5.com
 127.0.0.1 www.bogou8866.com
 127.0.0.1 www.bogu1688.cn
 127.0.0.1 www.bojin-v8.net
@@ -19040,6 +19495,7 @@
 127.0.0.1 www.boluos.com.cn
 127.0.0.1 www.bonusbots.com
 127.0.0.1 www.boo001.com
+127.0.0.1 www.boquan.net
 127.0.0.1 www.borancit.hk
 127.0.0.1 www.boropower.com
 127.0.0.1 www.boso8.com
@@ -19054,12 +19510,12 @@
 127.0.0.1 www.bqnv.com
 127.0.0.1 www.brazzilmag.com
 127.0.0.1 www.bredv.cn
-127.0.0.1 www.brenz.pl
 127.0.0.1 www.brickhousebetty.net
 127.0.0.1 www.brtdb.com
 127.0.0.1 www.brtgw.com
 127.0.0.1 www.brunnhuber-immobilien.de
 127.0.0.1 www.bryeon.cn
+127.0.0.1 www.bryeon.net
 127.0.0.1 www.bs360.zik.dj
 127.0.0.1 www.bsdot.net
 127.0.0.1 www.bsdy.org
@@ -19076,6 +19532,7 @@
 127.0.0.1 www.btbole.com
 127.0.0.1 www.btdshutoff.com
 127.0.0.1 www.btgits.cn
+127.0.0.1 www.btkqfm.com
 127.0.0.1 www.btocblog.com
 127.0.0.1 www.btoe35.com
 127.0.0.1 www.bty168.com
@@ -19167,6 +19624,7 @@
 127.0.0.1 www.caogen-ic.com
 127.0.0.1 www.caohejing.org
 127.0.0.1 www.cao-min.com
+127.0.0.1 www.caoyanshuai.com
 127.0.0.1 www.cape.com.cn
 127.0.0.1 www.car388.com
 127.0.0.1 www.care999.cn
@@ -19198,6 +19656,7 @@
 127.0.0.1 www.cce.net.cn
 127.0.0.1 www.ccein.com
 127.0.0.1 www.cchssy.com
+127.0.0.1 www.cchykj.cn
 127.0.0.1 www.ccir.com.cn
 127.0.0.1 www.ccjdjg.com
 127.0.0.1 www.ccjingyougw.com
@@ -19209,6 +19668,7 @@
 127.0.0.1 www.ccsjk.com
 127.0.0.1 www.ccs-sxdt.com
 127.0.0.1 www.cctcpf.com
+127.0.0.1 www.cctv3.hco.cc
 127.0.0.1 www.ccycny.com
 127.0.0.1 www.cczgnrv.com
 127.0.0.1 www.cdb28.com
@@ -19226,6 +19686,7 @@
 127.0.0.1 www.cdqyys.com
 127.0.0.1 www.cdrca.com
 127.0.0.1 www.cdrelectrical.co.uk
+127.0.0.1 www.cdshida.com
 127.0.0.1 www.cdsjxr.com
 127.0.0.1 www.cd-syzx.com
 127.0.0.1 www.cdtfcc.com
@@ -19241,10 +19702,12 @@
 127.0.0.1 www.cencunt.com
 127.0.0.1 www.cengwangkaa.net
 127.0.0.1 www.cenpak.net
+127.0.0.1 www.centurywood.cn
 127.0.0.1 www.ceo2000.com
 127.0.0.1 www.ceo5566.com
 127.0.0.1 www.ceo5577.com
 127.0.0.1 www.ceocms.com
+127.0.0.1 www.cespeled.com
 127.0.0.1 www.cet456.com
 127.0.0.1 www.cet46jj.com
 127.0.0.1 www.cetcost.com
@@ -19269,6 +19732,7 @@
 127.0.0.1 www.cgxqw.com
 127.0.0.1 www.cgzx.cn
 127.0.0.1 www.chachengcn.com
+127.0.0.1 www.chaling518.com
 127.0.0.1 www.chancelee.cn
 127.0.0.1 www.changxing666.net
 127.0.0.1 www.changxinjj.com
@@ -19285,30 +19749,38 @@
 127.0.0.1 www.chda56.com
 127.0.0.1 www.chdb.com.cn
 127.0.0.1 www.che1.net.cn
+127.0.0.1 www.chemscl.com
 127.0.0.1 www.chenair.com
+127.0.0.1 www.chencome.com
 127.0.0.1 www.chendianbbs.com
 127.0.0.1 www.cheng108.com
 127.0.0.1 www.cheng666.com
 127.0.0.1 www.chengdu007.com
 127.0.0.1 www.chengxin.info.gf
+127.0.0.1 www.chengxinliansuo.com
 127.0.0.1 www.chenxufen.com
 127.0.0.1 www.chenyundream.com
 127.0.0.1 www.cheonsei.com
 127.0.0.1 www.chiachieh.com
 127.0.0.1 www.chibi.com.cn
+127.0.0.1 www.chidewang.cn
 127.0.0.1 www.chihevip.com
 127.0.0.1 www.china123.name
 127.0.0.1 www.china57w.com
 127.0.0.1 www.chinaaccedu.com
 127.0.0.1 www.china-aicc.org
+127.0.0.1 www.chinaaich.com
 127.0.0.1 www.china-baogao.com
 127.0.0.1 www.chinabuye.com
 127.0.0.1 www.chinachaye1.com
 127.0.0.1 www.chinacotton.net
 127.0.0.1 www.chinaecarts.com
+127.0.0.1 www.china-ecotour.com
 127.0.0.1 www.chinaelc.cn
 127.0.0.1 www.chinagaodi.com
+127.0.0.1 www.chinagcjx.com.cn
 127.0.0.1 www.chinagr.gov.cn
+127.0.0.1 www.chinagreen.gov.cn
 127.0.0.1 www.chinagylp.com
 127.0.0.1 www.china-hhrp.com
 127.0.0.1 www.china-hnmu.net
@@ -19318,10 +19790,12 @@
 127.0.0.1 www.chinajrdf.com
 127.0.0.1 www.chinakdt.cn
 127.0.0.1 www.chinakyxm.com
+127.0.0.1 www.china-landscape.net
 127.0.0.1 www.china-lions.cn
 127.0.0.1 www.chinalitao.com
 127.0.0.1 www.chinamct.cn
 127.0.0.1 www.china-nlg.com
+127.0.0.1 www.chinapanda.org.cn
 127.0.0.1 www.chinapccode.com
 127.0.0.1 www.chinasattoefl.org
 127.0.0.1 www.chinaskin.cn
@@ -19329,16 +19803,21 @@
 127.0.0.1 www.china-sssk.com
 127.0.0.1 www.chinastamps.com.cn
 127.0.0.1 www.chinatbx.com
+127.0.0.1 www.chinatyw.cn
 127.0.0.1 www.chinawbsyxh.com
 127.0.0.1 www.chinaweiku.com
 127.0.0.1 www.chinawenling.com
 127.0.0.1 www.china-wod.net
 127.0.0.1 www.china-xilida.com
 127.0.0.1 www.chinayy2008.com
+127.0.0.1 www.chinazehui.com
+127.0.0.1 www.china-zs.com
 127.0.0.1 www.chinazz.org.cn
+127.0.0.1 www.chinese315.org
 127.0.0.1 www.chinesechanel.com
 127.0.0.1 www.chinlan.com
 127.0.0.1 www.chnpe.com
+127.0.0.1 www.chntn.com
 127.0.0.1 www.chnyuwo.com
 127.0.0.1 www.chong01chong.com
 127.0.0.1 www.chongcaobk.com
@@ -19369,6 +19848,9 @@
 127.0.0.1 www.cits-sh.com.cn
 127.0.0.1 www.city925.com
 127.0.0.1 www.citystategarden.com
+127.0.0.1 www.cityxy.com
+127.0.0.1 www.cityy.cn
+127.0.0.1 www.civibright.com
 127.0.0.1 www.cixiangtang.com
 127.0.0.1 www.ciya.org.cn
 127.0.0.1 www.cj3300.com
@@ -19400,6 +19882,7 @@
 127.0.0.1 www.cn0358.com
 127.0.0.1 www.cn176.com
 127.0.0.1 www.cn179.cn
+127.0.0.1 www.cn81301.com
 127.0.0.1 www.cnata.com.cn
 127.0.0.1 www.cnbattle-blizzard.com
 127.0.0.1 www.cnbolai.com
@@ -19409,9 +19892,12 @@
 127.0.0.1 www.cndz.cc
 127.0.0.1 www.cne2008.com
 127.0.0.1 www.cnformalwear.com
+127.0.0.1 www.cngad.com
 127.0.0.1 www.cngbyy.com
+127.0.0.1 www.cngg.mobi
 127.0.0.1 www.cnhbdq.com
 127.0.0.1 www.cnhcsm.cn
+127.0.0.1 www.cnhmz.com
 127.0.0.1 www.cnhomerun.com
 127.0.0.1 www.cnhztz.com
 127.0.0.1 www.cnjcqy.com
@@ -19421,6 +19907,7 @@
 127.0.0.1 www.cnjxaep.com
 127.0.0.1 www.cnkaidi.cn
 127.0.0.1 www.cnkaluo.com
+127.0.0.1 www.cnkingyue.com
 127.0.0.1 www.cnlandrover.com
 127.0.0.1 www.cnlhtx.com
 127.0.0.1 www.cnlight-hid.cn
@@ -19448,6 +19935,7 @@
 127.0.0.1 www.cnwrq.com
 127.0.0.1 www.cnxljc.com
 127.0.0.1 www.cnyeyanmai.com
+127.0.0.1 www.cnyineng.com
 127.0.0.1 www.cnylgm.com
 127.0.0.1 www.cnzdy.com.cn
 127.0.0.1 www.cnzjtx.com
@@ -19459,6 +19947,8 @@
 127.0.0.1 www.cogghill.com
 127.0.0.1 www.colegioacesso.com.br
 127.0.0.1 www.colegioterranova.com
+127.0.0.1 www.collect-china.cn
+127.0.0.1 www.com002com.com
 127.0.0.1 www.com525.cn
 127.0.0.1 www.comeinbaby.com
 127.0.0.1 www.compai.com.cn
@@ -19499,6 +19989,7 @@
 127.0.0.1 www.cq027.cn
 127.0.0.1 www.cq0288.com
 127.0.0.1 www.cq0333.com
+127.0.0.1 www.cq0666.com
 127.0.0.1 www.cq0999.com
 127.0.0.1 www.cq77888.com
 127.0.0.1 www.cqbdkj.cn
@@ -19516,6 +20007,7 @@
 127.0.0.1 www.cqmrac.com
 127.0.0.1 www.cqorqx.com
 127.0.0.1 www.cqpst.cn
+127.0.0.1 www.cqqx999.com
 127.0.0.1 www.cqrcj.com
 127.0.0.1 www.cqrzth.com
 127.0.0.1 www.cqsanjian.com
@@ -19536,6 +20028,7 @@
 127.0.0.1 www.cr268.com
 127.0.0.1 www.cr508.com
 127.0.0.1 www.cr8000.com
+127.0.0.1 www.crcctc.com
 127.0.0.1 www.creamfish.com.cn
 127.0.0.1 www.creditcloud.cn
 127.0.0.1 www.crfwz.com
@@ -19547,6 +20040,7 @@
 127.0.0.1 www.cscaishui.com
 127.0.0.1 www.csdyzx.com
 127.0.0.1 www.csh.com.cn
+127.0.0.1 www.cshrxl.com
 127.0.0.1 www.csjhe.com
 127.0.0.1 www.csjuzhen.com
 127.0.0.1 www.csjyba.com
@@ -19632,6 +20126,7 @@
 127.0.0.1 www.cyener.cn
 127.0.0.1 www.cyhxian52.net.cn
 127.0.0.1 www.cyysbz.com
+127.0.0.1 www.cyzhongdao.com
 127.0.0.1 www.cyzibo.com
 127.0.0.1 www.cz002.cn
 127.0.0.1 www.cz89.com
@@ -19644,12 +20139,14 @@
 127.0.0.1 www.czgw8.com
 127.0.0.1 www.czgyxx.com
 127.0.0.1 www.czhld.com
+127.0.0.1 www.czhzcc.cn
 127.0.0.1 www.czjdwx.cn
 127.0.0.1 www.czjdxszjgzrylyh.com
 127.0.0.1 www.czjnj.com
 127.0.0.1 www.czkz580.com
 127.0.0.1 www.cznylsf.cn
 127.0.0.1 www.czpengxu.com
+127.0.0.1 www.czsc.net
 127.0.0.1 www.czsycjz.com
 127.0.0.1 www.cztour.cn
 127.0.0.1 www.cztvu.ah163.net
@@ -19672,6 +20169,7 @@
 127.0.0.1 www.d4eq.net
 127.0.0.1 www.d5559.com
 127.0.0.1 www.d5859.com
+127.0.0.1 www.d6060.com
 127.0.0.1 www.d6669.com
 127.0.0.1 www.d8001.com
 127.0.0.1 www.d8005.com
@@ -19699,7 +20197,9 @@
 127.0.0.1 www.da688.com
 127.0.0.1 www.dabaolin.com
 127.0.0.1 www.dachannels.com
+127.0.0.1 www.dachunstudio.com
 127.0.0.1 www.dada1000.com
+127.0.0.1 www.dadanpin.com.cn
 127.0.0.1 www.dadazou.com
 127.0.0.1 www.dadimiaopu.com
 127.0.0.1 www.daedian.com
@@ -19733,6 +20233,7 @@
 127.0.0.1 www.daiyanad.com
 127.0.0.1 www.daiyingying.com
 127.0.0.1 www.dajiacy.com
+127.0.0.1 www.dakacn.com
 127.0.0.1 www.dakeinc.com
 127.0.0.1 www.dalao333.com
 127.0.0.1 www.dalaobie.com
@@ -19757,6 +20258,7 @@
 127.0.0.1 www.dasilk.com
 127.0.0.1 www.datanguan.com
 127.0.0.1 www.datangyifang.com
+127.0.0.1 www.dataoying.com
 127.0.0.1 www.datasos.com.cn
 127.0.0.1 www.datawaregames.com
 127.0.0.1 www.datequ.net
@@ -19774,6 +20276,8 @@
 127.0.0.1 www.db3t.com
 127.0.0.1 www.dbhzp.com
 127.0.0.1 www.dbnnp.com
+127.0.0.1 www.dbrsj.com
+127.0.0.1 www.dbspace.cn
 127.0.0.1 www.dbswy.com
 127.0.0.1 www.dbzhshb.com
 127.0.0.1 www.dc0005.com
@@ -19825,6 +20329,7 @@
 127.0.0.1 www.dedeons.com
 127.0.0.1 www.dedewan.com
 127.0.0.1 www.dedewl.com
+127.0.0.1 www.defenseonline.com.cn
 127.0.0.1 www.deffiber.com
 127.0.0.1 www.delaiye.com
 127.0.0.1 www.denetci.gen.tr
@@ -19840,6 +20345,7 @@
 127.0.0.1 www.design-mould.com
 127.0.0.1 www.desktopenterprises.com
 127.0.0.1 www.detaybil.com
+127.0.0.1 www.de-yin.com
 127.0.0.1 www.deyunpicture.com
 127.0.0.1 www.dezhenjg.com
 127.0.0.1 www.df33300.com
@@ -19853,6 +20359,7 @@
 127.0.0.1 www.dfgh459.com
 127.0.0.1 www.dfghoaw.com
 127.0.0.1 www.dfh0011.com
+127.0.0.1 www.dfh0088.com
 127.0.0.1 www.dfhcow.com
 127.0.0.1 www.dfhxj.com
 127.0.0.1 www.dfxs001.com
@@ -19865,6 +20372,7 @@
 127.0.0.1 www.dgd8888.com
 127.0.0.1 www.dgdeeply.com
 127.0.0.1 www.dgfengtai.cn
+127.0.0.1 www.dgflint.com
 127.0.0.1 www.dgfyzp.com
 127.0.0.1 www.dg-hengming.cn
 127.0.0.1 www.dghjcar.com
@@ -19873,15 +20381,20 @@
 127.0.0.1 www.dgkunlun.com
 127.0.0.1 www.dglib.cn
 127.0.0.1 www.dgmeifeng.cn
+127.0.0.1 www.dgruilin.cn
 127.0.0.1 www.dgtianji.com
+127.0.0.1 www.dgtpyy.com
 127.0.0.1 www.dgwende.com
+127.0.0.1 www.dgwjez.com
 127.0.0.1 www.dg-xingyuan.com
 127.0.0.1 www.dh234.com
+127.0.0.1 www.dhbp.cn
 127.0.0.1 www.dhexrkd.com
 127.0.0.1 www.dhfast.com
 127.0.0.1 www.dhpda.com
 127.0.0.1 www.dhxljmzz.com
 127.0.0.1 www.dhxr.net
+127.0.0.1 www.diankan.cc
 127.0.0.1 www.dianziyanjieyan.com
 127.0.0.1 www.diaoyudao56.com
 127.0.0.1 www.diaozhenwang.com
@@ -19904,7 +20417,9 @@
 127.0.0.1 www.dingsanyi.com
 127.0.0.1 www.dingxingcn.com
 127.0.0.1 www.diploma666.com
+127.0.0.1 www.dishew.com
 127.0.0.1 www.disneyphoto.com.tw
+127.0.0.1 www.diwangjt.com
 127.0.0.1 www.diyishijia.com
 127.0.0.1 www.diyitouzhu.com
 127.0.0.1 www.diysoft.net
@@ -19936,6 +20451,7 @@
 127.0.0.1 www.dlmusz.org.cn
 127.0.0.1 www.dlpfdr.com
 127.0.0.1 www.dlshunshui.com
+127.0.0.1 www.dlslw.com
 127.0.0.1 www.dltz1069.com
 127.0.0.1 www.dlxjn.com
 127.0.0.1 www.dlyb.net
@@ -19947,6 +20463,7 @@
 127.0.0.1 www.dmc001.com
 127.0.0.1 www.dmqzkf.net
 127.0.0.1 www.dmqzkfw.com
+127.0.0.1 www.dmwq.com
 127.0.0.1 www.dnf25.com
 127.0.0.1 www.dnf27.com
 127.0.0.1 www.dnfso.com
@@ -19968,8 +20485,10 @@
 127.0.0.1 www.dongfangmeli.com
 127.0.0.1 www.dongfengpaotui.com
 127.0.0.1 www.dongguanhotel.com
+127.0.0.1 www.donghuiedu.com
 127.0.0.1 www.dongzhen.net
 127.0.0.1 www.dongzhenghe.com
+127.0.0.1 www.donstation.com
 127.0.0.1 www.dorconhw.com
 127.0.0.1 www.douwan28.net
 127.0.0.1 www.down888.com
@@ -19983,6 +20502,7 @@
 127.0.0.1 www.dpzlfl.com
 127.0.0.1 www.dqdfay.com
 127.0.0.1 www.dqfj.net
+127.0.0.1 www.dqg10.com
 127.0.0.1 www.dqqsgz.com
 127.0.0.1 www.dreamhouse1990.com
 127.0.0.1 www.drt88.com
@@ -20004,7 +20524,9 @@
 127.0.0.1 www.dsk.ambrae.net
 127.0.0.1 www.dslmcn.com
 127.0.0.1 www.dslmcn.net
+127.0.0.1 www.dsongbm.com
 127.0.0.1 www.dsswcs.com
+127.0.0.1 www.dsxm.com
 127.0.0.1 www.dsyl9188.com
 127.0.0.1 www.dt78.com
 127.0.0.1 www.dt84.com
@@ -20033,6 +20555,7 @@
 127.0.0.1 www.dushen0.com
 127.0.0.1 www.dushi99.com
 127.0.0.1 www.dushuhao.org
+127.0.0.1 www.dusmin.com
 127.0.0.1 www.duying.net
 127.0.0.1 www.duyyy.com
 127.0.0.1 www.duzhenet.com
@@ -20063,6 +20586,7 @@
 127.0.0.1 www.dyfxw.com
 127.0.0.1 www.dyh000.com
 127.0.0.1 www.dyhd.net
+127.0.0.1 www.dyhtez.com
 127.0.0.1 www.dyjtjz.net
 127.0.0.1 www.dylana.be
 127.0.0.1 www.dyouxi.info
@@ -20086,11 +20610,13 @@
 127.0.0.1 www.dzvtc.cn
 127.0.0.1 www.e0722.com.cn
 127.0.0.1 www.e0km.cn
+127.0.0.1 www.e127.com
 127.0.0.1 www.e2338.com
 127.0.0.1 www.e292wy.com
 127.0.0.1 www.e3838.com
 127.0.0.1 www.e68.ph
 127.0.0.1 www.e6bet.net
+127.0.0.1 www.e8803.com
 127.0.0.1 www.e889.cn
 127.0.0.1 www.e98765.info
 127.0.0.1 www.eaglef.com
@@ -20114,7 +20640,9 @@
 127.0.0.1 www.ecblk.com
 127.0.0.1 www.echopanpa.com
 127.0.0.1 www.ecm8.cn
+127.0.0.1 www.ecotourchina.com
 127.0.0.1 www.ecran-de-veille.org
+127.0.0.1 www.e-ctasia.com
 127.0.0.1 www.edgejoyce.cn
 127.0.0.1 www.edolnet.com
 127.0.0.1 www.educger.com
@@ -20123,11 +20651,13 @@
 127.0.0.1 www.eedsbdl.com
 127.0.0.1 www.eee-aa.com
 127.0.0.1 www.eee-bb.com
+127.0.0.1 www.eeecsh.com
 127.0.0.1 www.eeeqi.cn
 127.0.0.1 www.eefoot.com
 127.0.0.1 www.eeqrn.com
 127.0.0.1 www.eeti.com.cn
 127.0.0.1 www.efef16.com
+127.0.0.1 www.eflun.com
 127.0.0.1 www.eg580.com
 127.0.0.1 www.egukcam.com
 127.0.0.1 www.ehaoku.com
@@ -20139,6 +20669,7 @@
 127.0.0.1 www.ejunteng.com
 127.0.0.1 www.ekide.es
 127.0.0.1 www.ekm2.com
+127.0.0.1 www.electrest.net
 127.0.0.1 www.elettrocarnia.it
 127.0.0.1 www.elevenclub.cn
 127.0.0.1 www.elian100.com
@@ -20167,6 +20698,7 @@
 127.0.0.1 www.equipmentbuzzar.com
 127.0.0.1 www.erbao56.com
 127.0.0.1 www.erbaoma.com
+127.0.0.1 www.erisingapore.com
 127.0.0.1 www.ershisipin.com
 127.0.0.1 www.eryjhrtdj55.com
 127.0.0.1 www.esbrgl.com
@@ -20179,7 +20711,9 @@
 127.0.0.1 www.etoro.com
 127.0.0.1 www.eugenioc-club.com
 127.0.0.1 www.euhy.net
+127.0.0.1 www.euroasia-p.com
 127.0.0.1 www.europorte-italy.com
+127.0.0.1 www.eu-watch.cn
 127.0.0.1 www.eva968.com
 127.0.0.1 www.everblack.com
 127.0.0.1 www.eveyee.com
@@ -20193,6 +20727,7 @@
 127.0.0.1 www.ewtble.cn
 127.0.0.1 www.ewubo.net
 127.0.0.1 www.exbaiduer.com
+127.0.0.1 www.exbear.com
 127.0.0.1 www.excemba.com
 127.0.0.1 www.exmall.cn
 127.0.0.1 www.expireddomaingains.com
@@ -20246,6 +20781,7 @@
 127.0.0.1 www.fanke.sh.cn
 127.0.0.1 www.fanli.now88.cn
 127.0.0.1 www.fanwe8.com
+127.0.0.1 www.fanyigongsi.org.cn
 127.0.0.1 www.faomu.com
 127.0.0.1 www.fareonerk.com
 127.0.0.1 www.farida.cn
@@ -20290,6 +20826,7 @@
 127.0.0.1 www.feiyangba.in
 127.0.0.1 www.feiynghd.com
 127.0.0.1 www.feiyoung.com
+127.0.0.1 www.feiyudianzidian.com
 127.0.0.1 www.feloo.com
 127.0.0.1 www.fenbeiba.cn
 127.0.0.1 www.fenghuaju.com
@@ -20299,9 +20836,11 @@
 127.0.0.1 www.fenghuashi.com
 127.0.0.1 www.fengliutianxia.info
 127.0.0.1 www.fengnest.com
+127.0.0.1 www.fengshuijia.com.cn
 127.0.0.1 www.fengssdd.com
 127.0.0.1 www.fengyinfu.com
 127.0.0.1 www.fenjiu.com.cn
+127.0.0.1 www.fentiaoji.cn
 127.0.0.1 www.fenxi365.com
 127.0.0.1 www.feokj.cn
 127.0.0.1 www.ff989.com
@@ -20309,6 +20848,7 @@
 127.0.0.1 www.fff42.com
 127.0.0.1 www.fffls.cn
 127.0.0.1 www.ffyhnmjx.com
+127.0.0.1 www.fg05.com
 127.0.0.1 www.fg67.eu
 127.0.0.1 www.fg998.com
 127.0.0.1 www.fgfgfd.bcet.wang
@@ -20374,6 +20914,8 @@
 127.0.0.1 www.flyhigh.com.cn
 127.0.0.1 www.flytube.com
 127.0.0.1 www.fm120.com
+127.0.0.1 www.fm120.com.cn
+127.0.0.1 www.fmad.cc
 127.0.0.1 www.fml99.com
 127.0.0.1 www.fmsoft.ru
 127.0.0.1 www.fmya.cn
@@ -20410,9 +20952,12 @@
 127.0.0.1 www.fsiaq.com
 127.0.0.1 www.fslshg.com
 127.0.0.1 www.fsqtswj.com
+127.0.0.1 www.fsslg.com
+127.0.0.1 www.fs-sp.com
 127.0.0.1 www.fssu.cn
 127.0.0.1 www.fsus.cn
 127.0.0.1 www.fszhe.com
+127.0.0.1 www.fszzh.com
 127.0.0.1 www.ftckdmq.com
 127.0.0.1 www.ftp.neozeus.com
 127.0.0.1 www.fu678.com
@@ -20485,8 +21030,10 @@
 127.0.0.1 www.g2m2dv.com
 127.0.0.1 www.g3111.com
 127.0.0.1 www.g3l9h.com
+127.0.0.1 www.g558.cn
 127.0.0.1 www.g5yp.com
 127.0.0.1 www.g7b6.cc
+127.0.0.1 www.galwindoors.com
 127.0.0.1 www.galy669.com
 127.0.0.1 www.gambrellstreet.org
 127.0.0.1 www.game003.com
@@ -20507,6 +21054,7 @@
 127.0.0.1 www.game474.com
 127.0.0.1 www.game499.cm
 127.0.0.1 www.game499.cn.xfxfz.cn
+127.0.0.1 www.game499.tz-pump.com
 127.0.0.1 www.game5118.com
 127.0.0.1 www.game51688.com
 127.0.0.1 www.game51998.com
@@ -20556,6 +21104,8 @@
 127.0.0.1 www.gaofangji.net
 127.0.0.1 www.gaogaofa.com
 127.0.0.1 www.gaokaolu.com
+127.0.0.1 www.gaolishijia.com
+127.0.0.1 www.gaomi369.com
 127.0.0.1 www.gaowenboli.net
 127.0.0.1 www.garllan.com
 127.0.0.1 www.garne456.com
@@ -20563,6 +21113,7 @@
 127.0.0.1 www.garne906.com
 127.0.0.1 www.garnea456.com
 127.0.0.1 www.gasparchina.com
+127.0.0.1 www.gasspringcn.com
 127.0.0.1 www.gasuv.com
 127.0.0.1 www.gaysqy.net
 127.0.0.1 www.gbaoba.com
@@ -20635,6 +21186,7 @@
 127.0.0.1 www.gggay.com
 127.0.0.1 www.gggg29.com
 127.0.0.1 www.ggsai.com
+127.0.0.1 www.ggvod.net
 127.0.0.1 www.gh0007.com
 127.0.0.1 www.ghxyklcw.com
 127.0.0.1 www.ghzbsp88.com
@@ -20646,6 +21198,7 @@
 127.0.0.1 www.gjwzrj.com
 127.0.0.1 www.gjyx8.com
 127.0.0.1 www.gjzqxm.com
+127.0.0.1 www.gkcy003.com
 127.0.0.1 www.gkqgykt.com
 127.0.0.1 www.glintsun.com
 127.0.0.1 www.glj.xm.gov.cn
@@ -20676,7 +21229,9 @@
 127.0.0.1 www.gohkee.com
 127.0.0.1 www.gold195.com
 127.0.0.1 www.gold9966.net
+127.0.0.1 www.goldsource.cn
 127.0.0.1 www.goldsun.cn
+127.0.0.1 www.goldwisdom.com.cn
 127.0.0.1 www.goldzhan.com
 127.0.0.1 www.gome2009.cn
 127.0.0.1 www.gongfu1.com
@@ -20693,6 +21248,7 @@
 127.0.0.1 www.goooa.cn
 127.0.0.1 www.goovm.com
 127.0.0.1 www.goqi.org
+127.0.0.1 www.goring-re.com
 127.0.0.1 www.gos6.com
 127.0.0.1 www.gospelgamers.com
 127.0.0.1 www.gosto-webshop.nl
@@ -20711,8 +21267,10 @@
 127.0.0.1 www.gpxz.com
 127.0.0.1 www.gpzhengxing.com
 127.0.0.1 www.gqxtq.com
+127.0.0.1 www.gr-ahl.com
 127.0.0.1 www.grcommerce.com
 127.0.0.1 www.greatengine.com
+127.0.0.1 www.greenabl.com
 127.0.0.1 www.greenda.net
 127.0.0.1 www.greennmmy.com
 127.0.0.1 www.grhfdr.com
@@ -20731,6 +21289,7 @@
 127.0.0.1 www.gskd.org
 127.0.0.1 www.gspinchina.com
 127.0.0.1 www.gsplsyxx.com
+127.0.0.1 www.gssgfd.com
 127.0.0.1 www.gstarcad.com
 127.0.0.1 www.gsxbzl.com
 127.0.0.1 www.gsxws.com
@@ -20794,6 +21353,7 @@
 127.0.0.1 www.guotai-dc.com
 127.0.0.1 www.guovei.net.cn
 127.0.0.1 www.guovuo.com
+127.0.0.1 www.guowenbai.com
 127.0.0.1 www.guoyuanmiye.com
 127.0.0.1 www.gupiao168.com
 127.0.0.1 www.gusu99.com
@@ -20842,12 +21402,14 @@
 127.0.0.1 www.gz12520.com
 127.0.0.1 www.gz2277.com
 127.0.0.1 www.gz2299.com
+127.0.0.1 www.gz33z.com
 127.0.0.1 www.gz44nk.com
 127.0.0.1 www.gzarura.com
 127.0.0.1 www.gz-baidu.net
 127.0.0.1 www.gzb-king.com
 127.0.0.1 www.gzbnddntyy.tk
 127.0.0.1 www.gzchifei.com
+127.0.0.1 www.gzclyk.cn
 127.0.0.1 www.gzctzj.jqw.com
 127.0.0.1 www.gzcyop.com
 127.0.0.1 www.gzdayang.com.cn
@@ -20862,9 +21424,11 @@
 127.0.0.1 www.gzhuyuxin.com
 127.0.0.1 www.gzjal.com
 127.0.0.1 www.gzjbzs.com
+127.0.0.1 www.gzjcg2011.com
 127.0.0.1 www.gzjdz.net
 127.0.0.1 www.gzjindianzi.com
 127.0.0.1 www.gzjiumu.com
+127.0.0.1 www.gzjzsyzx.com
 127.0.0.1 www.gzkabana.com
 127.0.0.1 www.gzkcidjsje.tk
 127.0.0.1 www.gzkdike.tk
@@ -20943,6 +21507,7 @@
 127.0.0.1 www.haier77.com
 127.0.0.1 www.haigai.com.cn
 127.0.0.1 www.haigyw.com
+127.0.0.1 www.haihuangaudio.com
 127.0.0.1 www.haikourcw.com
 127.0.0.1 www.haili56.net
 127.0.0.1 www.hailunpiano.com
@@ -20952,6 +21517,7 @@
 127.0.0.1 www.haipao.com.cn
 127.0.0.1 www.haiqiang007.com
 127.0.0.1 www.haiqing168.ts.wagochina.com
+127.0.0.1 www.hair120.com
 127.0.0.1 www.haishao.com.cn
 127.0.0.1 www.haiyangsheji.com
 127.0.0.1 www.haiyangshen.com
@@ -20971,6 +21537,7 @@
 127.0.0.1 www.hanxuan2010.com
 127.0.0.1 www.hanyueyr.com
 127.0.0.1 www.hanzhengyangsheng.com
+127.0.0.1 www.hanzhongshop.com
 127.0.0.1 www.hao.gohi999.com
 127.0.0.1 www.hao.se.97xxoo.com
 127.0.0.1 www.hao117.net
@@ -20979,6 +21546,7 @@
 127.0.0.1 www.hao3956.cn
 127.0.0.1 www.hao88.org
 127.0.0.1 www.hao91.cn
+127.0.0.1 www.haobangshou.com
 127.0.0.1 www.haobaobe.cn
 127.0.0.1 www.haocet.org
 127.0.0.1 www.haochen072.com
@@ -21005,6 +21573,7 @@
 127.0.0.1 www.haoqingle.com
 127.0.0.1 www.haoqiwen.com
 127.0.0.1 www.haorengo.com
+127.0.0.1 www.haosheng8.com
 127.0.0.1 www.haosm.com
 127.0.0.1 www.haoswt.com
 127.0.0.1 www.haosyjsu.com
@@ -21019,6 +21588,7 @@
 127.0.0.1 www.harmonymall.cc
 127.0.0.1 www.hasft.com
 127.0.0.1 www.hateeyes.cn
+127.0.0.1 www.hayfkj.com
 127.0.0.1 www.hayyx.com
 127.0.0.1 www.hb0g.com
 127.0.0.1 www.hb3333.com
@@ -21033,8 +21603,10 @@
 127.0.0.1 www.hbei.com.cn
 127.0.0.1 www.hbf-vip.cn
 127.0.0.1 www.hbgcdx.cn
+127.0.0.1 www.hbhsjx.cn
 127.0.0.1 www.hbjmedu.com
 127.0.0.1 www.hbjnjt.com
+127.0.0.1 www.hbjsmz.com
 127.0.0.1 www.hbqq.com.cn
 127.0.0.1 www.hbruichuang.com
 127.0.0.1 www.hbsdhb.com
@@ -21046,6 +21618,7 @@
 127.0.0.1 www.hbtianxin.net
 127.0.0.1 www.hbtqcl.com
 127.0.0.1 www.hbuas.edu.cn
+127.0.0.1 www.hbwxzyy.com
 127.0.0.1 www.hbxxoo.com
 127.0.0.1 www.hbydhl.net
 127.0.0.1 www.hbys888.cn
@@ -21062,11 +21635,15 @@
 127.0.0.1 www.hcyhmp.com
 127.0.0.1 www.hd56114.com
 127.0.0.1 www.hd7395.com
+127.0.0.1 www.hd8888.com
 127.0.0.1 www.hdavec.org
 127.0.0.1 www.hdjck.com
 127.0.0.1 www.hdlx.cn
 127.0.0.1 www.hdodo.cn
+127.0.0.1 www.hdooo.com
 127.0.0.1 www.hdsq.cc
+127.0.0.1 www.hdxxpp.com
+127.0.0.1 www.hdxxpp.net
 127.0.0.1 www.hdy456.com
 127.0.0.1 www.hdys1986.com
 127.0.0.1 www.he1ihx.com
@@ -21109,6 +21686,7 @@
 127.0.0.1 www.heremade.cn
 127.0.0.1 www.hersax.cc
 127.0.0.1 www.hescn.com
+127.0.0.1 www.heshenkj.cn
 127.0.0.1 www.hets.lm.gov.cn
 127.0.0.1 www.hexiaobin.com
 127.0.0.1 www.hexie207.com
@@ -21119,9 +21697,12 @@
 127.0.0.1 www.hf-hongmayi.com
 127.0.0.1 www.hfhsjzx.com
 127.0.0.1 www.hfjdxyk.com
+127.0.0.1 www.hfjianghe.com
+127.0.0.1 www.hfkindyroo.com
 127.0.0.1 www.hfmreng.cn
 127.0.0.1 www.hfrjgc.com
 127.0.0.1 www.hfslib.com
+127.0.0.1 www.hfxmgm.com
 127.0.0.1 www.hg.fencibang.net
 127.0.0.1 www.hg.peshop.net
 127.0.0.1 www.hg.yy5106.net
@@ -21163,6 +21744,7 @@
 127.0.0.1 www.hg22345.com
 127.0.0.1 www.hg2240.com
 127.0.0.1 www.hg2288.cc
+127.0.0.1 www.hg2727.com
 127.0.0.1 www.hg2729.com
 127.0.0.1 www.hg2758.com
 127.0.0.1 www.hg2968.com
@@ -21277,10 +21859,12 @@
 127.0.0.1 www.hingwong.net
 127.0.0.1 www.hishige.com
 127.0.0.1 www.hishixiong.com
+127.0.0.1 www.hitachizg.com
 127.0.0.1 www.hitaow.com
 127.0.0.1 www.hitjob.net
 127.0.0.1 www.hiua.bax.om.hutantuiny.asia
 127.0.0.1 www.hiv1.cn
+127.0.0.1 www.hiyal.com
 127.0.0.1 www.hiyea.cn
 127.0.0.1 www.hj185.com
 127.0.0.1 www.hj5558.com
@@ -21304,6 +21888,7 @@
 127.0.0.1 www.hjc887.com
 127.0.0.1 www.hjc978.com
 127.0.0.1 www.hjccj.com
+127.0.0.1 www.hjcgxq.com
 127.0.0.1 www.hjdc01.com
 127.0.0.1 www.hjdc02.com
 127.0.0.1 www.hjdc1.com
@@ -21343,9 +21928,13 @@
 127.0.0.1 www.hkzhuangui.com
 127.0.0.1 www.hl37.com
 127.0.0.1 www.hl7788.com
+127.0.0.1 www.hlbzcl.nmxx.com
 127.0.0.1 www.hle888.com
+127.0.0.1 www.hl-ifb.com
 127.0.0.1 www.hljcfw.com
+127.0.0.1 www.hljgtxx.com
 127.0.0.1 www.hljlctz.com
+127.0.0.1 www.hljwygs.com
 127.0.0.1 www.hlmsjy.com
 127.0.0.1 www.hlp2p.com
 127.0.0.1 www.hls114.com
@@ -21369,11 +21958,14 @@
 127.0.0.1 www.hn168.cc
 127.0.0.1 www.hnbfebh.com
 127.0.0.1 www.hncopd.com
+127.0.0.1 www.hncshunyin.cn
 127.0.0.1 www.hncstv.com
 127.0.0.1 www.hnctcm.com.cn
 127.0.0.1 www.hndclub.com
+127.0.0.1 www.hnditu.com
 127.0.0.1 www.hndss.com
 127.0.0.1 www.hngkjsxx.net
+127.0.0.1 www.hngree.com
 127.0.0.1 www.hnhengxi.com.cn
 127.0.0.1 www.hnhhguolu.com
 127.0.0.1 www.hnjgdj.gov.cn
@@ -21395,9 +21987,12 @@
 127.0.0.1 www.hntvzn.com
 127.0.0.1 www.hntxzl.net
 127.0.0.1 www.hnwgyx.com
+127.0.0.1 www.hnxinglu.com
+127.0.0.1 www.hn-xyjt.com
 127.0.0.1 www.hnxyk8.com
 127.0.0.1 www.hnydmy.com
 127.0.0.1 www.hnydtz.com
+127.0.0.1 www.hnzc.cn
 127.0.0.1 www.hnzhuangmei.com
 127.0.0.1 www.hnzone.cn
 127.0.0.1 www.hnztdcgc.com
@@ -21431,6 +22026,7 @@
 127.0.0.1 www.hotcis.com
 127.0.0.1 www.hotel-plus.ru
 127.0.0.1 www.hotelsanbada.com
+127.0.0.1 www.hotsalsaclub.com
 127.0.0.1 www.houjiego.com
 127.0.0.1 www.houseware-tf.com
 127.0.0.1 www.houyongtv.com
@@ -21453,6 +22049,7 @@
 127.0.0.1 www.hrb93.gov.cn
 127.0.0.1 www.hrbgs.gov.cn
 127.0.0.1 www.hrb-korea.com
+127.0.0.1 www.hrl130.com
 127.0.0.1 www.hrpcc.com
 127.0.0.1 www.hrs5555.com
 127.0.0.1 www.hryspan.cn
@@ -21473,6 +22070,7 @@
 127.0.0.1 www.hsldy.com
 127.0.0.1 www.hsoso.info
 127.0.0.1 www.hssyt7.com
+127.0.0.1 www.hstcycy.com
 127.0.0.1 www.hstpv.com
 127.0.0.1 www.hstzsb.com
 127.0.0.1 www.hsxjm.com
@@ -21489,9 +22087,12 @@
 127.0.0.1 www.ht-2008.com
 127.0.0.1 www.ht6600.com
 127.0.0.1 www.htk09.com
+127.0.0.1 www.htmy666.com
+127.0.0.1 www.htpm.com.cn
 127.0.0.1 www.htszedu.cn
 127.0.0.1 www.htwsg.com
 127.0.0.1 www.hty889.com
+127.0.0.1 www.htyzs.cn
 127.0.0.1 www.hu138.com
 127.0.0.1 www.huace2000.com
 127.0.0.1 www.huadianjiuye.com
@@ -21513,6 +22114,7 @@
 127.0.0.1 www.huaqiang007.com
 127.0.0.1 www.huarense.com
 127.0.0.1 www.huaruan.com.cn
+127.0.0.1 www.huashengdl.net
 127.0.0.1 www.huasxx.com
 127.0.0.1 www.huatianxiaguojihs.com
 127.0.0.1 www.huawee.com
@@ -21520,6 +22122,8 @@
 127.0.0.1 www.huaxiayatong.com
 127.0.0.1 www.huaxincs.com
 127.0.0.1 www.huaxue17.com
+127.0.0.1 www.huayingbaowen.com
+127.0.0.1 www.huayitoys.cn
 127.0.0.1 www.huayoushenghuo.com
 127.0.0.1 www.huayue-china.net
 127.0.0.1 www.hubeipx.com
@@ -21535,6 +22139,7 @@
 127.0.0.1 www.hui0077.com
 127.0.0.1 www.hui1199.com
 127.0.0.1 www.hui2222.com
+127.0.0.1 www.huibojin.com
 127.0.0.1 www.huibozn.com
 127.0.0.1 www.huichunbao.cn
 127.0.0.1 www.huichunshugw.com
@@ -21543,13 +22148,16 @@
 127.0.0.1 www.huihuadianzi.com
 127.0.0.1 www.huiliphoto.com
 127.0.0.1 www.huiseen.com
+127.0.0.1 www.huisenjiancai.com
 127.0.0.1 www.huitchic.com
 127.0.0.1 www.huitongtouzi.com
 127.0.0.1 www.huiui.cn
 127.0.0.1 www.huizhongdai.com
 127.0.0.1 www.huizhongjixie.com
+127.0.0.1 www.hujiaochina.net
 127.0.0.1 www.humanmed.org
 127.0.0.1 www.hunancoal.gov.cn
+127.0.0.1 www.hungkei.cc
 127.0.0.1 www.hunlishijia.com
 127.0.0.1 www.huntgv.com
 127.0.0.1 www.huochew.net
@@ -21564,12 +22172,16 @@
 127.0.0.1 www.hwishj.com
 127.0.0.1 www.hwkj68.com
 127.0.0.1 www.hx799.com
+127.0.0.1 www.hxahv.com
 127.0.0.1 www.hxb01.com
 127.0.0.1 www.hxbbcom.com
+127.0.0.1 www.hxfsjc.com
 127.0.0.1 www.hxgt.net
 127.0.0.1 www.hxhrty.com
+127.0.0.1 www.hxjdbg.com
 127.0.0.1 www.hxlcyxy.cn
 127.0.0.1 www.hxlxh.com
+127.0.0.1 www.hxmy0515.com
 127.0.0.1 www.hxpingcewang.com
 127.0.0.1 www.hxqppcw.com
 127.0.0.1 www.hxshc.com.cn
@@ -21582,6 +22194,7 @@
 127.0.0.1 www.hy-bow.com
 127.0.0.1 www.hydpc.net
 127.0.0.1 www.hyh8100.cn
+127.0.0.1 www.hyliteled.com
 127.0.0.1 www.hyml588.com
 127.0.0.1 www.hyqfw.com
 127.0.0.1 www.hyqp168.com
@@ -21591,6 +22204,7 @@
 127.0.0.1 www.hyyjjx.com
 127.0.0.1 www.hz58.pw
 127.0.0.1 www.hzcaiyuan.com
+127.0.0.1 www.hzczzx.com
 127.0.0.1 www.hzdyzs.com
 127.0.0.1 www.hzelib.com
 127.0.0.1 www.hz-gz.net
@@ -21598,6 +22212,7 @@
 127.0.0.1 www.hzhjylzp.com
 127.0.0.1 www.hzhsqx.com
 127.0.0.1 www.hzhuiyiwang.com
+127.0.0.1 www.hzjinlaiem.com
 127.0.0.1 www.hzjnsh.com
 127.0.0.1 www.hzlztec.com
 127.0.0.1 www.hzmzy.com
@@ -21649,6 +22264,7 @@
 127.0.0.1 www.idc917.com
 127.0.0.1 www.idcha.net
 127.0.0.1 www.idea3m.com
+127.0.0.1 www.idohunsha.com
 127.0.0.1 www.i-drummer.com
 127.0.0.1 www.ieeel.com
 127.0.0.1 www.iehyienuoi.com
@@ -21656,6 +22272,7 @@
 127.0.0.1 www.iesuper.com
 127.0.0.1 www.ifg828.com
 127.0.0.1 www.ifid7.in
+127.0.0.1 www.ifmro.com
 127.0.0.1 www.ifotosnet.xpg.com.br
 127.0.0.1 www.ifunw.com.cn
 127.0.0.1 www.ighbb.com
@@ -21757,7 +22374,9 @@
 127.0.0.1 www.j0088.com
 127.0.0.1 www.j0333.com
 127.0.0.1 www.j0555.com
+127.0.0.1 www.j307.cn
 127.0.0.1 www.j3689.com
+127.0.0.1 www.j5859.com
 127.0.0.1 www.j6899.com
 127.0.0.1 www.ja1982.com
 127.0.0.1 www.jab888.com
@@ -21771,6 +22390,7 @@
 127.0.0.1 www.jbbbet.com
 127.0.0.1 www.jbgj.cn
 127.0.0.1 www.jbhgj.net
+127.0.0.1 www.jbjczl.com
 127.0.0.1 www.jbs600.com
 127.0.0.1 www.jc3344999.com
 127.0.0.1 www.jc5a.com
@@ -21802,6 +22422,7 @@
 127.0.0.1 www.jdxyh.com
 127.0.0.1 www.jdyxsc.com
 127.0.0.1 www.jeannejulio.com.br
+127.0.0.1 www.jet-prop.com
 127.0.0.1 www.jfgsw.com
 127.0.0.1 www.jfnykj.cn
 127.0.0.1 www.jfwcan.com
@@ -21834,6 +22455,7 @@
 127.0.0.1 www.jhg0033.com
 127.0.0.1 www.jhg0077.com
 127.0.0.1 www.jhg0088.com
+127.0.0.1 www.jhglassblock.com.cn
 127.0.0.1 www.jhhw.net
 127.0.0.1 www.jhjxwh.com
 127.0.0.1 www.jhk5.com
@@ -21853,6 +22475,7 @@
 127.0.0.1 www.jianchengxin.com
 127.0.0.1 www.jianfeitea.hk
 127.0.0.1 www.jiangnanhe.net
+127.0.0.1 www.jiangsan.net.cn
 127.0.0.1 www.jiangshan2.com
 127.0.0.1 www.jiangshan3.com
 127.0.0.1 www.jiangshan5.com
@@ -21868,6 +22491,7 @@
 127.0.0.1 www.jiaoyou5.net
 127.0.0.1 www.jiaoyouq.com
 127.0.0.1 www.jiaoyu123.cn
+127.0.0.1 www.jiaqigy.com
 127.0.0.1 www.jiasu.cc
 127.0.0.1 www.jiataidcs.com
 127.0.0.1 www.jiayuan518.com
@@ -21897,11 +22521,13 @@
 127.0.0.1 www.jinbao520.com
 127.0.0.1 www.jinbhuvish.com
 127.0.0.1 www.jinchangwuzi.com
+127.0.0.1 www.jincnc.com
 127.0.0.1 www.jindes.cn
 127.0.0.1 www.jindun88.com
 127.0.0.1 www.jingcaishop.com
 127.0.0.1 www.jinghuayda.com
 127.0.0.1 www.jingju.com
+127.0.0.1 www.jinglexi.com
 127.0.0.1 www.jinglong.cc
 127.0.0.1 www.jingqiao.org.cn
 127.0.0.1 www.jingrao.com
@@ -21913,6 +22539,7 @@
 127.0.0.1 www.jinhong08.com
 127.0.0.1 www.jinio.net
 127.0.0.1 www.jinji98.com
+127.0.0.1 www.jinlang-audio.com
 127.0.0.1 www.jinlong01.com
 127.0.0.1 www.jinlong03.com
 127.0.0.1 www.jinlong07.com
@@ -21965,7 +22592,9 @@
 127.0.0.1 www.jj0055.com
 127.0.0.1 www.jj516.net
 127.0.0.1 www.jjcyux.com
+127.0.0.1 www.jjfzg.com
 127.0.0.1 www.jjgxy.com.cn
+127.0.0.1 www.jjhgame.atcnk.com
 127.0.0.1 www.jjhgame.esoftcn.cn
 127.0.0.1 www.jjhlcl.com
 127.0.0.1 www.jjj15.com
@@ -21984,6 +22613,7 @@
 127.0.0.1 www.jjs123.com
 127.0.0.1 www.jjs33.com
 127.0.0.1 www.jjshoushen.com
+127.0.0.1 www.jjsjzx.net
 127.0.0.1 www.jjsmzj.com
 127.0.0.1 www.jjuu778.com
 127.0.0.1 www.jjzyy.cn
@@ -22004,6 +22634,7 @@
 127.0.0.1 www.jlttc.com
 127.0.0.1 www.jlxyk178.com
 127.0.0.1 www.jlxzy.com
+127.0.0.1 www.jlyfst.com
 127.0.0.1 www.jlyingze.com
 127.0.0.1 www.jlyqgs.cn
 127.0.0.1 www.jm6899.com
@@ -22025,6 +22656,7 @@
 127.0.0.1 www.jmxai.com
 127.0.0.1 www.jmxinghui.com
 127.0.0.1 www.jmxshhwl.com
+127.0.0.1 www.jn0933.com
 127.0.0.1 www.jndy.org
 127.0.0.1 www.jnfc.org
 127.0.0.1 www.jnh2233.com
@@ -22072,8 +22704,10 @@
 127.0.0.1 www.jp8855.com
 127.0.0.1 www.jpe.gs
 127.0.0.1 www.jpictures.cn
+127.0.0.1 www.jpkjz.com
 127.0.0.1 www.jpsgirl.com
 127.0.0.1 www.jptz8.com
+127.0.0.1 www.jpwb.name
 127.0.0.1 www.jqsmhotel.cn
 127.0.0.1 www.jqw999.com
 127.0.0.1 www.jrcg365.com
@@ -22135,6 +22769,7 @@
 127.0.0.1 www.jsyimeiji.com
 127.0.0.1 www.jsywdai.com
 127.0.0.1 www.jszgy.com
+127.0.0.1 www.jszjhuayu.com
 127.0.0.1 www.jt7218.com
 127.0.0.1 www.jtdx999.com
 127.0.0.1 www.jtjyzx.com
@@ -22197,11 +22832,16 @@
 127.0.0.1 www.jy290.com
 127.0.0.1 www.jy38.com
 127.0.0.1 www.jy99999.com
+127.0.0.1 www.jybysoft.com
 127.0.0.1 www.jycf.cc
 127.0.0.1 www.jycttc.com
 127.0.0.1 www.jyd5809.com
 127.0.0.1 www.jyd777.com
+127.0.0.1 www.jyfcwj.com
+127.0.0.1 www.jygbz.com
+127.0.0.1 www.jyhaijiao.com
 127.0.0.1 www.jyhgs8.com
+127.0.0.1 www.jypipe.com
 127.0.0.1 www.jyuytu.com
 127.0.0.1 www.jywang99.com
 127.0.0.1 www.jywymm.com
@@ -22228,6 +22868,7 @@
 127.0.0.1 www.k0h7wu.eu
 127.0.0.1 www.k1861.com
 127.0.0.1 www.k1ngbuy.com
+127.0.0.1 www.k2bug.com
 127.0.0.1 www.k4329.com
 127.0.0.1 www.k5555.com
 127.0.0.1 www.k6767.com
@@ -22238,7 +22879,9 @@
 127.0.0.1 www.kafeiji123.com
 127.0.0.1 www.kagemanden.com
 127.0.0.1 www.kaibo.in
+127.0.0.1 www.kaiyishiye.com
 127.0.0.1 www.kakarenti.com
+127.0.0.1 www.kalinston.com
 127.0.0.1 www.kamalbose.com
 127.0.0.1 www.kanaalxxx.nl
 127.0.0.1 www.kangtaiwang.net
@@ -22278,6 +22921,7 @@
 127.0.0.1 www.kele99.com
 127.0.0.1 www.keleti-mecsek.hu
 127.0.0.1 www.kemosi.com
+127.0.0.1 www.kendingyou.com
 127.0.0.1 www.kengaijob.com
 127.0.0.1 www.keniu78.com
 127.0.0.1 www.kerestedjian.com
@@ -22442,6 +23086,7 @@
 127.0.0.1 www.kwl888.net
 127.0.0.1 www.kx8168.com
 127.0.0.1 www.kx81788.com
+127.0.0.1 www.kxedu.gov.cn
 127.0.0.1 www.kxm.com
 127.0.0.1 www.kxm00.com
 127.0.0.1 www.kxm01.com
@@ -22461,6 +23106,7 @@
 127.0.0.1 www.kyy88.icoc.cc
 127.0.0.1 www.kyyz.net
 127.0.0.1 www.l88msc.com
+127.0.0.1 www.la0003.com
 127.0.0.1 www.la0111.com
 127.0.0.1 www.la033.com
 127.0.0.1 www.la055.com
@@ -22527,6 +23173,7 @@
 127.0.0.1 www.lcda99.com
 127.0.0.1 www.lcdjw.cn
 127.0.0.1 www.lcjxl.com
+127.0.0.1 www.lcpxw.com
 127.0.0.1 www.lcsdw.com
 127.0.0.1 www.lcxrmyy.cn
 127.0.0.1 www.ld6800.net
@@ -22562,6 +23209,7 @@
 127.0.0.1 www.leayea.com
 127.0.0.1 www.lebao99.com
 127.0.0.1 www.led-cool.com
+127.0.0.1 www.ledhuoyuan.cn
 127.0.0.1 www.lediantuan.cn
 127.0.0.1 www.lefa01.com
 127.0.0.1 www.lefa02.com
@@ -22595,9 +23243,11 @@
 127.0.0.1 www.lfjc35.com
 127.0.0.1 www.lfjjbw.com
 127.0.0.1 www.lfjyys.com
+127.0.0.1 www.lfktax.com.cn
 127.0.0.1 www.lfmeinv.com
 127.0.0.1 www.lfyipinjiayuan.com
 127.0.0.1 www.lfyuquan.com
+127.0.0.1 www.lgalxx.cn
 127.0.0.1 www.lgf01.com
 127.0.0.1 www.lgfxj8.com
 127.0.0.1 www.lghsh.com
@@ -22629,6 +23279,7 @@
 127.0.0.1 www.lianzhe.com
 127.0.0.1 www.liao9802.com
 127.0.0.1 www.liaoff.info
+127.0.0.1 www.lib.sicau.edu.cn
 127.0.0.1 www.liba.com
 127.0.0.1 www.libaowag.com
 127.0.0.1 www.libragroup.org
@@ -22665,6 +23316,7 @@
 127.0.0.1 www.listentoworld.com.cn
 127.0.0.1 www.lit.edu.cn
 127.0.0.1 www.litree.com
+127.0.0.1 www.liujin-lawyer.com
 127.0.0.1 www.liuxianglong.com
 127.0.0.1 www.liuxingang.com
 127.0.0.1 www.liuxue114.com
@@ -22679,12 +23331,14 @@
 127.0.0.1 www.lixuecheng.cn
 127.0.0.1 www.liyanyanyake.com
 127.0.0.1 www.liyezy.com
+127.0.0.1 www.lizhigushi8.com
 127.0.0.1 www.lj.rsjyzxgs.com
 127.0.0.1 www.ljh66.com
 127.0.0.1 www.ljps.net
 127.0.0.1 www.ljq.org.cn
 127.0.0.1 www.ljw001.com
 127.0.0.1 www.ljw003.com
+127.0.0.1 www.ljw0033.com
 127.0.0.1 www.lkdoo.com
 127.0.0.1 www.lkmy.com.cn
 127.0.0.1 www.lkqzsgw.com
@@ -22719,6 +23373,7 @@
 127.0.0.1 www.long228.com
 127.0.0.1 www.long788.com
 127.0.0.1 www.longba.cc
+127.0.0.1 www.longruibl.com
 127.0.0.1 www.longrundq.com
 127.0.0.1 www.longsenlight.com
 127.0.0.1 www.longtaifruit.com
@@ -22754,6 +23409,8 @@
 127.0.0.1 www.lrgzf.com
 127.0.0.1 www.lrt0.com
 127.0.0.1 www.lsde.com.cn
+127.0.0.1 www.lsfishing.com
+127.0.0.1 www.lshxh.cn
 127.0.0.1 www.lslx.net
 127.0.0.1 www.lsmzy.com
 127.0.0.1 www.lsqp6.com
@@ -22776,6 +23433,7 @@
 127.0.0.1 www.luhu088.com
 127.0.0.1 www.lukasu66.com
 127.0.0.1 www.lulujia.net
+127.0.0.1 www.lumbini-sh.com
 127.0.0.1 www.lumeili.com
 127.0.0.1 www.lunpanbaodian.com
 127.0.0.1 www.luocuiqing.com
@@ -22802,6 +23460,7 @@
 127.0.0.1 www.lwdfz.com.cn
 127.0.0.1 www.lwjem.com
 127.0.0.1 www.lwlm008.com
+127.0.0.1 www.lwyingcai.com
 127.0.0.1 www.lwzzby.com
 127.0.0.1 www.lx5588.com
 127.0.0.1 www.lxajj.gov.cn
@@ -22814,6 +23473,7 @@
 127.0.0.1 www.lxyk.net
 127.0.0.1 www.lxz416.com
 127.0.0.1 www.ly1399.com
+127.0.0.1 www.lyfb.com
 127.0.0.1 www.lyhlcc.com
 127.0.0.1 www.lyjinlaiya.com
 127.0.0.1 www.lyjy.zsqmgs.com
@@ -22840,6 +23500,7 @@
 127.0.0.1 www.lzmmil.cn
 127.0.0.1 www.lzmw.cn
 127.0.0.1 www.lzny.com
+127.0.0.1 www.lzqc.com.cn
 127.0.0.1 www.lzqlhqhbj.com
 127.0.0.1 www.lzqzj.com
 127.0.0.1 www.lzrc.gov.cn
@@ -22862,6 +23523,7 @@
 127.0.0.1 www.m0055.com
 127.0.0.1 www.m0066.com
 127.0.0.1 www.m0999.com
+127.0.0.1 www.m188.cc
 127.0.0.1 www.m1n2.cn
 127.0.0.1 www.m29999.com
 127.0.0.1 www.m3-1699.com
@@ -22914,6 +23576,7 @@
 127.0.0.1 www.mangroves.org.cn
 127.0.0.1 www.mantehua.com
 127.0.0.1 www.manuelhuertas.es
+127.0.0.1 www.marazkino.com
 127.0.0.1 www.marco-mty.com.mx
 127.0.0.1 www.markso.cn
 127.0.0.1 www.marriage001.com
@@ -22923,8 +23586,11 @@
 127.0.0.1 www.masrfb.gov.cn
 127.0.0.1 www.massz.cn
 127.0.0.1 www.masterbationlounge.com
+127.0.0.1 www.mastercamchina.com
 127.0.0.1 www.masterwanker.com
 127.0.0.1 www.materials99.com
+127.0.0.1 www.maxiaohui.com
+127.0.0.1 www.max-tech.cn
 127.0.0.1 www.maxtot.com
 127.0.0.1 www.maya777.com
 127.0.0.1 www.mayahuashi.com
@@ -22932,6 +23598,7 @@
 127.0.0.1 www.maydos.com.cn
 127.0.0.1 www.maywd.com
 127.0.0.1 www.mb171.cn
+127.0.0.1 www.mb71.cc
 127.0.0.1 www.mbd-china.com
 127.0.0.1 www.mc2012.cn
 127.0.0.1 www.mc298.com
@@ -22996,6 +23663,7 @@
 127.0.0.1 www.mhc006.com
 127.0.0.1 www.mhcssb.com
 127.0.0.1 www.mh-gezipu.com
+127.0.0.1 www.mhnrw.com
 127.0.0.1 www.mhwlawyer.com
 127.0.0.1 www.mi3333.com
 127.0.0.1 www.mi70666.com
@@ -23023,6 +23691,7 @@
 127.0.0.1 www.mingyue9.com
 127.0.0.1 www.mingzhu1.com
 127.0.0.1 www.minham.com.cn
+127.0.0.1 www.minuosi.cc
 127.0.0.1 www.minyao.org
 127.0.0.1 www.miouli.cn
 127.0.0.1 www.miqngfang.net
@@ -23079,9 +23748,11 @@
 127.0.0.1 www.mnism.com
 127.0.0.1 www.mnlala.com
 127.0.0.1 www.mo171.cn
+127.0.0.1 www.modoude.com
 127.0.0.1 www.moenos.cn
 127.0.0.1 www.moeoes.cn
 127.0.0.1 www.moershu.com
+127.0.0.1 www.mofenjishebei.com
 127.0.0.1 www.molalum.com
 127.0.0.1 www.mold-std.com
 127.0.0.1 www.molianmotou.com
@@ -23154,6 +23825,7 @@
 127.0.0.1 www.mtwomusica.com
 127.0.0.1 www.mtxys.com
 127.0.0.1 www.mtyaxxz.com
+127.0.0.1 www.mud-fire.com
 127.0.0.1 www.muralesarmani.it
 127.0.0.1 www.musicmoa.net
 127.0.0.1 www.mustso.com
@@ -23185,6 +23857,7 @@
 127.0.0.1 www.mykeylogger.com
 127.0.0.1 www.mylnmp.com
 127.0.0.1 www.mymollis.com
+127.0.0.1 www.my-pilots.com
 127.0.0.1 www.myr9.com
 127.0.0.1 www.myt126.com
 127.0.0.1 www.mytymm.com
@@ -23215,7 +23888,9 @@
 127.0.0.1 www.naifei.com
 127.0.0.1 www.nallfy.com.cn
 127.0.0.1 www.nanawg.com
+127.0.0.1 www.nanhai.gov.cn
 127.0.0.1 www.nanjing114.net
+127.0.0.1 www.nanny911.ca
 127.0.0.1 www.nanyy.com
 127.0.0.1 www.naonao8.cn
 127.0.0.1 www.natco99.com
@@ -23226,8 +23901,10 @@
 127.0.0.1 www.nb2010.com
 127.0.0.1 www.nba828.com
 127.0.0.1 www.nbaidu.com
+127.0.0.1 www.nb-bw.com
 127.0.0.1 www.nbcgw.net
 127.0.0.1 www.nbhsmm.com
+127.0.0.1 www.nbhualing.com
 127.0.0.1 www.nb-huatai.com
 127.0.0.1 www.nbqqqq.cn
 127.0.0.1 www.nbsqw.com
@@ -23271,8 +23948,10 @@
 127.0.0.1 www.newjianzhi.com
 127.0.0.1 www.newks7.com
 127.0.0.1 www.newks7.tk
+127.0.0.1 www.newrun.cn
 127.0.0.1 www.news.ent.lzmw.cn
 127.0.0.1 www.news0573.com.cn
+127.0.0.1 www.newsmop.com
 127.0.0.1 www.newsxj.icoc.cc
 127.0.0.1 www.newyx.net
 127.0.0.1 www.nextrus.cn
@@ -23281,6 +23960,7 @@
 127.0.0.1 www.nfmp.net
 127.0.0.1 www.nfnf1.com
 127.0.0.1 www.ngcxzs.com
+127.0.0.1 www.ngdhn.org.cn
 127.0.0.1 www.ngoer.net
 127.0.0.1 www.nhgdgs.com
 127.0.0.1 www.nhsy3.com
@@ -23302,6 +23982,7 @@
 127.0.0.1 www.niwyt1.com
 127.0.0.1 www.njcards.net
 127.0.0.1 www.njfubang.com
+127.0.0.1 www.njhfa.com
 127.0.0.1 www.njhoo.com
 127.0.0.1 www.njhuahao.com
 127.0.0.1 www.njjlstone.cn
@@ -23314,6 +23995,7 @@
 127.0.0.1 www.njwzy.net
 127.0.0.1 www.njzzw.com
 127.0.0.1 www.nkwcbs.com
+127.0.0.1 www.nlnq.com
 127.0.0.1 www.nlzsj.com
 127.0.0.1 www.nmdcdb.com
 127.0.0.1 www.nmec0rg.com
@@ -23325,9 +24007,11 @@
 127.0.0.1 www.nnbb1025.com
 127.0.0.1 www.nnjidi.com
 127.0.0.1 www.nnkang.com
+127.0.0.1 www.nnkebao.cn
 127.0.0.1 www.nnn13.com
 127.0.0.1 www.nnnrrr.com
 127.0.0.1 www.nnppp.com
+127.0.0.1 www.nnsnzx.com
 127.0.0.1 www.nnyp.net.cn
 127.0.0.1 www.no216.com
 127.0.0.1 www.nobaddy.com
@@ -23361,6 +24045,7 @@
 127.0.0.1 www.nsxyh.com
 127.0.0.1 www.nt19.net
 127.0.0.1 www.nt-blyq.com
+127.0.0.1 www.ntc-who.org
 127.0.0.1 www.ntdfbp.com
 127.0.0.1 www.ntfcdz.com
 127.0.0.1 www.ntkjly.com
@@ -23416,6 +24101,7 @@
 127.0.0.1 www.ok100golf.com
 127.0.0.1 www.ok131.com
 127.0.0.1 www.ok7k.com
+127.0.0.1 www.okeap.net
 127.0.0.1 www.okfad.net
 127.0.0.1 www.oklfloor.com
 127.0.0.1 www.okppk.cn
@@ -23441,6 +24127,7 @@
 127.0.0.1 www.ooxx1.com
 127.0.0.1 www.opalcy.com
 127.0.0.1 www.opendemo.cn
+127.0.0.1 www.openedv.com
 127.0.0.1 www.opi-cn.com
 127.0.0.1 www.oq120.com
 127.0.0.1 www.oranpage.com
@@ -23468,6 +24155,7 @@
 127.0.0.1 www.ow45.eu
 127.0.0.1 www.oy998.com
 127.0.0.1 www.oz01.com
+127.0.0.1 www.ozono-sanificazione.it
 127.0.0.1 www.p04d.eu
 127.0.0.1 www.p289.com
 127.0.0.1 www.p2pwhy.cn
@@ -23496,6 +24184,7 @@
 127.0.0.1 www.panglingsi.com
 127.0.0.1 www.panimgr.pl
 127.0.0.1 www.panruikeji.com
+127.0.0.1 www.panuni.com
 127.0.0.1 www.paomo47.com
 127.0.0.1 www.papa1hd.com
 127.0.0.1 www.paper119.com
@@ -23521,12 +24210,14 @@
 127.0.0.1 www.pengcheng66.com
 127.0.0.1 www.pengchengdc.com
 127.0.0.1 www.penliting.net
+127.0.0.1 www.peoplepa.com.cn
 127.0.0.1 www.peruvianfood.com
 127.0.0.1 www.petctok.com
 127.0.0.1 www.pf11.com
 127.0.0.1 www.pgufr.com
 127.0.0.1 www.ph158.org
 127.0.0.1 www.ph278.com
+127.0.0.1 www.phaetonled.com
 127.0.0.1 www.philipsnvc.com
 127.0.0.1 www.photics.cn
 127.0.0.1 www.phototo.co.kr
@@ -23565,6 +24256,7 @@
 127.0.0.1 www.pj538.com
 127.0.0.1 www.pj5511.com
 127.0.0.1 www.pj5522.com
+127.0.0.1 www.pj6161.com
 127.0.0.1 www.pj6363.com
 127.0.0.1 www.pj6665.com
 127.0.0.1 www.pj667.com
@@ -23582,6 +24274,7 @@
 127.0.0.1 www.pj998.com
 127.0.0.1 www.pjdc888.com
 127.0.0.1 www.pjhmjm.com
+127.0.0.1 www.pjsbyc.com
 127.0.0.1 www.pk2046.com
 127.0.0.1 www.pk557.com
 127.0.0.1 www.pk946111.com
@@ -23608,6 +24301,7 @@
 127.0.0.1 www.p-orc.su
 127.0.0.1 www.pornvideotv.net
 127.0.0.1 www.postown.cn
+127.0.0.1 www.posuijixie.org
 127.0.0.1 www.powerpackmm.com
 127.0.0.1 www.pp0738.cn
 127.0.0.1 www.pp123.info
@@ -23708,6 +24402,7 @@
 127.0.0.1 www.qdhqpw.com
 127.0.0.1 www.qdkfqcg.gov.cn
 127.0.0.1 www.qdlabor.com
+127.0.0.1 www.qdnczz.com
 127.0.0.1 www.qdsports.cn
 127.0.0.1 www.qdtou.com
 127.0.0.1 www.qdvideo.com
@@ -23722,10 +24417,12 @@
 127.0.0.1 www.qhdas.com
 127.0.0.1 www.qhdast.com
 127.0.0.1 www.qhdj.org.cn
+127.0.0.1 www.qhdqz.com
 127.0.0.1 www.qhsat.com
 127.0.0.1 www.qhware.com
 127.0.0.1 www.qhzq.net
 127.0.0.1 www.qianchengled.com
+127.0.0.1 www.qiangyeny.com
 127.0.0.1 www.qianjing123.com
 127.0.0.1 www.qianjing51.com
 127.0.0.1 www.qianmeisss.cn
@@ -23744,6 +24441,8 @@
 127.0.0.1 www.qinggang88.com
 127.0.0.1 www.qinghaiyouxi.cn
 127.0.0.1 www.qinghu.org
+127.0.0.1 www.qingmuxi.com
+127.0.0.1 www.qingwenxue.cn
 127.0.0.1 www.qingxinke.com
 127.0.0.1 www.qingyang163.com
 127.0.0.1 www.qinhav.info
@@ -23760,6 +24459,7 @@
 127.0.0.1 www.qiubaoyangnv.cc
 127.0.0.1 www.qiubaoyangwang.com
 127.0.0.1 www.qiuhao.com
+127.0.0.1 www.qiujigaoyao.com
 127.0.0.1 www.qiwen5.cc
 127.0.0.1 www.qixi55.com
 127.0.0.1 www.qixingfz8.com
@@ -23830,6 +24530,7 @@
 127.0.0.1 www.qqhcy.cn
 127.0.0.1 www.qqhelper.net
 127.0.0.1 www.qqhuangjia.com
+127.0.0.1 www.qqjay2.cn
 127.0.0.1 www.qqjinling.com
 127.0.0.1 www.qqkabb.com
 127.0.0.1 www.qqkmobile.info
@@ -23847,6 +24548,7 @@
 127.0.0.1 www.qqwws.com
 127.0.0.1 www.qqxnm.cn
 127.0.0.1 www.qqywf.com
+127.0.0.1 www.qqzhanz.com
 127.0.0.1 www.qqzshc.com
 127.0.0.1 www.qqzyw.com
 127.0.0.1 www.qrd8.com
@@ -23861,6 +24563,7 @@
 127.0.0.1 www.qszhibo.com
 127.0.0.1 www.qtai.cc
 127.0.0.1 www.qtdyf.cn
+127.0.0.1 www.qtedu.net
 127.0.0.1 www.qtrich.com
 127.0.0.1 www.quanben.com
 127.0.0.1 www.quanji.com
@@ -23894,6 +24597,7 @@
 127.0.0.1 www.qy0791.com
 127.0.0.1 www.qy222.com
 127.0.0.1 www.qy8.cc
+127.0.0.1 www.qyej520.com
 127.0.0.1 www.qyerzhong.com
 127.0.0.1 www.qyjz.net
 127.0.0.1 www.qy-laser.com
@@ -23903,6 +24607,7 @@
 127.0.0.1 www.qyyjly.com
 127.0.0.1 www.qyyssp.com
 127.0.0.1 www.qzdachang.cn
+127.0.0.1 www.qzhkw.com
 127.0.0.1 www.qzhonghua.com
 127.0.0.1 www.qzone6.com
 127.0.0.1 www.qzqz.cn
@@ -23959,6 +24664,7 @@
 127.0.0.1 www.rentituba.com
 127.0.0.1 www.renzlf.com
 127.0.0.1 www.repligear.com
+127.0.0.1 www.resource.com.cn
 127.0.0.1 www.resrss.cn
 127.0.0.1 www.resrss.net
 127.0.0.1 www.rexuedongman.com
@@ -23967,12 +24673,16 @@
 127.0.0.1 www.rf0ip8.eu
 127.0.0.1 www.rf1616.com
 127.0.0.1 www.rhdm.net
+127.0.0.1 www.rhinegres.com
 127.0.0.1 www.rhinexpo.com
 127.0.0.1 www.rhtec.com.cn
+127.0.0.1 www.rhwell.com
 127.0.0.1 www.ri11.com
 127.0.0.1 www.ri7.com
+127.0.0.1 www.rich17.com.cn
 127.0.0.1 www.richardbag.com
 127.0.0.1 www.richengdc.com
+127.0.0.1 www.richoice.cn
 127.0.0.1 www.rido.cc
 127.0.0.1 www.ries-partners.cn
 127.0.0.1 www.rims.com.cn
@@ -24023,6 +24733,7 @@
 127.0.0.1 www.ruitin.cn
 127.0.0.1 www.run123.cn
 127.0.0.1 www.rundajixie.com
+127.0.0.1 www.runf.net
 127.0.0.1 www.russianwomen.nl
 127.0.0.1 www.rw996.com
 127.0.0.1 www.rxah.net
@@ -24035,6 +24746,7 @@
 127.0.0.1 www.s22dc.com
 127.0.0.1 www.s3338.com
 127.0.0.1 www.s44888.com
+127.0.0.1 www.s4s.cn
 127.0.0.1 www.s512.com
 127.0.0.1 www.s6601.com
 127.0.0.1 www.s6604.com
@@ -24051,6 +24763,7 @@
 127.0.0.1 www.s99988.com
 127.0.0.1 www.sadeodaii.com
 127.0.0.1 www.sadsz.com
+127.0.0.1 www.sae-flanges.com
 127.0.0.1 www.safe138.info
 127.0.0.1 www.sailinkeji.com
 127.0.0.1 www.saitadi.com
@@ -24094,6 +24807,7 @@
 127.0.0.1 www.sb5204.com
 127.0.0.1 www.sb5206.com
 127.0.0.1 www.sb5208.com
+127.0.0.1 www.sb5209.com
 127.0.0.1 www.sb538.com
 127.0.0.1 www.sb6999.com
 127.0.0.1 www.sb8808.com
@@ -24108,6 +24822,7 @@
 127.0.0.1 www.sbrand988.com
 127.0.0.1 www.sbs-sh.com
 127.0.0.1 www.sc028120.com
+127.0.0.1 www.sc3696.com
 127.0.0.1 www.sccj.cc
 127.0.0.1 www.sccqqz.cn
 127.0.0.1 www.scdb66.com
@@ -24115,6 +24830,7 @@
 127.0.0.1 www.scenicreflections.com
 127.0.0.1 www.scfcpx.com
 127.0.0.1 www.scftwh.com
+127.0.0.1 www.scgm.cc
 127.0.0.1 www.schcfc.cn
 127.0.0.1 www.schoder.at
 127.0.0.1 www.sciphar.com
@@ -24137,7 +24853,9 @@
 127.0.0.1 www.sd012.com
 127.0.0.1 www.sd5599.com
 127.0.0.1 www.sd7766.com
+127.0.0.1 www.sdaoyu.com
 127.0.0.1 www.sdblr.com
+127.0.0.1 www.sdclnj.com
 127.0.0.1 www.sdcrbk.com
 127.0.0.1 www.sdcsmyjd.com
 127.0.0.1 www.sddzxhkt.com
@@ -24149,6 +24867,7 @@
 127.0.0.1 www.sdjjmy.com
 127.0.0.1 www.sdjunjie.com.cn
 127.0.0.1 www.sdkqqx.com
+127.0.0.1 www.sdlhlc.com
 127.0.0.1 www.sdmc.net.cn
 127.0.0.1 www.sdmplant.com
 127.0.0.1 www.sdneb.com
@@ -24165,11 +24884,13 @@
 127.0.0.1 www.sdxjsw.com
 127.0.0.1 www.sdxnjinshu.com
 127.0.0.1 www.sdxsj.cn
+127.0.0.1 www.sdzxzc.com
 127.0.0.1 www.se.2ggss.com
 127.0.0.1 www.se00.com
 127.0.0.1 www.se14se.net
 127.0.0.1 www.se18mm.com
 127.0.0.1 www.se2008.com
+127.0.0.1 www.se3se.com
 127.0.0.1 www.se5666.com
 127.0.0.1 www.se5678.com
 127.0.0.1 www.se61.com
@@ -24233,6 +24954,7 @@
 127.0.0.1 www.sh99999.com
 127.0.0.1 www.shabohg.com
 127.0.0.1 www.shacc.net
+127.0.0.1 www.shadu13.cn
 127.0.0.1 www.shadu8.net
 127.0.0.1 www.shalong365.com
 127.0.0.1 www.shalong8.com
@@ -24242,6 +24964,7 @@
 127.0.0.1 www.shanghaibz.com
 127.0.0.1 www.shanghaidq.com
 127.0.0.1 www.shanghaif.cn
+127.0.0.1 www.shanghaifuda.com
 127.0.0.1 www.shanghaijianda.net.cn
 127.0.0.1 www.shanghaixinran.com
 127.0.0.1 www.shanghbm.com
@@ -24258,6 +24981,7 @@
 127.0.0.1 www.shcndns.com
 127.0.0.1 www.sh-coway.net
 127.0.0.1 www.sh-cyzs.cn
+127.0.0.1 www.shdbzg.com
 127.0.0.1 www.shdcgyp.com
 127.0.0.1 www.shdedu.com
 127.0.0.1 www.shdengvg.com
@@ -24310,6 +25034,7 @@
 127.0.0.1 www.shikejinji.tk
 127.0.0.1 www.shiliaojiqi.com
 127.0.0.1 www.ship001.com
+127.0.0.1 www.shishangainuo.com
 127.0.0.1 www.shishen028.com
 127.0.0.1 www.shishibet.com
 127.0.0.1 www.shitibao.cn
@@ -24353,6 +25078,7 @@
 127.0.0.1 www.sh-shunxiang.com
 127.0.0.1 www.shskjx.com
 127.0.0.1 www.shsteelball.com
+127.0.0.1 www.shtmetal.com
 127.0.0.1 www.shtxqx.com
 127.0.0.1 www.shtypf.com
 127.0.0.1 www.shtzxurok099.com
@@ -24364,11 +25090,13 @@
 127.0.0.1 www.shuazuanle.com
 127.0.0.1 www.shuazuanmi.com
 127.0.0.1 www.shuchi.mddsw.com
+127.0.0.1 www.shuct.net
 127.0.0.1 www.shuidong365.com
 127.0.0.1 www.shuiguor.com
 127.0.0.1 www.shuiyishengkeji.com
 127.0.0.1 www.shundaqipai.com
 127.0.0.1 www.shunhotel.cn
+127.0.0.1 www.shunxinmould.com
 127.0.0.1 www.shunxinshuma.com
 127.0.0.1 www.shuwo.info
 127.0.0.1 www.shuyjk.com
@@ -24443,6 +25171,7 @@
 127.0.0.1 www.sjk36524.com
 127.0.0.1 www.sjpif.com
 127.0.0.1 www.sjpmp.com
+127.0.0.1 www.sjssjdz.com
 127.0.0.1 www.sjw58.com
 127.0.0.1 www.sjzbet.com
 127.0.0.1 www.sjzfh.com
@@ -24451,6 +25180,7 @@
 127.0.0.1 www.sjzkdgs.com.cn
 127.0.0.1 www.sjzminghua.com
 127.0.0.1 www.sjzmnxb.com
+127.0.0.1 www.sjzsmtn.com
 127.0.0.1 www.sjzstnbyy.com
 127.0.0.1 www.sjzwowo.com
 127.0.0.1 www.sjzwztg.com
@@ -24462,6 +25192,7 @@
 127.0.0.1 www.sk9588.com
 127.0.0.1 www.skdh1.com
 127.0.0.1 www.skippedia.net
+127.0.0.1 www.skjc.net
 127.0.0.1 www.skjsq.com
 127.0.0.1 www.skwo.net
 127.0.0.1 www.skybluesunny.com
@@ -24509,6 +25240,7 @@
 127.0.0.1 www.sniapi7.com
 127.0.0.1 www.snjypx.com
 127.0.0.1 www.snjyxxw.com
+127.0.0.1 www.snkforklift.com
 127.0.0.1 www.snmpv3.com
 127.0.0.1 www.snshkxy.com
 127.0.0.1 www.snsnv.com
@@ -24522,6 +25254,7 @@
 127.0.0.1 www.sobowang.com
 127.0.0.1 www.socaichina.com
 127.0.0.1 www.softgx.com
+127.0.0.1 www.softqy.com
 127.0.0.1 www.softsoft.ru
 127.0.0.1 www.sogo6.com
 127.0.0.1 www.sohoyes.com
@@ -24554,6 +25287,8 @@
 127.0.0.1 www.sousung.com
 127.0.0.1 www.sowze.com
 127.0.0.1 www.sp666.com
+127.0.0.1 www.spa0591.com
+127.0.0.1 www.spa0592.com
 127.0.0.1 www.spcest.cn
 127.0.0.1 www.spearfishrealty.com
 127.0.0.1 www.spilleautomater.com
@@ -24579,6 +25314,7 @@
 127.0.0.1 www.sq21.net
 127.0.0.1 www.sq988.com
 127.0.0.1 www.sqbi.cn
+127.0.0.1 www.sqfangchan.com
 127.0.0.1 www.sq-it.net
 127.0.0.1 www.sqqbjc.com
 127.0.0.1 www.sqqvod.org
@@ -24593,6 +25329,7 @@
 127.0.0.1 www.srlgeus.it
 127.0.0.1 www.sroto.com
 127.0.0.1 www.srunlz.com
+127.0.0.1 www.srxbook.com
 127.0.0.1 www.ss52ss.com
 127.0.0.1 www.ss52ss.net
 127.0.0.1 www.ss53ss.com
@@ -24628,8 +25365,11 @@
 127.0.0.1 www.starchao.com
 127.0.0.1 www.starfutures.com.cn
 127.0.0.1 www.starmobel.ro
+127.0.0.1 www.starsky.com.cn
+127.0.0.1 www.startoolcn.com
 127.0.0.1 www.statelinefastpitch.com
 127.0.0.1 www.stchyy.com
+127.0.0.1 www.stfby.com
 127.0.0.1 www.stichworld.org
 127.0.0.1 www.stjgswj.cn
 127.0.0.1 www.stkjw.net
@@ -24639,6 +25379,7 @@
 127.0.0.1 www.stone2011.com
 127.0.0.1 www.storebox1.info
 127.0.0.1 www.stradadelvinoterresicane.it
+127.0.0.1 www.strongfaith-tw.com
 127.0.0.1 www.stsweb.net
 127.0.0.1 www.stszds.com
 127.0.0.1 www.sttc0817.com
@@ -24648,6 +25389,7 @@
 127.0.0.1 www.stw.gov.cn
 127.0.0.1 www.st-win-world.cn
 127.0.0.1 www.stxdfk.com
+127.0.0.1 www.stxueche.com
 127.0.0.1 www.stylelu.com
 127.0.0.1 www.stzysj.com
 127.0.0.1 www.suchengdc.com
@@ -24715,11 +25457,15 @@
 127.0.0.1 www.sungame678.com
 127.0.0.1 www.sunkkk.com
 127.0.0.1 www.sunks-fabric.com
+127.0.0.1 www.sunrise.sh
 127.0.0.1 www.sun-rui.com
+127.0.0.1 www.sunwintek.com
 127.0.0.1 www.suopao.org
 127.0.0.1 www.sup10.net
+127.0.0.1 www.superduper.com.cn
 127.0.0.1 www.supereee.com
 127.0.0.1 www.superiormold.com.cn
+127.0.0.1 www.supervey.com
 127.0.0.1 www.superwinner.cn
 127.0.0.1 www.suprisedyou.com
 127.0.0.1 www.suqing.org
@@ -24734,6 +25480,7 @@
 127.0.0.1 www.swj2.com
 127.0.0.1 www.swj3.com
 127.0.0.1 www.swj6.com
+127.0.0.1 www.swmcm.com
 127.0.0.1 www.swmjs.com
 127.0.0.1 www.s-wolf.com
 127.0.0.1 www.swtdk.com
@@ -24755,6 +25502,7 @@
 127.0.0.1 www.sxgxjy.com
 127.0.0.1 www.sxgxny.com
 127.0.0.1 www.sxhkyy.com
+127.0.0.1 www.sxhxcy.com
 127.0.0.1 www.sxhxhg.com
 127.0.0.1 www.sxjxfymm.com
 127.0.0.1 www.sxjyjxgj.com
@@ -24797,6 +25545,7 @@
 127.0.0.1 www.syhp01.usiis.net
 127.0.0.1 www.syhsybjn.ga
 127.0.0.1 www.syhxjxgc.com
+127.0.0.1 www.syhykjyxgs.com
 127.0.0.1 www.syjzzs.com
 127.0.0.1 www.sykazt.com.cn
 127.0.0.1 www.sykou.com
@@ -24816,6 +25565,7 @@
 127.0.0.1 www.syydn.com
 127.0.0.1 www.syyyx.com
 127.0.0.1 www.syyz.bjedu.cn
+127.0.0.1 www.syz83.com
 127.0.0.1 www.syzkjc.com
 127.0.0.1 www.sz5178.com
 127.0.0.1 www.sz95000.com
@@ -24838,6 +25588,7 @@
 127.0.0.1 www.szgay168.com
 127.0.0.1 www.szgay928.com
 127.0.0.1 www.szgl888.com
+127.0.0.1 www.szhc.com
 127.0.0.1 www.szhfytextile.com
 127.0.0.1 www.szhn56.com
 127.0.0.1 www.szhuikeda.com
@@ -24861,6 +25612,7 @@
 127.0.0.1 www.szmxdk.com
 127.0.0.1 www.szohr.com.cn
 127.0.0.1 www.szoken.com
+127.0.0.1 www.sz-pa.com
 127.0.0.1 www.szpingchuang.com
 127.0.0.1 www.szqet.com
 127.0.0.1 www.szqhfh.com
@@ -24870,6 +25622,7 @@
 127.0.0.1 www.szs13.com
 127.0.0.1 www.szsdh.us
 127.0.0.1 www.szsdjdwx.com
+127.0.0.1 www.szshenyuan.com
 127.0.0.1 www.szshxcw.com
 127.0.0.1 www.szsjyy.cn
 127.0.0.1 www.szsmtcn.com
@@ -24898,6 +25651,8 @@
 127.0.0.1 www.tai88888.com
 127.0.0.1 www.tai99999.com
 127.0.0.1 www.taih.cn
+127.0.0.1 www.taihangshoes.com
+127.0.0.1 www.taipus.cn
 127.0.0.1 www.taiqiuzhijia.com
 127.0.0.1 www.taitai35.com
 127.0.0.1 www.taiwanliuxue.com
@@ -24908,6 +25663,7 @@
 127.0.0.1 www.talkio.com
 127.0.0.1 www.tangshan.gov.cn
 127.0.0.1 www.tangygy.com
+127.0.0.1 www.tankway.com
 127.0.0.1 www.tans6.cn
 127.0.0.1 www.tao517.com
 127.0.0.1 www.taobao.woool384.com
@@ -24985,10 +25741,13 @@
 127.0.0.1 www.tehuwai.com
 127.0.0.1 www.tempoproduct.com
 127.0.0.1 www.temtion.com
+127.0.0.1 www.tengtong1.com
 127.0.0.1 www.tepgrp.com
 127.0.0.1 www.terweb.cn
 127.0.0.1 www.testeddos.esy.es
+127.0.0.1 www.teyan.cn
 127.0.0.1 www.tezhuan.cc
+127.0.0.1 www.tezzyzz.com
 127.0.0.1 www.tf0769.com.cn
 127.0.0.1 www.tf2sqc.com
 127.0.0.1 www.tfwzone.cc.st
@@ -24999,15 +25758,18 @@
 127.0.0.1 www.tgchao.com
 127.0.0.1 www.tgcsol.com
 127.0.0.1 www.tghnh.com
+127.0.0.1 www.tglgloble.com
 127.0.0.1 www.tg-pg.com
 127.0.0.1 www.tgreds.com
 127.0.0.1 www.tgyhw.com
+127.0.0.1 www.tgzhx.cn
 127.0.0.1 www.th1155.com
 127.0.0.1 www.th1199.com
 127.0.0.1 www.th345.com
 127.0.0.1 www.thanksgivingreflections.com
 127.0.0.1 www.thankthank.com
 127.0.0.1 www.thcoo.net
+127.0.0.1 www.themagicway.net
 127.0.0.1 www.thenextmail.com
 127.0.0.1 www.thfdc.gov.cn
 127.0.0.1 www.thhardwaremag.com
@@ -25019,6 +25781,8 @@
 127.0.0.1 www.tiange168.com
 127.0.0.1 www.tiangkong.cn
 127.0.0.1 www.tianheby.com
+127.0.0.1 www.tianhualighting.com
+127.0.0.1 www.tianhuasp.com
 127.0.0.1 www.tiankongse.tk
 127.0.0.1 www.tianle66.com
 127.0.0.1 www.tianlinqp.com
@@ -25052,6 +25816,7 @@
 127.0.0.1 www.tiyuba.net
 127.0.0.1 www.tjboxinrong.com
 127.0.0.1 www.tjcancan.com
+127.0.0.1 www.tjgcs.com
 127.0.0.1 www.tjgtdgg.com
 127.0.0.1 www.tjia22.com
 127.0.0.1 www.tjjunyue.com.cn
@@ -25109,6 +25874,8 @@
 127.0.0.1 www.tongzhong.cn
 127.0.0.1 www.tonykids.cn
 127.0.0.1 www.tools88.com
+127.0.0.1 www.top028.net
+127.0.0.1 www.topalu.com.cn
 127.0.0.1 www.toptenreport.com
 127.0.0.1 www.topwapw.com
 127.0.0.1 www.topwill.cn
@@ -25130,7 +25897,10 @@
 127.0.0.1 www.tqkaoyan.com
 127.0.0.1 www.tqmba.com.cn
 127.0.0.1 www.tr6688.com
+127.0.0.1 www.travel1688.com
 127.0.0.1 www.tribunarecife.com.br
+127.0.0.1 www.tricoxa.com
+127.0.0.1 www.trimaxtv.com
 127.0.0.1 www.trip6.cn
 127.0.0.1 www.tripg.com.cn
 127.0.0.1 www.tripkoo.com
@@ -25160,6 +25930,7 @@
 127.0.0.1 www.ts-vip.cn
 127.0.0.1 www.tsxfy.com
 127.0.0.1 www.tsz10.com
+127.0.0.1 www.tszg.net
 127.0.0.1 www.tszx.cc
 127.0.0.1 www.tt0009.com
 127.0.0.1 www.tt3311.com
@@ -25207,6 +25978,8 @@
 127.0.0.1 www.tutuone.com
 127.0.0.1 www.tuyitu.com
 127.0.0.1 www.tuzidy.com
+127.0.0.1 www.tv0371.net
+127.0.0.1 www.tv160.net
 127.0.0.1 www.tv1888.com
 127.0.0.1 www.tv3288.com
 127.0.0.1 www.tv6111.com
@@ -25218,6 +25991,7 @@
 127.0.0.1 www.tw5278.com
 127.0.0.1 www.tw789.com
 127.0.0.1 www.twcsjx.com
+127.0.0.1 www.twderk.com
 127.0.0.1 www.twfxcai888.com
 127.0.0.1 www.twincad.com
 127.0.0.1 www.twqxc.com
@@ -25226,6 +26000,7 @@
 127.0.0.1 www.txhtjy.com
 127.0.0.1 www.txjhc.com
 127.0.0.1 www.t-x-k8.com
+127.0.0.1 www.txkjdown.com
 127.0.0.1 www.txnsh.com
 127.0.0.1 www.txqb520.com
 127.0.0.1 www.txsm888.com
@@ -25258,6 +26033,7 @@
 127.0.0.1 www.tyc999.com
 127.0.0.1 www.tyhjzp.com
 127.0.0.1 www.tyhsgtjk8.com
+127.0.0.1 www.tyloo3d.net
 127.0.0.1 www.tynuoyan.com
 127.0.0.1 www.tynyy.com
 127.0.0.1 www.tyswlpw.com
@@ -25266,15 +26042,20 @@
 127.0.0.1 www.tytzz.com
 127.0.0.1 www.tywjj.com
 127.0.0.1 www.tyxjzs.com
+127.0.0.1 www.tyyoushi.com
 127.0.0.1 www.tz888tz.com
 127.0.0.1 www.tz92.com
 127.0.0.1 www.tzbuy.com
+127.0.0.1 www.tzdtzl.com
 127.0.0.1 www.tzgpl.com
 127.0.0.1 www.tzhbf.com
 127.0.0.1 www.tzjsmy.com
 127.0.0.1 www.tzjxb.com
 127.0.0.1 www.tzl5888.com
 127.0.0.1 www.tzsuma.com
+127.0.0.1 www.tzyhzk.com
+127.0.0.1 www.tzyyzpc.com
+127.0.0.1 www.tzzxyjh.com
 127.0.0.1 www.tzzzxx.net
 127.0.0.1 www.u15.tv
 127.0.0.1 www.u1733.com
@@ -25298,6 +26079,8 @@
 127.0.0.1 www.ueede.cn
 127.0.0.1 www.ugotrealty.com
 127.0.0.1 www.uhbivht.com
+127.0.0.1 www.ui288.com
+127.0.0.1 www.ui9i.com
 127.0.0.1 www.uibia.com
 127.0.0.1 www.uicchina.com
 127.0.0.1 www.ukejisong.com
@@ -25319,12 +26102,15 @@
 127.0.0.1 www.uqsz.com
 127.0.0.1 www.ursagates.co.uk
 127.0.0.1 www.us100tv.com
+127.0.0.1 www.usa1988.com
 127.0.0.1 www.usahao.com
+127.0.0.1 www.usa-jiaji.com
 127.0.0.1 www.usbao.net
 127.0.0.1 www.usdental-cn.com
 127.0.0.1 www.usmpvirtual.edu.pe
 127.0.0.1 www.usmwrsnc.tk
 127.0.0.1 www.usnook.com
+127.0.0.1 www.usreno.com
 127.0.0.1 www.utilocean.com
 127.0.0.1 www.uturttd.tk
 127.0.0.1 www.uu317.com
@@ -25357,6 +26143,7 @@
 127.0.0.1 www.vc422.info
 127.0.0.1 www.vc63t.com
 127.0.0.1 www.vce003.com
+127.0.0.1 www.vcthr.com
 127.0.0.1 www.vdsbjyht.com
 127.0.0.1 www.ve1.net
 127.0.0.1 www.vebet88.com
@@ -25420,6 +26207,7 @@
 127.0.0.1 www.vipmingxing.com
 127.0.0.1 www.vipmoo.com
 127.0.0.1 www.vipshong.cn
+127.0.0.1 www.vipwsg.com
 127.0.0.1 www.vipzzs.com
 127.0.0.1 www.vistablog.com.cn
 127.0.0.1 www.vivai2000.it
@@ -25456,11 +26244,15 @@
 127.0.0.1 www.vq5c1c.eu
 127.0.0.1 www.vrthrwrv.0ch.cn
 127.0.0.1 www.vs115.com
+127.0.0.1 www.vschina.cn
+127.0.0.1 www.vsedu.com.cn
 127.0.0.1 www.vt56.com
 127.0.0.1 www.vuqq.com
 127.0.0.1 www.vv088.com
 127.0.0.1 www.vv488.com
+127.0.0.1 www.vv899.com
 127.0.0.1 www.vvpan.com
+127.0.0.1 www.vvqq.net
 127.0.0.1 www.vvtool.com
 127.0.0.1 www.vvv.zj.cn
 127.0.0.1 www.vvv15.com
@@ -25473,6 +26265,7 @@
 127.0.0.1 www.vwoool.com
 127.0.0.1 www.vxx66.cn
 127.0.0.1 www.vyrgqnm.com
+127.0.0.1 www.vzunyi.com
 127.0.0.1 www.w17w.com
 127.0.0.1 www.w19.net.cn
 127.0.0.1 www.w1934.com
@@ -25483,6 +26276,7 @@
 127.0.0.1 www.w6599.com
 127.0.0.1 www.w6699.com
 127.0.0.1 www.w88asia.com
+127.0.0.1 www.w88live.com
 127.0.0.1 www.w966.com
 127.0.0.1 www.w989.com
 127.0.0.1 www.w999mi.com
@@ -25498,6 +26292,7 @@
 127.0.0.1 www.wanchengsm.com
 127.0.0.1 www.wanda01.com
 127.0.0.1 www.wandianji.com
+127.0.0.1 www.wanesoft.com
 127.0.0.1 www.wang1111.com
 127.0.0.1 www.wangcao168.com
 127.0.0.1 www.wangchao.net.cn
@@ -25506,6 +26301,7 @@
 127.0.0.1 www.wanggou525.com
 127.0.0.1 www.wanggous588.com
 127.0.0.1 www.wangkeba.com
+127.0.0.1 www.wangluodaiyan.com
 127.0.0.1 www.wangshangjiazheng.com
 127.0.0.1 www.wangs-jingkang.com
 127.0.0.1 www.wangwei1986.com
@@ -25572,6 +26368,7 @@
 127.0.0.1 www.weiboo.com
 127.0.0.1 www.weichafang.com
 127.0.0.1 www.weide1946.com
+127.0.0.1 www.weide8.com
 127.0.0.1 www.weigangdairy.com
 127.0.0.1 www.weige.net
 127.0.0.1 www.weige315w.com
@@ -25594,7 +26391,9 @@
 127.0.0.1 www.weitehao.com
 127.0.0.1 www.weixin07.com
 127.0.0.1 www.weixinbaidu.com
+127.0.0.1 www.weiyena.okddy.net
 127.0.0.1 www.weiyenaxx.com
+127.0.0.1 www.weiyuanjx.com
 127.0.0.1 www.wektwine.com
 127.0.0.1 www.welcom.info.gf
 127.0.0.1 www.wellbet.com
@@ -25620,6 +26419,7 @@
 127.0.0.1 www.wfcmdl.com
 127.0.0.1 www.wfdkl.com
 127.0.0.1 www.wfgqw.com
+127.0.0.1 www.wfhyzq.com
 127.0.0.1 www.wfwdxx.com
 127.0.0.1 www.wfwfwfff.com
 127.0.0.1 www.wg4444.com.cn
@@ -25642,6 +26442,7 @@
 127.0.0.1 www.whjlw.com
 127.0.0.1 www.whmczs.com
 127.0.0.1 www.whsh05.com
+127.0.0.1 www.whthgm.com
 127.0.0.1 www.whwseshs.com
 127.0.0.1 www.whxckj.com
 127.0.0.1 www.whxdc.com
@@ -25653,6 +26454,7 @@
 127.0.0.1 www.winbird.com
 127.0.0.1 www.windowsvistakopen.nl
 127.0.0.1 www.windtide.net
+127.0.0.1 www.winechinaexhibition.com
 127.0.0.1 www.wineoutleteventspace.com
 127.0.0.1 www.winer8.com
 127.0.0.1 www.winewine9.com
@@ -25660,6 +26462,7 @@
 127.0.0.1 www.winportal.com.br
 127.0.0.1 www.winsm.com
 127.0.0.1 www.withkyu.com
+127.0.0.1 www.witon.cn
 127.0.0.1 www.wj10086.com
 127.0.0.1 www.wj3xgl.com
 127.0.0.1 www.wj95.com
@@ -25702,6 +26505,7 @@
 127.0.0.1 www.womenlu.com
 127.0.0.1 www.wongtoyick.cc
 127.0.0.1 www.woniutask.com
+127.0.0.1 www.woniuw.net
 127.0.0.1 www.woodlocks.net
 127.0.0.1 www.woribi.info
 127.0.0.1 www.worldcompany.cn
@@ -25717,6 +26521,7 @@
 127.0.0.1 www.wp88.com
 127.0.0.1 www.wpet.com.cn
 127.0.0.1 www.wpxie.com
+127.0.0.1 www.wqcqt.com
 127.0.0.1 www.wqjdk.net
 127.0.0.1 www.wqsm315.com
 127.0.0.1 www.wr.wqxqs.com.cn
@@ -25731,6 +26536,7 @@
 127.0.0.1 www.wshpy.com
 127.0.0.1 www.wsjwyj.com
 127.0.0.1 www.wst360.cn
+127.0.0.1 www.wsxyx.com
 127.0.0.1 www.wszyz.com
 127.0.0.1 www.wt454.com
 127.0.0.1 www.wt4a.com
@@ -25847,14 +26653,18 @@
 127.0.0.1 www.x754.cn
 127.0.0.1 www.x8800.com
 127.0.0.1 www.x888x.net
+127.0.0.1 www.x9900.com
 127.0.0.1 www.xa26.com
 127.0.0.1 www.xaanf.com
 127.0.0.1 www.xaaqgl.com
 127.0.0.1 www.xabz02.com
+127.0.0.1 www.xabzc.com
+127.0.0.1 www.xadeye.com
 127.0.0.1 www.xahjlw.com
 127.0.0.1 www.xaislam.com
 127.0.0.1 www.xajiachi.com
 127.0.0.1 www.xaketong.com.cn
+127.0.0.1 www.xamal.cn
 127.0.0.1 www.xaooo.com.cn
 127.0.0.1 www.xardxyk.com
 127.0.0.1 www.xasizuhuisuo.com
@@ -25873,6 +26683,7 @@
 127.0.0.1 www.xcmogao.com
 127.0.0.1 www.xcp9.com
 127.0.0.1 www.xcstation.com
+127.0.0.1 www.xctzwsy.com
 127.0.0.1 www.xcyjtc.com
 127.0.0.1 www.xczygk88.com
 127.0.0.1 www.xd1177.com
@@ -25897,6 +26708,7 @@
 127.0.0.1 www.xed0007.com
 127.0.0.1 www.xed001.com
 127.0.0.1 www.xed002.com
+127.0.0.1 www.xed003.com
 127.0.0.1 www.xed01.com
 127.0.0.1 www.xed03.com
 127.0.0.1 www.xed09.com
@@ -25934,8 +26746,10 @@
 127.0.0.1 www.xh9777.com
 127.0.0.1 www.xhatke.com
 127.0.0.1 www.xhjcp.com
+127.0.0.1 www.xhjrjt.com
 127.0.0.1 www.xhksjx.com
 127.0.0.1 www.xhlgwwp.com
+127.0.0.1 www.xhqsysp.com
 127.0.0.1 www.xhtd01.com
 127.0.0.1 www.xhtd02.com
 127.0.0.1 www.xhtd03.com
@@ -25946,6 +26760,7 @@
 127.0.0.1 www.xiadaofeiche.com
 127.0.0.1 www.xiajin100.com
 127.0.0.1 www.xiamiyc.com
+127.0.0.1 www.xiancheng.cc
 127.0.0.1 www.xianfulai.org
 127.0.0.1 www.xiangshoudi.com
 127.0.0.1 www.xiangshui360.net
@@ -25957,6 +26772,7 @@
 127.0.0.1 www.xianreny.com
 127.0.0.1 www.xiansizu.com
 127.0.0.1 www.xiantongsy.com
+127.0.0.1 www.xianysw.com
 127.0.0.1 www.xiaobingwang.com
 127.0.0.1 www.xiaochuan365.com
 127.0.0.1 www.xiaofendie.cn
@@ -26059,7 +26875,9 @@
 127.0.0.1 www.xiruoanhao.com
 127.0.0.1 www.xiufubao.com
 127.0.0.1 www.xiugaiba.com
+127.0.0.1 www.xiuxian2.cn
 127.0.0.1 www.xiuxiu8.cn
+127.0.0.1 www.xiuxiukan.com
 127.0.0.1 www.xixi08.com
 127.0.0.1 www.xixi611.com
 127.0.0.1 www.xixig8.com
@@ -26088,6 +26906,7 @@
 127.0.0.1 www.xkcode.com
 127.0.0.1 www.xktpay.com
 127.0.0.1 www.xkw.pw
+127.0.0.1 www.xl0411.com
 127.0.0.1 www.xlcs168.com
 127.0.0.1 www.xlcycm.com
 127.0.0.1 www.x-lei.com
@@ -26100,8 +26919,11 @@
 127.0.0.1 www.xlxxy.com
 127.0.0.1 www.xm056.com
 127.0.0.1 www.xmbluemoon.com
+127.0.0.1 www.xmboy.net
+127.0.0.1 www.xmby168.com
 127.0.0.1 www.xmcos.com.cn
 127.0.0.1 www.xmfw888.com
+127.0.0.1 www.xmgbz.com
 127.0.0.1 www.xmggo.com
 127.0.0.1 www.xmhanding.com
 127.0.0.1 www.xmhbcc.com
@@ -26117,9 +26939,11 @@
 127.0.0.1 www.xmuoec.com
 127.0.0.1 www.xmxtbk.com
 127.0.0.1 www.xmyus.com
+127.0.0.1 www.xn023.com
 127.0.0.1 www.xn221.com
 127.0.0.1 www.xn5555.com
 127.0.0.1 www.xn810000.com
+127.0.0.1 www.xn--fcs10i6xci5obh3a.com
 127.0.0.1 www.xngjbus.com
 127.0.0.1 www.xnswhg.com
 127.0.0.1 www.xpg998.com
@@ -26162,6 +26986,7 @@
 127.0.0.1 www.xtidi.com
 127.0.0.1 www.xttxcy.com
 127.0.0.1 www.xtxfxx.com
+127.0.0.1 www.xtycxx.com
 127.0.0.1 www.xtz888.com
 127.0.0.1 www.xuan178.com
 127.0.0.1 www.xuan666.com
@@ -26236,7 +27061,9 @@
 127.0.0.1 www.xyz189.com
 127.0.0.1 www.xyz60.com
 127.0.0.1 www.xz01.com
+127.0.0.1 www.xzdaxue.com
 127.0.0.1 www.xzg888.com
+127.0.0.1 www.xzheli.com
 127.0.0.1 www.xzhouse.com.cn
 127.0.0.1 www.xzhzjc.com
 127.0.0.1 www.xzjhmb.com
@@ -26317,6 +27144,7 @@
 127.0.0.1 www.ychenghg.com
 127.0.0.1 www.ychnongjiale.com
 127.0.0.1 www.ychpmm.com
+127.0.0.1 www.ychrt.com
 127.0.0.1 www.ycjmwwj.com
 127.0.0.1 www.ycjyw7.com
 127.0.0.1 www.yckr.org
@@ -26383,6 +27211,7 @@
 127.0.0.1 www.yh077.com
 127.0.0.1 www.yh333888.com
 127.0.0.1 www.yh3690.com
+127.0.0.1 www.yh6333.com
 127.0.0.1 www.yh911.cn
 127.0.0.1 www.yh958.com
 127.0.0.1 www.yhblmk.com
@@ -26399,6 +27228,7 @@
 127.0.0.1 www.yhol.com.cn
 127.0.0.1 www.yhshengnuo.com
 127.0.0.1 www.yhsz168.com
+127.0.0.1 www.yhtzdb.cn
 127.0.0.1 www.yhyiqi.com
 127.0.0.1 www.yhzyjt.com
 127.0.0.1 www.yibaow26.com
@@ -26478,11 +27308,13 @@
 127.0.0.1 www.yjh998.com
 127.0.0.1 www.yjhhjd.com
 127.0.0.1 www.yjlmw.com
+127.0.0.1 www.yjms.cn
 127.0.0.1 www.yjmzs.cn
 127.0.0.1 www.yjwqjd.com
 127.0.0.1 www.yjxyx.net
 127.0.0.1 www.yk988.com
 127.0.0.1 www.ykecs.com
+127.0.0.1 www.ykedu.org
 127.0.0.1 www.ykfk120.com
 127.0.0.1 www.ykkg.com
 127.0.0.1 www.yktczpt.com
@@ -26567,6 +27399,7 @@
 127.0.0.1 www.youlirm.com
 127.0.0.1 www.youpouc2.com
 127.0.0.1 www.youqiantu.cc
+127.0.0.1 www.youquba.net
 127.0.0.1 www.yoursdiving.com
 127.0.0.1 www.yoursuo.com
 127.0.0.1 www.youshounet76.com
@@ -26575,6 +27408,7 @@
 127.0.0.1 www.youxitwo.com
 127.0.0.1 www.youxiwu.org
 127.0.0.1 www.youyamayi.com
+127.0.0.1 www.youyue.co
 127.0.0.1 www.youzhuan.com
 127.0.0.1 www.yowan8.com
 127.0.0.1 www.yoyoanmo.net
@@ -26605,6 +27439,7 @@
 127.0.0.1 www.ysbbcrypsc.com
 127.0.0.1 www.ysdkw128.com
 127.0.0.1 www.yserch.com
+127.0.0.1 www.ysgyy.com
 127.0.0.1 www.ysh168.cn
 127.0.0.1 www.yshi.cn
 127.0.0.1 www.ysjhsg.com
@@ -26634,6 +27469,7 @@
 127.0.0.1 www.ythtsm.com
 127.0.0.1 www.ytjuda.com.cn
 127.0.0.1 www.ytkljs.com
+127.0.0.1 www.ytl88.com
 127.0.0.1 www.ytqyby.com
 127.0.0.1 www.ytuku.com
 127.0.0.1 www.yu46.eu
@@ -26641,6 +27477,7 @@
 127.0.0.1 www.yuanchantuan.com
 127.0.0.1 www.yuangw.com
 127.0.0.1 www.yuankj.com
+127.0.0.1 www.yuankouvip.com
 127.0.0.1 www.yudk.qc.to
 127.0.0.1 www.yuedazhiban.com
 127.0.0.1 www.yuefei.net
@@ -26706,6 +27543,7 @@
 127.0.0.1 www.yxjhsy.com
 127.0.0.1 www.yxjsgj88.com
 127.0.0.1 www.yxlinde.com
+127.0.0.1 www.yxnf.com
 127.0.0.1 www.yxt666.com
 127.0.0.1 www.yxw520.com
 127.0.0.1 www.yxzdd.com
@@ -26714,6 +27552,7 @@
 127.0.0.1 www.yy14z.com
 127.0.0.1 www.yy1919.com
 127.0.0.1 www.yy198.net
+127.0.0.1 www.yy7091.com
 127.0.0.1 www.yy811.com
 127.0.0.1 www.yy8855.com
 127.0.0.1 www.yybet.com
@@ -26777,6 +27616,7 @@
 127.0.0.1 www.z3336.com
 127.0.0.1 www.z726.com
 127.0.0.1 www.z80.com
+127.0.0.1 www.zaccl.com
 127.0.0.1 www.zacisze.pl
 127.0.0.1 www.zaicz.com
 127.0.0.1 www.zangaoa.com
@@ -26792,6 +27632,7 @@
 127.0.0.1 www.zbao888.com
 127.0.0.1 www.zbcgxx.cn
 127.0.0.1 www.zbhunsha.cn
+127.0.0.1 www.zbjkc.com
 127.0.0.1 www.zblianyi.com
 127.0.0.1 www.zblvke.com
 127.0.0.1 www.zboll.com
@@ -26899,8 +27740,11 @@
 127.0.0.1 www.zhdian.com
 127.0.0.1 www.zhdyd999.com
 127.0.0.1 www.zhe15.com
+127.0.0.1 www.zhe59.com
+127.0.0.1 www.zhedashi.com
 127.0.0.1 www.zhejiangws.com
 127.0.0.1 www.zhekouzhan.cn
+127.0.0.1 www.zhenchunsh.com
 127.0.0.1 www.zhendingtang.com
 127.0.0.1 www.zhenfei.com.cn
 127.0.0.1 www.zhengfenzi.net
@@ -26926,6 +27770,7 @@
 127.0.0.1 www.zhjwss.com
 127.0.0.1 www.zhongcp.cn
 127.0.0.1 www.zhongdongylc.net
+127.0.0.1 www.zhonge.hk
 127.0.0.1 www.zhongfu.com.cn
 127.0.0.1 www.zhonghaihc.com
 127.0.0.1 www.zhonghuaqp.com
@@ -26955,6 +27800,7 @@
 127.0.0.1 www.zhuzhucun.com
 127.0.0.1 www.zhuzhuqp.com
 127.0.0.1 www.zhxedu.com
+127.0.0.1 www.zhysfd.com
 127.0.0.1 www.zhzbby.com
 127.0.0.1 www.zimeng139.cn
 127.0.0.1 www.zixukm.com
@@ -26965,12 +27811,16 @@
 127.0.0.1 www.zjaxin.com
 127.0.0.1 www.zjbatt.com
 127.0.0.1 www.zjbocheng.com
+127.0.0.1 www.zjbz.com
 127.0.0.1 www.zjchuanjian.com
 127.0.0.1 www.zjcnz.com
 127.0.0.1 www.zjcphk.com
 127.0.0.1 www.zjdaily.com
 127.0.0.1 www.zjhsv.com
 127.0.0.1 www.zj-jhys.com
+127.0.0.1 www.zjknx.cn
+127.0.0.1 www.zjktdgyc.com
+127.0.0.1 www.zjkxlzxw.com
 127.0.0.1 www.zjlawyeronline.com
 127.0.0.1 www.zjlf-lqt.com
 127.0.0.1 www.zjlwz.com
@@ -27033,6 +27883,7 @@
 127.0.0.1 www.zqwhcm.com
 127.0.0.1 www.zqwmdm.com
 127.0.0.1 www.zqwww.com
+127.0.0.1 www.zqwzbj.com
 127.0.0.1 www.zqzxym.com
 127.0.0.1 www.zr0033.com
 127.0.0.1 www.zr11111.com
@@ -27052,6 +27903,7 @@
 127.0.0.1 www.zscg.com
 127.0.0.1 www.zsfbz.com
 127.0.0.1 www.zsfkc.com
+127.0.0.1 www.zsgs.gov.cn
 127.0.0.1 www.zshare.com.cn
 127.0.0.1 www.zshjyy.com
 127.0.0.1 www.zslcsb.com
@@ -27102,7 +27954,9 @@
 127.0.0.1 www.zxhny.com
 127.0.0.1 www.zxhzsy.com
 127.0.0.1 www.zxjxyb.com
+127.0.0.1 www.zxjzzsgc.com
 127.0.0.1 www.zxkfw.cn
+127.0.0.1 www.zxkj168.com
 127.0.0.1 www.zxm28.com
 127.0.0.1 www.zxmyy.com
 127.0.0.1 www.zxtx33.com
@@ -27129,7 +27983,9 @@
 127.0.0.1 www.zyxyfy.com
 127.0.0.1 www.zyy1696.com
 127.0.0.1 www.zyysak.com
+127.0.0.1 www.zyzgks.org.cn
 127.0.0.1 www.zyzj168.com
+127.0.0.1 www.zzajjz.com
 127.0.0.1 www.zzamway.com.cn
 127.0.0.1 www.zzberica.com
 127.0.0.1 www.zzbj360.com
@@ -27137,6 +27993,7 @@
 127.0.0.1 www.zzcbay.com
 127.0.0.1 www.zzdaikuan.net
 127.0.0.1 www.zzevp.com
+127.0.0.1 www.zzganlin.cn
 127.0.0.1 www.zzha.net
 127.0.0.1 www.zzhbs.com
 127.0.0.1 www.zzhc.com
@@ -27144,20 +28001,30 @@
 127.0.0.1 www.zzhtnc.com
 127.0.0.1 www.zzhxay.com
 127.0.0.1 www.zzhzzy.com
+127.0.0.1 www.zzjfl.net
 127.0.0.1 www.zzkfy.com
 127.0.0.1 www.zzlysm.com
 127.0.0.1 www.zzmmlys.com
+127.0.0.1 www.zzmyw.com
+127.0.0.1 www.zzpxw.cn
 127.0.0.1 www.zzqzb.com
+127.0.0.1 www.zzrenji.com
 127.0.0.1 www.zzrjgg.com
 127.0.0.1 www.zzsczz.com
+127.0.0.1 www.zzsffx.com
+127.0.0.1 www.zzsgssxh.com
+127.0.0.1 www.zzshw.net
+127.0.0.1 www.zzsszz.cn
 127.0.0.1 www.zzstgl.com
 127.0.0.1 www.zztyjy.com
 127.0.0.1 www.zzwhsm.com
 127.0.0.1 www.zzwjdn.com
 127.0.0.1 www.zzwxwl.com
 127.0.0.1 www.zzxtgs.cn
+127.0.0.1 www.zzyahb.com
 127.0.0.1 www.zzyedu.cn
 127.0.0.1 www.zzyingyan.com
+127.0.0.1 www.zzyongcheng.com
 127.0.0.1 www.zzz13.com
 127.0.0.1 www.zzz17.com
 127.0.0.1 www.zzz48.com
@@ -27165,11 +28032,14 @@
 127.0.0.1 www.zzzk6666.com
 127.0.0.1 www.zzzx.net.cn
 127.0.0.1 www.zzzyseo.com
+127.0.0.1 www1.1kejian.com
 127.0.0.1 www1.4006252838.com
 127.0.0.1 www1.9wee.com
+127.0.0.1 www1.bjcxss.com
 127.0.0.1 www1.bo3366.com
 127.0.0.1 www1.cngli.cc
 127.0.0.1 www1.cqrzth.com
+127.0.0.1 www1.dangci888.com
 127.0.0.1 www1.glyjc.com
 127.0.0.1 www1.gzhtcm.edu.cn
 127.0.0.1 www1.h5548.cn
@@ -27180,6 +28050,7 @@
 127.0.0.1 www1.im2016.com
 127.0.0.1 www1.jjj.com
 127.0.0.1 www1.jnlxsoft.cn
+127.0.0.1 www1.lg4x.net
 127.0.0.1 www1.lit.edu.cn
 127.0.0.1 www1.mmwzpt.cn
 127.0.0.1 www1.moonersafe.findhere.org
@@ -27226,6 +28097,7 @@
 127.0.0.1 www44979.com
 127.0.0.1 www44fang.com
 127.0.0.1 www49vv.com
+127.0.0.1 www5.dangci222.com
 127.0.0.1 www5.hele8cp.com
 127.0.0.1 www5.kolpay.cn
 127.0.0.1 www50ppp.com
@@ -27240,6 +28112,7 @@
 127.0.0.1 www8.guanchenmin.cn
 127.0.0.1 www8.heiljsw.com
 127.0.0.1 www888msc.net
+127.0.0.1 www9.78911.net:8080
 127.0.0.1 www9.anjiebofang.com
 127.0.0.1 www9.xjmu.edu.cn
 127.0.0.1 www99.cn
@@ -27283,8 +28156,10 @@
 127.0.0.1 wwyysf.cskskwkki.tk
 127.0.0.1 wwyyww.cn
 127.0.0.1 wx.1688wf.com
+127.0.0.1 wx.50289.net
 127.0.0.1 wx.6868000.com
 127.0.0.1 wx.hozoo.com.cn
+127.0.0.1 wx.shimaile.com
 127.0.0.1 wx.wolearn.com.cn
 127.0.0.1 wxaw.net
 127.0.0.1 wxbh.0512jiaji.com
@@ -27327,6 +28202,7 @@
 127.0.0.1 wywfs.wywfs.com.cn
 127.0.0.1 wyxsww.com
 127.0.0.1 wyxz365.com
+127.0.0.1 wyy3s.lrdjnxzp.tk
 127.0.0.1 wyyli.com
 127.0.0.1 wz.3m3k.cn
 127.0.0.1 wz.dlhuashi.com
@@ -27374,6 +28250,7 @@
 127.0.0.1 x7786.com
 127.0.0.1 x88899.com
 127.0.0.1 xa26.com
+127.0.0.1 xa58.cn
 127.0.0.1 xablgppw.tk
 127.0.0.1 xabzw.devhub.com
 127.0.0.1 xacfd.com
@@ -27416,6 +28293,7 @@
 127.0.0.1 xbenl.com
 127.0.0.1 xbggxs.com
 127.0.0.1 xbh123.com
+127.0.0.1 xbjdypw.com
 127.0.0.1 xbk.39bencao.com
 127.0.0.1 xbk.guanwanglianmeng.com
 127.0.0.1 xbmszx.com
@@ -27425,6 +28303,7 @@
 127.0.0.1 xc.cornejo.cl
 127.0.0.1 xc.gy2006.com
 127.0.0.1 xc.shushmail.tk
+127.0.0.1 xc.ta98.com
 127.0.0.1 xc35.com
 127.0.0.1 xc396.com
 127.0.0.1 xc548.com
@@ -27446,6 +28325,7 @@
 127.0.0.1 xcqpaxz.com
 127.0.0.1 xcrcc.com
 127.0.0.1 xcsjyw.com
+127.0.0.1 xctkyy.com
 127.0.0.1 xcvdsf9z14z.pw
 127.0.0.1 xcvegcfb.cnzxzx.asia
 127.0.0.1 xcvvv17z.cn
@@ -27508,6 +28388,7 @@
 127.0.0.1 xfz.js119.com
 127.0.0.1 xfzx365.com
 127.0.0.1 xg.oblt86.com
+127.0.0.1 xg08.vvb.cc
 127.0.0.1 xg186.com
 127.0.0.1 xg22.linyunge.cn
 127.0.0.1 xg883.com
@@ -27555,6 +28436,7 @@
 127.0.0.1 xianxue.cc
 127.0.0.1 xianzhiyuan.cc
 127.0.0.1 xiao2013-05.yxdown.cn
+127.0.0.1 xiao2013-17.yxdown.cn
 127.0.0.1 xiao77w.net
 127.0.0.1 xiaoanfanli.com
 127.0.0.1 xiaoerp.net
@@ -27589,6 +28471,8 @@
 127.0.0.1 xiazai2.7r7z.com
 127.0.0.1 xiazai3.7r7z.com
 127.0.0.1 xiazai3.ke8u.com
+127.0.0.1 xiazai5.7r7z.com
+127.0.0.1 xiazai5.ke8u.com
 127.0.0.1 xiazaibacom.com
 127.0.0.1 xibeijiadian.com
 127.0.0.1 xidegui.net
@@ -27621,6 +28505,7 @@
 127.0.0.1 xingvi.com
 127.0.0.1 xingyunit.com
 127.0.0.1 xinhegold.cc
+127.0.0.1 xinhekj.com
 127.0.0.1 xinhongjz.com
 127.0.0.1 xinhotel2011.com
 127.0.0.1 xinhuayiqi.com
@@ -27687,6 +28572,7 @@
 127.0.0.1 xjrongxin.com
 127.0.0.1 xjspx.com
 127.0.0.1 xjuoe.com
+127.0.0.1 xjzg.net
 127.0.0.1 xjzhht.com
 127.0.0.1 xk668pai.com
 127.0.0.1 xkaoyan.com
@@ -27697,6 +28583,7 @@
 127.0.0.1 xkw.pw
 127.0.0.1 xl07.com
 127.0.0.1 xl1.dl.gezila.com
+127.0.0.1 xlbaojie.com
 127.0.0.1 xld.drvsky.com
 127.0.0.1 xldgw.com
 127.0.0.1 xldqp.com
@@ -27729,17 +28616,20 @@
 127.0.0.1 xmkjfw.com
 127.0.0.1 xmkk.com
 127.0.0.1 xml.tai69.com
+127.0.0.1 xmp.down.sandai.net
 127.0.0.1 xmqylm.com
 127.0.0.1 xm-sb.com
 127.0.0.1 xmsczx.com
 127.0.0.1 xmsd0000.com
 127.0.0.1 xmshanju.com
+127.0.0.1 xmtxt.cn
 127.0.0.1 xmusee.com
 127.0.0.1 xmwuqun.com
 127.0.0.1 xmxygroup.com
 127.0.0.1 xmyafeng.com
 127.0.0.1 xmyisou.cn
 127.0.0.1 xmzhong.com
+127.0.0.1 xmzlong.com
 127.0.0.1 xmzryy.com
 127.0.0.1 xmztqylm.com
 127.0.0.1 xmzy.taier57.net
@@ -27747,6 +28637,8 @@
 127.0.0.1 xnaxwl.com
 127.0.0.1 xn--bser-5qa.org
 127.0.0.1 xnbzw.com
+127.0.0.1 xn--fcs10i6xci5o.com
+127.0.0.1 xn--fiqs8st0fbnkpybvz0c.com
 127.0.0.1 xngyc.com.cn
 127.0.0.1 xnh8.com
 127.0.0.1 xnhgys.com
@@ -27921,6 +28813,7 @@
 127.0.0.1 xygg.net
 127.0.0.1 xyghs.com
 127.0.0.1 xygjxedk.cut.vn
+127.0.0.1 xyguilin.com
 127.0.0.1 xyhlgift.com
 127.0.0.1 xyhqz.com
 127.0.0.1 xyjsn.com
@@ -27956,6 +28849,7 @@
 127.0.0.1 xz.aqwblm.com
 127.0.0.1 xz.bacitec.com.cn
 127.0.0.1 xz.che1.net.cn
+127.0.0.1 xz.dianxinshu.com
 127.0.0.1 xz.eamego.cn
 127.0.0.1 xz.fslingzhuo.com.cn
 127.0.0.1 xz.gongzi.cc
@@ -27987,6 +28881,7 @@
 127.0.0.1 xzlmj.com
 127.0.0.1 xzlyaqf.com
 127.0.0.1 xzlybus.com
+127.0.0.1 xzmsl.w2053.pinzuke.net
 127.0.0.1 xznlzs.com
 127.0.0.1 xznr.net
 127.0.0.1 xzoppo.com
@@ -28089,6 +28984,7 @@
 127.0.0.1 ycborui.com
 127.0.0.1 ycchzt.info.gf
 127.0.0.1 ycdgi.com
+127.0.0.1 ycfcj.com
 127.0.0.1 ycflvshi.com
 127.0.0.1 ycgonr.xsegou1.com
 127.0.0.1 ycguyu.com
@@ -28098,6 +28994,7 @@
 127.0.0.1 ych-tech.com
 127.0.0.1 yc-jm.com
 127.0.0.1 yckm888.com
+127.0.0.1 ycld.cn
 127.0.0.1 yclufeng.com
 127.0.0.1 ycocpn.com
 127.0.0.1 ycpdsk.cn
@@ -28107,6 +29004,7 @@
 127.0.0.1 ycyl9933.com
 127.0.0.1 yd.ouyaoxiazai.com
 127.0.0.1 yd12356.com
+127.0.0.1 yd315.com
 127.0.0.1 yd836.com
 127.0.0.1 yd9d.cn
 127.0.0.1 ydd.gysy2x.com
@@ -28152,6 +29050,7 @@
 127.0.0.1 yf3333.co
 127.0.0.1 yf6666.co
 127.0.0.1 yfcsrv.com
+127.0.0.1 yfdiet.com
 127.0.0.1 yff.zxqycyw.com
 127.0.0.1 yfh9bs.cx.cc
 127.0.0.1 yfjazz.com
@@ -28253,6 +29152,7 @@
 127.0.0.1 yiwangg50.com
 127.0.0.1 yiwenbaida.55.lt
 127.0.0.1 yiwugang.net
+127.0.0.1 yiwuhuayang.com
 127.0.0.1 yiwutgw.com
 127.0.0.1 yixianzhi.com
 127.0.0.1 yixuegu.cn
@@ -28271,6 +29171,7 @@
 127.0.0.1 yjlhmm.com
 127.0.0.1 yjpig.com
 127.0.0.1 yjsan.com
+127.0.0.1 yjtcl.com
 127.0.0.1 yjtxdz.com
 127.0.0.1 yjws.guanwanglianmeng.com
 127.0.0.1 yjxmall.com
@@ -28478,6 +29379,7 @@
 127.0.0.1 ytshoujc.com
 127.0.0.1 ytssw.net
 127.0.0.1 ytw.ahujhc.cn
+127.0.0.1 ytwanfulai.com
 127.0.0.1 ytwh.xiazaia.net
 127.0.0.1 ytwy.nl.eu.org
 127.0.0.1 ytxyk8.com
@@ -28566,6 +29468,7 @@
 127.0.0.1 ywang5i.com
 127.0.0.1 ywhgs.com
 127.0.0.1 ywjjl.com.cn
+127.0.0.1 ywjsh.com
 127.0.0.1 ywkjpx.cn
 127.0.0.1 ywqm.ywqm868.com
 127.0.0.1 ywrbiwsz.tk
@@ -28600,6 +29503,7 @@
 127.0.0.1 yxsoso.cn
 127.0.0.1 yxuewj.com
 127.0.0.1 yxvn112.com
+127.0.0.1 yxxzzt.com
 127.0.0.1 yxzbjx.com
 127.0.0.1 yy.0515tf.com
 127.0.0.1 yy.8886wan.com
@@ -28607,6 +29511,7 @@
 127.0.0.1 yy058.com
 127.0.0.1 yy505jingpaiwang.com
 127.0.0.1 yy5555.hjc999.net
+127.0.0.1 yy598.com
 127.0.0.1 yy733.com
 127.0.0.1 yy9.dokeb.com
 127.0.0.1 yyb.yaoyubao.com
@@ -28641,6 +29546,7 @@
 127.0.0.1 yysddxx.com
 127.0.0.1 yysyuan.com
 127.0.0.1 yytaoba.com
+127.0.0.1 yytianya.com
 127.0.0.1 yytly.com.cn
 127.0.0.1 yytoz.com
 127.0.0.1 yyw0379.com
@@ -28695,6 +29601,7 @@
 127.0.0.1 zahuo5.com
 127.0.0.1 zai3sixaulou.com
 127.0.0.1 zaicz.com
+127.0.0.1 zainiptv.zapto.org
 127.0.0.1 zaixqc.com
 127.0.0.1 zaiyuanye.com
 127.0.0.1 zamengou.com
@@ -28704,6 +29611,7 @@
 127.0.0.1 zawvc.com
 127.0.0.1 zaxedk.com
 127.0.0.1 zb969.com
+127.0.0.1 zbd7b.54878.org
 127.0.0.1 zbhongqiao.com
 127.0.0.1 zbkangmeng.cn
 127.0.0.1 zbsdx.com
@@ -28768,6 +29676,7 @@
 127.0.0.1 zeronet.cn
 127.0.0.1 zeus.xpsweb.com
 127.0.0.1 zexin518.com
+127.0.0.1 zeyang.gn71.xzbiz.cn
 127.0.0.1 zf.nuaa.edu.cn
 127.0.0.1 zf.si-du.com
 127.0.0.1 zf308.com
@@ -28790,6 +29699,7 @@
 127.0.0.1 zgcxedk.net.cn
 127.0.0.1 zgdedao.com
 127.0.0.1 zgdgc.com
+127.0.0.1 zgdjc.com
 127.0.0.1 zgdlyp.com
 127.0.0.1 zgdmzbg.com
 127.0.0.1 zgdow.com
@@ -28848,6 +29758,7 @@
 127.0.0.1 zhaopay.com.cn
 127.0.0.1 zhaoshengmiji.com
 127.0.0.1 zhaoshengzixun.com
+127.0.0.1 zhaoxueba.com
 127.0.0.1 zhaxiw.com
 127.0.0.1 zhcwz.org
 127.0.0.1 zhdk.gdk.mx
@@ -28893,6 +29804,7 @@
 127.0.0.1 zhongguozhuangyi.com
 127.0.0.1 zhonghuayuqi.cn
 127.0.0.1 zhongjiadisplay.com
+127.0.0.1 zhongjiaolian.com
 127.0.0.1 zhongjie32.duapp.com
 127.0.0.1 zhongjie8.duapp.com
 127.0.0.1 zhongjiebao.com
@@ -28990,6 +29902,7 @@
 127.0.0.1 zjkdjzl.com
 127.0.0.1 zjkdy.com
 127.0.0.1 zjkpoker.com
+127.0.0.1 zjkxunda.com
 127.0.0.1 zjlibao.05.wm4p.com
 127.0.0.1 zjltb.com
 127.0.0.1 zjminte.com
@@ -29000,6 +29913,7 @@
 127.0.0.1 zjrtrade.com
 127.0.0.1 zjsau.com
 127.0.0.1 zjsfsy.com
+127.0.0.1 zj-sh.com
 127.0.0.1 zjsmerg.com
 127.0.0.1 zjstv2014.com
 127.0.0.1 zjsvv.com
@@ -29011,6 +29925,7 @@
 127.0.0.1 zjxiangxun.com
 127.0.0.1 zjxinben.com
 127.0.0.1 zj-xingye.com
+127.0.0.1 zjxmtv.com
 127.0.0.1 zjxxkx.com
 127.0.0.1 zjyjt.com
 127.0.0.1 zjyjzq.com
@@ -29046,6 +29961,7 @@
 127.0.0.1 zmhfm.com.cn
 127.0.0.1 zmkm580.com
 127.0.0.1 zmlabel.net
+127.0.0.1 zmt100.com
 127.0.0.1 zn.tybests.com
 127.0.0.1 zn658ty654hsy.com
 127.0.0.1 znd.hdxcyl.com
@@ -29112,6 +30028,7 @@
 127.0.0.1 zrqd120.com
 127.0.0.1 zrttz.com
 127.0.0.1 zs.game2.cn
+127.0.0.1 zs.hniuzsjy.cn
 127.0.0.1 zs2299.com
 127.0.0.1 zs4455.com
 127.0.0.1 zs5588.com
@@ -29125,6 +30042,7 @@
 127.0.0.1 zsd365.com
 127.0.0.1 zsdsjx.com
 127.0.0.1 zsdxwq.com
+127.0.0.1 zsigroupcn.gotoip2.com
 127.0.0.1 zsjat.com
 127.0.0.1 zsjlc88.com
 127.0.0.1 zsjy.cqjtu.edu.cn
@@ -29134,6 +30052,7 @@
 127.0.0.1 zslcsb.com
 127.0.0.1 zsljm.com
 127.0.0.1 zslongchen.com
+127.0.0.1 zsmisaki.com
 127.0.0.1 zssled.net
 127.0.0.1 zs-tf00.linkpc.net
 127.0.0.1 zswdg.com
@@ -29181,6 +30100,8 @@
 127.0.0.1 zwmk.jrjdnet.net
 127.0.0.1 zwone.com
 127.0.0.1 zwyc.net
+127.0.0.1 zwzyzx.com
+127.0.0.1 zx.0434.me
 127.0.0.1 zx.ayinfo.cn
 127.0.0.1 zx.bo3366.com
 127.0.0.1 zx.thefkt.ru
@@ -29217,6 +30138,7 @@
 127.0.0.1 zyb365.com
 127.0.0.1 zybbw.com
 127.0.0.1 zyblxw.com
+127.0.0.1 zychina.mobi
 127.0.0.1 zyftwm.com
 127.0.0.1 zygzxs.com
 127.0.0.1 zyhgjx.com
@@ -29237,10 +30159,12 @@
 127.0.0.1 zyxxhg.com
 127.0.0.1 zyyaoyou.com
 127.0.0.1 zyzh.net
+127.0.0.1 zyzhl.cn
 127.0.0.1 zyzulin.com
 127.0.0.1 zyzyouhua.com
 127.0.0.1 zz.csjcf.cn
 127.0.0.1 zz.ifwan.com
+127.0.0.1 zz.xmyeku.com
 127.0.0.1 zz88.ftp21.net
 127.0.0.1 zza1d.tumblr.com
 127.0.0.1 zzbcx.cn
@@ -29255,6 +30179,7 @@
 127.0.0.1 zzhtsmkj.com
 127.0.0.1 zzicx.com
 127.0.0.1 zzjcfx.com
+127.0.0.1 zzjgjjh.com
 127.0.0.1 zzjiameiqi.com
 127.0.0.1 zzjml.com
 127.0.0.1 zzjsbb.com
@@ -29265,11 +30190,13 @@
 127.0.0.1 zzllcy.com
 127.0.0.1 zzlwsp.com
 127.0.0.1 zzmlpd.com
+127.0.0.1 zznj.it12580.cn
 127.0.0.1 zzqbh.com
 127.0.0.1 zzqczd.com
 127.0.0.1 zzrjgg.com
 127.0.0.1 zzrx-cct.com
 127.0.0.1 zzrz001.com
+127.0.0.1 zzsbwg.com
 127.0.0.1 zzscjxx.com
 127.0.0.1 zzsfjd.com
 127.0.0.1 zzsfwx.com
@@ -29283,6 +30210,7 @@
 127.0.0.1 zztscz.com
 127.0.0.1 zzweike.com
 127.0.0.1 zzwjdn.com
+127.0.0.1 zzxren.com
 127.0.0.1 zzxvv.ftp.cc
 127.0.0.1 zzxzg.cn
 127.0.0.1 zzyoyo.com
@@ -29292,6 +30220,8 @@
 127.0.0.1 zzyxdk.cut.vn
 127.0.0.1 zzyxdk.miniholic.org
 127.0.0.1 zzyxkj.com.cn
+127.0.0.1 zzyygps.com
 127.0.0.1 zzz9z14z.cc
 127.0.0.1 zzzblog.com
+127.0.0.1 zzzjsh.com
 127.0.0.1 zzzxxh.com
