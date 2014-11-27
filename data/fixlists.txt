@@ -8,6 +8,7 @@
 127.0.0.1 alerts.live.com
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.doplive.com.cn
+127.0.0.1 tajs.qq.com
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 app.aplus.pptv.com
 127.0.0.1 g-ecx.images-amazon.com
