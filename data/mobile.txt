@@ -707,6 +707,16 @@
 127.0.0.1 dist.ad-stir.com
 127.0.0.1 js.ad-stir.com
 127.0.0.1 rtb.ad-stir.com
+#Alicommon
+127.0.0.1 mclick.simba.taobao.com
+127.0.0.1 click.simba.taobao.com
+127.0.0.1 click.tanx.com
+127.0.0.1 click.mz.simba.taobao.com
+127.0.0.1 click.tz.simba.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 rdstat.tanx.com
+127.0.0.1 stat.simba.taobao.com
+127.0.0.1 s.click.taobao.com
 #Alimama
 127.0.0.1 a.alimama.cn
 127.0.0.1 bm.alimama.cn
@@ -752,7 +762,6 @@
 #Ali-3rd
 127.0.0.1 acookie.tanx.com
 127.0.0.1 cdn.tanx.com
-127.0.0.1 click.tanx.com
 127.0.0.1 cmc.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
@@ -2720,19 +2729,13 @@
 127.0.0.1 j.uz.taobao.com
 127.0.0.1 zhentan.uz.taobao.com
 127.0.0.1 g.click.taobao.com
-127.0.0.1 s.click.taobao.com
 127.0.0.1 s8.m.taobao.com
 127.0.0.1 s8.taobao.com
 127.0.0.1 search8.taobao.com
 127.0.0.1 athena.simba.taobao.com
-127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 click.simba.taobao.com
-127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 log.m.taobao.com
 127.0.0.1 m.simba.taobao.com
-127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 simba.m.taobao.com
-127.0.0.1 stat.simba.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tmatch.simba.taobao.com
 127.0.0.1 tns.simba.taobao.com
