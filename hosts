@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412021608
+;version=201412031715
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -12736,6 +12736,8 @@ static.ak.fbcdn.net origincache-starfacebook-ai-01-05-ash3.facebook.com
 127.0.0.1 ctx.huigu.depmsg.net
 127.0.0.1 ctx.x.adontes.com
 127.0.0.1 ck.x.adontes.com
+127.0.0.1 www.cceo99.com
+127.0.0.1 img.wanhonghanjie.cn
 127.0.0.1 ck.n.sibye.com
 127.0.0.1 ck.l.sibye.com
 127.0.0.1 ctx.n.sibye.com
@@ -12749,6 +12751,11 @@ static.ak.fbcdn.net origincache-starfacebook-ai-01-05-ash3.facebook.com
 127.0.0.1 www.msfacai.com
 127.0.0.1 www.taobaoiac.com
 127.0.0.1 taobsnhd.com
+127.0.0.1 ez.pants.posftixds.com
+127.0.0.1 newsletter.ableaders.com
+127.0.0.1 sendmailserver136.com
+127.0.0.1 image.topengroup.net
+127.0.0.1 dm.ed10.org
 @Security Hijack
 #Domain Hijacking
 127.0.0.1 ss.cnnic.cn
