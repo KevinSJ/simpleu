@@ -259,8 +259,6 @@
 #Heiguang
 127.0.0.1 pro.heiguang.com
 @Sites-China/IT
-#Feng
-127.0.0.1 aoodoo.feng.com
 #MyDrivers
 127.0.0.1 count.mydrivers.com
 127.0.0.1 images.mydrivers.com

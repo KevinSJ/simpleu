@@ -1,4 +1,25 @@
 @Mobile ADPlatform
+#iOS
+127.0.0.1 aoodoo.feng.com
+127.0.0.1 ads.qadservice.com
+127.0.0.1 adsrvmedia.adk2.co
+127.0.0.1 adsrvmedia.adk2.net
+127.0.0.1 extra.thebigboss.org
+127.0.0.1 event-img.qwapi.com
+127.0.0.1 adserver-live.yoc.mobi
+127.0.0.1 admax.nexage.com
+#iOS-Cydia
+127.0.0.1 a.ad-sys.com
+127.0.0.1 a.adorika.net
+127.0.0.1 ads.glispa.com
+127.0.0.1 api.jw97.com
+127.0.0.1 c.gltrkk.net
+127.0.0.1 cydia.a3tweaks.com 
+127.0.0.1 hastrk3.com
+127.0.0.1 jw97.com
+#iOS-TMZ
+127.0.0.1 ads.geornmd.net
+127.0.0.1 ads.rnmd.net
 #MobPay
 127.0.0.1 epay.keepc.com
 127.0.0.1 api.mopay.com
@@ -1233,7 +1254,6 @@
 127.0.0.1 s.adm.cnzz.net
 127.0.0.1 s.cnzz.net
 127.0.0.1 tui.cnzz.net
-
 127.0.0.1 hm3.cnzz.com
 127.0.0.1 10 mail.cnzz.com
 127.0.0.1 17k.cnzz.com
@@ -3351,6 +3371,7 @@
 127.0.0.1 t.medialytics.com
 #Mobclix
 127.0.0.1 apps.outfit7.com
+127.0.0.1 apps2.outfit7.com
 127.0.0.1 a.mobclix.com
 127.0.0.1 ads.mobclix.com
 127.0.0.1 data.mobclix.com
