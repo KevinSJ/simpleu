@@ -34,3 +34,6 @@
 127.0.0.1 sendmailserver136.com
 127.0.0.1 image.topengroup.net
 127.0.0.1 dm.ed10.org
+127.0.0.1 share.v89.com
+127.0.0.1 wl.v89.com
+
