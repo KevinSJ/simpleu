@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412061037
+;version=201412071427
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6427,6 +6427,7 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
+127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 stat.youku.com
 127.0.0.1 static.atm.youku.com
@@ -6435,6 +6436,7 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
 127.0.0.1 valo.atm.youku.com
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 vhtml.atm.youku.com
@@ -7940,6 +7942,7 @@ s20-us2.ixquick.com s20-us2.ixquick.com
 127.0.0.1 click.kink.com
 127.0.0.1 c.actiondesk.com
 #Email Marketing
+127.0.0.1 js4455.com
 127.0.0.1 img.jwzbdl.com
 127.0.0.1 www.cceo99.com
 127.0.0.1 mail.topengroup.net
