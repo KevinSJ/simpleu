@@ -7,8 +7,7 @@ sed -i "1i\#MWSL Lists" mwsl.txt
 rem http://serve.netsh.org/pub/ping.php http://dn-data1.qbox.me/hosts
 rem https://cloudmonitor.ca.com/en/ping.php
 rem http://www.360kb.com/kb/2_122.html
-rem https://www.dropbox.com/sh/lw0ljk3sllmimpz/sMifu8lErM https://www.dropbox.com/sh/lw0ljk3sllmimpz/AADvmg0wxOXHAtLQ9WhPlvAva/imouto.host.txt?dl=1
-rem wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt  https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts sed -i "1i\#redirect (Powered by sundys)" grd.txt
+rem wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt sed -i "1i\#redirect (Powered by sundys)" grd.txt
 rem https://raw.githubusercontent.com/sundys/android/master/hosts
 wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 sed -i "s/\t/ /g" grd.txt
@@ -25,7 +24,7 @@ sed -i "/^#/d" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
 @echo off
-ver=0.2.2.6
+ver=0.2.2.7
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
