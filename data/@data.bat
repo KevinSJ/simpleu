@@ -4,12 +4,14 @@ gawk "!a[$0]++" 1.txt >360.txt
 wget -q -O- http://dn-mwsl-hosts.qbox.me/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 gawk "!a[$0]++" 2.txt >mwsl.txt
 sed -i "1i\#MWSL Lists" mwsl.txt
-rem http://serve.netsh.org/pub/ping.php http://dn-data1.qbox.me/hosts
+rem http://serve.netsh.org/pub/ping.php
 rem https://cloudmonitor.ca.com/en/ping.php
 rem http://www.360kb.com/kb/2_122.html
-rem wget -c --no-check-certificate -O imouto.txt https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt sed -i "1i\#redirect (Powered by sundys)" grd.txt
-rem https://raw.githubusercontent.com/sundys/android/master/hosts
-wget -c --no-check-certificate -O grd.txt https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+set s1=http://cdn.heartnn.eu.org/files/hosts
+set s2=https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
+set s3=https://raw.githubusercontent.com/sundys/android/master/hosts
+set s4=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+wget -c --no-check-certificate -O grd.txt %s4%
 sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
@@ -21,10 +23,11 @@ sed -i "/mtalk.google.com/d" grd.txt
 sed -i "/127.0.0.1/d" grd.txt
 sed -i "/^$/d" grd.txt
 sed -i "/^#/d" grd.txt
+sed -i "1i\#redirect" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
 @echo off
-ver=0.2.2.7
+ver=0.2.2.8
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00

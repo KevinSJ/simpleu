@@ -148,20 +148,25 @@
 127.0.0.1 c.235123.net
 127.0.0.1 t.235123.net
 #360
+127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
-127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 inst.360safe.com
-127.0.0.1 sh.qihoo.com
-127.0.0.1 haostat.qihoo.com
+127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 hao.360.cn
+127.0.0.1 msoftdl.360.cn
 127.0.0.1 s.360.cn
-127.0.0.1 tf.360.cn
-127.0.0.1 msg.shouji.360.cn
-127.0.0.1 fd.shouji.360.cn
-127.0.0.1 zhushou.360.cn
-127.0.0.1 shouji.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
+127.0.0.1 tf.360.cn
+127.0.0.1 sh.qihoo.com
+127.0.0.1 haostat.qihoo.com
+#360-Mob
+127.0.0.1 fd.shouji.360.cn
+127.0.0.1 feedback.m.360.cn
+127.0.0.1 msg.shouji.360.cn
+127.0.0.1 msg.shouji.360.cn
+127.0.0.1 shouji.360.cn
+127.0.0.1 zhushou.360.cn
 #37cs
 127.0.0.1 c.37cs.com
 127.0.0.1 code.37cs.com
@@ -1024,7 +1029,6 @@
 #BaiduLink
 127.0.0.1 8.baidu.com
 127.0.0.1 anquan.baidu.com
-127.0.0.1 antivirus.baidu.com
 127.0.0.1 app.news.baidu.com
 127.0.0.1 banlv.baidu.com
 127.0.0.1 bar.baidu.com
