@@ -151,9 +151,6 @@ s15-us2.ixquick.com
 s16-us2.ixquick.com
 s17-us2.ixquick.com
 s18-us2.ixquick.com
-#Lastpass
-lastpass.com
-www.lastpass.com
 #Mediafire
 mediafire.com
 www.mediafire.com
