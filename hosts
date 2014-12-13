@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412121018
+;version=201412131048
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -38,11 +38,6 @@ fe80::1%lo0	localhost
 76.164.232.70 5isotoi5.org
 2001:470:7b:99::2 ipv6.5isotoi5.org
 2001:470:7b:9a::2 ipv6.5isotoi5.org
-#BaiduRD
-220.181.57.216 baidu.com
-61.135.169.121 www.baidu.com
-180.76.3.151 baidu.com
-61.135.169.125 www.baidu.com
 #GoogleGCM
 64.233.182.188 mtalk.google.com
 74.125.28.101 google.com
