@@ -499,7 +499,6 @@
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
-127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 stat.youku.com
 127.0.0.1 static.atm.youku.com

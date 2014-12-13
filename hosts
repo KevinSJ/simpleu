@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412131048
+;version=201412131650
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6628,7 +6628,6 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
-127.0.0.1 player.lstat.youku.com
 127.0.0.1 push.m.youku.com
 127.0.0.1 stat.youku.com
 127.0.0.1 static.atm.youku.com
