@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412131650
+;version=201412151051
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -8227,6 +8227,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 jldnserror5.wo.com.cn
 127.0.0.1 lndnserror1.wo.com.cn
 127.0.0.1 nfdnserror1.wo.com.cn
+127.0.0.1 hndnserror6.wo.com.cn
 127.0.0.1 nfdnserror14.wo.com.cn
 127.0.0.1 nfdnserror16.wo.com.cn
 127.0.0.1 nfdnserror17.wo.com.cn
