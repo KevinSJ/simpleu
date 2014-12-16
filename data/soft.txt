@@ -18,11 +18,20 @@
 127.0.0.1 www.diupin.com
 127.0.0.1 ttash.com
 127.0.0.1 hao.kaikai001.com
-127.0.0.1 txtad.jjvod.com
-127.0.0.1 txtad.jijiplayer.com
-127.0.0.1 prom.qbho.kuaibo.com
+#JQVOD
+127.0.0.1 110.daddymami.net
+127.0.0.1 lbu.daddymami.net
+127.0.0.1 prom.qbho.daddymami.net
 127.0.0.1 qtip.daddymami.net
+127.0.0.1 text-ad.daddymami.net
+127.0.0.1 xml.web.daddymami.net
+127.0.0.1 prom.qbho.kuaibo.com
 127.0.0.1 qd.kuaibo.com
+127.0.0.1 error1.kuaibo.com
+127.0.0.1 lbu.726.com
+127.0.0.1 www.yunfan.com
+127.0.0.1 txtad.jijiplayer.com
+127.0.0.1 txtad.jjvod.com
 #UUSee
 127.0.0.1 g.uusee.com
 127.0.0.1 pop.uusee.com

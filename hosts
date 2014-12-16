@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412161318
+;version=201412161411
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6998,11 +6998,20 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 www.diupin.com
 127.0.0.1 ttash.com
 127.0.0.1 hao.kaikai001.com
-127.0.0.1 txtad.jjvod.com
-127.0.0.1 txtad.jijiplayer.com
-127.0.0.1 prom.qbho.kuaibo.com
+#JQVOD
+127.0.0.1 110.daddymami.net
+127.0.0.1 lbu.daddymami.net
+127.0.0.1 prom.qbho.daddymami.net
 127.0.0.1 qtip.daddymami.net
+127.0.0.1 text-ad.daddymami.net
+127.0.0.1 xml.web.daddymami.net
+127.0.0.1 prom.qbho.kuaibo.com
 127.0.0.1 qd.kuaibo.com
+127.0.0.1 error1.kuaibo.com
+127.0.0.1 lbu.726.com
+127.0.0.1 www.yunfan.com
+127.0.0.1 txtad.jijiplayer.com
+127.0.0.1 txtad.jjvod.com
 #UUSee
 127.0.0.1 g.uusee.com
 127.0.0.1 pop.uusee.com
@@ -8290,3 +8299,4 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 t.pohuai.com
 127.0.0.1 p.twb98.com
 127.0.0.1 vip.rwjfs.com
+127.0.0.1 t.ku63.com
