@@ -10,13 +10,6 @@
 127.0.0.1 www.anquyese.com
 127.0.0.1 678196.com
 127.0.0.1 busewwp.1337.cx
-127.0.0.1 baiduganjz.jd-app.com
-127.0.0.1 www.zhiyuemedia.com
-127.0.0.1 femm.shudao.tk
-127.0.0.1 pltg.dljurek.com
-127.0.0.1 abnzxkcvsd.cc.st
-127.0.0.1 www.0538tuan.cn
-127.0.0.1 www.ya688.com
 127.0.0.1 ym2.cbiter.com.cn
 127.0.0.1 dstp.worktld.in
 127.0.0.1 ym4.gxxxt.com.cn
@@ -53,6 +46,7 @@
 127.0.0.1 oa11.cn
 127.0.0.1 tm895.com
 127.0.0.1 369.qdxfd.com
+127.0.0.1 www.ya688.com
 127.0.0.1 www.love215.com
 127.0.0.1 www.kabaren.cn
 127.0.0.1 qijianba.com
@@ -712,6 +706,7 @@
 127.0.0.1 hzphjc.com
 127.0.0.1 wdxy.net
 127.0.0.1 mocqjl.com
+127.0.0.1 abnzxkcvsd.cc.st
 127.0.0.1 wxtt.rtschoeke.com
 127.0.0.1 027776.com
 127.0.0.1 n.chinajjyp.cn
@@ -748,6 +743,7 @@
 127.0.0.1 icloud1.inaoe.cn.com
 127.0.0.1 letaowan.net
 127.0.0.1 lxhn.cn
+127.0.0.1 www.0538tuan.cn
 127.0.0.1 lb.sf51w.net
 127.0.0.1 ab7799.com
 127.0.0.1 linran100.cn

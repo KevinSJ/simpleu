@@ -440,6 +440,7 @@
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 e.admaster.com.cn
