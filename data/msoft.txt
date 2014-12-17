@@ -280,6 +280,7 @@
 #HuNanTV
 127.0.0.1 click.hifly.tv
 127.0.0.1 corp.hunantv.com
+127.0.0.1 log.hunantv.com
 127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 recv-vd.gridsumdissector.com
 #Kascend
@@ -336,6 +337,7 @@
 127.0.0.1 counter.m1905.com
 127.0.0.1 vodlog.m1905.com
 127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
 #Pipi
 127.0.0.1 afm.pipi.cn
 127.0.0.1 game.pipi.cn

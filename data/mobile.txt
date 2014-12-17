@@ -2595,6 +2595,7 @@
 127.0.0.1 biz.weibo.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 game.weibo.com
+127.0.0.1 c.wcpt.biz.weibo.com
 127.0.0.1 s.alitui.weibo.com
 127.0.0.1 zc.biz.weibo.com
 127.0.0.1 zymo.mps.weibo.com

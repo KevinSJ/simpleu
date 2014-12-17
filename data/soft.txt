@@ -25,16 +25,22 @@
 127.0.0.1 qtip.daddymami.net
 127.0.0.1 text-ad.daddymami.net
 127.0.0.1 xml.web.daddymami.net
-127.0.0.1 error1.kuaibo.com
-127.0.0.1 lbu.kuaibo.com
-127.0.0.1 prom.qbho.kuaibo.com
-127.0.0.1 qd.kuaibo.com
-127.0.0.1 stat.kuaibo.com
 127.0.0.1 searchstat.726.com
 127.0.0.1 lbu.726.com
+127.0.0.1 minisite.yunfan.com
 127.0.0.1 www.yunfan.com
+127.0.0.1 110.kuaibo.com
+127.0.0.1 clk.dm.kuaibo.com
+127.0.0.1 error1.kuaibo.com
+127.0.0.1 lbu.kuaibo.com
+127.0.0.1 minisite.kuaibo.com
+127.0.0.1 prom.qbho.kuaibo.com
+127.0.0.1 qd.kuaibo.com
+127.0.0.1 qtip.kuaibo.com
+127.0.0.1 s.mini.kuaibo.com
+127.0.0.1 stat.kuaibo.com
+127.0.0.1 text-ad.kuaibo.com
 #QVOD-old
-#Qvod
 127.0.0.1 110.qvod.com
 127.0.0.1 adi.qvod.com
 127.0.0.1 buffer-ad.qvod.com
@@ -42,7 +48,6 @@
 127.0.0.1 pause-ad.qvod.com
 127.0.0.1 text-ad.qvod.com
 127.0.0.1 tj.qvod.com
-127.0.0.1 110.kuaibo.com
 127.0.0.1 acctrack.kuaibo.com
 127.0.0.1 agent.kuaibo.com
 127.0.0.1 buffer-ad.kuaibo.com
@@ -53,7 +58,6 @@
 127.0.0.1 pause-ad.kuaibo.com
 127.0.0.1 statis.kuaibo.com
 127.0.0.1 stun.kuaibo.com
-127.0.0.1 text-ad.kuaibo.com
 127.0.0.1 tj.kuaibo.com
 127.0.0.1 ulog.kuaibo.com
 127.0.0.1 update.kuaibo.com

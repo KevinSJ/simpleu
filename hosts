@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=20141217 800
+;version=20141217 932
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5028,6 +5028,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 biz.weibo.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 game.weibo.com
+127.0.0.1 c.wcpt.biz.weibo.com
 127.0.0.1 s.alitui.weibo.com
 127.0.0.1 zc.biz.weibo.com
 127.0.0.1 zymo.mps.weibo.com
@@ -6410,6 +6411,7 @@ content1.steampowered.com content1.steampowered.com
 #HuNanTV
 127.0.0.1 click.hifly.tv
 127.0.0.1 corp.hunantv.com
+127.0.0.1 log.hunantv.com
 127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 recv-vd.gridsumdissector.com
 #Kascend
@@ -6466,6 +6468,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 counter.m1905.com
 127.0.0.1 vodlog.m1905.com
 127.0.0.1 trace.m1905.cn
+127.0.0.1 vodlog.m1905.cn
 #Pipi
 127.0.0.1 afm.pipi.cn
 127.0.0.1 game.pipi.cn
@@ -7005,16 +7008,22 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 qtip.daddymami.net
 127.0.0.1 text-ad.daddymami.net
 127.0.0.1 xml.web.daddymami.net
-127.0.0.1 error1.kuaibo.com
-127.0.0.1 lbu.kuaibo.com
-127.0.0.1 prom.qbho.kuaibo.com
-127.0.0.1 qd.kuaibo.com
-127.0.0.1 stat.kuaibo.com
 127.0.0.1 searchstat.726.com
 127.0.0.1 lbu.726.com
+127.0.0.1 minisite.yunfan.com
 127.0.0.1 www.yunfan.com
+127.0.0.1 110.kuaibo.com
+127.0.0.1 clk.dm.kuaibo.com
+127.0.0.1 error1.kuaibo.com
+127.0.0.1 lbu.kuaibo.com
+127.0.0.1 minisite.kuaibo.com
+127.0.0.1 prom.qbho.kuaibo.com
+127.0.0.1 qd.kuaibo.com
+127.0.0.1 qtip.kuaibo.com
+127.0.0.1 s.mini.kuaibo.com
+127.0.0.1 stat.kuaibo.com
+127.0.0.1 text-ad.kuaibo.com
 #QVOD-old
-#Qvod
 127.0.0.1 110.qvod.com
 127.0.0.1 adi.qvod.com
 127.0.0.1 buffer-ad.qvod.com
@@ -7022,7 +7031,6 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 pause-ad.qvod.com
 127.0.0.1 text-ad.qvod.com
 127.0.0.1 tj.qvod.com
-127.0.0.1 110.kuaibo.com
 127.0.0.1 acctrack.kuaibo.com
 127.0.0.1 agent.kuaibo.com
 127.0.0.1 buffer-ad.kuaibo.com
@@ -7033,7 +7041,6 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 pause-ad.kuaibo.com
 127.0.0.1 statis.kuaibo.com
 127.0.0.1 stun.kuaibo.com
-127.0.0.1 text-ad.kuaibo.com
 127.0.0.1 tj.kuaibo.com
 127.0.0.1 ulog.kuaibo.com
 127.0.0.1 update.kuaibo.com
