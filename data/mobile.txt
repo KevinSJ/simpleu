@@ -164,7 +164,6 @@
 127.0.0.1 fd.shouji.360.cn
 127.0.0.1 feedback.m.360.cn
 127.0.0.1 msg.shouji.360.cn
-127.0.0.1 msg.shouji.360.cn
 127.0.0.1 shouji.360.cn
 127.0.0.1 zhushou.360.cn
 #37cs
@@ -2128,6 +2127,11 @@
 127.0.0.1 api.lmmob.com
 127.0.0.1 resource.lmmob.com
 127.0.0.1 www.limei.com
+#lmmedia
+127.0.0.1 g.js.lmmedia.com.cn
+127.0.0.1 i.x.js.lmmedia.com.cn
+127.0.0.1 s.js.lmmedia.com.cn
+127.0.0.1 st.js.lmmedia.com.cn
 #Lsense
 127.0.0.1 show.lsense.cn
 127.0.0.1 lsense.cn
@@ -2197,6 +2201,7 @@
 127.0.0.1 www.mgogo.com
 #Microad-cn
 127.0.0.1 d-cache.microad-cn.com
+127.0.0.1 dsp.send.microad-cn.com
 127.0.0.1 d-track.send.microad-cn.com
 127.0.0.1 microad-cn.com
 #Miidi
@@ -2371,6 +2376,8 @@
 127.0.0.1 data.puffcenter.com
 127.0.0.1 test.puffcenter.com
 #QQ-common
+127.0.0.1 eventlog.beacon.qq.com
+127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 game.weixin.qq.com
 127.0.0.1 prom.b.qq.com
 127.0.0.1 adsrich.qq.com
@@ -2708,6 +2715,7 @@
 127.0.0.1 sohu.ad-plus.cn
 127.0.0.1 u.ad-plus.cn
 127.0.0.1 cdn.optaim.com
+127.0.0.1 clk.optaim.com
 127.0.0.1 demo.optaim.com
 127.0.0.1 imp.optaim.com
 127.0.0.1 tk.optaim.com
@@ -3184,6 +3192,7 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 a.admob.com
 127.0.0.1 analytics.admob.com

@@ -9,20 +9,15 @@
 127.0.0.1 www.bjzyyy.net
 127.0.0.1 hbssj.com.cn
 127.0.0.1 www.swjilin.com
-127.0.0.1 wfffhdxcn.tk
-127.0.0.1 thaxhbvud.ocl-r.net
-127.0.0.1 sexbuys.cn
-127.0.0.1 www.fyyy.tv
-127.0.0.1 115558.com
-127.0.0.1 1x1x1x1x11x.16227.ghco.info
-127.0.0.1 www.anquyese.com
-127.0.0.1 678196.com
 127.0.0.1 busewwp.1337.cx
 127.0.0.1 ym2.cbiter.com.cn
 127.0.0.1 ym6.gxxxt.com.cn
 127.0.0.1 ym2.hakegame.com.cn
 127.0.0.1 xingko.cc.st
+127.0.0.1 wfffhdxcn.tk
+127.0.0.1 thaxhbvud.ocl-r.net
 127.0.0.1 suokwa.com
+127.0.0.1 www.anquyese.com
 127.0.0.1 chinawm13.duapp.com
 127.0.0.1 www.ywnzs.com
 127.0.0.1 www.wangchun.com.cn
@@ -38,6 +33,7 @@
 127.0.0.1 yaleqipai.com
 127.0.0.1 www.mzxx.ykedu.net
 127.0.0.1 ya688.com
+127.0.0.1 678196.com
 127.0.0.1 wanlike.njbsnk.com
 127.0.0.1 tuan.jnhylwl.com
 127.0.0.1 jp.ccbkr.com
@@ -330,6 +326,7 @@
 127.0.0.1 js1309.cn
 127.0.0.1 jqa3we.cn
 127.0.0.1 d.kk44kk.com
+127.0.0.1 115558.com
 127.0.0.1 china99go.com
 127.0.0.1 591mogu.com
 127.0.0.1 cbri.cn
@@ -1001,6 +998,7 @@
 127.0.0.1 bfeew.info
 127.0.0.1 www.83351999.com
 127.0.0.1 dkaing.cn.com
+127.0.0.1 www.fyyy.tv
 127.0.0.1 www.3yayou.com
 127.0.0.1 gjdtut.com
 127.0.0.1 srzk.com.cn
