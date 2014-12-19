@@ -1,5 +1,8 @@
 @Sites Block
 #VirusDown
+127.0.0.1 www.5fjg5j5.com
+127.0.0.1 i.getfreesoft.net
+127.0.0.1 inst.getfreesoft.net
 127.0.0.1 down.yxdfc.com
 127.0.0.1 kan.douww.com
 127.0.0.1 statistics.sanlin8.com

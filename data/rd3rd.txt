@@ -720,6 +720,7 @@
 74.125.70.141 feedly-beta.appspot.com
 74.125.70.141 lfe-alpo-gm.appspot.com
 74.125.70.141 m-dot-betaspike.appspot.com
+74.125.70.141 romerestclient.appspot.com 
 74.125.202.82 autoproxy-gfwlist.googlecode.com
 74.125.202.82 chromium.googlecode.com
 74.125.202.82 closure-library.googlecode.com
