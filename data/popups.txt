@@ -1,4 +1,7 @@
 @Float Ads
+127.0.0.1 c.okm918.com
+127.0.0.1 v.6dvip.com
+127.0.0.1 16.jdlhg.com
 127.0.0.1 1app.blob.core.windows.net
 127.0.0.1 creative.ad134m.com
 127.0.0.1 s.ad135m.com

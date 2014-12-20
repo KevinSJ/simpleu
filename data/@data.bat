@@ -1,7 +1,7 @@
 del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
 wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
 gawk "!a[$0]++" 1.txt >360.txt
-wget -q -O- http://dn-mwsl-hosts.qbox.me/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
+wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 gawk "!a[$0]++" 2.txt >mwsl.txt
 sed -i "1i\#MWSL Lists" mwsl.txt
 set p1=http://serve.netsh.org/pub/ping.php

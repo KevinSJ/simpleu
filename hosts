@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201412191041
+;version=201412201641
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -8298,6 +8298,9 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 @Float Ads
+127.0.0.1 c.okm918.com
+127.0.0.1 v.6dvip.com
+127.0.0.1 16.jdlhg.com
 127.0.0.1 1app.blob.core.windows.net
 127.0.0.1 creative.ad134m.com
 127.0.0.1 s.ad135m.com
