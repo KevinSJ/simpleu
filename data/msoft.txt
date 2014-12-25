@@ -65,6 +65,9 @@
 127.0.0.1 tracking.cat898.com
 127.0.0.1 super1.kdnet.net
 127.0.0.1 super.kdnet.net
+#LianWifi
+127.0.0.1 gmdh.lianwifi.com
+127.0.0.1 static.game.lianwifi.com
 #Line
 127.0.0.1 ad.lianwo168.com
 #Maxthon

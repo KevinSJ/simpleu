@@ -2604,6 +2604,7 @@
 127.0.0.1 appsupdate.sinaapp.com
 127.0.0.1 appgift.sinaapp.com
 #Sina-Weibo
+127.0.0.1 u1.img.mobile.sina.cn
 127.0.0.1 alitui.weibo.com
 127.0.0.1 biz.weibo.com
 127.0.0.1 c.biz.weibo.com

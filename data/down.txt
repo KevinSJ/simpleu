@@ -131,3 +131,10 @@
 127.0.0.1 show.t157.com
 127.0.0.1 download.uibia.com
 127.0.0.1 down.tututool.com
+127.0.0.1 bbs.diannaodian.com
+127.0.0.1 ghost.laomaotao.net
+127.0.0.1 u.diannaodian.com
+127.0.0.1 www.dabaicai.com
+127.0.0.1 www.laomaotao.net
+127.0.0.1 www.winbaicai.com
+127.0.0.1 www.winbaicai.com
