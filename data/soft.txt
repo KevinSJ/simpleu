@@ -21,6 +21,7 @@
 #QVOD
 127.0.0.1 110.daddymami.net
 127.0.0.1 lbu.daddymami.net
+127.0.0.1 minisite.daddymami.net
 127.0.0.1 prom.qbho.daddymami.net
 127.0.0.1 qtip.daddymami.net
 127.0.0.1 text-ad.daddymami.net
@@ -70,6 +71,15 @@
 127.0.0.1 agent.ad1111.com
 127.0.0.1 game.ad1111.com
 127.0.0.1 qvodlink.hco.cc
+127.0.0.1 ad.mobile.kuaibo.com
+127.0.0.1 android.dl.kuaibo.com
+127.0.0.1 js.dm.kuaibo.com
+127.0.0.1 mdo.pay.kuaibo.com
+127.0.0.1 op.kuaibo.com
+127.0.0.1 insert-ad.kuaibo.com
+127.0.0.1 pay.mobile.kuaibo.com
+127.0.0.1 stun1.kuaibo.com
+127.0.0.1 stc2.mobi.kuaiwan.com
 #JJVOD
 127.0.0.1 txtad.jijiplayer.com
 127.0.0.1 txtad.jjvod.com

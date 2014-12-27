@@ -2617,7 +2617,6 @@
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
 127.0.0.1 gw6.push.mcp.weibo.cn
-127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 security.weibo.cn
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 sdkapp.mobile.sina.cn

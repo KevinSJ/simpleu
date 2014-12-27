@@ -8,11 +8,12 @@ set p1=http://serve.netsh.org/pub/ping.php
 set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
+rem http://heartnn.gitcafe.io/hosts/
 set s1=http://cdn.heartnn.eu.org/files/hosts
 set s2=https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
 set s3=https://raw.githubusercontent.com/sundys/android/master/hosts
 set s4=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-wget -c --no-check-certificate -O grd.txt %s4%
+wget -c --no-check-certificate -O grd.txt %s1%
 sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
 sed -i "s/[ ]\{2,\}/ /g" grd.txt

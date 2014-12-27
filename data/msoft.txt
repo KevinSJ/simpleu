@@ -40,7 +40,7 @@
 127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creative.ak.fbcdn.net
 127.0.0.1 fbcdn-creative-a.akamaihd.net
-#Flipboard
+#Flipboard-NoAds
 127.0.0.1 ad-beta.flipboard.com
 127.0.0.1 ad.flipboard.com
 #GeekSoft
@@ -387,47 +387,6 @@
 127.0.0.1 p.g1d.net
 127.0.0.1 ppva.g1d.net
 127.0.0.1 video-va.g1d.net
-#Qvod
-127.0.0.1 110.qvod.com
-127.0.0.1 adi.qvod.com
-127.0.0.1 buffer-ad.qvod.com
-127.0.0.1 insert-ad.qvod.com
-127.0.0.1 pause-ad.qvod.com
-127.0.0.1 text-ad.qvod.com
-127.0.0.1 tj.qvod.com
-127.0.0.1 110.kuaibo.com
-127.0.0.1 acctrack.kuaibo.com
-127.0.0.1 ad.mobile.kuaibo.com
-127.0.0.1 agent.kuaibo.com
-127.0.0.1 android.dl.kuaibo.com
-127.0.0.1 buffer-ad.kuaibo.com
-127.0.0.1 dl.kuaibo.com
-127.0.0.1 hao.kuaibo.com
-127.0.0.1 js.dm.kuaibo.com
-127.0.0.1 mdo.pay.kuaibo.com
-127.0.0.1 mobile.behavior.kuaibo.com
-127.0.0.1 mobile.statis.kuaibo.com
-127.0.0.1 op.kuaibo.com
-127.0.0.1 insert-ad.kuaibo.com
-127.0.0.1 pause-ad.kuaibo.com
-127.0.0.1 pay.mobile.kuaibo.com
-127.0.0.1 statis.kuaibo.com
-127.0.0.1 stun.kuaibo.com
-127.0.0.1 stun1.kuaibo.com
-127.0.0.1 text-ad.kuaibo.com
-127.0.0.1 tj.kuaibo.com
-127.0.0.1 ulog.kuaibo.com
-127.0.0.1 update.kuaibo.com
-127.0.0.1 vtrack.kuaibo.com
-127.0.0.1 op.web.kuaiwan.com
-127.0.0.1 op2.web.kuaiwan.com
-127.0.0.1 prom.web.kuaiwan.com
-127.0.0.1 stc2.mobi.kuaiwan.com
-127.0.0.1 web.kuaiwan.com
-127.0.0.1 dl.duoping.com
-127.0.0.1 agent.ad1111.com
-127.0.0.1 game.ad1111.com
-127.0.0.1 qvodlink.hco.cc
 #SohuTV
 127.0.0.1 aty.tv.sohu.com
 127.0.0.1 atyt.tv.sohu.com

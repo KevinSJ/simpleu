@@ -38,9 +38,6 @@
 127.0.0.1 js.inicheng.com
 127.0.0.1 market.baihe.com
 127.0.0.1 minihack.910qq.com
-127.0.0.1 minisite.daddymami.net
-127.0.0.1 minisite.kuaibo.com
-127.0.0.1 minisite.yunfan.com
 127.0.0.1 my.37.com
 127.0.0.1 pcadmin.test.uae.uc.cn
 127.0.0.1 pv.iso01.com
@@ -135,6 +132,4 @@
 127.0.0.1 ghost.laomaotao.net
 127.0.0.1 u.diannaodian.com
 127.0.0.1 www.dabaicai.com
-127.0.0.1 www.laomaotao.net
-127.0.0.1 www.winbaicai.com
 127.0.0.1 www.winbaicai.com

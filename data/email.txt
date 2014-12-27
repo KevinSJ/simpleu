@@ -15,7 +15,6 @@
 127.0.0.1 ctx.huigu.depmsg.net
 127.0.0.1 ctx.x.adontes.com
 127.0.0.1 ck.x.adontes.com
-127.0.0.1 www.cceo99.com
 127.0.0.1 img.wanhonghanjie.cn
 127.0.0.1 ck.n.sibye.com
 127.0.0.1 ck.l.sibye.com
@@ -37,4 +36,3 @@
 127.0.0.1 dm.ed10.org
 127.0.0.1 share.v89.com
 127.0.0.1 wl.v89.com
-
