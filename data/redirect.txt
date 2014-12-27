@@ -213,36 +213,3 @@ content1.steampowered.com content1.steampowered.com
 38.127.167.5 static.xmarks.com
 38.127.167.5 sync.xmarks.com
 38.127.167.5 www.xmarks.com
-#Appspot
-74.125.25.141 appspot.com
-74.125.25.141 balsamiqgdrive.appspot.com
-74.125.25.141 betaspike.appspot.com
-74.125.25.141 chrome-devtools-frontend.appspot.com
-74.125.25.141 chrometophone.appspot.com
-74.125.25.141 codereview.appspot.com
-74.125.25.141 evolutionofweb.appspot.com
-74.125.25.141 googcloudlabs.appspot.com
-74.125.25.141 google-developers.appspot.com
-74.125.25.141 gv-gadget.appspot.com
-74.125.25.141 lfe-alpo-gm.appspot.com
-74.125.25.141 m-dot-betaspike.appspot.com
-74.125.25.141 moderator.appspot.com
-74.125.25.141 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-74.125.25.141 productideas.appspot.com
-74.125.25.141 project-slingshot-gp.appspot.com
-74.125.25.141 wcproxyx.appspot.com
-74.125.25.141 www.appspot.com
-#GoogleCode
-74.125.25.82 autoproxy-gfwlist.googlecode.com
-74.125.25.82 chromium.googlecode.com
-74.125.25.82 cjxlist.googlecode.com
-74.125.25.82 closure-library.googlecode.com
-74.125.25.82 earth-api-samples.googlecode.com
-74.125.25.82 gmaps-samples-flash.googlecode.com
-74.125.25.82 goagent.googlecode.com
-74.125.25.82 google-code-feed-gadget.googlecode.com
-74.125.25.82 haoutil.googlecode.com
-74.125.25.82 huhamhire-hosts.googlecode.com
-74.125.25.82 imoutohost.googlecode.com
-74.125.25.82 simpleu.googlecode.com
-74.125.25.82 smarthosts.googlecode.com

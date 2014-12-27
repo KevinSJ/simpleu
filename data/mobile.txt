@@ -148,12 +148,13 @@
 127.0.0.1 c.235123.net
 127.0.0.1 t.235123.net
 #360
+127.0.0.1 dl.360safe.com
 127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
-127.0.0.1 hao.360.cn
 127.0.0.1 msoftdl.360.cn
+127.0.0.1 down.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
@@ -1059,6 +1060,7 @@
 127.0.0.1 click.bes.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 ctj.wenku.baidu.com
+127.0.0.1 j.br.baidu.com
 127.0.0.1 dl-vip.bav.baidu.com
 127.0.0.1 dl1sw.baidu.com
 127.0.0.1 dlsw.baidu.com
@@ -1845,29 +1847,40 @@
 127.0.0.1 spnet2-1.i-mobile.co.jp
 127.0.0.1 spnet33.i-mobile.co.jp
 127.0.0.1 ssp-bidder.i-mobile.co.jp
-#ijinshan
+#liebao
+127.0.0.1 dl.liebao.cn
+127.0.0.1 dump.m.liebao.cn
+127.0.0.1 k.m.liebao.cn
+127.0.0.1 kpns2.a.m.liebao.cn
+127.0.0.1 lm.bilibili.wan.liebao.cn
+127.0.0.1 wifi.liebao.cn
+##ijinshan
+127.0.0.1 db.union.download.kingsoft.com
+127.0.0.1 push.db.kingsoft.com
+127.0.0.1 stat.sp.kingsoft.com
+127.0.0.1 union.jx2.kingsoft.com
+127.0.0.1 union.kingsoft.com
+127.0.0.1 info-push.duba.net
+127.0.0.1 tongji2.vip.duba.net
 127.0.0.1 game.duba.com
-127.0.0.1 js.stat.ijinshan.com
-127.0.0.1 andmlbf.tj.ijinshan.com
+127.0.0.1 www.duba.com
 127.0.0.1 apkquery.ksmobile.net
+127.0.0.1 dl.cm.ksmobile.com
+127.0.0.1 js.stat.ijinshan.com
+127.0.0.1 andmlb.tj.ijinshan.com
+127.0.0.1 andmlbf.tj.ijinshan.com
 127.0.0.1 apns.ios.ijinshan.com
 127.0.0.1 app.sjk.ijinshan.com
-127.0.0.1 cdn.popo.wan.ijinshan.com
-127.0.0.1 dh2.tj.ijinshan.com
-127.0.0.1 dl.ijinshan.com
-127.0.0.1 th.sjk.ijinshan.com
-127.0.0.1 web.tj.ijinshan.com
-127.0.0.1 kpns2.a.m.liebao.cn
-127.0.0.1 tongji2.vip.duba.net
-127.0.0.1 www.duba.com
-127.0.0.1 andmlb.tj.ijinshan.com
 127.0.0.1 bd.adm.ijinshan.com
 127.0.0.1 c.union.ijinshan.com
+127.0.0.1 cdn.popo.wan.ijinshan.com
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 dcys.ijinshan.com
 127.0.0.1 dh.tj.ijinshan.com
+127.0.0.1 dh2.tj.ijinshan.com
 127.0.0.1 dl.app.ijinshan.com
 127.0.0.1 dl.dc.ijinshan.com
+127.0.0.1 dl.ijinshan.com
 127.0.0.1 game1.sjk.ijinshan.com
 127.0.0.1 ios.ijinshan.com
 127.0.0.1 j.union.ijinshan.com
@@ -1882,20 +1895,13 @@
 127.0.0.1 ssc.union.ijinshan.com
 127.0.0.1 st.ios.ijinshan.com
 127.0.0.1 stat.ijinshan.com
+127.0.0.1 th.sjk.ijinshan.com
 127.0.0.1 top.dcys.ijinshan.com
 127.0.0.1 union.ijinshan.com
 127.0.0.1 up.app.ijinshan.com
+127.0.0.1 web.tj.ijinshan.com
 127.0.0.1 wxfk.dcys.ijinshan.com
 127.0.0.1 zj.dcys.ijinshan.com
-127.0.0.1 db.union.download.kingsoft.com
-127.0.0.1 push.db.kingsoft.com
-127.0.0.1 stat.sp.kingsoft.com
-127.0.0.1 union.jx2.kingsoft.com
-127.0.0.1 union.kingsoft.com
-127.0.0.1 info-push.duba.net
-127.0.0.1 dump.m.liebao.cn
-127.0.0.1 k.m.liebao.cn
-127.0.0.1 lm.bilibili.wan.liebao.cn
 #immob
 127.0.0.1 ads.lmmob.com
 127.0.0.1 lmmob.com
@@ -2382,6 +2388,10 @@
 127.0.0.1 data.puffcenter.com
 127.0.0.1 test.puffcenter.com
 #QQ-common
+127.0.0.1 dl_dir2.qq.com
+127.0.0.1 dldir3.qq.com
+127.0.0.1 dldir5.qq.com
+127.0.0.1 dlied6.qq.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 game.weixin.qq.com
