@@ -32,6 +32,7 @@ fe80::1%lo0	localhost
 #GoogleGCM
 64.233.182.188 mtalk.google.com
 216.58.209.132 www.google.com
+209.116.186.231 www.google.com
 216.58.209.131 www.google.com.hk
 195.122.16.30 google.com
 64.233.165.188 mtalk.google.com

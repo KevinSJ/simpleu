@@ -48,6 +48,7 @@
 162.159.252.5 www.feedly.com
 162.159.252.5 feedly.com
 162.159.254.4 s3.feedly.com
+216.58.217.141 feedly.appspot.com
 216.58.217.141 feedly-beta.appspot.com
 23.23.72.70 fbprod.flipboard.com
 54.230.150.180 cdn.flipboard.com
@@ -58,6 +59,7 @@
 199.16.158.9 api.twitter.com
 199.16.158.19 urls-real.api.twitter.com
 199.16.158.12 t.co
+59.24.3.173 status.twitter.com
 199.16.158.11 tweetdeck.com
 199.16.158.11 www.tweetdeck.com
 199.16.158.11 tdweb.twitter.com
@@ -1245,6 +1247,7 @@
 198.35.26.96 el.wikipedia.org
 198.35.26.96 eml.wikipedia.org
 198.35.26.96 en.wikipedia.org
+198.35.26.108 en.m.wikipedia.org
 198.35.26.96 eo.wikipedia.org
 198.35.26.96 es.wikipedia.org
 198.35.26.96 et.wikipedia.org
@@ -1428,6 +1431,7 @@
 198.35.26.96 tt.wikipedia.org
 198.35.26.96 tum.wikipedia.org
 198.35.26.96 tw.wikipedia.org
+198.35.26.108 tw.m.wikipedia.org
 198.35.26.96 ty.wikipedia.org
 198.35.26.96 udm.wikipedia.org
 198.35.26.96 ug.wikipedia.org
@@ -1455,6 +1459,7 @@
 198.35.26.96 zh-min-nan.wikipedia.org
 198.35.26.96 zh-yue.wikipedia.org
 198.35.26.96 zh.wikipedia.org
+198.35.26.108 zh.m.wikipedia.org
 198.35.26.96 zu.wikipedia.org
 198.35.26.96 www.mediawiki.org
 198.35.26.96 www.wikibooks.org
@@ -2659,7 +2664,7 @@
 192.229.144.127 cs287.wac.edgecastcdn.net
 110.232.178.82 www.ookla.com
 110.232.178.82 cs62.adn.edgecastcdn.net
-154.35.132.70 torproject.org
+38.229.72.16 torproject.org
 38.229.72.16 www.torproject.org
 38.229.72.8 git.torproject.org
 38.229.72.9 blog.torproject.org

@@ -107,7 +107,6 @@
 127.0.0.1 www.3456.com
 127.0.0.1 down.youbo.cc
 127.0.0.1 d.qq66699.com
-127.0.0.1 dl.360safe.com
 127.0.0.1 dl.meinvkankan.com
 127.0.0.1 down.meiriqixiang.com
 127.0.0.1 down.nisoka.com
