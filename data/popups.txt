@@ -1,4 +1,8 @@
 @Float Ads
+127.0.0.1 www.sakurajp.com.cn
+127.0.0.1 cps.yintai.com
+127.0.0.1 prom.gome.com.cn
+127.0.0.1 r.ujian.cc
 127.0.0.1 c.okm918.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 16.jdlhg.com
