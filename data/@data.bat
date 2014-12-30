@@ -9,7 +9,7 @@ set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
 rem http://heartnn.gitcafe.io/hosts/
-set s1=http://cdn.heartnn.eu.org/files/hosts
+set s1=http://h.heartnn.eu.org/hosts
 set s2=https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
 set s3=https://raw.githubusercontent.com/sundys/android/master/hosts
 set s4=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts

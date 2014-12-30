@@ -102,23 +102,6 @@ fe80::1%lo0	localhost
 #Minus
 108.59.10.193 i1.minus.com
 207.244.64.94 i2.minus.com
-#Mozilla
-93.184.215.191 activations.cdn.mozilla.net
-93.184.215.191 addons.cdn.mozilla.net
-93.184.215.191 air.cdn.mozilla.net
-72.21.91.8 cdn.mozilla.net
-93.184.215.191 code.cdn.mozilla.net
-93.184.215.191 developer.cdn.mozilla.net
-93.184.215.191 download-installer.cdn.mozilla.net
-93.184.215.191 fhr.cdn.mozilla.net
-72.21.91.8 getpersonas-cdn.mozilla.net
-93.184.215.191 glow.cdn.mozilla.net
-93.184.215.191 marketplace.cdn.mozilla.net
-93.184.215.191 mozorg.cdn.mozilla.net
-93.184.215.191 snippets.cdn.mozilla.net
-93.184.215.191 support.cdn.mozilla.net
-93.184.215.191 telemetry-experiment.cdn.mozilla.net
-93.184.215.191 videos.cdn.mozilla.net
 #StartPage
 37.0.88.62 blog.startpage.com
 85.17.181.244 eu.startpage.com
