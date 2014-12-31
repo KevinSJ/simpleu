@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=20141231 757
+;version=201412311604
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -1153,6 +1153,7 @@ content1.steampowered.com content1.steampowered.com
 216.58.217.4 checkout.google.com
 216.58.217.4 checkout.l.google.com
 216.58.217.4 chrome.google.com
+74.125.137.4 www3-china.l.google.com
 216.58.217.4 code.google.com
 216.58.217.4 code.l.google.com
 216.58.217.4 desktop.google.com
@@ -9125,6 +9126,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 @Float Ads
+127.0.0.1 www.gouwubang.com
 127.0.0.1 www.sakurajp.com.cn
 127.0.0.1 cps.yintai.com
 127.0.0.1 prom.gome.com.cn

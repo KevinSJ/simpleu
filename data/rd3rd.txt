@@ -994,6 +994,7 @@
 216.58.217.4 checkout.google.com
 216.58.217.4 checkout.l.google.com
 216.58.217.4 chrome.google.com
+74.125.137.4 www3-china.l.google.com
 216.58.217.4 code.google.com
 216.58.217.4 code.l.google.com
 216.58.217.4 desktop.google.com
