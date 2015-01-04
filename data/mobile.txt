@@ -3722,3 +3722,5 @@
 127.0.0.1 t.luxiangxin.com
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
+127.0.0.1 www.qixiazi.com
+

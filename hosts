@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501031819
+;version=20150104 957
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6967,6 +6967,8 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 t.luxiangxin.com
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
+127.0.0.1 www.qixiazi.com
+
 @MobSoft Ads
 #Bitesms
 127.0.0.1 ads.bitesms.com
@@ -9094,6 +9096,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 error1.wo114.cc
 127.0.0.1 error2.wo114.cc
 127.0.0.1 error8.wo114.cc
+127.0.0.1 jldnserror1.wo.com.cn
 127.0.0.1 hbdnserror6.wo.com.cn
 127.0.0.1 hljdnserror1.wo.com.cn
 127.0.0.1 jldnserror5.wo.com.cn

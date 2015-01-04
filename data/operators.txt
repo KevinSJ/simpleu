@@ -39,6 +39,7 @@
 127.0.0.1 error1.wo114.cc
 127.0.0.1 error2.wo114.cc
 127.0.0.1 error8.wo114.cc
+127.0.0.1 jldnserror1.wo.com.cn
 127.0.0.1 hbdnserror6.wo.com.cn
 127.0.0.1 hljdnserror1.wo.com.cn
 127.0.0.1 jldnserror5.wo.com.cn
