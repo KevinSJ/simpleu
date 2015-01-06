@@ -18,10 +18,11 @@ sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
 rem 将文件内的三个空格替换为空格
+sed -i "1,55d" grd.txt
+sed -i "/xijie.wordpress.com/d" grd.txt
 sed -i "/googlesyndication/d" grd.txt
 sed -i "/google-analytics/d" grd.txt
 sed -i "/googleadservices/d" grd.txt
-sed -i "/mtalk.google.com/d" grd.txt
 sed -i "/127.0.0.1/d" grd.txt
 sed -i "/^$/d" grd.txt
 sed -i "/^#/d" grd.txt
@@ -29,7 +30,7 @@ sed -i "1i\#redirect" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
 @echo off
-ver=0.2.2.9
+ver=0.2.3.1
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -157,13 +158,9 @@ sed -i "/^$/d" hosts
 sed -i "/^#/d" hosts
 sed -i "/.c.youtube.com/d" hosts
 sed -i "/multiupload.com/d" hosts
-sed -i "/soutong./d" hosts
 sed -i "/5isotoi5.org/d" hosts
 sed -i "/.sandai.net/d" hosts
 sed -i "/flashget.com/d" hosts
-sed -i "/googlesyndication/d" hosts
-sed -i "/google-analytics/d" hosts
-sed -i "/googleadservices/d" hosts
 sed -i "s/\t/ /g" hosts
 rem 将文件内的TAB替换为空格
 goto :eof

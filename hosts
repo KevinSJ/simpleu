@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501061538
+;version=201501061550
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -151,7 +151,6 @@ content1.steampowered.com content1.steampowered.com
 38.127.167.5 sync.xmarks.com
 38.127.167.5 www.xmarks.com
 #redirect
-::1 localhost
 66.155.11.238 ccfox.info
 66.155.11.238 myimouto.wordpress.com
 192.0.72.3 myimouto.files.wordpress.com
@@ -183,7 +182,6 @@ content1.steampowered.com content1.steampowered.com
 66.155.9.238 lucifr.wordpress.com
 192.0.81.250 botd2.wordpress.com
 192.0.81.250 r-login.wordpress.com
-66.155.11.238 xijie.wordpress.com #细节的力�?
 134.170.108.26 onedrive.live.com
 134.170.109.48 skyapi.onedrive.live.com
 134.170.108.224 storage.live.com
@@ -643,6 +641,7 @@ content1.steampowered.com content1.steampowered.com
 64.233.189.189 27.client-channel.google.com
 64.233.189.189 28.client-channel.google.com
 64.233.189.189 29.client-channel.google.com
+64.233.185.188 mtalk.google.com
 64.233.185.125 talk.google.com
 64.233.185.125 talkx.l.google.com
 64.233.185.125 talk.l.google.com

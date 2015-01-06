@@ -1,5 +1,4 @@
 #redirect
-::1 localhost
 66.155.11.238 ccfox.info
 66.155.11.238 myimouto.wordpress.com
 192.0.72.3 myimouto.files.wordpress.com
@@ -31,7 +30,6 @@
 66.155.9.238 lucifr.wordpress.com
 192.0.81.250 botd2.wordpress.com
 192.0.81.250 r-login.wordpress.com
-66.155.11.238 xijie.wordpress.com #细节的力量
 134.170.108.26 onedrive.live.com
 134.170.109.48 skyapi.onedrive.live.com
 134.170.108.224 storage.live.com
@@ -491,6 +489,7 @@
 64.233.189.189 27.client-channel.google.com
 64.233.189.189 28.client-channel.google.com
 64.233.189.189 29.client-channel.google.com
+64.233.185.188 mtalk.google.com
 64.233.185.125 talk.google.com
 64.233.185.125 talkx.l.google.com
 64.233.185.125 talk.l.google.com
