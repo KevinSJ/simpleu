@@ -52,9 +52,6 @@ fe80::1%lo0	localhost
 #FourSquare
 23.235.37.154 foursquare.com
 23.235.37.154 www.foursquare.com
-#Friendfeed
-173.252.75.5 friendfeed.com
-173.252.75.5 www.friendfeed.com
 #Gravatar
 72.21.91.121 0.gravatar.com
 72.21.91.121 1.gravatar.com
