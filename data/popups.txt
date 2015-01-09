@@ -1,4 +1,6 @@
 @Float Ads
+127.0.0.1 f.tukj.net
+127.0.0.1 kinbest.cn
 127.0.0.1 www.gouwubang.com
 127.0.0.1 www.sakurajp.com.cn
 127.0.0.1 cps.yintai.com
