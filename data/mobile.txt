@@ -1028,6 +1028,8 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #BaiduLink
+127.0.0.1 bcs.duapp.com
+127.0.0.1 1.baidu.com
 127.0.0.1 8.baidu.com
 127.0.0.1 anquan.baidu.com
 127.0.0.1 app.news.baidu.com

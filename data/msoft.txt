@@ -478,6 +478,9 @@
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 walp.atm.youku.com
 #YY
+127.0.0.1 gm_download3.yy.com
+127.0.0.1 policyres.game.yy.com
+127.0.0.1 stat2.web.yy.com
 127.0.0.1 a.vupload.duowan.com
 127.0.0.1 ad.yy.duowan.com
 127.0.0.1 forceupdate.yy.duowan.com
@@ -485,7 +488,6 @@
 127.0.0.1 market.duowan.com
 127.0.0.1 mstat.duowan.com
 127.0.1.1 pflq.duowan.com
-127.0.0.1 stat2.web.yy.com
 127.0.0.1 dw.hiido.cn
 127.0.0.1 im.yy.hiido.cn
 127.0.0.1 mb.hiido.com

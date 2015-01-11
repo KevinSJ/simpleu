@@ -1,4 +1,4 @@
-@Float Ads
+#Float Ads
 127.0.0.1 f.tukj.net
 127.0.0.1 kinbest.cn
 127.0.0.1 www.gouwubang.com

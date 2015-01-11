@@ -10,14 +10,6 @@
 127.0.0.1 www.anquyese.com
 127.0.0.1 dbcytyr.tk
 127.0.0.1 lkjdhsfg7.cc.st
-127.0.0.1 cd.gz.cddx189.com
-127.0.0.1 lhfc688.jd-app.com
-127.0.0.1 hhfff888aaddff158.hanyimeiwu.cn
-127.0.0.1 qgxueshengxia0yuanzhaopinwang.pics.mu
-127.0.0.1 tiaozhuan2210.a.namepu.com
-127.0.0.1 www.baiyumi.net.cn
-127.0.0.1 www.wzta.gov.cn
-127.0.0.1 jopp.tw168.net
 127.0.0.1 gkif.sechk.com
 127.0.0.1 klkll.1337.cx
 127.0.0.1 yidingfa.jinxianke.com
