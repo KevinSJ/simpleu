@@ -1,3 +1,5 @@
+Set objFSO = CreateObject("Scripting.FileSystemObject")
+objFSO.DeleteFile("C:\WINDOWS\system32\drivers\etc\hosts"), True
 Sub download(url,target)
         Const adTypeBinary = 1
         Const adTypeText = 2
@@ -22,4 +24,4 @@ download hosts,HostsFile
 wshshell.run "cmd /c sc stop DNSCache",0  '停止DNSCache服务
 wshshell.run "cmd /c sc config Dnscache start= disabled",0  '禁用DNSCache服务
 wshshell.run "cmd /c ipconfig /flushdns",0  '刷新DNS
-MsgBox "hosts 数据已升级到最新版本!", vbInformation, "SimpleU"
+MsgBox "hosts 数据已更新！", vbInformation, "SimpleU"

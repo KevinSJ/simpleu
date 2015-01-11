@@ -3211,6 +3211,9 @@
 127.0.0.1 www.googlecommerce.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 domains.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net

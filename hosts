@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501111255
+;version=201501111654
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6535,6 +6535,9 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 www.googlecommerce.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 domains.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
@@ -8919,6 +8922,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 tracker.zdnet.com.au
 @Sites Block
 #VirusDown
+127.0.0.1 download.upscool.com
 127.0.0.1 www.kele55.com
 127.0.0.1 img001.com
 127.0.0.1 www.5fjg5j5.com
