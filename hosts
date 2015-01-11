@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501111148
+;version=201501111255
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -644,26 +644,22 @@ content1.steampowered.com content1.steampowered.com
 216.58.216.5 m.googlemail.com
 216.58.216.5 mail.google.com
 216.58.216.5 isolated.mail.google.com
+64.233.189.136 inbox.google.com
 216.58.216.33 mail-attachment.googleusercontent.com
-64.233.189.136 chatenabled.mail.google.com
-64.233.189.136 filetransferenabled.mail.google.com
-74.125.28.109 imap.gmail.com
-74.125.28.109 gmail-imap.l.google.com
-74.125.28.109 imap.googlemail.com
-74.125.28.109 googlemail-imap.l.google.com
-74.125.69.109 smtp.gmail.com
-74.125.69.109 gmail-smtp-msa.l.google.com
-74.125.69.109 smtp1.google.com
-74.125.69.109 smtp2.google.com
-74.125.69.109 smtp3.google.com
-74.125.69.109 smtp-out.google.com
-74.125.69.109 smtp-out3.google.com
-74.125.69.27 gmail-smtp-in.l.google.com
-74.125.69.27 gmr-smtp-in.l.google.com
-74.125.193.109 pop.gmail.com
-74.125.193.109 gmail-pop.l.google.com
-74.125.193.109 pop.googlemail.com
-74.125.193.109 googlemail-pop.l.google.com
+216.58.216.5 chatenabled.mail.google.com
+216.58.216.5 filetransferenabled.mail.google.com
+64.233.176.108 imap.gmail.com
+64.233.176.108 gmail-imap.l.google.com
+64.233.176.108 imap.googlemail.com
+64.233.176.108 googlemail-imap.l.google.com
+64.233.176.108 smtp.gmail.com
+64.233.176.108 gmail-smtp-msa.l.google.com
+64.233.176.26 gmail-smtp-in.l.google.com
+64.233.176.26 gmr-smtp-in.l.google.com
+64.233.176.108 pop.gmail.com
+64.233.176.108 gmail-pop.l.google.com
+64.233.176.108 pop.googlemail.com
+64.233.176.108 googlemail-pop.l.google.com
 64.233.176.100 history.google.com
 64.233.176.100 adwords.google.com
 216.58.216.110 feedburner.google.com
@@ -798,7 +794,6 @@ content1.steampowered.com content1.steampowered.com
 64.233.189.136 groups.l.google.com
 64.233.189.136 groups-beta.google.com
 64.233.189.136 gxc.google.com
-64.233.189.136 inbox.google.com
 64.233.189.136 id.google.com
 64.233.189.136 id.l.google.com
 64.233.189.136 image.google.com
@@ -3485,6 +3480,7 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 down.360.cn
 127.0.0.1 s.360.cn
+127.0.0.1 s.mall.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 tf.360.cn
@@ -7054,7 +7050,6 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
 127.0.0.1 www.qixiazi.com
-
 @MobSoft Ads
 #Bitesms
 127.0.0.1 ads.bitesms.com
@@ -9224,6 +9219,12 @@ content1.steampowered.com content1.steampowered.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 #Float Ads
+127.0.0.1 counter.ztgame.com
+127.0.0.1 track.lefeng.com
+127.0.0.1 click.r.dangdang.com
+127.0.0.1 an.moonbasa.com
+127.0.0.1 cnt.zhaopin.com
+127.0.0.1 union.dangdang.com
 127.0.0.1 f.tukj.net
 127.0.0.1 kinbest.cn
 127.0.0.1 www.gouwubang.com

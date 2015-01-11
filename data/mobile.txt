@@ -156,6 +156,7 @@
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 down.360.cn
 127.0.0.1 s.360.cn
+127.0.0.1 s.mall.360.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 tf.360.cn
@@ -3725,4 +3726,3 @@
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
 127.0.0.1 www.qixiazi.com
-
