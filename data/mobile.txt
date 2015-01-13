@@ -2035,8 +2035,10 @@
 127.0.0.1 xapi.juicyads.com
 127.0.0.1 ck.juicyads.com
 #Juzi
+127.0.0.1 cms.v5.juzi.cn
 127.0.0.1 id.juzi.cn
 127.0.0.1 iu.juzi.cn
+127.0.0.1 v5.juzi.cn
 127.0.0.1 www.juzi.cn
 #JzMob
 127.0.0.1 jzmob.com

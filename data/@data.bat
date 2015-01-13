@@ -1,9 +1,9 @@
 del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
 wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
 gawk "!a[$0]++" 1.txt >360.txt
-wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
-gawk "!a[$0]++" 2.txt >mwsl.txt
-sed -i "1i\#MWSL Lists" mwsl.txt
+rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
+rem gawk "!a[$0]++" 2.txt >mwsl.txt
+rem sed -i "1i\#MWSL Lists" mwsl.txt
 set p1=http://serve.netsh.org/pub/ping.php
 set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
@@ -44,9 +44,10 @@ ping -n 3 127.0.0.1
 ping -n 3 127.0.0.1
 copy 1A.txt 0.txt
 sed -i "s/127.0.0.1/0.0.0.0/g" 0.txt
-start hosts.vbs
+start vblf.vbs
 ping -n 5 127.0.0.1
 copy hosts "%~dp0..\hosts"
+del /f 360.txt
 call :Android
 call :del
 cd %~dp0..\tools
@@ -68,7 +69,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
