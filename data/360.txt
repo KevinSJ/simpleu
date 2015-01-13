@@ -9,14 +9,6 @@
 127.0.0.1 www.jyhkpw.com
 127.0.0.1 www.anquyese.com
 127.0.0.1 www.zmcqy.com
-127.0.0.1 krsi.rulfer.com
-127.0.0.1 www.dnsdosdocomsdoooocoosdooox.cu.cc
-127.0.0.1 nc8.schxxksb.com
-127.0.0.1 eyokiuu.tk
-127.0.0.1 plly.gtvtech.com
-127.0.0.1 xinl6zn.pw
-127.0.0.1 segdrh58.jd-app.com
-127.0.0.1 dbcytyr.tk
 127.0.0.1 lkjdhsfg7.cc.st
 127.0.0.1 gkif.sechk.com
 127.0.0.1 pjs11.1337.cx
@@ -24,6 +16,7 @@
 127.0.0.1 adiii.oyreda.com
 127.0.0.1 yjfjteff88.jd-app.com
 127.0.0.1 hter.ted67.com
+127.0.0.1 krsi.rulfer.com
 127.0.0.1 3baiyue.cc.st
 127.0.0.1 www.xprkj.com
 127.0.0.1 666.aiaok.roncancio.me
@@ -902,6 +895,7 @@
 127.0.0.1 www.180tk.com
 127.0.0.1 www.changhong433.com
 127.0.0.1 www.morelv.com
+127.0.0.1 segdrh58.jd-app.com
 127.0.0.1 52zcw.cn
 127.0.0.1 www.ztzhe.com
 127.0.0.1 hnxxncn.com
@@ -981,6 +975,7 @@
 127.0.0.1 www.cnballvalve.net
 127.0.0.1 www.zsgsd.com
 127.0.0.1 b.kk44kk.com
+127.0.0.1 xinl6zn.pw
 127.0.0.1 83ayp.com
 127.0.0.1 www.wmtag.cn
 127.0.0.1 zjgwy.cc

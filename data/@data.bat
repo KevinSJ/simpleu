@@ -8,7 +8,7 @@ set p1=http://serve.netsh.org/pub/ping.php
 set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
-rem http://heartnn.gitcafe.io/hosts/  http://www.right.com.cn/forum/thread-152514-1-1.html
+rem http://bbs.a9vg.com/thread-3476870-1-1.html http://heartnn.gitcafe.io/hosts/  http://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
 set s1=http://h.heartnn.eu.org/hosts
 set s2=https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
 set s3=https://raw.githubusercontent.com/sundys/android/master/hosts
