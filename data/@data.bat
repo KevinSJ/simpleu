@@ -10,8 +10,8 @@ set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
 rem http://bbs.a9vg.com/thread-3476870-1-1.htmlhttp://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
 set s1=http://blog.crpuer.com/GavinHosts.txt
-set s4=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-wget -c --no-check-certificate -O grd.txt %s1%
+set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+wget -c --no-check-certificate -O grd.txt %s2%
 sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
@@ -66,7 +66,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt rd3rd.txt 1listrds.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
