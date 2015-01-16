@@ -14,7 +14,7 @@
 127.0.0.1 ads.glispa.com
 127.0.0.1 api.jw97.com
 127.0.0.1 c.gltrkk.net
-127.0.0.1 cydia.a3tweaks.com 
+127.0.0.1 cydia.a3tweaks.com
 127.0.0.1 hastrk3.com
 127.0.0.1 jw97.com
 #iOS-TMZ
@@ -1264,7 +1264,7 @@
 127.0.0.1 s.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 hm3.cnzz.com
-127.0.0.1 10 mail.cnzz.com
+127.0.0.1 mail.cnzz.com
 127.0.0.1 17k.cnzz.com
 127.0.0.1 1ting.cnzz.com
 127.0.0.1 2008.cnzz.com
@@ -1369,7 +1369,6 @@
 127.0.0.1 jiaoliu.cnzz.com
 127.0.0.1 ku6.cnzz.com
 127.0.0.1 liuyan.cnzz.com
-127.0.0.1 mail.cnzz.com
 127.0.0.1 new.cnzz.com
 127.0.0.1 newhua.cnzz.com
 127.0.0.1 newstat.cnzz.com

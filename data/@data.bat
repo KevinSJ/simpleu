@@ -11,20 +11,19 @@ set p4=http://www.360kb.com/kb/2_122.html
 rem http://bbs.a9vg.com/thread-3476870-1-1.htmlhttp://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
 set s1=http://blog.crpuer.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-wget -c --no-check-certificate -O grd.txt %s2%
+rem wget -c --no-check-certificate -O grd.txt %s2%
 sed -i "s/\t/ /g" grd.txt
 rem 将文件内的TAB替换为空格
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
 rem 将文件内的三个空格替换为空格
 sed -i "1,55d" grd.txt
-sed -i "/xijie.wordpress.com/d" grd.txt
 sed -i "/googlesyndication/d" grd.txt
 sed -i "/google-analytics/d" grd.txt
 sed -i "/googleadservices/d" grd.txt
 sed -i "/127.0.0.1/d" grd.txt
 sed -i "/^$/d" grd.txt
 sed -i "/^#/d" grd.txt
-sed -i "1i\#redirect" grd.txt
+sed -i "1i\#redirect-abclite" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
 @echo off
