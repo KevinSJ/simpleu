@@ -70,7 +70,6 @@
 127.0.0.1 zzmlxd.com
 127.0.0.1 www.zhentj.com
 127.0.0.1 www.1155.com
-127.0.0.1 www.126disk.com
 127.0.0.1 dl.yizhan123.com
 127.0.0.1 ie.114la.com
 127.0.0.1 www.admflt.com

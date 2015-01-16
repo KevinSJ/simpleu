@@ -1,7 +1,6 @@
 #Porn Sites
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 creatives.livejasmin.com
-127.0.0.1 www.livejasmin.com
 127.0.0.1 ad.sitemaji.com
 127.0.0.1 jzy002.com
 127.0.0.1 s01.hangzhouedm.com

@@ -34,7 +34,6 @@
 203.77.186.211 cloud-5.steampowered.com
 203.77.186.211 cloud-6.steampowered.com
 203.77.186.211 cloud-7.steampowered.com
-203.77.186.211 cloud-7.steampowered.com
 203.77.186.211 cloud-9.steampowered.com
 #PlayStation
 63.219.18.170 www.ign.com
@@ -150,7 +149,6 @@
 63.219.18.170 zvag.zune.net
 63.219.18.170 zvah.zune.net
 63.219.18.170 zvai.zune.net
-63.219.18.170 zvag.zune.net
 63.219.18.170 zvak.zune.net
 63.219.18.170 zval.zune.net
 63.219.18.170 zvam.zune.net
@@ -161,7 +159,6 @@
 63.219.18.170 zvar.zune.net
 63.219.18.170 zvas.zune.net
 63.219.18.170 zvat.zune.net
-63.219.18.170 zvao.zune.net
 63.219.18.170 zvav.zune.net
 63.219.18.170 zvaw.zune.net
 63.219.18.170 zvax.zune.net
@@ -176,7 +173,6 @@
 63.219.18.170 zvbg.zune.net
 63.219.18.170 zvbh.zune.net
 63.219.18.170 zvbi.zune.net
-63.219.18.170 zvbg.zune.net
 63.219.18.170 zvbk.zune.net
 63.219.18.170 zvbl.zune.net
 63.219.18.170 zvbm.zune.net
@@ -187,7 +183,6 @@
 63.219.18.170 zvbr.zune.net
 63.219.18.170 zvbs.zune.net
 63.219.18.170 zvbt.zune.net
-63.219.18.170 zvbo.zune.net
 63.219.18.170 zvbv.zune.net
 63.219.18.170 zvbw.zune.net
 63.219.18.170 zvbx.zune.net
@@ -202,7 +197,6 @@
 63.219.18.170 zvcg.zune.net
 63.219.18.170 zvch.zune.net
 63.219.18.170 zvci.zune.net
-63.219.18.170 zvcg.zune.net
 63.219.18.170 zvck.zune.net
 63.219.18.170 zvcl.zune.net
 63.219.18.170 zvcm.zune.net
@@ -213,7 +207,6 @@
 63.219.18.170 zvcr.zune.net
 63.219.18.170 zvcs.zune.net
 63.219.18.170 zvct.zune.net
-63.219.18.170 zvco.zune.net
 63.219.18.170 zvcv.zune.net
 63.219.18.170 zvcw.zune.net
 63.219.18.170 zvcx.zune.net

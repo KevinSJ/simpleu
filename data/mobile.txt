@@ -3266,7 +3266,7 @@
 #Adtechus
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 glb.adtechus.com
-#Amazon
+#Amazon-ads
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
@@ -3276,7 +3276,7 @@
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 amazon-adsystem.amazon.com
 127.0.0.1 mads.amazon.com
-#Amazon AWS
+#Amazon-AWS
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 campaign-tapad.s3.amazonaws.com
