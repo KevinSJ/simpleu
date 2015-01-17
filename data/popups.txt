@@ -1,4 +1,7 @@
 #Float Ads
+127.0.0.1 kt.avatarsd.com
+127.0.0.1 g.o37o.net
+127.0.0.1 t.iz55.com
 127.0.0.1 counter.ztgame.com
 127.0.0.1 track.lefeng.com
 127.0.0.1 click.r.dangdang.com

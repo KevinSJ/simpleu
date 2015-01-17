@@ -1,4 +1,4 @@
-del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
+del /f 360.txt Mwsl.txt 1.txt 2.txt grd.txt
 wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
 gawk "!a[$0]++" 1.txt >360.txt
 rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
@@ -8,13 +8,28 @@ set p1=http://serve.netsh.org/pub/ping.php
 set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
-rem http://bbs.a9vg.com/thread-3476870-1-1.htmlhttp://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
+rem http://bbs.a9vg.com/thread-3476870-1-1.htmlhttp://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67 http://heartnn.gitcafe.io/hosts/
 set s1=http://blog.crpuer.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://h.heartnn.eu.org/hosts
-copy grd.txt rd3rd.txt
+wget -c --no-check-certificate -O gg.txt %s3%
+sed -i "s/\t/ /g" gg.txt
+rem 将文件内的TAB替换为空格
+sed -i "s/[ ]\{2,\}/ /g" gg.txt
+rem 将文件内的三个空格替换为空格
+sed -i "/#Google Services END/q" gg.txt
+rem 删除google下面的行内容
+sed -i "/googlesyndication/d" gg.txt
+sed -i "/google-analytics/d" gg.txt
+sed -i "/googleadservices/d" gg.txt
+sed -i "/127.0.0.1/d" gg.txt
+sed -i "/^$/d" gg.txt
+sed -i "/^#/d" gg.txt
+sed -i "1i\#redirect" gg.txt
+gawk "!a[$0]++" gg.txt >grd.txt
+del /f gg.txt 2.txt
 @echo off
-ver=0.2.3.5
+ver=0.2.3.6
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -52,7 +67,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt rd3rd.txt 1listrds.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt grd.txt 1listrds.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 

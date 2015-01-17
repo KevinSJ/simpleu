@@ -925,5 +925,3 @@
 64.233.189.211 proxy.googlezip.net
 74.125.198.26 gmail-smtp-in.l.google.com
 74.125.198.26 gmr-smtp-in.l.google.com
-8.8.4.4 google-public-dns-b.google.com
-8.8.8.8 google-public-dns-a.google.com
