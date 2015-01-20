@@ -1,4 +1,6 @@
 #Float Ads
+127.0.0.1 img.il8r.com
+127.0.0.1 c.37kx1.com
 127.0.0.1 app.adanzhuo.com
 127.0.0.1 f.ju33.com
 127.0.0.1 f.ku63.com

@@ -1746,10 +1746,12 @@
 127.0.0.1 www.emar.com.cn
 127.0.0.1 eavs02.eqifa.com
 #emarbox
+127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com
 127.0.0.1 emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+127.0.0.1 www.emarbox.com
 #Exit-ad
 127.0.0.1 d.exit-ad.com
 127.0.0.1 j.exit-ad.com
@@ -1856,7 +1858,9 @@
 127.0.0.1 kpns2.a.m.liebao.cn
 127.0.0.1 lm.bilibili.wan.liebao.cn
 127.0.0.1 wifi.liebao.cn
-##ijinshan
+#ijinshan
+127.0.0.1 a.union.mi.com
+127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
 127.0.0.1 stat.sp.kingsoft.com

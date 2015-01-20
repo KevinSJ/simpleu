@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501201114
+;version=201501201921
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -4752,10 +4752,12 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 www.emar.com.cn
 127.0.0.1 eavs02.eqifa.com
 #emarbox
+127.0.0.1 cm.emarbox.com
 127.0.0.1 d.emarbox.com
 127.0.0.1 emarbox.com
 127.0.0.1 et.emarbox.com
 127.0.0.1 s.emarbox.com
+127.0.0.1 www.emarbox.com
 #Exit-ad
 127.0.0.1 d.exit-ad.com
 127.0.0.1 j.exit-ad.com
@@ -4862,7 +4864,9 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 kpns2.a.m.liebao.cn
 127.0.0.1 lm.bilibili.wan.liebao.cn
 127.0.0.1 wifi.liebao.cn
-##ijinshan
+#ijinshan
+127.0.0.1 a.union.mi.com
+127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
 127.0.0.1 stat.sp.kingsoft.com
@@ -9046,6 +9050,7 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 tracker.zdnet.com.au
 @Sites Block
 #VirusDown
+127.0.0.1 xiazhai.xiaocen.com
 127.0.0.1 download.upscool.com
 127.0.0.1 www.kele55.com
 127.0.0.1 img001.com
@@ -9192,18 +9197,13 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 kdtru262.com
 127.0.0.1 huanle800.com
 127.0.0.1 djj.hutchbox.net
-127.0.0.1 hyzusdinsa.cc.st
-127.0.0.1 fzxcvkasjs.cc.st
-127.0.0.1 ktrg.rulfer.com
-127.0.0.1 dka.binbyz.com
-127.0.0.1 www.dgdiaosu.com.cn
-127.0.0.1 83xinlvip.cc
-127.0.0.1 tgresjtrj98.jd-app.com
 127.0.0.1 vfdj.trozki.net
 127.0.0.1 cfe.icfar.com
 127.0.0.1 cpk.aohao.org
 127.0.0.1 yf76fytf.jd-app.com
 127.0.0.1 gegy.dubuq.com
+127.0.0.1 hyzusdinsa.cc.st
+127.0.0.1 fzxcvkasjs.cc.st
 127.0.0.1 docu.adzeitor.tk
 127.0.0.1 jishiyu88.yao.cl
 127.0.0.1 www.yym.jiudianjiu.com.cn
@@ -9848,6 +9848,7 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 mxdkgs.cn
 127.0.0.1 www.191623.com
 127.0.0.1 www.hz083.com
+127.0.0.1 ktrg.rulfer.com
 127.0.0.1 www.775aa.com
 127.0.0.1 jnxyzj.com
 127.0.0.1 jbzyvasdbas.cc.st
@@ -10074,6 +10075,7 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 iiizx.com
 127.0.0.1 1zuowen.com
 127.0.0.1 kclae.cn
+127.0.0.1 www.dgdiaosu.com.cn
 127.0.0.1 www.shechitao.cn
 127.0.0.1 pingbaedu.cn
 127.0.0.1 www.507616.com
@@ -10116,6 +10118,7 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 www.tjttxx.com
 127.0.0.1 www.46qp.com
 127.0.0.1 dkq.rhxgkj.com
+127.0.0.1 dka.binbyz.com
 127.0.0.1 jdasckt.com
 127.0.0.1 www.chhuier.cn
 127.0.0.1 kkt2.com
@@ -10353,6 +10356,8 @@ s13-eu2.ixquick.com s13-eu2.ixquick.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 #Float Ads
+127.0.0.1 img.il8r.com
+127.0.0.1 c.37kx1.com
 127.0.0.1 app.adanzhuo.com
 127.0.0.1 f.ju33.com
 127.0.0.1 f.ku63.com
