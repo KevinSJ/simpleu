@@ -1,4 +1,11 @@
 #Float Ads
+127.0.0.1 app.adanzhuo.com
+127.0.0.1 f.ju33.com
+127.0.0.1 f.ku63.com
+127.0.0.1 img.51ads.com
+127.0.0.1 to3.ysjwj.com
+127.0.0.1 t.ju33.com
+127.0.0.1 vip.at98.com
 127.0.0.1 kt.avatarsd.com
 127.0.0.1 g.o37o.net
 127.0.0.1 t.iz55.com

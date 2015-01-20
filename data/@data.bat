@@ -22,6 +22,7 @@ rem 删除google下面的行内容
 sed -i "/googlesyndication/d" gg.txt
 sed -i "/google-analytics/d" gg.txt
 sed -i "/googleadservices/d" gg.txt
+sed -i "/::1 localhost/d" gg.txt
 sed -i "/127.0.0.1/d" gg.txt
 sed -i "/^$/d" gg.txt
 sed -i "/^#/d" gg.txt
