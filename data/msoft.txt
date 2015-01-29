@@ -497,6 +497,7 @@
 127.0.0.1 ylog.hiido.com
 #Ximalaya
 127.0.0.1 ad.ximalaya.com
+127.0.0.1 ad.test.ximalaya.com
 #XunLei
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 analytics-union.xunlei.com

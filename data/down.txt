@@ -1,5 +1,6 @@
 @Sites Block
 #VirusDown
+127.0.0.1 url.cncrk.com
 127.0.0.1 xiazhai.xiaocen.com
 127.0.0.1 download.upscool.com
 127.0.0.1 www.kele55.com

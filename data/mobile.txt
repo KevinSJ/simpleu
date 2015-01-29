@@ -143,6 +143,7 @@
 127.0.0.1 download.2345.com
 127.0.0.1 download.2345.cn
 127.0.0.1 update.ie.2345.com
+127.0.0.1 update.m.2345.com
 127.0.0.1 www.2345.com
 #235123
 127.0.0.1 c.235123.net
@@ -153,7 +154,6 @@
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
-127.0.0.1 msoftdl.360.cn
 127.0.0.1 down.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.mall.360.cn
@@ -2844,6 +2844,7 @@
 127.0.0.1 www.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 au.umeng.com
+127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 umeng.com
@@ -2861,6 +2862,7 @@
 127.0.0.1 ex.puata.info
 127.0.0.1 cdn.puata.info
 127.0.0.1 www.uyunad.com
+127.0.0.1 log.umsns.com
 #Unionbig
 127.0.0.1 code01.unionli.com
 127.0.0.1 p.unionli.com
