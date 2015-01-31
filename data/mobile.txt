@@ -2348,6 +2348,12 @@
 #Nokia.com.cn
 127.0.0.1 ads.life.nokia.com.cn
 127.0.0.1 wap.life.nokia.com.cn
+#p0y
+127.0.0.1 f1.p0y.com
+127.0.0.1 f2.p0y.com
+127.0.0.1 f3.p0y.com
+127.0.0.1 f4.p0y.com
+127.0.0.1 www.p0y.com
 #Pagechoice
 127.0.0.1 motu.pagechoice.net
 127.0.0.1 dap.pagechoice.net

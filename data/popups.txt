@@ -1,4 +1,7 @@
 #Float Ads
+127.0.0.1 d.qceg.ne
+127.0.0.1 img.songhua88.com
+127.0.0.1 pt.itomaz.com
 127.0.0.1 game.yeyou.com
 127.0.0.1 img.il8r.com
 127.0.0.1 c.37kx1.com

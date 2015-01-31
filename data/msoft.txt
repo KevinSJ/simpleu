@@ -194,14 +194,16 @@
 127.0.0.1 cdn.outfit7.com
 @MobMedia Ads
 #56
+127.0.0.1 msg.ua.56.com
 127.0.0.1 acs.stat.v-56.com
 127.0.0.1 mad.stat.v-56.com
-127.0.0.1 msg.ua.56.com
 127.0.0.1 so.stat.v-56.com
 127.0.0.1 stat2.corp.v-56.com
 127.0.0.1 stat2.stat.v-56.com
 127.0.0.1 stat3.corp.v-56.com
 127.0.0.1 stat3.stat.v-56.com
+127.0.0.1 stat4.stat.v-56.com
+127.0.0.1 t4u.stat.v-56.com
 #6.cn
 127.0.0.1 sclick.6rooms.com
 127.0.0.1 pole.6rooms.com
@@ -388,25 +390,27 @@
 127.0.0.1 ppva.g1d.net
 127.0.0.1 video-va.g1d.net
 #SohuTV
+127.0.0.1 agn.aty.sohu.com
 127.0.0.1 aty.tv.sohu.com
 127.0.0.1 atyt.tv.sohu.com
-127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 click2.hd.sohu.com
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 m.aty.sohu.com
-127.0.0.1 mb.hd.sohu.com.cn
 127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 p.aty.sohu.com
 127.0.0.1 pb.hd.sohu.com
-127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 pg.aty.sohu.com
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 stat.m.tv.sohu.com
 127.0.0.1 upgrade.m.tv.sohu.com
 127.0.0.1 v.aty.sohu.com
+127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 pb.hd.sohu.com.cn
 #TTpod
 127.0.0.1 advise.ttpod.cn
 127.0.0.1 browser.ard.ttpod.com
