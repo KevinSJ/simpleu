@@ -1658,8 +1658,6 @@ goagent.googlecode.com
 goo.gl
 googcloudlabs.appspot.com
 google-code-feed-gadget.googlecode.com
-google-public-dns-a.google.com
-google-public-dns-b.google.com
 google.com.hk
 google.org
 googlecode.l.google.com

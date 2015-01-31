@@ -138,7 +138,6 @@
 63.219.18.170 cdn.deadorbit.net
 #Xbox
 63.219.18.170 download.xbox.com.edgesuite.net
-134.170.108.26 onedrive.live.com
 134.170.109.48 skyapi.onedrive.live.com
 63.219.18.170 zvaa.zune.net
 63.219.18.170 zvab.zune.net

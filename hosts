@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201501311517
+;version=201501311549
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -519,7 +519,7 @@ fe80::1%lo0	localhost
 72.21.81.253 c.speedtest.net
 72.21.92.82 www.speedtest.net
 72.21.92.82 www.ookla.com
-#Steam
+#Steam1
 68.142.93.254 valve.vo.llnwd.net
 184.28.188.192 store.valvesoftware.com
 184.28.188.200 store.akamai.steamstatic.com
@@ -528,16 +528,13 @@ fe80::1%lo0	localhost
 184.28.188.192 cdn.steamcommunity.com
 184.28.188.200 cdn.steampowered.com
 184.28.188.192 cdn.store.steampowered.com
-205.185.216.10 cloud-2.steampowered.com
 184.28.188.192 cloud-3.steampowered.com
-205.185.216.10 content3.steampowered.com
 72.21.81.131 content4.steampowered.com
 54.192.141.164 content5.steampowered.com
 76.96.112.246 content6.steampowered.com
 184.28.188.200 content8.steampowered.com
 23.213.61.54 forums.steampowered.com
 184.28.188.200 media.steampowered.com
-205.185.216.10 media2.steampowered.com
 184.28.188.200 media4.steampowered.com
 23.200.228.116 store.steampowered.com
 23.200.228.116 storefront.steampowered.com
@@ -2975,8 +2972,6 @@ ext.google.com ext.google.com
 216.58.216.46 goo.gl
 74.125.25.141 googcloudlabs.appspot.com
 74.125.25.82 google-code-feed-gadget.googlecode.com
-8.8.8.8 google-public-dns-a.google.com
-8.8.4.4 google-public-dns-b.google.com
 216.58.216.35 google.com.hk
 216.239.32.27 google.org
 74.125.25.82 googlecode.l.google.com
@@ -7691,7 +7686,6 @@ ext.google.com ext.google.com
 63.219.18.170 cdn.deadorbit.net
 #Xbox
 63.219.18.170 download.xbox.com.edgesuite.net
-134.170.108.26 onedrive.live.com
 134.170.109.48 skyapi.onedrive.live.com
 63.219.18.170 zvaa.zune.net
 63.219.18.170 zvab.zune.net
@@ -9200,6 +9194,8 @@ ext.google.com ext.google.com
 127.0.0.1 tracker.zdnet.com.au
 @Sites Block
 #VirusDown
+127.0.0.1 xiazai.dns-vip.net
+127.0.0.1 xiazhai.tuizhong.com
 127.0.0.1 url.cncrk.com
 127.0.0.1 xiazhai.xiaocen.com
 127.0.0.1 download.upscool.com
@@ -9337,6 +9333,16 @@ ext.google.com ext.google.com
 127.0.0.1 www.dabaicai.com
 127.0.0.1 www.winbaicai.com
 #360 MTPL
+127.0.0.1 aa.301wan.com
+127.0.0.1 a11.301wan.com
+127.0.0.1 11.jiankangsz.com
+127.0.0.1 jhasb3433.jd-app.com
+127.0.0.1 88.jiankangsz.com
+127.0.0.1 ganjichaopinwanglourenyuandunahf.pchelp-24.com
+127.0.0.1 pyuaxbchahs.fsub.net
+127.0.0.1 xjayansdfk.fsub.net
+127.0.0.1 www.aidbefagd.cn
+127.0.0.1 33.301wan.com
 127.0.0.1 xsj.gp808.com
 127.0.0.1 vv.gp788.com
 127.0.0.1 htkt.apkevo.com
@@ -9354,16 +9360,6 @@ ext.google.com ext.google.com
 127.0.0.1 ss.gp808.com
 127.0.0.1 htkr.apkevo.com
 127.0.0.1 akzxuvjasd.cc.st
-127.0.0.1 aa.301wan.com
-127.0.0.1 a11.301wan.com
-127.0.0.1 11.jiankangsz.com
-127.0.0.1 jhasb3433.jd-app.com
-127.0.0.1 88.jiankangsz.com
-127.0.0.1 ganjichaopinwanglourenyuandunahf.pchelp-24.com
-127.0.0.1 pyuaxbchahs.fsub.net
-127.0.0.1 xjayansdfk.fsub.net
-127.0.0.1 www.aidbefagd.cn
-127.0.0.1 33.301wan.com
 127.0.0.1 wyfz.lipanfeng.com
 127.0.0.1 www.gz800.cn
 127.0.0.1 uyegvfvjhabshb.jd-app.com
