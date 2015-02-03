@@ -3232,8 +3232,10 @@
 127.0.0.1 static.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 a.admob.com
+127.0.0.1 admob.com
 127.0.0.1 analytics.admob.com
 127.0.0.1 api.admob.com
+127.0.0.1 apps.admob.com
 127.0.0.1 c.admob.com
 127.0.0.1 e.admob.com
 127.0.0.1 media.admob.com

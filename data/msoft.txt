@@ -514,6 +514,7 @@
 127.0.0.1 leiyanstatic.xunlei.com
 127.0.0.1 mediapv.xunlei.com
 127.0.0.1 p4pstatic.xunlei.com
+127.0.0.1 jump.niu.xunlei.com
 127.0.0.1 pgv.m.xunlei.com
 127.0.0.1 pgv2.m.xunlei.com
 127.0.0.1 pv.kankan.stat.xunlei.com
