@@ -2,7 +2,7 @@
 #iOS
 127.0.0.1 aoodoo.feng.com
 127.0.0.1 ads.qadservice.com
-127.0.0.1 adsrvmedia.adk2.co
+127.0.0.1 adsrvmedia.adk2.com
 127.0.0.1 adsrvmedia.adk2.net
 127.0.0.1 extra.thebigboss.org
 127.0.0.1 event-img.qwapi.com
@@ -2404,7 +2404,6 @@
 127.0.0.1 test.puffcenter.com
 #QQ-common
 127.0.0.1 appicsh.qq.com
-127.0.0.1 dldir1.qq.com
 127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir3.qq.com
@@ -3230,16 +3229,31 @@
 127.0.0.1 click12.aditic.net
 127.0.0.1 click13.aditic.net
 127.0.0.1 click14.aditic.net
-#AdMob
-127.0.0.1 www.googlecommerce.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 pagead2.googlesyndication.com
+#GoogleAndroid
+127.0.0.1 mobwin.android.com
+127.0.0.1 schemas.android.com
+#Google-Ads
+127.0.0.1 ads.google.com
+127.0.0.1 afd.l.google.com
+127.0.0.1 mobileads.google.com
+127.0.0.1 pagead-tpc.l.google.com
+127.0.0.1 pagead.google.com
+127.0.0.1 pagead.l.google.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 domains.googlesyndication.com
-127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 s0.2mdn.net
+127.0.0.1 s1.2mdn.net
+127.0.0.1 googletagservices.com
+127.0.0.1 www.googletagservices.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 ads.gmodules.com
+127.0.0.1 badad.googleplex.com
+127.0.0.1 static.googleadsserving.cn
+127.0.0.1 www.googlecommerce.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 service.urchin.com
+#Google-Admob
 127.0.0.1 a.admob.com
 127.0.0.1 admob.com
 127.0.0.1 analytics.admob.com
@@ -3253,28 +3267,60 @@
 127.0.0.1 onshow.admob.com
 127.0.0.1 p.admob.com
 127.0.0.1 r.admob.com
-127.0.0.1 pubads.g.doubleclick.net
+#Google-Adservices
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 www.googleadservices.com
+#Google-Analytics
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+#Google-Doubleclick
+127.0.0.1 ad-apac.doubleclick.net
+127.0.0.1 ad-emea.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad.ca.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.fr.doubleclick.net
-127.0.0.1 ad.ca.doubleclick.net
-127.0.0.1 dp.g.doubleclick.net
-127.0.0.1 ad-emea.doubleclick.net
-127.0.0.1 g.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 ad2.doubleclick.net
 127.0.0.1 adclick.g.doubleclick.net
-127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 ads.doubleclick.net
+127.0.0.1 adx.g.doubleclick.net
+127.0.0.1 amn.doubleclick.net
+127.0.0.1 au.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 creatives.doubleclick.net
+127.0.0.1 dart-apac.l.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 de.doubleclick.net
+127.0.0.1 dfp.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 dp.g.doubleclick.net
+127.0.0.1 feedads.g.doubleclick.net
+127.0.0.1 fls.doubleclick.net
+127.0.0.1 fls.uk.doubleclick.net
+127.0.0.1 fr.doubleclick.net
+127.0.0.1 g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 jp.doubleclick.net
+127.0.0.1 n4061ad.hk.doubleclick.net
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 s0.doubleclick.net
-127.0.0.1 partner.googleadservices.com
+127.0.0.1 static.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 uk.doubleclick.net
+#Google-Syndication
+127.0.0.1 buttons.googlesyndication.com
+127.0.0.1 domains.googlesyndication.com
+127.0.0.1 googlesyndication.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 www.googlesyndication.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 www.googletagservices.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 s0.2mdn.net
-127.0.0.1 s1.2mdn.net
-127.0.0.1 static.googleadsserving.cn
-127.0.0.1 badad.googleplex.com
 #AdRoll
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
@@ -3357,25 +3403,6 @@
 #fwmrm
 127.0.0.1 adm.fwmrm.net
 127.0.0.1 165a7.v.fwmrm.net
-#Doubleclick
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 ad2.doubleclick.net
-127.0.0.1 ads.doubleclick.net
-127.0.0.1 adx.g.doubleclick.net
-127.0.0.1 amn.doubleclick.net
-127.0.0.1 creatives.doubleclick.net
-127.0.0.1 dart-apac.l.doubleclick.net
-127.0.0.1 dfp.doubleclick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 pagead46.l.doubleclick.net
-#Google
-127.0.0.1 mobwin.android.com
-127.0.0.1 schemas.android.com
-127.0.0.1 mobileads.google.com
-127.0.0.1 googletagservices.com
-127.0.0.1 google-analytics.com
-127.0.0.1 googlesyndication.com
 #Game3737
 127.0.0.1 flash.game3737.com
 127.0.0.1 jcnm.game3737.com

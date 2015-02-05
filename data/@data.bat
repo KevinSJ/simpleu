@@ -4,17 +4,8 @@ gawk "!a[$0]++" 1.txt >360.txt
 rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 rem gawk "!a[$0]++" 2.txt >mwsl.txt
 rem sed -i "1i\#MWSL Lists" mwsl.txt
-set p1=http://serve.netsh.org/pub/ping.php
-set p2=http://tools.pingdom.com/ping/
-set p3=http://ping.eu/ping
-set p4=http://www.360kb.com/kb/2_122.html
-rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
-set s1=http://blog.crpuer.com/GavinHosts.txt
-set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-set s3=http://git.oschina.net/jiange1236/googlehosts/tree/master
-set s4=https://www.projecth.us/sources
 @echo off
-ver=0.2.3.7
+ver=0.2.3.8
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -52,7 +43,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt 1listrds.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
@@ -64,7 +55,7 @@ echo goto :eof >>bat.txt
 goto :eof
 
 :del
-del /f hosts google.txt smart.txt Facebook.txt Twitter.txt dropbox.txt flickr.txt wiki.txt wordpress.txt yfrog.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
+del /f hosts smart.txt rd3rd.txt Facebook.txt Twitter.txt dropbox.txt flickr.txt wiki.txt wordpress.txt yfrog.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
 goto :eof
 
 :Version
@@ -115,29 +106,6 @@ goto :eof
 ))>ping.txt
 goto :eof
 
-
-:delete
-wget -c -N --no-check-certificate https://raw.github.com/davidsun/HostsFile/master/hosts -O test.txt
-sed -n -e "/flickr.com/w flickr.txt" smart.txt
-sed -i "1i\#Flickr" flickr.txt
-sed -n -e "/box.com/w dropbox.txt" -e "/dropbox.com/w dropbox.txt" hosts
-sed -i "1i\#BoxMore" dropbox.txt
-sed -n -e "/facebook./w Facebook.txt" -e "/fbcdn.net/w Facebook.txt" hosts
-sed -i "/^#/d" Facebook.txt
-sed -i "/127.0.0.1/d" Facebook.txt
-sed -i "1i\#Facebook" Facebook.txt
-sed -n -e "/www.g.cn/w google.txt"  -e "/gmail.com/w google.txt" -e "/google/w google.txt" -e "/appspot.com/w google.txt" -e "/ggpht.com/w google.txt" -e "/gstatic./w google.txt" -e "/youtube.com/w google.txt" -e "/panoramio.com/w google.txt" hosts
-sed -i "1i\#Google Services" google.txt
-sed -n -e "/twimg/w Twitter.txt" -e "/twitter./w Twitter.txt" -e "/.tinypic./w Twitter.txt" -e "/tweetdeck./w Twitter.txt" -e "/twitpic./w Twitter.txt" -e "/twitgoo./w Twitter.txt" -e "/mobilepicture.com/w Twitter.txt" -e "/bitly.com/w Twitter.txt" -e "/yfrog./w Twitter.txt" hosts
-sed -i "/^#/d" Twitter.txt
-sed -i "1i\#Twitter" Twitter.txt
-sed -n -e "/wordpress.com/w wordpress.txt" -e "/.wp.com/w wordpress.txt" -e "/ccfox.info/w wordpress.txt" hosts
-sed -i "1i\#Wordpress" wordpress.txt
-sed -n -e "/wikibooks.org/w wiki.txt" -e "/wikidata.org/w wiki.txt" -e "/wikimedia.org/w wiki.txt" -e "/wikimediafoundation.org/w wiki.txt" -e "/wikinews.org/w wiki.txt" -e "/wikiquote.org/w wiki.txt" -e "/wikisource.org/w wiki.txt" -e "/wikiversity.org/w wiki.txt" -e "/wikivoyage.org/w wiki.txt" -e "/wiktionary.org/w wiki.txt" -e "/wikipedia.org/w wiki.txt" hosts
-sed -i "1i\#Wiki" wiki.txt
-set files=dropbox.txt Facebook.txt google.txt Twitter.txt wordpress.txt wiki.txt
-for %%a in (%files%) do (type "%%a">>imouto.txt)
-
 sed -i "1,55d" hosts
 sed -i "/^$/d" hosts
 sed -i "/^#/d" hosts
@@ -164,17 +132,31 @@ sed -i "/^#/d" grd.txt
 sed -i "1i\#redirect" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt 2.txt
-
 sed -i "s/\t/ /g" gg.txt
 sed -i "s/[ ]\{2,\}/ /g" gg.txt
-sed -i "/#Google Services END/q" gg.txt
-sed -i "/googlesyndication/d" gg.txt
-sed -i "/google-analytics/d" gg.txt
-sed -i "/googleadservices/d" gg.txt
-sed -i "/::1 localhost/d" gg.txt
-sed -i "/127.0.0.1/d" gg.txt
-sed -i "/^$/d" gg.txt
-sed -i "/^#/d" gg.txt
-sed -i "1i\#redirect" gg.txt
-gawk "!a[$0]++" gg.txt >grd.txt
-del /f gg.txt 2.txt
+
+set p1=http://serve.netsh.org/pub/ping.php
+set p2=http://tools.pingdom.com/ping/
+set p3=http://ping.eu/ping
+set p4=http://www.360kb.com/kb/2_122.html
+rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
+set s1=http://hosts.gav1n.com/GavinHosts.txt
+set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+set s3=http://git.oschina.net/jiange1236/googlehosts/tree/master
+set s4=https://www.projecth.us/sources
+
+@echo off
+SetLocal EnableExtensions
+SetLocal EnableDelayedExpansion
+sed -i "/^#/d" site.txt
+sed -i "/^#/d" grd.txt
+(for /f %%i in (site.txt) do (
+    for /f "skip=1 tokens=2 delims=[]" %%j in ('ping -n 1 %%i') do (
+        echo %%j %%i
+    )
+))>rds.txt
+(for /f %%i in (grd.txt) do (
+    for /f "skip=1 tokens=2 delims=[]" %%j in ('ping -n 1 %%i') do (
+        echo %%j %%i
+    )
+))>ggrds.txt
