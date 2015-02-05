@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 9:38 2014/12/31
+# 下午 3:51 2015/2/4 星期三
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -48,6 +48,7 @@ user_pref("datareporting.sessions.current.clean", true);
 user_pref("dom.event.contextmenu.enabled", false);
 user_pref("dom.ipc.plugins.processLaunchTimeoutSecs", 5);
 user_pref("dom.ipc.plugins.timeoutSecs", 5);
+user_pref("dom.ipc.plugins.flash.disable-protected-mode", true);
 user_pref("dom.max_chrome_script_run_time", 5);
 user_pref("dom.max_script_run_time", 5);
 user_pref("extensions.autoDisableScopes", 0);

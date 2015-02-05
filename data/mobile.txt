@@ -3393,21 +3393,23 @@
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
 #inmobi.com
-127.0.0.1 apt.md.inmobi.net
 127.0.0.1 a.ai.inmobi.com
-127.0.0.1 e.ai.inmobi.com
 127.0.0.1 adtracker.inmobi.com
 127.0.0.1 appgalleries.inmobi.com
+127.0.0.1 apt.md.inmobi.net
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 china.inmobi.com
-127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 dock.inmobi.com
+127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 e.ai.inmobi.com
 127.0.0.1 et.w.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 i.w.sandbox.inmobi.com
 127.0.0.1 japan.inmobi.com
 127.0.0.1 ma.inmobi.com
 127.0.0.1 r.w.inmobi.com
+127.0.0.1 rules-ltvp.inmobi.com
+127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdt1.corp.inmobi.com
 127.0.0.1 w.inmobi.com
 127.0.0.1 www.inmobi.com
