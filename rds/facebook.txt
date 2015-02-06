@@ -1,0 +1,7 @@
+fbstatic-a.akamaihd.net
+fbexternal-a.akamaihd.net
+fbcdn-profile-a.akamaihd.net
+scontent-a.xx.fbcdn.net
+scontent-b.xx.fbcdn.net
+s-static.ak.facebook.com
+www.facebook.com

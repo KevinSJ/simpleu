@@ -2992,6 +2992,12 @@
 127.0.0.1 xbp.code.weddingeeos.com
 127.0.0.1 xyy.code.weddingeeos.com
 127.0.0.1 ysej.code.weddingeeos.com
+#Wistia
+127.0.0.1 fast.wistia.net
+127.0.0.1 cdn.wistia.com
+127.0.0.1 embed.wistia.com
+127.0.0.1 fast.wistia.com
+127.0.0.1 pipedream.wistia.com
 #Sina
 127.0.0.1 ad4.sina.com
 127.0.0.1 pfpip.sina.com
@@ -3107,6 +3113,7 @@
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 hk-cm.ysm.yahoo.com
+127.0.0.1 us.adserver.yahoo.com
 127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 info.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
@@ -3783,3 +3790,4 @@
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
 127.0.0.1 www.qixiazi.com
+127.0.0.1 www.da-ads.com

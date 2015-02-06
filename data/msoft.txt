@@ -149,10 +149,11 @@
 127.0.0.1 s.toutiao.com
 #Twitter-NoAds
 127.0.0.1 ads.twitter.com
-127.0.0.1 cdn.syndication.twitter.com
-127.0.0.1 syndication-o.twitter.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 cdn.syndication.twimg.com
+-
+127.0.0.1 cdn.syndication.twitter.com
+127.0.0.1 syndication-o.twitter.com
 127.0.0.1 syndication-o.twimg.com	
 127.0.0.1 syndication.twimg.com	
 #Uxin
