@@ -17,3 +17,14 @@ box.com
 developers.box.com
 support.box.com
 www.box.com
+blog.mediafire.com
+cdnssl.mediafire.com
+www.mediafire.com
+c.microsoft.com
+c1.microsoft.com
+cs.microsoft.com
+login.live.com
+onedrive.live.com
+signup.live.com
+p.sfx.ms
+portal.office.com

@@ -1,11 +1,4 @@
 duck.co
 duckduckgo.com
+ixquick.com
 www.startpage.com
-serve.netsh.org
-ocsp.digicert.com
-blog.feedly.com
-feedly.com
-s3.feedly.com
-archive.org
-blog.archive.org
-web.archive.org

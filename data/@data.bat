@@ -5,7 +5,7 @@ rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0
 rem gawk "!a[$0]++" 2.txt >mwsl.txt
 rem sed -i "1i\#MWSL Lists" mwsl.txt
 @echo off
-ver=0.2.3.8
+ver=0.2.3.9
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -55,7 +55,7 @@ echo goto :eof >>bat.txt
 goto :eof
 
 :del
-del /f hosts smart.txt rd3rd.txt Facebook.txt Twitter.txt dropbox.txt flickr.txt wiki.txt wordpress.txt yfrog.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
+del /f hosts smart.txt rd3rd.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
 goto :eof
 
 :Version
@@ -144,19 +144,3 @@ set s1=http://hosts.gav1n.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://git.oschina.net/jiange1236/googlehosts/tree/master
 set s4=https://www.projecth.us/sources
-
-@echo off
-SetLocal EnableExtensions
-SetLocal EnableDelayedExpansion
-sed -i "/^#/d" site.txt
-sed -i "/^#/d" grd.txt
-(for /f %%i in (site.txt) do (
-    for /f "skip=1 tokens=2 delims=[]" %%j in ('ping -n 1 %%i') do (
-        echo %%j %%i
-    )
-))>rds.txt
-(for /f %%i in (grd.txt) do (
-    for /f "skip=1 tokens=2 delims=[]" %%j in ('ping -n 1 %%i') do (
-        echo %%j %%i
-    )
-))>ggrds.txt

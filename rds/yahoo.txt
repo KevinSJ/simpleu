@@ -1,7 +1,11 @@
+s.yimg.com
+96.media.tumblr.com
+97.media.tumblr.com
+secure.assets.tumblr.com
+www.tumblr.com
 login.yahoo.com
 mg.mail.yahoo.com
 ucs.query.yahoo.com
-s.yimg.com
 api.flickr.com
 up.flickr.com
 www.flickr.com

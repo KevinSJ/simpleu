@@ -469,6 +469,9 @@
 #Adperium
 127.0.0.1 mobile.adperium.com
 127.0.0.1 adperium.com
+#adsymptotic
+127.0.0.1 api.adsymptotic.com
+127.0.0.1 p.adsymptotic.com
 #Adsage
 127.0.0.1 config.adsage.cn
 127.0.0.1 www.adsage.cn
@@ -2846,6 +2849,10 @@
 127.0.0.1 test.touclick.com
 127.0.0.1 touclick.com
 127.0.0.1 admin.touclick.com
+#Turn
+127.0.0.1 analytics.turn.com
+127.0.0.1 d.turn.com
+127.0.0.1 www.turn.com
 #Socdm
 127.0.0.1 d.socdm.com
 127.0.0.1 i.socdm.com
@@ -3331,6 +3338,7 @@
 #AdRoll
 127.0.0.1 a.adroll.com
 127.0.0.1 d.adroll.com
+127.0.0.1 s.adroll.com
 #Adsonar
 127.0.0.1 37.adsonar.com
 127.0.0.1 ads.adsonar.com
