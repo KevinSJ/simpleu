@@ -491,11 +491,11 @@
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 walp.atm.youku.com
 #YY
+127.0.0.1 ad.yy.duowan.com
 127.0.0.1 gm_download3.yy.com
 127.0.0.1 policyres.game.yy.com
 127.0.0.1 stat2.web.yy.com
 127.0.0.1 a.vupload.duowan.com
-127.0.0.1 ad.yy.duowan.com
 127.0.0.1 forceupdate.yy.duowan.com
 127.0.0.1 gamecollaborate.yy.duowan.com
 127.0.0.1 market.duowan.com
