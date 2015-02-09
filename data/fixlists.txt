@@ -8,10 +8,8 @@
 127.0.0.1 alerts.live.com
 127.0.0.1 analytics.163.com
 127.0.0.1 analytics.doplive.com.cn
-127.0.0.1 tajs.qq.com
 127.0.0.1 api.cupid.qiyi.com
 127.0.0.1 app.aplus.pptv.com
-127.0.0.1 g-ecx.images-amazon.com
 127.0.0.1 bs.baidu.com
 127.0.0.1 c.isdspeed.qq.com
 127.0.0.1 cache.soso.com
@@ -19,6 +17,7 @@
 127.0.0.1 cdn.sstatic.net
 127.0.0.1 cdn.staticfile.org
 127.0.0.1 cdndownload.alipay.com
+127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 cimg.178.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 click.union.360buy.com
@@ -43,6 +42,7 @@
 127.0.0.1 epg.api.pptv.com
 127.0.0.1 exp01.eset.com
 127.0.0.1 f.54whr.com
+127.0.0.1 g-ecx.images-amazon.com
 127.0.0.1 g1.dfcfw.com
 127.0.0.1 g1.ykimg.com
 127.0.0.1 group.store.qq.com
@@ -84,6 +84,7 @@
 127.0.0.1 msg.client.xunlei.com
 127.0.0.1 mtips.xunlei.com
 127.0.0.1 nav.fetion.com.cn
+127.0.0.1 news.push.126.net
 127.0.0.1 nuc.m1905.com
 127.0.0.1 pic.66fzl.com
 127.0.0.1 pic.zol-img.com.cn
@@ -119,6 +120,7 @@
 127.0.0.1 swf.ws.126.net
 127.0.0.1 switchboard.real.com
 127.0.0.1 t5.wrating.com
+127.0.0.1 tajs.qq.com
 127.0.0.1 temp.163.com
 127.0.0.1 tj.ard.ttpod.com
 127.0.0.1 tj.qd.ttpod.com
@@ -135,6 +137,7 @@
 127.0.0.1 v1.ard.yy.itlily.com
 127.0.0.1 valf.atm.youku.com
 127.0.0.1 vodguide.pps.tv
+127.0.0.1 wup.imtt.qq.com
 127.0.0.1 www.apk.anzhi.com
 127.0.0.1 www.cocounion.com
 127.0.0.1 www.gstatic.com

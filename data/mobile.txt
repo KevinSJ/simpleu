@@ -1007,6 +1007,7 @@
 #BaiduCommon
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 api.share.baidu.com
+127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api.youqian.baidu.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 c.baidu.com
@@ -1023,6 +1024,7 @@
 127.0.0.1 pos.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 sa.tuisong.baidu.com
 127.0.0.1 sclick.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 wn.pos.baidu.com
@@ -2412,7 +2414,10 @@
 127.0.0.1 data.puffcenter.com
 127.0.0.1 test.puffcenter.com
 #QQ-common
+127.0.0.1 adsrich.qq.com
 127.0.0.1 appicsh.qq.com
+127.0.0.1 badjs.qq.com
+127.0.0.1 c.gdt.qq.com
 127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir3.qq.com
@@ -2420,20 +2425,17 @@
 127.0.0.1 dlied6.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 eventlog.beacon.qq.com
-127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 game.weixin.qq.com
-127.0.0.1 softroute.map.qq.com
-127.0.0.1 prom.b.qq.com
-127.0.0.1 adsrich.qq.com
-127.0.0.1 badjs.qq.com
+127.0.0.1 j.wit.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
-127.0.0.1 l2.l.qq.com
 127.0.0.1 l.qq.com
+127.0.0.1 l2.l.qq.com
 127.0.0.1 pingtcss.qq.com
+127.0.0.1 prom.b.qq.com
+127.0.0.1 softroute.map.qq.com
+127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 tcss.qq.com
-127.0.0.1 j.wit.qq.com
-127.0.0.1 c.gdt.qq.com
 127.0.0.1 v.gdt.qq.com
 #QQ-Win
 127.0.0.1 ca.gtimg.com
@@ -2450,6 +2452,7 @@
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 t.l.qq.com
+127.0.0.1 rlog.video.qq.com
 127.0.0.1 la.gtimg.com
 127.0.0.1 pgdt.gtimg.cn
 #QQ-SOSO
@@ -2463,15 +2466,20 @@
 127.0.0.1 a.wap.myapp.com
 127.0.0.1 www.myapp.com
 #QQ-Browser
+127.0.0.1 crash.browser.qq.com
 127.0.0.1 m.qq.com
+127.0.0.1 masterconn.qq.com
 127.0.0.1 msm.qq.com
+127.0.0.1 news.mpush.qq.com
 127.0.0.1 p.mb.qq.com
 127.0.0.1 pms.mb.qq.com
-127.0.0.1 crash.browser.qq.com
-127.0.0.1 masterconn.qq.com
 127.0.0.1 ps.browser.qq.com
-127.0.0.1 cfg.imtt.qq.com
-127.0.0.1 wup.imtt.qq.com
+127.0.0.1 fg.imtt.qq.com
+127.0.0.1 p.imtt.qq.com
+127.0.0.1 rc.imtt.qq.com
+127.0.0.1 soft.imtt.qq.com
+127.0.0.1 weblog.html5.qq.com
+127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mdc.html5.qq.com
 #QQ-Tencent
 127.0.0.1 wa.gtimg.com
@@ -2918,6 +2926,7 @@
 #uPaiYun
 127.0.0.1 linkad.b0.upaiyun.com
 127.0.0.1 nxcms.b0.upaiyun.com
+127.0.0.1 tcw-advert.b0.upaiyun.com
 #UU.cc
 127.0.0.1 birzzle.uu.cc
 127.0.0.1 c.uu.cc
