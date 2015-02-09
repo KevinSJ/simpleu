@@ -2460,24 +2460,29 @@
 127.0.0.1 dr.soso.com
 127.0.0.1 toolbar.soso.com
 #QQ-App
+127.0.0.1 a.wap.myapp.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
 127.0.0.1 dd.myapp.com
-127.0.0.1 a.wap.myapp.com
+127.0.0.1 down.myapp.com
+127.0.0.1 pp.myapp.com
 127.0.0.1 www.myapp.com
 #QQ-Browser
-127.0.0.1 crash.browser.qq.com
+127.0.0.1 a.app.qq.com
 127.0.0.1 m.qq.com
 127.0.0.1 masterconn.qq.com
 127.0.0.1 msm.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 p.mb.qq.com
 127.0.0.1 pms.mb.qq.com
+127.0.0.1 crash.browser.qq.com
 127.0.0.1 ps.browser.qq.com
 127.0.0.1 fg.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 rc.imtt.qq.com
 127.0.0.1 soft.imtt.qq.com
+127.0.0.1 app.html5.qq.com
+127.0.0.1 game.html5.qq.com
 127.0.0.1 weblog.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
 127.0.0.1 mdc.html5.qq.com
