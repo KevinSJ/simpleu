@@ -67,7 +67,6 @@
 127.0.0.1 www.9188.com
 127.0.0.1 www.guimi.com
 127.0.0.1 www.mnh.quzhao.com
-127.0.0.1 www.uc123.com
 127.0.0.1 www.xiazaiji.com
 127.0.0.1 www.xjdsy.com
 127.0.0.1 xclock.hanlinciban.com
