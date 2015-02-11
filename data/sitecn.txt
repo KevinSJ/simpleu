@@ -223,8 +223,6 @@
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 click.ali213.net
 127.0.0.1 web.ali213.net
-#GamerSky
-127.0.0.1 j.gamersky.com
 #TgBus
 127.0.0.1 app.tgbus.com
 127.0.0.1 vista.tgbus.com

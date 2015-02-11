@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201502111253
+;version=201502111259
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5906,8 +5906,6 @@ fe80::1%lo0	localhost
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 click.ali213.net
 127.0.0.1 web.ali213.net
-#GamerSky
-127.0.0.1 j.gamersky.com
 #TgBus
 127.0.0.1 app.tgbus.com
 127.0.0.1 vista.tgbus.com
