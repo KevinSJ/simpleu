@@ -1,6 +1,7 @@
 @Sites Block
 #VirusDown
 127.0.0.1 shrinery.net
+127.0.0.1 url.d9soft.com
 127.0.0.1 xiazai.dns-vip.net
 127.0.0.1 xiazhai.tuizhong.com
 127.0.0.1 url.cncrk.com

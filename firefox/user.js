@@ -1,28 +1,26 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 下午 3:51 2015/2/4 星期三
+# 下午 3:44 2015/2/14 星期六
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
 user_pref("app.update.auto", false);
 user_pref("app.update.enabled", false);
+user_pref("browser.bookmarks.autoExportHTML", true);
 user_pref("browser.cache.disk.parent_directory", "C:\\Windows\\Temp\\Cache");
 user_pref("browser.cache.offline.parent_directory", "C:\\Windows\\Temp\\OfflineCache");
 user_pref("browser.contentHandlers.types.5.title", "豆瓣九点");
-user_pref("browser.contentHandlers.types.5.type", "application/vnd.mozilla.maybe.feed");
 user_pref("browser.contentHandlers.types.5.uri", "http://9.douban.com/reader/subscribe?url=%s");
 user_pref("browser.contentHandlers.types.6.title", "抓虾");
-user_pref("browser.contentHandlers.types.6.type", "application/vnd.mozilla.maybe.feed");
 user_pref("browser.contentHandlers.types.6.uri", "http://www.zhuaxia.com/add_channel.php?url=%s");
 user_pref("browser.contentHandlers.types.7.title", "哪吒");
-user_pref("browser.contentHandlers.types.7.type", "application/vnd.mozilla.maybe.feed");
 user_pref("browser.contentHandlers.types.7.uri", "http://inezha.com/add?url=%s");
-user_pref("browser.contentHandlers.types.8.title", "NetVibes");
-user_pref("browser.contentHandlers.types.8.type", "application/vnd.mozilla.maybe.feed");
-user_pref("browser.contentHandlers.types.8.uri", "http://www.netvibes.com/subscribe.php?url=%s");
-user_pref("browser.contentHandlers.types.9.title", "Tiny RSS");
-user_pref("browser.contentHandlers.types.9.type", "application/vnd.mozilla.maybe.feed");
-user_pref("browser.contentHandlers.types.9.uri", "http://your.domain.dom/url-to-tt-rss/backend.php?op=pref-feeds&subop=add&feed_url=%s&quiet=1&from=firefox");
+user_pref("browser.contentHandlers.types.8.title", "Feedly");
+user_pref("browser.contentHandlers.types.8.uri", "http://www.feedly.com/home#subscription/feed/%s");
+user_pref("browser.contentHandlers.types.9.title", "NetVibes");
+user_pref("browser.contentHandlers.types.9.uri", "http://www.netvibes.com/subscribe.php?url=%s");
+user_pref("browser.contentHandlers.types.10.title", "Tiny RSS");
+user_pref("browser.contentHandlers.types.10.uri", "http://your.domain.dom/url-to-tt-rss/backend.php?op=pref-feeds&subop=add&feed_url=%s&quiet=1&from=firefox");
 user_pref("browser.ctrlTab.previews", true);
 user_pref("browser.download.importedFromSqlite", true);
 user_pref("browser.download.manager.alertOnEXEOpen", false);
@@ -35,24 +33,31 @@ user_pref("browser.search.openintab", true);
 user_pref("browser.search.update", false);
 user_pref("browser.shell.checkDefaultBrowser", false);
 user_pref("browser.startup.homepage", "chrome://mynewtab/content/index.html");
+user_pref("browser.startup.homepage_override.mstone", "ignore");
 user_pref("browser.startup.page", 3);
 user_pref("browser.tabs.animate", false);
 user_pref("browser.tabs.closeWindowWithLastTab", false);
 user_pref("browser.tabs.warnOnClose", false);
 user_pref("browser.tabs.warnOnCloseOtherTabs", false);
+user_pref("browser.urlbar.delay",0);
+user_pref("browser.urlbar.trimURLs", false);
 user_pref("browser.warnOnQuit", false);
 user_pref("browser.xul.error_pages.expert_bad_cert", true);
-user_pref("datareporting.healthreport.service.firstRun", true);
-user_pref("datareporting.healthreport.uploadEnabled", false);
-user_pref("datareporting.sessions.current.clean", true);
+user_pref("datareporting.healthreport.logging.consoleEnabled",false);
+user_pref("datareporting.healthreport.service.enabled",false);
+user_pref("datareporting.healthreport.service.firstRun", false
+user_pref("datareporting.healthreport.uploadEnabled", false););
 user_pref("dom.event.contextmenu.enabled", false);
+user_pref("dom.ipc.plugins.flash.disable-protected-mode", true);
+user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 user_pref("dom.ipc.plugins.processLaunchTimeoutSecs", 5);
 user_pref("dom.ipc.plugins.timeoutSecs", 5);
-user_pref("dom.ipc.plugins.flash.disable-protected-mode", true);
 user_pref("dom.max_chrome_script_run_time", 5);
 user_pref("dom.max_script_run_time", 5);
+user_pref("dom.popup_maximum", 5);
 user_pref("extensions.autoDisableScopes", 0);
 user_pref("extensions.blocklist.enabled", false);
+user_pref("extensions.checkCompatibility", false);
 user_pref("extensions.getAddons.cache.enabled", false);
 user_pref("extensions.pendingOperations", false);
 user_pref("extensions.update.autoUpdateDefault", false);
@@ -65,8 +70,15 @@ user_pref("layout.spellcheckDefault", 0);
 user_pref("middlemouse.contentLoadURL", true);
 user_pref("middlemouse.paste", true);
 user_pref("middlemouse.scrollbarPosition", true);
+user_pref("network.http.pipelining", true); 
+user_pref("network.http.proxy.pipelining", true); 
 user_pref("network.cookie.prefsMigrated", true);
 user_pref("network.proxy.type", 0);
+user_pref("network.http.max-connections", 64);
+user_pref("network.http.max-connections-per-server", 16); 
+user_pref("network.http.max-persistent-connections-per-proxy", 16); 
+user_pref("network.http.max-persistent-connections-per-server", 6); 
+user_pref("nglayout.initialpaint.delay", 0); 
 user_pref("plugin.importedState", true);
 user_pref("plugins.hide_infobar_for_missing_plugin", true);
 user_pref("plugins.hide_infobar_for_outdated_plugin", true);

@@ -1006,6 +1006,7 @@
 127.0.0.1 static.awempire.com
 #BaiduCommon
 127.0.0.1 ad.player.baidu.com
+127.0.0.1 antivirus.baidu.com
 127.0.0.1 api.share.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api.youqian.baidu.com
@@ -2438,6 +2439,7 @@
 127.0.0.1 tcss.qq.com
 127.0.0.1 v.gdt.qq.com
 #QQ-Win
+127.0.0.1 guanjia.qq.com
 127.0.0.1 ca.gtimg.com
 127.0.0.1 adshmct.qq.com
 127.0.0.1 hm.l.qq.com
