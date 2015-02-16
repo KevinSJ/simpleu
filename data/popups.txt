@@ -1,4 +1,6 @@
 #Float Ads
+127.0.0.1 click.linktech.cn
+127.0.0.1 u.gwdang.com
 127.0.0.1 d.qceg.ne
 127.0.0.1 img.songhua88.com
 127.0.0.1 pt.itomaz.com
