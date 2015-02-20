@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 下午 3:44 2015/2/14 星期六
+# 下午 1:43 2015/2/17/周二
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -76,11 +76,6 @@ user_pref("middlemouse.scrollbarPosition", true);
 user_pref("network.http.pipelining", true); 
 user_pref("network.http.proxy.pipelining", true); 
 user_pref("network.cookie.prefsMigrated", true);
-user_pref("network.proxy.type", 0);
-user_pref("network.http.max-connections", 64);
-user_pref("network.http.max-connections-per-server", 16); 
-user_pref("network.http.max-persistent-connections-per-proxy", 16); 
-user_pref("network.http.max-persistent-connections-per-server", 6); 
 user_pref("nglayout.initialpaint.delay", 0); 
 user_pref("plugin.importedState", true);
 user_pref("plugins.hide_infobar_for_missing_plugin", true);
