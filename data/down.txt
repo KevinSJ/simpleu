@@ -1,5 +1,12 @@
 @Sites Block
 #VirusDown
+127.0.0.1 apk.boya1993.com
+127.0.0.1 appnew.hzt88.com
+127.0.0.1 appnew.tortodream.com
+127.0.0.1 chattest.sky-mobi.com
+127.0.0.1 pic.52le.com
+127.0.0.1 sjm.hzt88.com
+127.0.0.1 157.sxzjhg.com
 127.0.0.1 shrinery.net
 127.0.0.1 url.d9soft.com
 127.0.0.1 xiazai.dns-vip.net

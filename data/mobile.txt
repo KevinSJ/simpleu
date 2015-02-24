@@ -2197,6 +2197,12 @@
 127.0.0.1 asia.marketo.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 pages2.marketo.com
+#Marketgid
+127.0.0.1 ag-gb.marketgid.com
+127.0.0.1 cdn.marketgid.com
+127.0.0.1 counter.marketgid.com
+127.0.0.1 imgg.marketgid.com
+127.0.0.1 jsc.marketgid.com
 #MathTag
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 tags.mathtag.com
@@ -3159,6 +3165,9 @@
 127.0.0.1 yahoo.overture.com
 127.0.0.1 u2sb.interclick.com
 127.0.0.1 www.interclick.com
+#Yadro
+127.0.0.1 counter.yadro.ru
+127.0.0.1 mg.yadro.ru
 #Yicha
 127.0.0.1 adsmart.yicha.cn
 #Yijifen
@@ -3664,7 +3673,6 @@
 127.0.0.1 clickcdn.xda-developers.com
 127.0.0.1 coinurl.com
 127.0.0.1 content.dl-rms.com
-127.0.0.1 counter.yadro.ru
 127.0.0.1 delivery.trafficforce.com
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 go.mobisla.com
@@ -3696,6 +3704,10 @@
 127.0.0.1 static.crowdscience.com
 127.0.0.1 torontostar.demdex.net
 127.0.0.1 www.smartlinks.dianomi.com
+127.0.0.1 code.directadvert.ru
+127.0.0.1 x-ip-adwpc.com
+127.0.0.1 recreativ.ru
+127.0.0.1 www.da-ads.com
 #Popups
 127.0.0.1 www.og114.cn
 127.0.0.1 ad.a-ads.com
@@ -3821,4 +3833,3 @@
 127.0.0.1 cpc.88rpg.net
 127.0.0.1 p.370fd.net
 127.0.0.1 www.qixiazi.com
-127.0.0.1 www.da-ads.com
