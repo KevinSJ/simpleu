@@ -1,9 +1,30 @@
-del /f 360.txt Mwsl.txt 1.txt 2.txt
+del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
 wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
 gawk "!a[$0]++" 1.txt >360.txt
 rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 rem gawk "!a[$0]++" 2.txt >mwsl.txt
 rem sed -i "1i\#MWSL Lists" mwsl.txt
+set p1=http://serve.netsh.org/pub/ping.php
+set p2=http://tools.pingdom.com/ping/
+set p3=http://ping.eu/ping
+set p4=http://www.360kb.com/kb/2_122.html
+rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
+set s1=http://hosts.gav1n.com/GavinHosts.txt
+set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+set s3=http://git.oschina.net/jiange1236/googlehosts/tree/master
+set s4=https://www.projecth.us/sources
+wget -c --no-check-certificate -O grd.txt %s2%
+sed -i "s/\t/ /g" grd.txt
+sed -i "s/[ ]\{2,\}/ /g" grd.txt
+sed -i "/googlesyndication/d" grd.txt
+sed -i "/google-analytics/d" grd.txt
+sed -i "/googleadservices/d" grd.txt
+sed -i "/127.0.0.1/d" grd.txt
+sed -i "/^$/d" grd.txt
+sed -i "/^#/d" grd.txt
+sed -i "1i\#redirect" grd.txt
+gawk "!a[$0]++" grd.txt >rd3rd.txt
+del /f grd.txt
 @echo off
 ver=0.2.3.9
 SetLocal EnableExtensions
@@ -43,7 +64,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt grd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
@@ -55,7 +76,7 @@ echo goto :eof >>bat.txt
 goto :eof
 
 :del
-del /f hosts smart.txt rd3rd.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
+del /f hosts smart.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
 goto :eof
 
 :Version
@@ -115,32 +136,6 @@ sed -i "/5isotoi5.org/d" hosts
 sed -i "/.sandai.net/d" hosts
 sed -i "/flashget.com/d" hosts
 sed -i "s/\t/ /g" hosts
-goto :eof
-
-wget -c --no-check-certificate -O grd.txt %s3%
-sed -i "s/\t/ /g" grd.txt
-sed -i "s/[ ]\{2,\}/ /g" grd.txt
-sed -i "1,55d" grd.txt
-sed -i "/googlesyndication/d" grd.txt
-sed -i "/google-analytics/d" grd.txt
-sed -i "/googleadservices/d" grd.txt
-sed -i "/wujieliulan/d" grd.txt
-sed -i "/dropbox.com/d" grd.txt
-sed -i "/127.0.0.1/d" grd.txt
-sed -i "/^$/d" grd.txt
-sed -i "/^#/d" grd.txt
-sed -i "1i\#redirect" grd.txt
-gawk "!a[$0]++" grd.txt >rd3rd.txt
-del /f grd.txt 2.txt
 sed -i "s/\t/ /g" gg.txt
 sed -i "s/[ ]\{2,\}/ /g" gg.txt
-
-set p1=http://serve.netsh.org/pub/ping.php
-set p2=http://tools.pingdom.com/ping/
-set p3=http://ping.eu/ping
-set p4=http://www.360kb.com/kb/2_122.html
-rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.right.com.cn/forum/thread-152514-1-1.html http://www.abclite.org/67
-set s1=http://hosts.gav1n.com/GavinHosts.txt
-set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
-set s3=http://git.oschina.net/jiange1236/googlehosts/tree/master
-set s4=https://www.projecth.us/sources
+goto :eof
