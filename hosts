@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201502261140
+;version=201502261329
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -9476,6 +9476,7 @@ fe80::1%lo0	localhost
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 #Float Ads
+127.0.0.1 code.m-dx.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 u.gwdang.com
 127.0.0.1 d.qceg.ne
