@@ -1,0 +1,9 @@
+Application Data\Kingsoft\elive
+Application Data\Orbit
+Application Data\PPLive\PPTV\Cache\pluginad
+Application Data\QvodPlayer\Playlist\keywords.xml
+Application Data\Tencent
+Application Data\Thunder Network\DownloadLib\pub_store.dat
+Application Data\Thunder Network\cid_store.dat
+Application Data\Thunder Network\emule_upload_list.dat
+
