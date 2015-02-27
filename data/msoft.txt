@@ -464,6 +464,7 @@
 127.0.0.1 ad.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 atm.youku.com
+127.0.0.1 n.miaozhen.atm.youku.com
 127.0.0.1 c.miaozhen.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 count.atm.youku.com
