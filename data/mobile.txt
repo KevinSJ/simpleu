@@ -3708,6 +3708,9 @@
 127.0.0.1 x-ip-adwpc.com
 127.0.0.1 recreativ.ru
 127.0.0.1 www.da-ads.com
+127.0.0.1 go.padstm.com
+127.0.0.1 go.padsdel.com
+127.0.0.1 padsdel.cdnads.com
 #Popups
 127.0.0.1 www.og114.cn
 127.0.0.1 ad.a-ads.com

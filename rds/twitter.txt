@@ -12,4 +12,3 @@ support.twitter.com
 twitter.com
 twitter.com
 t.co
-s3.amazonaws.com

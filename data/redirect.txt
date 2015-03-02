@@ -1,7 +1,7 @@
 @SmartDirect
 #Localhost
 127.0.0.1	localhost
-::1    localhost
+::1 localhost
 #Windows
 127.0.0.1 localhost.localdomain
 127.0.0.1 localhost.localdomain localhost
@@ -35,22 +35,3 @@ fe80::1%lo0	localhost
 #playssh
 42.159.203.27 playssh.com
 42.159.203.27 www.playssh.com
-#FireFox
-117.18.232.191 addons.cdn.mozilla.net
-117.18.232.191 mozorg.cdn.mozilla.net
-117.18.232.191 developer.cdn.mozilla.net
-117.18.232.191 fhr.cdn.mozilla.net
-68.232.34.191 support.cdn.mozilla.net
-117.18.232.191 marketplace.cdn.mozilla.net
-117.18.232.191 air.cdn.mozilla.net
-117.18.232.191 activations.cdn.mozilla.net
-117.18.232.191 cdn.mozilla.net
-117.18.232.191 download-installer.cdn.mozilla.net
-117.18.237.191 getpersonas-cdn.mozilla.net
-117.18.232.191 snippets.cdn.mozilla.net
-117.18.232.191 telemetry-experiment.cdn.mozilla.net
-117.18.232.191 code.cdn.mozilla.net
-117.18.232.191 videos.cdn.mozilla.net
-117.18.232.191 glow.cdn.mozilla.net
-72.21.81.109 df6a.https.cdn.softlayer.net
-117.18.237.29 ocsp.digicert.com

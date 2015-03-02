@@ -2815,3 +2815,4 @@ sslvideo-upload.l.google.com
 video-stats.l.google.com
 video.l.google.com
 video-thumbnails.l.google.com
+wildcard-talkgadget.l.google.com

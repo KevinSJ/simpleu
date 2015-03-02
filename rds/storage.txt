@@ -1,5 +1,6 @@
 cf.dropboxstatic.com
 dropbox.com
+forums.dropbox.com
 www.dropbox.com
 www.dropboxstatic.com
 d-h.st
@@ -11,7 +12,6 @@ ak1.boxcdn.net
 ak2.boxcdn.net
 ak3.boxcdn.net
 app.box.com
-blog.box.com
 blog.box.com
 box.com
 developers.box.com

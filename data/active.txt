@@ -48,6 +48,8 @@
 127.0.0.1 wip3.adobe.com
 127.0.0.1 wip4.adobe.com
 127.0.0.1 wwis-dubc1-vip60.adobe.com
+#auslogics
+127.0.0.1 lm.auslogics.com
 #AnyDVD
 127.0.0.1 update.slysoft.com
 #Alcohol

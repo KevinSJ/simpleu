@@ -137,8 +137,18 @@
 23.13.188.34 ena.net.playstation.net
 63.219.18.170 cdn.deadorbit.net
 #Xbox
-63.219.18.170 download.xbox.com.edgesuite.net
+134.170.108.154 onedrive.live.com
+134.170.104.90 onedrive.live.com
+134.170.107.154 onedrive.live.com
+134.170.108.26 onedrive.live.com
+134.170.107.26 onedrive.live.com
+134.170.104.232 skyapi.onedrive.live.com
+134.170.105.24 skyapi.onedrive.live.com
+134.170.105.72 skyapi.onedrive.live.com
+134.170.104.104 skyapi.onedrive.live.com
+134.170.109.72 skyapi.onedrive.live.com
 134.170.109.48 skyapi.onedrive.live.com
+63.219.18.170 download.xbox.com.edgesuite.net
 63.219.18.170 zvaa.zune.net
 63.219.18.170 zvab.zune.net
 63.219.18.170 zvac.zune.net

@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 上午 11:23 2015/2/26/周四
+# 下午 6:50 2015/2/28/周六
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -30,6 +30,7 @@ user_pref("browser.safebrowsing.malware.enabled", false);
 user_pref("browser.search.openintab", true);
 user_pref("browser.search.showOneOffButtons", false);
 user_pref("browser.search.update", false);
+user_pref("browser.sessionstore.max_tabs_undo", 50);
 user_pref("browser.shell.checkDefaultBrowser", false);
 user_pref("browser.startup.homepage", "chrome://mynewtab/content/index.html");
 user_pref("browser.startup.page", 3);
