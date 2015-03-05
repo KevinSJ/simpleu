@@ -152,6 +152,7 @@
 127.0.0.1 dl.360safe.com
 127.0.0.1 down.360safe.com
 127.0.0.1 ini.update.360safe.com
+127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 down.360.cn
@@ -1729,6 +1730,14 @@
 #EasyMobi
 127.0.0.1 adver.easymobi.cn
 127.0.0.1 app.easymobi.cn
+#Eduancm
+127.0.0.1 app.eduancm.com
+127.0.0.1 dl.eduancm.com
+127.0.0.1 pic.eduancm.com
+127.0.0.1 test.eduancm.com
+127.0.0.1 tongji.eduancm.com
+127.0.0.1 www.eduancm.com
+127.0.0.1 xiazai.eduancm.com
 #Effectivemeasure
 127.0.0.1 c.effectivemeasure.net
 127.0.0.1 hk-cdn.effectivemeasure.net
