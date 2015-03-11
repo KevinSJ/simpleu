@@ -1,5 +1,6 @@
 @Sites Block
 #VirusDown
+127.0.0.1 caishensp.com
 127.0.0.1 www.bestercooling.cn
 127.0.0.1 apk.boya1993.com
 127.0.0.1 appnew.hzt88.com
