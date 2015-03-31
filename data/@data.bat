@@ -65,7 +65,7 @@ echo goto :eof >>bat.txt
 goto :eof
 
 :del
-del /f hosts smart.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt grd.txt
+del /f hosts smart.txt Version.txt Xunlei.txt SDall.txt Android.txt bat.txt 0.txt 1.txt 1A.txt
 goto :eof
 
 :Version

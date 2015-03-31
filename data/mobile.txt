@@ -1051,6 +1051,7 @@
 127.0.0.1 j.br.baidu.com
 127.0.0.1 hao123union.baidu.com
 127.0.0.1 toolbar.baidu.com
+127.0.0.1 s.clk.baidu.com
 127.0.0.1 w.x.baidu.com
 127.0.0.1 wanba.baidu.com
 127.0.0.1 youqian.baidu.com
