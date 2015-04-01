@@ -14,8 +14,20 @@ set s1=http://hosts.gav1n.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
 set s4=https://www.projecth.us/sources
+wget -c --no-check-certificate -O grd.txt %s2%
+sed -i "s/\t/ /g" grd.txt
+sed -i "s/[ ]\{2,\}/ /g" grd.txt
+sed -i "/googlesyndication/d" grd.txt
+sed -i "/google-analytics/d" grd.txt
+sed -i "/googleadservices/d" grd.txt
+sed -i "/127.0.0.1/d" grd.txt
+sed -i "/^$/d" grd.txt
+sed -i "/^#/d" grd.txt
+sed -i "1i\#redirect" grd.txt
+gawk "!a[$0]++" grd.txt >rd3rd.txt
+del /f grd.txt
 @echo off
-ver=0.2.6.2
+ver=0.2.6.5
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -128,16 +140,3 @@ sed -i "s/\t/ /g" hosts
 sed -i "s/\t/ /g" gg.txt
 sed -i "s/[ ]\{2,\}/ /g" gg.txt
 goto :eof
-
-rem wget -c --no-check-certificate -O grd.txt %s2%
-sed -i "s/\t/ /g" grd.txt
-sed -i "s/[ ]\{2,\}/ /g" grd.txt
-sed -i "/googlesyndication/d" grd.txt
-sed -i "/google-analytics/d" grd.txt
-sed -i "/googleadservices/d" grd.txt
-sed -i "/127.0.0.1/d" grd.txt
-sed -i "/^$/d" grd.txt
-sed -i "/^#/d" grd.txt
-sed -i "1i\#redirect" grd.txt
-gawk "!a[$0]++" grd.txt >rd3rd.txt
-del /f grd.txt
