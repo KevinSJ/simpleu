@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201504012250
+;version=201504012258
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -45,6 +45,11 @@ fe80::1%lo0	localhost
 #playssh
 42.159.203.27 playssh.com
 42.159.203.27 www.playssh.com
+#YingZheng
+117.122.195.185 bbs.winzheng.com
+117.122.195.185 www.yingzheng.com
+117.122.195.185 ucenter.yingzheng.com
+117.122.195.185 search.yingzheng.com
 #redirect
 173.194.38.197 0.docs.google.com
 173.194.38.197 0.drive.google.com
