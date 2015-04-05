@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 下午 6:50 2015/2/28/周六
+# 上午 9:39 2015/4/5/周日
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -67,6 +67,7 @@ user_pref("intl.charset.detector", "universal_charset_detector");
 user_pref("intl.charsetmenu.browser.cache", "UTF-8, windows-1252, EUC-JP, gbk");
 user_pref("layers.acceleration.disabled", true);
 user_pref("layout.spellcheckDefault", 0);
+user_pref("layers.offmainthreadcomposition.enabled", false);
 user_pref("loop.enabled", false);
 user_pref("media.peerconnection.enabled", false);
 user_pref("middlemouse.contentLoadURL", true);
@@ -82,6 +83,7 @@ user_pref("plugins.hide_infobar_for_missing_plugin", true);
 user_pref("plugins.hide_infobar_for_outdated_plugin", true);
 user_pref("privacy.sanitize.migrateFx3Prefs", true);
 user_pref("security.OCSP.enabled", 0);
+user_pref("security.tls.version.min", 0);
 user_pref("security.default_personal_cert", "Select Automatically");
 user_pref("security.dialog_enable_delay", 0);
 user_pref("security.mixed_content.block_active_content", false);
