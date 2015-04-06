@@ -3849,3 +3849,6 @@
 127.0.0.1 jnljjj.cn
 127.0.0.1 www.gaoxiaola.com
 127.0.0.1 www.syodr.com
+127.0.0.1 k.ctsywy.com
+127.0.0.1 cpc.88rpg.net
+
