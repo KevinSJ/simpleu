@@ -369,4 +369,5 @@
 #yNet
 127.0.0.1 log.ynet.com
 127.0.0.1 ranking.ynet.com
-
+#1fangchan
+127.0.0.1 adhome.1fangchan.com

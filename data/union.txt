@@ -1920,6 +1920,7 @@
 127.0.0.1 www.zedo.com
 127.0.0.1 xads.zedo.com
 127.0.0.1 yads.zedo.com
+127.0.0.1 z1.zedo.com
 127.0.0.1 zedo.com
 #Fling
 127.0.0.1 cachep.fling.com

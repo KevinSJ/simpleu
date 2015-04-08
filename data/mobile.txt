@@ -1126,7 +1126,6 @@
 127.0.0.1 mobads.e.shifen.com
 #Baidu-iQiyi
 127.0.0.1 ad.m.iqiyi.com
-127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 feedback.iqiyi.com
@@ -1134,6 +1133,7 @@
 127.0.0.1 mixer.cupid.iqiyi.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
+127.0.0.1 msg.71.am
 127.0.0.1 afp.qiyi.com
 127.0.0.1 jsmsg.video.qiyi.com
 127.0.0.1 msg.video.qiyi.com
