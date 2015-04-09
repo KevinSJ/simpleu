@@ -98,6 +98,7 @@
 127.0.0.1 pro.163.com
 127.0.0.1 proimg.163.com
 127.0.0.1 union.163.com
+127.0.0.1 rd.da.netease.com
 #163-Youdao
 127.0.0.1 a.youdao.com
 127.0.0.1 b.clkservice.youdao.com
