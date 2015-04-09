@@ -68,6 +68,9 @@
 127.0.0.1 scootersoftware.com
 #Bitsum
 127.0.0.1 www.bitsumactivationserver.com
+#cyberlink
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
 #Emurasoft(EmEditor)
 127.0.0.1 www.emurasoft.com
 #FlashFXP

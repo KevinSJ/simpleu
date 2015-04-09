@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201504091755
+;version=201504092246
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5904,6 +5904,9 @@ fe80::1%lo0	localhost
 127.0.0.1 scootersoftware.com
 #Bitsum
 127.0.0.1 www.bitsumactivationserver.com
+#cyberlink
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
 #Emurasoft(EmEditor)
 127.0.0.1 www.emurasoft.com
 #FlashFXP
