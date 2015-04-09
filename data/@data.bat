@@ -15,7 +15,7 @@ set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
 set s4=https://www.projecth.us/sources
 rem wget -c --no-check-certificate -O grd.txt %s2%
-sed -i "1,12d" grd.txt
+sed -i "1,19d" grd.txt
 sed -i "s/\t/ /g" grd.txt
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
 sed -i "/googlesyndication/d" grd.txt

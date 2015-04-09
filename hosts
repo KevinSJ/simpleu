@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=20150409 802
+;version=20150409 813
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -50,7 +50,10 @@ fe80::1%lo0	localhost
 117.122.195.185 www.yingzheng.com
 117.122.195.185 ucenter.yingzheng.com
 117.122.195.185 search.yingzheng.com
-#Avira Professional Server:
+#Stylish
+68.232.45.109 df6a.https.cdn.softlayer.net
+68.232.44.169 static.linkbucks.com
+#Avira Professional Server
 80.190.143.249 dl1.avgate.net
 80.190.143.249 dl2.avgate.net
 80.190.143.249 dl3.avgate.net
