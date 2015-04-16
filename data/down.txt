@@ -1,5 +1,6 @@
 @Sites Block
 #VirusDown
+127.0.0.1 down.laomaotao.org
 127.0.0.1 ucdl.25pp.com
 127.0.0.1 action1.adit-media.com
 127.0.0.1 188.qy8.me
@@ -189,8 +190,6 @@
 127.0.0.1 157.sxzjhg.com
 127.0.0.1 shrinery.net
 127.0.0.1 url.d9soft.com
-127.0.0.1 xiazai.dns-vip.net
-127.0.0.1 xiazhai.tuizhong.com
 127.0.0.1 url.cncrk.com
 127.0.0.1 xiazhai.xiaocen.com
 127.0.0.1 download.upscool.com

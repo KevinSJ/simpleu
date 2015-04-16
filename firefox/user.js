@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 上午 9:39 2015/4/5/周日
+# 下午 3:09 2015/4/16/周四
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -125,6 +125,7 @@ user_pref("extensions.lastpass.hidecontextmenu", true);
 user_pref("extensions.lastpass.rememberPassword", true);
 user_pref("extensions.fireie.autoswitch_enabled", false);
 user_pref("extensions.fireie.showUrlBarLabel", false);
-user_pref("extensions.uacontrol.actions", "@DEFAULT=@NORMAL 360.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20QIHU%20360SE aliyuncdn.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 baidu.com=Mozilla/5.0%20(Windows%20NT%206.1)%20BIDUBrowser/7.1 bilibili.com=@NORMAL browser.qq.com=Mozilla/5.0%20(Windows%20NT%206.1)%20Chrome/38 ccb.com.cn=@NORMAL cmbchina.com=@NORMAL ebook.tianya.cn=@NORMAL facebook.com=@NORMAL fqgoogle.com=@NORMAL hd.baofeng.com=Mozilla/5.0%20(iPad;%20CPU%20OS%208_1_1%20like%20Mac%20OS%20X) icbc.com.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20Firefox/11 ifeng.com=@NORMAL ltaaa.com=@NORMAL m.sm.cn=UCBrowser/9.9 mp.weixin.qq.com=mozilla/5.0%20(linux;%20u;%20zh-cn;%20)%20micromessenger/6 pan.baidu.com=netdisk;5;PC;PC-Windows;6;WindowsBaiduYunGuanJia pinterest.com=@NORMAL qq.com=Mozilla/5.0%20(Windows%20NT%206.1;%20Trident/7.0;%20QQBrowser/7.8) sainsburys.co.uk=@NORMAL skype.com=Opera/9.9%20(Windows%20NT%206.1;) smzdm.com=@NORMAL taobao.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 tbcdn.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 tmall.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 userstyles.org=@NORMAL vod.kankan.com=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2011_1) wap.baidu.com=UCBrowser/9.9 wapp.baidu.com=Mozilla/5.0%20(iPod;%20iPhone%20OS%208_1_1%20like%20Mac%20OS%20X)%20 www.yto.net.cn=@NORMAL");
+user_pref("extensions.uacontrol.do_migrate", false);
+user_pref("extensions.uacontrol.actions", "@DEFAULT=@NORMAL 360.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20QIHU%20360SE aliyuncdn.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.6 baidu.com=Mozilla/5.0%20(Windows%20NT%206.1)%20BIDUBrowser/8 bilibili.com=@NORMAL browser.qq.com=Mozilla/5.0%20(Windows%20NT%206.1)%20Chrome/38 ccb.com.cn=@NORMAL cmbchina.com=@NORMAL ebook.tianya.cn=@NORMAL facebook.com=@NORMAL fqgoogle.com=@NORMAL hd.baofeng.com=Mozilla/5.0%20(iPad;%20CPU%20OS%208_1_1%20like%20Mac%20OS%20X) icbc.com.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20Firefox/11 ifeng.com=@NORMAL ltaaa.com=@NORMAL m.sm.cn=UCBrowser/9.9 mp.weixin.qq.com=mozilla/5.0%20(linux;%20u;%20zh-cn;%20)%20micromessenger/6 pan.baidu.com=netdisk;5;PC;PC-Windows;6;WindowsBaiduYunGuanJia pinterest.com=@NORMAL sainsburys.co.uk=@NORMAL skype.com=Opera/9.9%20(Windows%20NT%206.1;) smzdm.com=@NORMAL taobao.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 tbcdn.cn=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 tmall.com=Mozilla/5.0%20(Windows%20NT%206.1)%20TaoBrowser/3.5 userstyles.org=@NORMAL vod.kankan.com=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2011_1) wap.baidu.com=UCBrowser/9.9 wapp.baidu.com=Mozilla/5.0%20(iPod;%20iPhone%20OS%208_1_1%20like%20Mac%20OS%20X)%20 www.qq.com=Mozilla/5.0%20(Windows%20NT%206.1;%20Trident/7.0;%20QQBrowser/7.8) www.yto.net.cn=@NORMAL");
 user_pref("userChromeJS.InspectElement.contentType", 1);
 user_pref("userChromeJS.InspectElement.mainWinType", 2);
