@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201504161609
+;version=20150417 944
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -9383,18 +9383,9 @@ fe80::1%lo0	localhost
 127.0.0.1 www-hfc7.beautyforu.net
 127.0.0.1 www-wf7.shimatcuya.net
 127.0.0.1 59english.cn
-127.0.0.1 com8888001.ekyy99.pw
-127.0.0.1 qqiefsda.tk
-127.0.0.1 bigkl.piilossa.com
-127.0.0.1 com8888089.jcym88.pw
-127.0.0.1 www.huiklgiuh.cn
-127.0.0.1 com8888020.wbyn11.pw
-127.0.0.1 dgdgd3gdg.pw
-127.0.0.1 www.game978.com
-127.0.0.1 bhout.info.gf
-127.0.0.1 com8888090.jcwz66.pw
 127.0.0.1 www.xn-air.com
 127.0.0.1 zc8k.cn
+127.0.0.1 com8888001.ekyy99.pw
 127.0.0.1 vipdk.cut.vn
 127.0.0.1 yq006.com
 127.0.0.1 www.dieklgset.cn
@@ -10556,6 +10547,7 @@ fe80::1%lo0	localhost
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 #Float Ads
+127.0.0.1 t.ruxianke.com
 127.0.0.1 cps.laifeng.com
 127.0.0.1 code.m-dx.com
 127.0.0.1 click.linktech.cn

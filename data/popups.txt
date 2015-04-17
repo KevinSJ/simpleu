@@ -1,4 +1,5 @@
 #Float Ads
+127.0.0.1 t.ruxianke.com
 127.0.0.1 cps.laifeng.com
 127.0.0.1 code.m-dx.com
 127.0.0.1 click.linktech.cn
