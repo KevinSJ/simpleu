@@ -51,7 +51,6 @@ CommonTestData
 127.0.0.1 s.phpwind.com
 127.0.0.1 static.anquan.org
 127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 tajs.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 tj.quwan.com
 127.0.0.1 toruk.tanx.com
