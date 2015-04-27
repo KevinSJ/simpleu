@@ -2505,7 +2505,6 @@
 127.0.0.1 game.html5.qq.com
 127.0.0.1 weblog.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
-127.0.0.1 mdc.html5.qq.com
 #QQ-Tencent
 127.0.0.1 wa.gtimg.com
 127.0.0.1 masdk.3g.qq.com

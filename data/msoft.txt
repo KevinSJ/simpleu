@@ -22,6 +22,9 @@
 127.0.0.1 ebp.renren.com
 127.0.0.1 xray.jebe.renren.com
 127.0.0.1 rest.widgetbox.jebe.renren.com
+#Ctrip
+127.0.0.1 crm.ws.ctrip.com
+127.0.0.1 s.c-ctrip.com
 #Dolphin
 127.0.0.1 a.dolphin-browser.com
 127.0.0.1 activation.dolphin-browser.com
