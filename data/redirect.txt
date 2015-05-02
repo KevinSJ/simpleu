@@ -120,8 +120,8 @@ fe80::1%lo0	localhost
 31.13.77.8 api.facebook.com
 31.13.77.8 attachments.facebook.com
 31.13.77.8 developers.facebook.com
-184.28.188.154  s-static.ak.facebook.com
-184.28.188.154  profile.ak.facebook.com
+184.28.188.154 s-static.ak.facebook.com
+184.28.188.154 profile.ak.facebook.com
 184.28.188.154 static.ak.facebook.com
 184.28.188.154 b.static.ak.facebook.com
 184.28.188.153 act.channel.facebook.com

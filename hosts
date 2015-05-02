@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201505012218
+;version=201505021210
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -130,8 +130,8 @@ fe80::1%lo0	localhost
 31.13.77.8 api.facebook.com
 31.13.77.8 attachments.facebook.com
 31.13.77.8 developers.facebook.com
-184.28.188.154  s-static.ak.facebook.com
-184.28.188.154  profile.ak.facebook.com
+184.28.188.154 s-static.ak.facebook.com
+184.28.188.154 profile.ak.facebook.com
 184.28.188.154 static.ak.facebook.com
 184.28.188.154 b.static.ak.facebook.com
 184.28.188.153 act.channel.facebook.com
@@ -10646,3 +10646,26 @@ fe80::1%lo0	localhost
 127.0.0.1 tly23.pw
 127.0.0.1 iosyyyu.tcye80.pw
 127.0.0.1 yyyu.zlye.pw
+127.0.0.1 hao.uu369.cn
+127.0.0.1 www.gopianyi.cn
+127.0.0.1 www.shangdao168.cn
+127.0.0.1 www.5kankan.com
+127.0.0.1 l2.gzjx.net
+127.0.0.1 l2.rhxsgold.com.cn
+127.0.0.1 ad.admsger.com
+127.0.0.1 linktech.cn
+127.0.0.1 chedao66.cn
+127.0.0.1 www.chedao66.cn
+127.0.0.1 t1.chedao66.cn
+127.0.0.1 www.i1608.com
+127.0.0.1 www.37ggs.com
+127.0.0.1 www.zhitui.com
+127.0.0.1 zhitui.com
+127.0.0.1 p.zhitui.com
+127.0.0.1 union.click.jd.com
+127.0.0.1 sotmall.cn
+127.0.0.1 yiqifa.com
+127.0.0.1 www.pvpv.com
+127.0.0.1 pvpv.com
+127.0.0.1 zktao.com
+127.0.0.1 www.zktao.com
