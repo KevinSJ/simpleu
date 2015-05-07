@@ -21,7 +21,7 @@ WinDir =WshShell.ExpandEnvironmentStrings("%WinDir%")
 HostsFile = WinDir & "\System32\Drivers\etc\hosts"
 Const hosts="https://raw.githubusercontent.com/vokins/simpleu/master/hosts"
 download hosts,HostsFile
-wshshell.run "cmd /c sc stop DNSCache",0  '停止DNSCache服务
-wshshell.run "cmd /c sc config Dnscache start= disabled",0  '禁用DNSCache服务
+'wshshell.run "cmd /c sc config Dnscache start= auto",0  '启用DNSCache服务
+'wshshell.run "cmd /c sc start DNSCache",0  '开启DNSCache服务
 wshshell.run "cmd /c ipconfig /flushdns",0  '刷新DNS
 MsgBox "hosts 数据已更新！", vbInformation, "SimpleU"
