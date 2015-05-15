@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 下午 3:09 2015/4/16/周四
+# 14:50 2015/5/14/周四
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -70,6 +70,9 @@ user_pref("layout.spellcheckDefault", 0);
 user_pref("layers.offmainthreadcomposition.enabled", false);
 user_pref("loop.enabled", false);
 user_pref("media.peerconnection.enabled", false);
+user_pref("media.gmp-provider.enabled", false);
+user_pref("media.gmp-gmpopenh264.autoupdate", false);
+user_pref("media.gmp-eme-adobe.autoupdate", false);
 user_pref("middlemouse.contentLoadURL", true);
 user_pref("middlemouse.paste", true);
 user_pref("middlemouse.scrollbarPosition", true);
