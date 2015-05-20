@@ -750,6 +750,7 @@
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 s.click.taobao.com
+127.0.0.1 s8.etao.com
 #Alimama
 127.0.0.1 a.alimama.cn
 127.0.0.1 bm.alimama.cn
@@ -2468,6 +2469,7 @@
 127.0.0.1 c.l.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
+127.0.0.1 livew.l.qq.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 t.l.qq.com
