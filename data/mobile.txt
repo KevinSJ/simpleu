@@ -3635,6 +3635,8 @@
 127.0.0.1 pics.unionsky.cn
 127.0.0.1 play.unionsky.cn
 127.0.0.1 unionsky.cn
+127.0.0.1 appsent.unionsky1.cn
+127.0.0.1 www.unionsky1.cn
 127.0.0.1 lay.unionsky2.cn
 127.0.0.1 play.unionsky2.cn
 #velti.com

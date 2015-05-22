@@ -1,11 +1,13 @@
 #Float Ads
+127.0.0.1 go.duohuzai.com
+127.0.0.1 click.linktech.cn
+127.0.0.1 go.tiaonage.com
 127.0.0.1 wm.lrswl.com
 127.0.0.1 union.langtaojin.com
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 t.ruxianke.com
 127.0.0.1 cps.laifeng.com
 127.0.0.1 code.m-dx.com
-127.0.0.1 click.linktech.cn
 127.0.0.1 u.gwdang.com
 127.0.0.1 d.qceg.ne
 127.0.0.1 img.songhua88.com
