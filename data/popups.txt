@@ -1,4 +1,7 @@
 #Float Ads
+127.0.0.1 tk.937791.com
+127.0.0.1 rzxcu.code.mytanwan.com
+127.0.0.1 hmhv.flash.mytanwan.com
 127.0.0.1 go.duohuzai.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 go.tiaonage.com
