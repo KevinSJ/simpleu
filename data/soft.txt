@@ -211,3 +211,5 @@
 127.0.0.1 newbox.yunduan.cn
 127.0.0.1 tj.yunduan.cn
 127.0.0.1 update.yunduan.cn
+#ZhuShou
+127.0.0.1 ad.click.zhushou.so

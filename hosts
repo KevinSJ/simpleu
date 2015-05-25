@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201505241544
+;version=201505251112
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -31,6 +31,7 @@ fe80::1%lo0	localhost
 127.0.0.1 iphone-services.apple.com
 127.0.0.1 iphonesubmissions.apple.com
 #GGDNS
+203.211.0.100 www.google.com
 8.8.8.8 google-public-dns-a.google.com
 8.8.4.4 google-public-dns-b.google.com
 #Flashget Accelerate
@@ -6181,6 +6182,8 @@ fe80::1%lo0	localhost
 127.0.0.1 newbox.yunduan.cn
 127.0.0.1 tj.yunduan.cn
 127.0.0.1 update.yunduan.cn
+#ZhuShou
+127.0.0.1 ad.click.zhushou.so
 @Sites-International
 #USA-AOL
 127.0.0.1 ads.aol.co.uk
@@ -9390,18 +9393,19 @@ fe80::1%lo0	localhost
 127.0.0.1 pcabcde0010.duapp.com
 127.0.0.1 xgno1aaa0007.duapp.com
 127.0.0.1 xgno1aaa09.duapp.com
-127.0.0.1 pcabcde06.duapp.com
-127.0.0.1 xgno1aa005.duapp.com
-127.0.0.1 cngfcngw007.duapp.com
-127.0.0.1 cnno123a004.duapp.com
-127.0.0.1 xgno1aa003.duapp.com
-127.0.0.1 vip.sbo.com.namzemzmn.pw
-127.0.0.1 jie.baozhijiuye.com
-127.0.0.1 wap.icbcley.com
-127.0.0.1 cngfcngw000008.duapp.com
-127.0.0.1 wap.iclbci.com
+127.0.0.1 wap.icvioy.com
+127.0.0.1 cngfcngw0009.duapp.com
+127.0.0.1 www.h0kuiliguo.cn
+127.0.0.1 wap.icbchey.com
+127.0.0.1 www.vixyk2.tk
+127.0.0.1 wmow.xingyuantang.cn
+127.0.0.1 xgno1abcd010.duapp.com
+127.0.0.1 pcabcdepc0011.duapp.com
+127.0.0.1 fun1986.aliapp.com
+127.0.0.1 wap.icdsje.com
 127.0.0.1 yhujr.com
 127.0.0.1 webdnguanfwy003.duapp.com
+127.0.0.1 pcabcde06.duapp.com
 127.0.0.1 www.jefloehv.com
 127.0.0.1 412468.game35380.com
 127.0.0.1 www.fkuiliguof.cn
@@ -10094,6 +10098,7 @@ fe80::1%lo0	localhost
 127.0.0.1 021326.com
 127.0.0.1 taf39.com
 127.0.0.1 mk.vhve.cn
+127.0.0.1 cngfcngw000008.duapp.com
 127.0.0.1 021638.com
 127.0.0.1 www.ji-guang.com
 127.0.0.1 3158ads.com
@@ -10563,6 +10568,11 @@ fe80::1%lo0	localhost
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
 #Float Ads
+127.0.0.1 p.5mnh.com
+127.0.0.1 cdn.937785.com
+127.0.0.1 c.x7ef.com
+127.0.0.1 rjs.niuxgame77.com
+127.0.0.1 tk.937744.com
 127.0.0.1 tk.937791.com
 127.0.0.1 rzxcu.code.mytanwan.com
 127.0.0.1 hmhv.flash.mytanwan.com

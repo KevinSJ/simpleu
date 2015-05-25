@@ -1,4 +1,9 @@
 #Float Ads
+127.0.0.1 p.5mnh.com
+127.0.0.1 cdn.937785.com
+127.0.0.1 c.x7ef.com
+127.0.0.1 rjs.niuxgame77.com
+127.0.0.1 tk.937744.com
 127.0.0.1 tk.937791.com
 127.0.0.1 rzxcu.code.mytanwan.com
 127.0.0.1 hmhv.flash.mytanwan.com
