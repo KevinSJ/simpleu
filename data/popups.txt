@@ -1,4 +1,12 @@
 #Float Ads
+127.0.0.1 ufile.qushimeiti.com
+127.0.0.1 jump.fhoa365.com
+127.0.0.1 js.jhzl001.com
+127.0.0.1 www.tui1999.com
+127.0.0.1 cnzz.9158.com
+127.0.0.1 sr.9see.com
+127.0.0.1 9158.reliad.com.cn
+127.0.0.1 9158.ezhun.com
 127.0.0.1 p.5mnh.com
 127.0.0.1 cdn.937785.com
 127.0.0.1 c.x7ef.com
