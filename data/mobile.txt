@@ -77,6 +77,7 @@
 127.0.0.1 p83.1lo0.net
 #163
 127.0.0.1 analytics.ws.126.net
+127.0.0.1 web.stat.ws.126.net
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
@@ -741,6 +742,9 @@
 127.0.0.1 js.ad-stir.com
 127.0.0.1 rtb.ad-stir.com
 #Alicommon
+127.0.0.1 count.tbcdn.cn
+127.0.0.1 cookiemapping.wrating.com
+127.0.0.1 tui.taobao.com
 127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tanx.com
@@ -801,6 +805,7 @@
 127.0.0.1 df.tanx.com
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 ex.tanx.com
+127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 toruk.tanx.com
@@ -1017,11 +1022,13 @@
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cleaner.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
+127.0.0.1 global.baidu.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 imageplus.baidu.com
 127.0.0.1 nmp-ws.baidu.com
@@ -1031,6 +1038,7 @@
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 sa.tuisong.baidu.com
 127.0.0.1 sclick.baidu.com
+127.0.0.1 static.pay.baidu.com
 127.0.0.1 unstat.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
@@ -1077,6 +1085,8 @@
 127.0.0.1 www.hao123.com
 127.0.0.1 softdownload.hao123.com
 127.0.0.1 dl.m.duoku.com
+127.0.0.1 www.pcfaster.com
+127.0.0.1 www.duapps.com
 #Baidu
 127.0.0.1 a.baidu.com
 127.0.0.1 adm.baidu.com
@@ -2274,6 +2284,7 @@
 127.0.0.1 ads.miidi.net
 127.0.0.1 www.miidi.net
 #Millwardbrownacsr
+127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 miaozhen.com
 127.0.0.1 360buy.a.miaozhen.com
 127.0.0.1 a.cn.miaozhen.com
@@ -2470,6 +2481,7 @@
 127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 v.gdt.qq.com
+127.0.0.1 stockweb.mail.qq.com
 #QQ-Win
 127.0.0.1 guanjia.qq.com
 127.0.0.1 ca.gtimg.com
@@ -2750,6 +2762,7 @@
 #Sogou
 127.0.0.1 123.sogou.com
 127.0.0.1 a1click.cpc.sogou.com
+127.0.0.1 mini.cpc.sogou.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 brand.sogou.com
@@ -2965,6 +2978,10 @@
 127.0.0.1 linkad.b0.upaiyun.com
 127.0.0.1 nxcms.b0.upaiyun.com
 127.0.0.1 tcw-advert.b0.upaiyun.com
+#ujian
+127.0.0.1 api.ujian.cc
+127.0.0.1 v1.ujian.cc
+127.0.0.1 img.ujian.cc
 #UU.cc
 127.0.0.1 birzzle.uu.cc
 127.0.0.1 c.uu.cc
@@ -3170,11 +3187,14 @@
 127.0.0.1 xinmin.wrating.com
 127.0.0.1 ztqq.wrating.com
 #Yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 adserver.yahoo.com
 127.0.0.1 ads.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 hk-cm.ysm.yahoo.com
 127.0.0.1 us.adserver.yahoo.com
+127.0.0.1 js.webmaster.yahoo.com
 127.0.0.1 img.tongji.cn.yahoo.com
 127.0.0.1 info.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com

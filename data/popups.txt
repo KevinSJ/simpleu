@@ -1,4 +1,6 @@
 #Float Ads
+ad-center.com
+127.0.0.1 stat.adlabs.ru
 127.0.0.1 ufile.qushimeiti.com
 127.0.0.1 jump.fhoa365.com
 127.0.0.1 js.jhzl001.com
@@ -122,7 +124,6 @@
 127.0.0.1 www.zhitui.com
 127.0.0.1 zhitui.com
 127.0.0.1 p.zhitui.com
-127.0.0.1 union.click.jd.com
 127.0.0.1 sotmall.cn
 127.0.0.1 yiqifa.com
 127.0.0.1 www.pvpv.com

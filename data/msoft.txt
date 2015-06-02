@@ -146,6 +146,7 @@
 127.0.0.1 806.tianya.cn
 127.0.0.1 807.tianya.cn
 127.0.0.1 808.tianya.cn
+127.0.0.1 dol.tianya.cn
 127.0.0.1 advertisement.tianya.cn
 127.0.0.1 adview.tianya.cn
 127.0.0.1 squidclick.bbs.tianya.cn
@@ -211,6 +212,7 @@
 127.0.0.1 cdn.outfit7.com
 @MobMedia Ads
 #56
+127.0.0.1 stat.v-56.com
 127.0.0.1 msg.ua.56.com
 127.0.0.1 acs.stat.v-56.com
 127.0.0.1 mad.stat.v-56.com
