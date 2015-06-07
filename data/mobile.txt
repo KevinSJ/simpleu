@@ -1890,8 +1890,14 @@
 127.0.0.1 a.htwisdom.com
 127.0.0.1 pub.htwisdom.com
 #i-mobile
-127.0.0.1 spcdnpc.i-mobile.co.jp
+127.0.0.1 i-mobile.co.jp
+127.0.0.1 spad.i-mobile.co.jp
+127.0.0.1 spapi.i-mobile.co.jp
+127.0.0.1 spcnv.i-mobile.co.jp
 127.0.0.1 spdeliver.i-mobile.co.jp
+127.0.0.1 spdmg-backend.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
+127.0.0.1 spcdnpc.i-mobile.co.jp
 127.0.0.1 spnet2-1.i-mobile.co.jp
 127.0.0.1 spnet33.i-mobile.co.jp
 127.0.0.1 ssp-bidder.i-mobile.co.jp
@@ -2614,6 +2620,8 @@
 127.0.0.1 member.union.soso.com
 127.0.0.1 pingfore.soso.com
 127.0.0.1 union.soso.com
+#QianXun
+127.0.0.1 tcad.wedolook.com
 #Qiyou
 127.0.0.1 c.qiyou.com
 127.0.0.1 img.qiyou.com
@@ -3246,6 +3254,7 @@
 127.0.0.1 gw.youmi.net
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 oc.gw.youmi.net
+127.0.0.1 r.youmi.net
 127.0.0.1 sdk.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 static.youmi.net

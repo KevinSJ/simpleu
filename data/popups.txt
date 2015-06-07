@@ -1,5 +1,6 @@
 #Float Ads
-ad-center.com
+127.0.0.1 ad-center.com
+127.0.0.1 tan.pp02.com
 127.0.0.1 stat.adlabs.ru
 127.0.0.1 ufile.qushimeiti.com
 127.0.0.1 jump.fhoa365.com
@@ -97,10 +98,8 @@ ad-center.com
 127.0.0.1 m.mjys.com.cn
 127.0.0.1 www.bundo.com.cn
 127.0.0.1 www.ci-labo.cn
-127.0.0.1 www.gaoxiaola.com
 127.0.0.1 www.ldxkr.cn
 127.0.0.1 www.mjys.com.cn
-127.0.0.1 www.syodr.com
 127.0.0.1 yyyu.tcye82.pw
 127.0.0.1 qtye83.pw
 127.0.0.1 888rvr.cc

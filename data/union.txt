@@ -319,14 +319,6 @@
 127.0.0.1 adl-wf4.s2.atlnet.jp
 127.0.0.1 adl-wf5v.s3.atlnet.jp
 127.0.0.1 adl-wf6v1.atlnet.jp
-#i-mobile
-127.0.0.1 i-mobile.co.jp
-127.0.0.1 spad.i-mobile.co.jp
-127.0.0.1 spapi.i-mobile.co.jp
-127.0.0.1 spcnv.i-mobile.co.jp
-127.0.0.1 spdeliver.i-mobile.co.jp
-127.0.0.1 spdmg-backend.i-mobile.co.jp
-127.0.0.1 spdmg.i-mobile.co.jp
 #impact-ad
 127.0.0.1 a.one.impact-ad.jp
 127.0.0.1 aa.impact-ad.jp
@@ -1990,7 +1982,6 @@
 127.0.0.1 videoads.tetrisfriends.com
 127.0.0.1 www.adlinkmedia.net
 127.0.0.1 www.arcadebanners.com
-127.0.0.1 www.da-ads.com
 127.0.0.1 www.linkshare.com
 127.0.0.1 www.linkworth.com
 127.0.0.1 www.quibids.com

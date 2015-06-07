@@ -1,5 +1,7 @@
 @Sites Block
 #VirusDown
+127.0.0.1 spot-cdn.ymapp.com
+127.0.0.1 app.4mp.cn
 127.0.0.1 xz.jz5u.com
 127.0.0.1 www.163disk.com
 127.0.0.1 down.laomaotao.org

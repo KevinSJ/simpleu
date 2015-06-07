@@ -20,15 +20,21 @@
 127.0.0.1 hao.kaikai001.com
 #QVOD
 127.0.0.1 110.daddymami.net
+127.0.0.1 acctrack.daddymami.net
+127.0.0.1 android.dl.daddymami.net
 127.0.0.1 lbu.daddymami.net
 127.0.0.1 minisite.daddymami.net
 127.0.0.1 prom.qbho.daddymami.net
 127.0.0.1 qtip.daddymami.net
+127.0.0.1 statis.daddymami.net
 127.0.0.1 text-ad.daddymami.net
+127.0.0.1 vtrack.daddymami.net
 127.0.0.1 xml.web.daddymami.net
-127.0.0.1 searchstat.726.com
+127.0.0.1 android.dl.726.com
 127.0.0.1 lbu.726.com
+127.0.0.1 searchstat.726.com
 127.0.0.1 minisite.yunfan.com
+127.0.0.1 mtracker.yunfan.com
 127.0.0.1 www.yunfan.com
 127.0.0.1 110.kuaibo.com
 127.0.0.1 clk.dm.kuaibo.com
