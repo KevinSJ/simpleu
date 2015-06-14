@@ -1,4 +1,5 @@
 127.0.0.1 11.mydrivers.com
+127.0.0.1 soft.imtt.qq.com
 127.0.0.1 j.gamersky.com
 127.0.0.1 17173im.allyes.com
 127.0.0.1 2052.flash2-http.qq.com
