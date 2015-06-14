@@ -12,3 +12,4 @@
 127.0.0.1 pb.sinaedge.com
 127.0.0.1 x.jd.com
 127.0.0.1 union.click.jd.com
+127.0.0.1 track.lefeng.com

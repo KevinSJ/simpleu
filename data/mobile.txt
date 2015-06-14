@@ -786,6 +786,8 @@
 127.0.0.1 app.uc.cn
 127.0.0.1 m.app.uc.cn
 127.0.0.1 down2.uc.cn
+127.0.0.1 api.ugame.uc.cn
+127.0.0.1 sdkgame.ugame.uc.cn
 127.0.0.1 ccs.ucweb.com
 127.0.0.1 init.phpwind.net
 127.0.0.1 s.phpwind.com
@@ -949,6 +951,7 @@
 127.0.0.1 appdriver.com.cn
 127.0.0.1 www.appdriver.com.cn
 #Appsflyer
+127.0.0.1 api.appsflyer.com
 127.0.0.1 hq.appsflyer.com
 127.0.0.1 partners.appsflyer.com
 127.0.0.1 track.appsflyer.com
@@ -1047,6 +1050,10 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #BaiduLink
+127.0.0.1 log.hm.baidu.com
+127.0.0.1 release.baidu.com
+127.0.0.1 ec.pos.baidu.com
+127.0.0.1 datax.baidu.com
 127.0.0.1 1.baidu.com
 127.0.0.1 8.baidu.com
 127.0.0.1 anquan.baidu.com
@@ -1649,6 +1656,10 @@
 127.0.0.1 img.xsu.cc
 127.0.0.1 js.xsu.cc
 127.0.0.1 www.xsu.cc
+#Coolguang
+127.0.0.1 api.coolguang.com
+127.0.0.1 download.coolguang.com
+127.0.0.1 log.coolguang.com
 #Cooguo
 127.0.0.1 ak47.cooguo.com
 127.0.0.1 banner.cooguo.com
@@ -1658,6 +1669,9 @@
 127.0.0.1 kuzai.cooguo.com
 127.0.0.1 video.cooguo.com
 127.0.0.1 www.cooguo.com
+#Crashlytics
+127.0.0.1 e.crashlytics.com
+127.0.0.1 settings.crashlytics.com
 #Crispadvertising
 127.0.0.1 api.crispwireless.com
 127.0.0.1 cdn1.crispadvertising.com
@@ -1698,6 +1712,7 @@
 127.0.0.1 ggo.directrev.com
 #Dianru
 127.0.0.1 api.dianru.com
+127.0.0.1 api.android.dianru.com
 127.0.0.1 d.dianru.com
 127.0.0.1 static.dianru.com
 127.0.0.1 www.dianru.com
@@ -2531,9 +2546,11 @@
 127.0.0.1 crash.browser.qq.com
 127.0.0.1 ps.browser.qq.com
 127.0.0.1 fg.imtt.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 p.imtt.qq.com
 127.0.0.1 rc.imtt.qq.com
-127.0.0.1 soft.imtt.qq.com
 127.0.0.1 game.html5.qq.com
 127.0.0.1 weblog.html5.qq.com
 127.0.0.1 tpush.html5.qq.com
@@ -3250,6 +3267,7 @@
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 apk.static.youmi.net
 127.0.0.1 au.youmi.net
+127.0.0.1 exrep.youmi.net
 127.0.0.1 go.youmi.net
 127.0.0.1 gw.youmi.net
 127.0.0.1 notifiter.youmi.net
@@ -3258,6 +3276,7 @@
 127.0.0.1 sdk.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 static.youmi.net
+127.0.0.1 track.dmp.youmi.net
 127.0.0.1 www.youmi.net
 127.0.0.1 youmi.net
 127.0.0.1 m.ymapp.com
@@ -3897,3 +3916,7 @@
 127.0.0.1 www.gaoxiaola.com
 127.0.0.1 www.syodr.com
 127.0.0.1 k.ctsywy.com
+127.0.0.1 aow.dmaow.com
+127.0.0.1 i.mediapower.mobi
+127.0.0.1 u.androidgame-store.com
+127.0.0.1 g.androidgame-store.com

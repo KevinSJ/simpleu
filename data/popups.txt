@@ -1,4 +1,11 @@
 #Float Ads
+127.0.0.1 as.61.com
+127.0.0.1 event50.wanmei.com
+127.0.0.1 rd.wan.360.cn
+127.0.0.1 tl.changyou.com
+127.0.0.1 wan.360.cn
+127.0.0.1 js.csad.cc
+127.0.0.1 t.t70123.com
 127.0.0.1 ad-center.com
 127.0.0.1 tan.pp02.com
 127.0.0.1 stat.adlabs.ru

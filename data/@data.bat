@@ -66,7 +66,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt cps.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
