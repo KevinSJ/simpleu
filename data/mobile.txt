@@ -745,6 +745,7 @@
 127.0.0.1 count.tbcdn.cn
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 tui.taobao.com
+127.0.0.1 temai.taobao.com
 127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tanx.com

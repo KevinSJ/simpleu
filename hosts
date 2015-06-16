@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201506142112
+;version=201506161046
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -162,6 +162,9 @@ fe80::1%lo0	localhost
 184.28.188.153 b.static.ak.fbcdn.net
 184.28.188.153 static.ak.fbcdn.net
 #redirect
+64.233.162.84 google.com
+64.233.162.84 www.google.com
+64.233.162.84 m.google.com
 64.233.162.84 scholar.google.com
 64.233.162.84 translate.google.com
 64.233.162.84 books.google.com
@@ -1561,6 +1564,7 @@ fe80::1%lo0	localhost
 127.0.0.1 count.tbcdn.cn
 127.0.0.1 cookiemapping.wrating.com
 127.0.0.1 tui.taobao.com
+127.0.0.1 temai.taobao.com
 127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
 127.0.0.1 click.tanx.com
@@ -9136,6 +9140,7 @@ fe80::1%lo0	localhost
 127.0.0.1 track.lefeng.com
 @Sites Block
 #VirusDown
+127.0.0.1 skqpl7.com
 127.0.0.1 spot-cdn.ymapp.com
 127.0.0.1 app.4mp.cn
 127.0.0.1 xz.jz5u.com
