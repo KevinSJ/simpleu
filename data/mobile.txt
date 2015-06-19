@@ -141,6 +141,7 @@
 127.0.0.1 p1.189works.com
 #2345
 127.0.0.1 2345.com
+127.0.0.1 tg.jifen.2345.com
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 download.2345.com
 127.0.0.1 download.2345.cn
