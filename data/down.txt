@@ -1,5 +1,6 @@
 @Sites Block
 #VirusDown
+127.0.0.1 ibribf.com
 127.0.0.1 skqpl7.com
 127.0.0.1 spot-cdn.ymapp.com
 127.0.0.1 app.4mp.cn

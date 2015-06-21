@@ -1038,6 +1038,7 @@
 127.0.0.1 imageplus.baidu.com
 127.0.0.1 nmp-ws.baidu.com
 127.0.0.1 nsclick.baidu.com
+127.0.0.1 rj.baidu.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 s.cpro.baidu.com
@@ -3459,6 +3460,11 @@
 #Adtechus
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 glb.adtechus.com
+#AM15
+127.0.0.1 am15.net
+127.0.0.1 b.am15.net
+127.0.0.1 c.am15.net
+127.0.0.1 w1170.am15.net
 #Amazon-ads
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
