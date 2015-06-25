@@ -1272,6 +1272,10 @@
 127.0.0.1 pic.casee.cn
 127.0.0.1 wap.casee.cn
 127.0.0.1 www.casee.cn
+#castplatform
+127.0.0.1 castplatform.com
+127.0.0.1 cdn.castplatform.com
+127.0.0.1 d.castplatform.com
 #channeladvisor
 127.0.0.1 t.channeladvisor.com
 127.0.0.1 tracking2.channeladvisor.com

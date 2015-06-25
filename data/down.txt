@@ -1,5 +1,5 @@
-@Sites Block
-#VirusDown
+@sites block
+#virusdown
 127.0.0.1 ibribf.com
 127.0.0.1 skqpl7.com
 127.0.0.1 spot-cdn.ymapp.com
@@ -11,7 +11,7 @@
 127.0.0.1 action1.adit-media.com
 127.0.0.1 188.qy8.me
 127.0.0.1 360ads.go2cloud.org
-127.0.0.1 NowDownloadAll.com
+127.0.0.1 nowdownloadall.com
 127.0.0.1 ad.au.doubleclick.net
 127.0.0.1 adexprt.me
 127.0.0.1 adf.ly
@@ -45,7 +45,7 @@
 127.0.0.1 cdn1.adexprt.com
 127.0.0.1 cdn2.adexprt.com
 127.0.0.1 chaturbate.com
-127.0.0.1 cinema.friendscout24.de?
+127.0.0.1 cinema.friendscout24.de
 127.0.0.1 clk.directrev.com
 127.0.0.1 clkmon.com
 127.0.0.1 codec.codecm.com
@@ -97,7 +97,6 @@
 127.0.0.1 server.cpmstar.com
 127.0.0.1 sharesuper.info
 127.0.0.1 t.wowtrk.com
-127.0.0.1 taboola-[href*="
 127.0.0.1 tour.affbuzzads.com
 127.0.0.1 tracking.crazylead.com
 127.0.0.1 tracking.deltamediallc.com
@@ -110,8 +109,7 @@
 127.0.0.1 www.1clickdownloader.com
 127.0.0.1 www.1clickmoviedownloader.info
 127.0.0.1 www.86600.com
-127.0.0.1 www.FriendlyDuck.com
-127.0.0.1 www.TwinPlan.com
+127.0.0.1 www.twinplan.com
 127.0.0.1 www.adxpansion.com
 127.0.0.1 www.affbuzzads.com
 127.0.0.1 www.amazon.co.uk

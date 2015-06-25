@@ -1,4 +1,6 @@
 #Float Ads
+127.0.0.1 delivery.clickganic.com
+127.0.0.1 adname.ru
 127.0.0.1 nav.100msh.com
 127.0.0.1 as.61.com
 127.0.0.1 event50.wanmei.com
