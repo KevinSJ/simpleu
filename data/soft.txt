@@ -33,8 +33,11 @@
 127.0.0.1 android.dl.726.com
 127.0.0.1 lbu.726.com
 127.0.0.1 searchstat.726.com
+127.0.0.1 hunantv.update.yunfan.com
 127.0.0.1 minisite.yunfan.com
 127.0.0.1 mtracker.yunfan.com
+127.0.0.1 stat.yunfan.com
+127.0.0.1 urltracker.yunfan.com
 127.0.0.1 www.yunfan.com
 127.0.0.1 110.kuaibo.com
 127.0.0.1 clk.dm.kuaibo.com

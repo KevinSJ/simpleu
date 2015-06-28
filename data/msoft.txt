@@ -74,8 +74,13 @@
 127.0.0.1 super1.kdnet.net
 127.0.0.1 super.kdnet.net
 #LianWifi
+127.0.0.1 api.o2o.lianwifi.com
+127.0.0.1 gamecenter.lianwifi.com
 127.0.0.1 gmdh.lianwifi.com
+127.0.0.1 gmpt.lianwifi.com
+127.0.0.1 gmtj.lianwifi.com
 127.0.0.1 static.game.lianwifi.com
+127.0.0.1 static.o2o.lianwifi.com
 #Line
 127.0.0.1 ad.lianwo168.com
 #Maxthon
@@ -160,7 +165,6 @@
 127.0.0.1 ads.twitter.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 cdn.syndication.twimg.com
--
 127.0.0.1 cdn.syndication.twitter.com
 127.0.0.1 syndication-o.twitter.com
 127.0.0.1 syndication-o.twimg.com	
@@ -302,11 +306,17 @@
 127.0.0.1 vas.funshion.com
 127.0.0.1 stat.funshion.net
 #HuNanTV
-127.0.0.1 click.hifly.tv
+127.0.0.1 bs.da.hunantv.com
+127.0.0.1 click.hunantv.com
 127.0.0.1 corp.hunantv.com
+127.0.0.1 flv.res.hunantv.com
 127.0.0.1 log.hunantv.com
-127.0.0.1 mobile.log.hunantv.com
 127.0.0.1 log.v2.hunantv.com
+127.0.0.1 mobile.log.hunantv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 stat.titan.imgo.tv
+127.0.0.1 click.hifly.tv
+127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 recv-vd.gridsumdissector.cn
 127.0.0.1 recv-vd.gridsumdissector.com
 127.0.0.1 geo.gridsumdissector.com
@@ -472,12 +482,14 @@
 127.0.0.1 g.gridsum.com
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
+#Ximalaya
+127.0.0.1 ad.ximalaya.com
+127.0.0.1 ad.test.ximalaya.com
 #Youku
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 ad.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
 127.0.0.1 atm.youku.com
-127.0.0.1 n.miaozhen.atm.youku.com
 127.0.0.1 c.miaozhen.atm.youku.com
 127.0.0.1 cm.miaozhen.atm.youku.com
 127.0.0.1 count.atm.youku.com
@@ -487,9 +499,13 @@
 127.0.0.1 html.atm.youku.com
 127.0.0.1 lstat.youku.com
 127.0.0.1 mf.atm.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 n.miaozhen.atm.youku.com
 127.0.0.1 p-log.ykimg.com
 127.0.0.1 passport-log.youku.com
 127.0.0.1 push.m.youku.com
+127.0.0.1 rec.api.gamex.mobile.youku.com
 127.0.0.1 stat.youku.com
 127.0.0.1 static.atm.youku.com
 127.0.0.1 td.atm.youku.com
@@ -505,11 +521,11 @@
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 walp.atm.youku.com
 #YY
-127.0.0.1 ad.yy.duowan.com
 127.0.0.1 gm_download3.yy.com
 127.0.0.1 policyres.game.yy.com
 127.0.0.1 stat2.web.yy.com
-127.0.0.1 a.vupload.duowan.com
+127.0.0.1 yymobilegame.game.yy.com
+127.0.0.1 ad.yy.duowan.com
 127.0.0.1 forceupdate.yy.duowan.com
 127.0.0.1 gamecollaborate.yy.duowan.com
 127.0.0.1 market.duowan.com
@@ -517,14 +533,15 @@
 127.0.1.1 pflq.duowan.com
 127.0.0.1 dw.hiido.cn
 127.0.0.1 im.yy.hiido.cn
-127.0.0.1 mb.hiido.com
 127.0.0.1 njs.dw.hiido.cn
+127.0.0.1 mb.hiido.com
+127.0.0.1 mlog.hiido.com
+127.0.0.1 config.hiido.com
 127.0.0.1 tlog.hiido.com
 127.0.0.1 trans.hiido.com
 127.0.0.1 ylog.hiido.com
-#Ximalaya
-127.0.0.1 ad.ximalaya.com
-127.0.0.1 ad.test.ximalaya.com
+#Zhangyue
+127.0.0.1 push.zhangyue.com
 #XunLei
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 analytics-union.xunlei.com

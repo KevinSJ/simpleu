@@ -1,5 +1,8 @@
 @sites block
 #virusdown
+127.0.0.1 api.y5store.com
+127.0.0.1 download.lianwangshenqi.com
+127.0.0.1 down.mogustore.com
 127.0.0.1 ibribf.com
 127.0.0.1 skqpl7.com
 127.0.0.1 spot-cdn.ymapp.com

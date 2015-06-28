@@ -28,8 +28,15 @@
 127.0.0.1 mobilepay.unionpaysecure.com
 127.0.0.1 payment.umpay.com
 127.0.0.1 sdk.baopay.com
-127.0.0.1 unipay3rd.wostore.cn
 127.0.0.1 ipay.appchina.com
+#wostore
+127.0.0.1 push.wostore.cn
+127.0.0.1 secpay.wostore.cn
+127.0.0.1 unilog.wostore.cn
+127.0.0.1 unipay3rd.wostore.cn
+127.0.0.1 unipayupg.wostore.cn
+127.0.0.1 uniview.wostore.cn
+127.0.0.1 vipservice.wostore.cn
 #000dn
 127.0.0.1 kwflvcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -142,6 +149,7 @@
 #2345
 127.0.0.1 2345.com
 127.0.0.1 tg.jifen.2345.com
+127.0.0.1 app.2345.cn
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 download.2345.com
 127.0.0.1 download.2345.cn
@@ -158,6 +166,8 @@
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
+127.0.0.1 ad.dev.360.cn
+127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 down.360.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.mall.360.cn
@@ -638,50 +648,51 @@
 127.0.0.1 adsmogo.cusexad.com
 127.0.0.1 adplat.etonenet.com
 127.0.0.1 api.adsmogo.net
-127.0.0.1 adsmogo.com
-127.0.0.1 storage.adsmogo.com
-127.0.0.1 blk.adsmogo.com
-127.0.0.1 clk.adsmogo.com
-127.0.0.1 cus.adsmogo.com
-127.0.0.1 serv.adsmogo.com
-127.0.0.1 www.adsmogo.com
+127.0.0.1 blk.adsmogo.net
+127.0.0.1 cfg.adsmogo.net
+127.0.0.1 clk.adsmogo.net
+127.0.0.1 cus.adsmogo.net
+127.0.0.1 imp.adsmogo.net
+127.0.0.1 juxiao.adsmogo.net
+127.0.0.1 my.adsmogo.net
+127.0.0.1 of.adsmogo.net
+127.0.0.1 req.adsmogo.net
+127.0.0.1 serv.adsmogo.net
+127.0.0.1 update.adsmogo.net
+127.0.0.1 www.adsmogo.net
 127.0.0.1 blk.adsmogo.mobi
 127.0.0.1 cfg.adsmogo.mobi
 127.0.0.1 clk.adsmogo.mobi
 127.0.0.1 cus.adsmogo.mobi
 127.0.0.1 imp.adsmogo.mobi
+127.0.0.1 my.adsmogo.mobi
+127.0.0.1 of.adsmogo.mobi
 127.0.0.1 req.adsmogo.mobi
 127.0.0.1 serv.adsmogo.mobi
 127.0.0.1 www.adsmogo.mobi
-127.0.0.1 blk.adsmogo.net
-127.0.0.1 clk.adsmogo.net
-127.0.0.1 cus.adsmogo.net
-127.0.0.1 imp.adsmogo.net
-127.0.0.1 req.adsmogo.net
-127.0.0.1 serv.adsmogo.net
-127.0.0.1 www.adsmogo.net
+127.0.0.1 adsmogo.com
+127.0.0.1 blk.adsmogo.com
+127.0.0.1 cfg.adsmogo.com
+127.0.0.1 clk.adsmogo.com
+127.0.0.1 cus.adsmogo.com
+127.0.0.1 imp.adsmogo.com
+127.0.0.1 monitor.adsmogo.com
+127.0.0.1 my.adsmogo.com
+127.0.0.1 of.adsmogo.com
+127.0.0.1 req.adsmogo.com
+127.0.0.1 serv.adsmogo.com
+127.0.0.1 storage.adsmogo.com
+127.0.0.1 www.adsmogo.com
+127.0.0.1 blk.adsmogo.org
 127.0.0.1 cfg.adsmogo.org
 127.0.0.1 clk.adsmogo.org
 127.0.0.1 cus.adsmogo.org
+127.0.0.1 imp.adsmogo.org
+127.0.0.1 my.adsmogo.org
+127.0.0.1 of.adsmogo.org
+127.0.0.1 req.adsmogo.org
 127.0.0.1 serv.adsmogo.org
 127.0.0.1 www.adsmogo.org
-127.0.0.1 blk.adsmogo.org
-127.0.0.1 cfg.adsmogo.com
-127.0.0.1 cfg.adsmogo.net
-127.0.0.1 imp.adsmogo.com
-127.0.0.1 imp.adsmogo.org
-127.0.0.1 monitor.adsmogo.com
-127.0.0.1 my.adsmogo.com
-127.0.0.1 my.adsmogo.mobi
-127.0.0.1 my.adsmogo.net
-127.0.0.1 my.adsmogo.org
-127.0.0.1 of.adsmogo.com
-127.0.0.1 of.adsmogo.mobi
-127.0.0.1 of.adsmogo.net
-127.0.0.1 of.adsmogo.org
-127.0.0.1 req.adsmogo.com
-127.0.0.1 req.adsmogo.org
-127.0.0.1 update.adsmogo.net
 #Adticker
 127.0.0.1 adticker.net
 #Adtouchnetwork
@@ -749,11 +760,9 @@
 127.0.0.1 temai.taobao.com
 127.0.0.1 mclick.simba.taobao.com
 127.0.0.1 click.simba.taobao.com
-127.0.0.1 click.tanx.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 rdstat.tanx.com
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 s.click.taobao.com
 127.0.0.1 s8.etao.com
@@ -804,18 +813,23 @@
 #Ali-3rd
 127.0.0.1 acookie.tanx.com
 127.0.0.1 cdn.tanx.com
+127.0.0.1 click.tanx.com
 127.0.0.1 cmc.tanx.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 df.tanx.com
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 ex.tanx.com
+127.0.0.1 ifs.tanx.com
 127.0.0.1 ope.tanx.com
 127.0.0.1 p.tanx.com
 127.0.0.1 pcookie.tanx.com
+127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
 127.0.0.1 union.tanx.com
+127.0.0.1 ac.mmstat.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 gm.mmstat.com
+127.0.0.1 log.mmstat.com
 127.0.0.1 hz.mmstat.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 wgo.mmstat.com
@@ -1024,6 +1038,7 @@
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api.youqian.baidu.com
 127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 bzclk.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
 127.0.0.1 cbjs.baidu.com
@@ -1159,6 +1174,11 @@
 127.0.0.1 wm.baidu.com
 127.0.0.1 wormhole.baidu.com
 127.0.0.1 yx.baidu.com
+127.0.0.1 kspush.baidu.com
+127.0.0.1 p.gdown.baidu.com
+127.0.0.1 mobads-speed.baidu.com
+127.0.0.1 sa3.tuisong.baidu.com
+127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 mobads.e.shifen.com
 #Baidu-iQiyi
 127.0.0.1 ad.m.iqiyi.com
@@ -1708,6 +1728,9 @@
 127.0.0.1 cloud2.devopenserv.com
 127.0.0.1 dp2.devopenserv.com
 127.0.0.1 dp3.devopenserv.com
+#Ddmob
+127.0.0.1 apk.d.ad.ddmob.com.cn
+127.0.0.1 api.is.ddmob.com.cn
 #Dianjoy
 127.0.0.1 a.dianjoy.com
 127.0.0.1 dnion-cdn.dianjoy.com
@@ -1933,12 +1956,16 @@
 #ijinshan
 127.0.0.1 a.union.mi.com
 127.0.0.1 sg.a.stat.mi.com
+127.0.0.1 register.xmpush.xiaomi.com
+127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 f3.mi-stat.gslb.mi-idc.com
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
 127.0.0.1 stat.sp.kingsoft.com
 127.0.0.1 union.jx2.kingsoft.com
 127.0.0.1 union.kingsoft.com
 127.0.0.1 dl.pop.www.duba.net
+127.0.0.1 download.duba.net
 127.0.0.1 game.duba.com
 127.0.0.1 info-push.duba.net
 127.0.0.1 softmgr.duba.net
@@ -2089,6 +2116,10 @@
 #irs09
 127.0.0.1 irs09.com
 127.0.0.1 static.irs09.com
+#jesgoo
+127.0.0.1 cdn.jesgoo.com
+127.0.0.1 rcv.jesgoo.com
+127.0.0.1 www.jesgoo.com
 #jifenqiang
 127.0.0.1 www.jifenqiang.com
 127.0.0.1 f1.jifenqiang.com
@@ -2110,6 +2141,7 @@
 127.0.0.1 www.jizzads.com
 127.0.0.1 img.jizzads.com
 #Jpush
+127.0.0.1 im.jpush.cn
 127.0.0.1 s.jpush.cn
 #Juicyads
 127.0.0.1 adserver.juicyads.com
@@ -2272,21 +2304,23 @@
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 tags.mathtag.com
 #Mediav
-127.0.0.1 mvp.mediav.com
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 click.mediav.com
 127.0.0.1 item.mediav.com
 127.0.0.1 material.mediav.com
+127.0.0.1 max.mediav.com
+127.0.0.1 mvp.mediav.com
 127.0.0.1 pui.mediav.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 show.g.mediav.com
+127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com
 127.0.0.1 sina.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 t.dsp.mediav.com
 127.0.0.1 view.mediav.com
-127.0.0.1 xd.mediav.com
 127.0.0.1 www.mediav.com
+127.0.0.1 xd.mediav.com
 #Mdotm
 127.0.0.1 ads.mdotm.com
 127.0.0.1 cdn.mdotm.com
@@ -2374,6 +2408,7 @@
 127.0.0.1 www.mobfox.com
 #Mobgi
 127.0.0.1 api.mobgi.com
+127.0.0.1 api.p8.mobgi.com
 127.0.0.1 stat.mobgi.com
 127.0.0.1 mobgi.com
 #Mobile7
@@ -2519,6 +2554,7 @@
 127.0.0.1 etg.qq.com
 127.0.0.1 minisite2012.qq.com
 #QQ-Live
+127.0.0.1 video.mpush.qq.com
 127.0.0.1 aid.video.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 livep.l.qq.com
@@ -2889,6 +2925,9 @@
 #taboola
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
+#talkingdata
+127.0.0.1 www.talkingdata.com
+127.0.0.1 a.appcpa.net
 #Taobao
 127.0.0.1 www.tao123.com
 127.0.0.1 ai.m.taobao.com
@@ -2934,6 +2973,13 @@
 127.0.0.1 un2.banmamedia.com
 127.0.0.1 www.banmamedia.com
 127.0.0.1 www.targetedmedia.com.cn
+#TBKF
+127.0.0.1 ck.tbkf.net
+127.0.0.1 ims.tbkf.net
+127.0.0.1 k.tbkf.net
+127.0.0.1 tj.tbkf.net
+127.0.0.1 tracker.tbkf.net
+127.0.0.1 www.tbkf.net
 #Tenddata
 127.0.0.1 client.tenddata.com
 127.0.0.1 analytics.talkingdata.net
@@ -2962,6 +3008,7 @@
 127.0.0.1 umeng.co
 127.0.0.1 www.umeng.co
 127.0.0.1 alog.umeng.com
+127.0.0.1 au.apk.umeng.com
 127.0.0.1 au.umeng.com
 127.0.0.1 fb.umeng.com
 127.0.0.1 feedback.umeng.com
@@ -3015,21 +3062,29 @@
 127.0.0.1 v1.ujian.cc
 127.0.0.1 img.ujian.cc
 #UU.cc
+127.0.0.1 act.uu.cc
+127.0.0.1 app.uu.cc
 127.0.0.1 birzzle.uu.cc
 127.0.0.1 c.uu.cc
 127.0.0.1 d1.uu.cc
 127.0.0.1 dl.uu.cc
+127.0.0.1 elephant.uu.cc
 127.0.0.1 feed.uu.cc
 127.0.0.1 fytx.uu.cc
 127.0.0.1 g.uu.cc
+127.0.0.1 game.subway.uu.cc
 127.0.0.1 in1.feed.uu.cc
 127.0.0.1 in1.secure.uu.cc
 127.0.0.1 in1.service.uu.cc
 127.0.0.1 ly.uu.cc
 127.0.0.1 sb1.service.uu.cc
+127.0.0.1 sdklog.uu.cc
+127.0.0.1 sdkpay.uu.cc
+127.0.0.1 stat.uu.cc
 127.0.0.1 test.v1-secure.uu.cc
 127.0.0.1 uu.cc
 127.0.0.1 www.uu.cc
+127.0.0.1 actsdk.idreamsky.com
 127.0.0.1 dl.idreamsky.com
 127.0.0.1 idreamsky.com
 127.0.0.1 v1-feed.idreamsky.com
@@ -3594,6 +3649,10 @@
 127.0.0.1 p.medialytics.com
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 t.medialytics.com
+#Mobcent
+127.0.0.1 sdk.mobcent.com
+127.0.0.1 img.mobcent.com
+127.0.0.1 www.mobcent.com
 #Mobclix
 127.0.0.1 apps.outfit7.com
 127.0.0.1 apps2.outfit7.com
@@ -3932,3 +3991,13 @@
 127.0.0.1 i.mediapower.mobi
 127.0.0.1 u.androidgame-store.com
 127.0.0.1 g.androidgame-store.com
+127.0.0.1 tracker.thetongji.com
+127.0.0.1 ads.xfyun.cn
+127.0.0.1 iflyad.bjdn.openstorage.cn
+127.0.0.1 gbsg.buluogamesdk.gxpan.cn
+127.0.0.1 ads.voiceads.cn
+127.0.0.1 tongji.meizu.com
+127.0.0.1 push.impingo.me
+127.0.0.1 dl.uuad.net
+127.0.0.1 file.xianglianai.cn
+
