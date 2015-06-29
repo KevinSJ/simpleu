@@ -4000,4 +4000,6 @@
 127.0.0.1 push.impingo.me
 127.0.0.1 dl.uuad.net
 127.0.0.1 file.xianglianai.cn
-
+127.0.0.1 analytics.hongshiyun.com
+127.0.0.1 api.moogos.com
+127.0.0.1 cdn.moogos.com

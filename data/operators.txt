@@ -80,3 +80,6 @@
 127.0.0.1 ads.iisdoor.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
+127.0.0.1 pd.ok365.com
+127.0.0.1 cloudcdn.yousee.com
+127.0.0.1 rd.121.com

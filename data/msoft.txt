@@ -74,7 +74,10 @@
 127.0.0.1 super1.kdnet.net
 127.0.0.1 super.kdnet.net
 #LianWifi
+127.0.0.1 appstore.51y5.net
+127.0.0.1 static.activity.51y5.net
 127.0.0.1 api.o2o.lianwifi.com
+127.0.0.1 dl01.lianwifi.com
 127.0.0.1 gamecenter.lianwifi.com
 127.0.0.1 gmdh.lianwifi.com
 127.0.0.1 gmpt.lianwifi.com
@@ -429,6 +432,7 @@
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 game.m.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 p.aty.sohu.com

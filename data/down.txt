@@ -1,5 +1,9 @@
 @sites block
 #virusdown
+127.0.0.1 dl.ggmmx.com
+127.0.0.1 tbbaoos.cc
+127.0.0.1 app.firstp2p.com
+127.0.0.1 www.firstp2p.com
 127.0.0.1 api.y5store.com
 127.0.0.1 download.lianwangshenqi.com
 127.0.0.1 down.mogustore.com

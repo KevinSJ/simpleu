@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201506282113
+;version=201506291440
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -4819,7 +4819,9 @@ fe80::1%lo0	localhost
 127.0.0.1 push.impingo.me
 127.0.0.1 dl.uuad.net
 127.0.0.1 file.xianglianai.cn
-
+127.0.0.1 analytics.hongshiyun.com
+127.0.0.1 api.moogos.com
+127.0.0.1 cdn.moogos.com
 @MobSoft Ads
 #Bitesms
 127.0.0.1 ads.bitesms.com
@@ -4896,7 +4898,10 @@ fe80::1%lo0	localhost
 127.0.0.1 super1.kdnet.net
 127.0.0.1 super.kdnet.net
 #LianWifi
+127.0.0.1 appstore.51y5.net
+127.0.0.1 static.activity.51y5.net
 127.0.0.1 api.o2o.lianwifi.com
+127.0.0.1 dl01.lianwifi.com
 127.0.0.1 gamecenter.lianwifi.com
 127.0.0.1 gmdh.lianwifi.com
 127.0.0.1 gmpt.lianwifi.com
@@ -5251,6 +5256,7 @@ fe80::1%lo0	localhost
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 game.m.sohu.com
 127.0.0.1 m.aty.sohu.com
 127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 p.aty.sohu.com
@@ -9241,6 +9247,10 @@ fe80::1%lo0	localhost
 127.0.0.1 gome.122.2o7.net
 @sites block
 #virusdown
+127.0.0.1 dl.ggmmx.com
+127.0.0.1 tbbaoos.cc
+127.0.0.1 app.firstp2p.com
+127.0.0.1 www.firstp2p.com
 127.0.0.1 api.y5store.com
 127.0.0.1 download.lianwangshenqi.com
 127.0.0.1 down.mogustore.com
@@ -10760,6 +10770,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.iisdoor.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
+127.0.0.1 pd.ok365.com
+127.0.0.1 cloudcdn.yousee.com
+127.0.0.1 rd.121.com
 #Float Ads
 127.0.0.1 delivery.clickganic.com
 127.0.0.1 adname.ru
