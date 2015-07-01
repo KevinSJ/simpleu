@@ -2858,6 +2858,7 @@
 127.0.0.1 pv.sogou.com
 127.0.0.1 rlt.inte.sogou.com
 127.0.0.1 safe1.shouji.sogou.com
+127.0.0.1 athena.wan.sogou.com
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 union.sogou.com
 127.0.0.1 wan.sogou.com
