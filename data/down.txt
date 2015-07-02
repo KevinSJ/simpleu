@@ -144,7 +144,6 @@
 127.0.0.1 www.fonts.com
 127.0.0.1 www.freefilesdownloader.com
 127.0.0.1 www.friendlyduck.com
-127.0.0.1 www.google.com
 127.0.0.1 www.graboid.com
 127.0.0.1 www.idownloadplay.com
 127.0.0.1 www.incredimail.com

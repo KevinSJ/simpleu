@@ -1,4 +1,6 @@
 #Float Ads
+127.0.0.1 tk.449377.com
+127.0.0.1 cdn.859377.com
 127.0.0.1 delivery.clickganic.com
 127.0.0.1 adname.ru
 127.0.0.1 nav.100msh.com
