@@ -349,6 +349,9 @@
 127.0.0.1 ad.jyeoo.com
 #BabyTree
 127.0.0.1 log.babytree.com
+#QQYY
+127.0.0.1 dpvc2.qqyy.com
+127.0.0.1 dpvchos.qqyy.com
 #Yaolan
 127.0.0.1 adpub.yaolan.com
 127.0.0.1 adnetpub.yaolan.com
@@ -372,3 +375,5 @@
 127.0.0.1 ranking.ynet.com
 #1fangchan
 127.0.0.1 adhome.1fangchan.com
+#cnbeta
+127.0.0.1 job.cnbeta.com

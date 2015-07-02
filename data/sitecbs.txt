@@ -29,6 +29,7 @@
 127.0.0.1 stat.pchome.net
 127.0.0.1 jspchome.zol.com.cn
 127.0.0.1 afp.zol-img.com.cn
+127.0.0.1 icon.zol-img.com.cn
 #Zol
 127.0.0.1 imp.zol.com.cn
 127.0.0.1 rs.zol.com.cn

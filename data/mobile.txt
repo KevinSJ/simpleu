@@ -105,6 +105,7 @@
 127.0.0.1 popme.163.com
 127.0.0.1 pro.163.com
 127.0.0.1 proimg.163.com
+127.0.0.1 rec.g.163.com
 127.0.0.1 union.163.com
 127.0.0.1 rd.da.netease.com
 #163-Youdao
@@ -162,7 +163,6 @@
 #360
 127.0.0.1 dl.360safe.com
 127.0.0.1 down.360safe.com
-127.0.0.1 ini.update.360safe.com
 127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
@@ -1223,6 +1223,12 @@
 127.0.0.1 download.webscache.com
 127.0.0.1 update.111222.cn
 127.0.0.1 update.base-service.net
+#Baifendian
+127.0.0.1 ds.api.baifendian.com
+127.0.0.1 rec.api.baifendian.com
+127.0.0.1 static1.baifendian.com
+127.0.0.1 static.baifendian.com
+127.0.0.1 www.baifendian.com
 #Bead-ad
 127.0.0.1 bead-ad.com
 #Betrad
@@ -3215,6 +3221,7 @@
 127.0.0.1 ahtv.wrating.com
 127.0.0.1 audit.wrating.com
 127.0.0.1 aweb.wrating.com
+127.0.0.1 msnclick.wrating.com
 127.0.0.1 baidu.wrating.com
 127.0.0.1 bbs.wrating.com
 127.0.0.1 brand.wrating.com
@@ -3257,6 +3264,7 @@
 127.0.0.1 survey.wrating.com
 127.0.0.1 sz.wrating.com
 127.0.0.1 szxk.wrating.com
+127.0.0.1 s.wrating.com
 127.0.0.1 t.wrating.com
 127.0.0.1 t1.wrating.com
 127.0.0.1 t10.wrating.com
