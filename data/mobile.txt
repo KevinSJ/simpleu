@@ -3331,6 +3331,10 @@
 127.0.0.1 code.ynlssc.com
 127.0.0.1 soho.tv.ynlssc.com
 #Youmi
+127.0.0.1 a.img.static.youmi.net
+127.0.0.1 a1.img.static.youmi.net
+127.0.0.1 a2.img.static.youmi.net
+127.0.0.1 a3.img.static.youmi.net
 127.0.0.1 ads.youmi.net
 127.0.0.1 aos.gw.youmi.net
 127.0.0.1 aos.push.youmi.net
@@ -3349,6 +3353,7 @@
 127.0.0.1 sdk.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 static.youmi.net
+127.0.0.1 t.youmi.net
 127.0.0.1 track.dmp.youmi.net
 127.0.0.1 www.youmi.net
 127.0.0.1 youmi.net
