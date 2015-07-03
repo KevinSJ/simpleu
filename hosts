@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201507022256
+;version=201507031124
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -162,6 +162,9 @@ fe80::1%lo0	localhost
 184.28.188.153 b.static.ak.fbcdn.net
 184.28.188.153 static.ak.fbcdn.net
 #redirect
+64.233.162.84 google.com
+64.233.162.84 www.google.com
+64.233.162.84 m.google.com
 64.233.162.84 scholar.google.com
 64.233.162.84 translate.google.com
 64.233.162.84 books.google.com
@@ -3168,6 +3171,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.miidi.net
 127.0.0.1 www.miidi.net
 #Millwardbrownacsr
+127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 miaozhen.com
 127.0.0.1 360buy.a.miaozhen.com
@@ -3354,7 +3358,6 @@ fe80::1%lo0	localhost
 127.0.0.1 dldir3.qq.com
 127.0.0.1 dldir5.qq.com
 127.0.0.1 dlied6.qq.com
-127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 game.weixin.qq.com
 127.0.0.1 j.wit.qq.com
 127.0.0.1 jqmt.qq.com
@@ -3366,7 +3369,6 @@ fe80::1%lo0	localhost
 127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 v.gdt.qq.com
-127.0.0.1 stockweb.mail.qq.com
 #QQ-Win
 127.0.0.1 guanjia.qq.com
 127.0.0.1 ca.gtimg.com
@@ -4154,12 +4156,15 @@ fe80::1%lo0	localhost
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 apk.static.youmi.net
 127.0.0.1 au.youmi.net
+127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 exrep.youmi.net
 127.0.0.1 go.youmi.net
 127.0.0.1 gw.youmi.net
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 oc.gw.youmi.net
+127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 r.youmi.net
+127.0.0.1 s.youmi.net
 127.0.0.1 sdk.youmi.net
 127.0.0.1 stat.gw.youmi.net
 127.0.0.1 static.youmi.net
@@ -4167,9 +4172,10 @@ fe80::1%lo0	localhost
 127.0.0.1 www.youmi.net
 127.0.0.1 youmi.net
 127.0.0.1 m.ymapp.com
-127.0.0.1 www-cdn.ymapp.com
 127.0.0.1 ssl.ymapp.com
+127.0.0.1 video.ymapp.com
 127.0.0.1 w.ymapp.com
+127.0.0.1 www-cdn.ymapp.com
 #Yoyi
 127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 atm.yoyi.com.cn
