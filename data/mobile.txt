@@ -1045,6 +1045,7 @@
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 crs.baidu.com
+127.0.0.1 dzl.baidu.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
@@ -1131,7 +1132,6 @@
 127.0.0.1 drmcmm.baidu.com
 127.0.0.1 duiwai.baidu.com
 127.0.0.1 duokoo.baidu.com
-127.0.0.1 dzl.baidu.com
 127.0.0.1 e.baidu.com
 127.0.0.1 fclick.baidu.com
 127.0.0.1 guanjia.baidu.com

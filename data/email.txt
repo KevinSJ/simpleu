@@ -1,4 +1,6 @@
 #Email Marketing
+127.0.0.1 ebm.cheetahmail.com
+127.0.0.1 edm2.emarketing.com.cn
 127.0.0.1 www.caizhixin.net.cn
 127.0.0.1 js4455.com
 127.0.0.1 img.jwzbdl.com
