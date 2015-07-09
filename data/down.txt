@@ -1,5 +1,7 @@
 @sites block
 #virusdown
+127.0.0.1 b.masterests.xyz
+127.0.0.1 always-parser.xyz
 127.0.0.1 dl.ggmmx.com
 127.0.0.1 tbbaoos.cc
 127.0.0.1 app.firstp2p.com

@@ -2489,6 +2489,10 @@
 #pingdom
 127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 rum-static.pingdom.net
+#pixelsad
+127.0.0.1 snap.snapmobile.asia
+127.0.0.1 selfie.snapmobileasia.net
+127.0.0.1 www.pixels.asia
 #PP
 127.0.0.1 apiso.demo.pp.cn
 127.0.0.1 app.pp.cn

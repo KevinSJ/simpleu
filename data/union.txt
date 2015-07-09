@@ -936,6 +936,7 @@
 127.0.0.1 www.adserverpub.com
 127.0.0.1 www2.adserverpub.com
 #Adsfactor
+127.0.0.1 cdn.adsfactor.net
 127.0.0.1 servedby.adsfactor.net
 #ADTrustMedia
 127.0.0.1 activation.adtrustmedia.com
