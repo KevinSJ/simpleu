@@ -1064,6 +1064,7 @@
 127.0.0.1 unstat.baidu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
+127.0.0.1 ecmb.bdimg.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com

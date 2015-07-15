@@ -2022,3 +2022,5 @@
 127.0.0.1 tags.qservz.com
 127.0.0.1 uk-ads.openx.net
 127.0.0.1 zanox-affiliate.de
+127.0.0.1 se.symcd.com
+127.0.0.1 clvk.viki.io

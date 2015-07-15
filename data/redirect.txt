@@ -151,3 +151,9 @@ fe80::1%lo0	localhost
 31.13.77.8 www.facebook.com
 31.13.77.8 zh-cn.facebook.com
 69.171.246.7 beta-chat-01-05-ash3.facebook.com
+184.28.152.245 connect.facebook.net
+184.25.16.53 s-static.ak.facebook.com
+173.252.88.66 graph.facebook.com
+#Twitter
+185.45.5.36 t.co
+185.45.5.44 api.twitter.com

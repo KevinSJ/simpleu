@@ -5,6 +5,8 @@
 127.0.0.1 advert.estsoft.com
 #Potplayer
 127.0.0.1 m.adtc.daum.net
+127.0.0.1 tiara.daum.net
+127.0.0.1 live.tvpot.daum.net
 #RealPlayer
 127.0.0.1 client-software.real.com
 127.0.0.1 free-dl.cn.real.com
