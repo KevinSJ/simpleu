@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=20150715 943
+;version=201507151617
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -9310,6 +9310,17 @@ fe80::1%lo0	localhost
 127.0.0.1 gome.122.2o7.net
 @sites block
 #virusdown
+127.0.0.1 static.linkbucks.com
+127.0.0.1 lp.btsearcher.com
+127.0.0.1 boboporn.com
+127.0.0.1 a.kgdbase.eu
+127.0.0.1 www.dhy008.com
+127.0.0.1 www.106555.com
+127.0.0.1 www.062555.com
+127.0.0.1 www.31958.com
+127.0.0.1 www.hf566.com
+127.0.0.1 www.hf9966.com
+127.0.0.1 www.hf1111.com
 127.0.0.1 img002.com
 127.0.0.1 download.juezhao123.com
 127.0.0.1 d.img005.com

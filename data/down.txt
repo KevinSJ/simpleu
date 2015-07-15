@@ -1,5 +1,16 @@
 @sites block
 #virusdown
+127.0.0.1 static.linkbucks.com
+127.0.0.1 lp.btsearcher.com
+127.0.0.1 boboporn.com
+127.0.0.1 a.kgdbase.eu
+127.0.0.1 www.dhy008.com
+127.0.0.1 www.106555.com
+127.0.0.1 www.062555.com
+127.0.0.1 www.31958.com
+127.0.0.1 www.hf566.com
+127.0.0.1 www.hf9966.com
+127.0.0.1 www.hf1111.com
 127.0.0.1 img002.com
 127.0.0.1 download.juezhao123.com
 127.0.0.1 d.img005.com
