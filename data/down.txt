@@ -1,5 +1,10 @@
 @sites block
 #virusdown
+127.0.0.1 img002.com
+127.0.0.1 download.juezhao123.com
+127.0.0.1 d.img005.com
+127.0.0.1 www.xhqsysp.com
+127.0.0.1 gg.ewang.com
 127.0.0.1 b.masterests.xyz
 127.0.0.1 always-parser.xyz
 127.0.0.1 dl.ggmmx.com
