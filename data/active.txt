@@ -16,8 +16,6 @@
 127.0.0.1 na2m-pr.licenses.adobe.com
 127.0.0.1 practivate.adobe.com
 127.0.0.1 wip.adobe.com
-127.0.0.1 adobeereg.com
-127.0.0.1 www.adobeereg.com
 #Adobe(Mac)
 127.0.0.1 3dns-1.adobe.com
 127.0.0.1 3dns-2.adobe.com
@@ -37,6 +35,7 @@
 127.0.0.1 adobe-dns-4.adobe.com
 127.0.0.1 adobe-dns.adobe.com
 127.0.0.1 adobe.activate.com
+127.0.0.1 adobeereg.com
 127.0.0.1 ereg.wip.adobe.com
 127.0.0.1 ereg.wip1.adobe.com
 127.0.0.1 ereg.wip2.adobe.com
@@ -48,6 +47,7 @@
 127.0.0.1 wip3.adobe.com
 127.0.0.1 wip4.adobe.com
 127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 www.adobeereg.com
 #auslogics
 127.0.0.1 lm.auslogics.com
 #AnyDVD

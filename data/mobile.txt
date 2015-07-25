@@ -811,6 +811,7 @@
 127.0.0.1 tj.alisoft.com
 127.0.0.1 cdn.browser.aliyun.com
 #Ali-3rd
+127.0.0.1 atanx.alicdn.com
 127.0.0.1 acookie.tanx.com
 127.0.0.1 cdn.tanx.com
 127.0.0.1 click.tanx.com
@@ -1070,6 +1071,13 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #BaiduLink
+127.0.0.1 goutong.baidu.com
+127.0.0.1 r.qiao.baidu.com
+127.0.0.1 h.qiao.baidu.com
+127.0.0.1 r.h.qiao.baidu.com
+127.0.0.1 s.qiao.baidu.com
+127.0.0.1 cpro.zhidao.baidu.com
+127.0.0.1 cpro.tieba.baidu.com
 127.0.0.1 log.hm.baidu.com
 127.0.0.1 release.baidu.com
 127.0.0.1 ec.pos.baidu.com
@@ -1341,6 +1349,7 @@
 127.0.0.1 s.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 hm3.cnzz.com
+127.0.0.1 hzs3.cnzz.com
 127.0.0.1 mail.cnzz.com
 127.0.0.1 17k.cnzz.com
 127.0.0.1 1ting.cnzz.com
@@ -1353,6 +1362,8 @@
 127.0.0.1 a169.cnzz.com
 127.0.0.1 a31.cnzz.com
 127.0.0.1 aas.cnzz.com
+127.0.0.1 hzs23.cnzz.com
+127.0.0.1 hzs5.cnzz.com
 127.0.0.1 aas2.cnzz.com
 127.0.0.1 allowip.cnzz.com
 127.0.0.1 b10.cnzz.com
@@ -1836,6 +1847,7 @@
 127.0.0.1 p.yiqifa.com
 127.0.0.1 g.yiqifa.com
 127.0.0.1 www.yiqifa.com
+127.0.0.1 cm.yigao.com
 127.0.0.1 image.yigao.com
 127.0.0.1 monitor.yigao.com
 127.0.0.1 p.yigao.com
@@ -2150,6 +2162,7 @@
 #Jpush
 127.0.0.1 im.jpush.cn
 127.0.0.1 s.jpush.cn
+127.0.0.1 www.jpush.cn
 #Juicyads
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 xapi.juicyads.com
@@ -2353,6 +2366,8 @@
 127.0.0.1 ads.miidi.net
 127.0.0.1 www.miidi.net
 #Millwardbrownacsr
+127.0.0.1 g.ads.cn.miaozhen.com
+127.0.0.1 a.ads.cn.miaozhen.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 xunlei.ipdx.cn.miaozhen.com
 127.0.0.1 miaozhen.com
@@ -2427,6 +2442,10 @@
 #Mobilityware
 127.0.0.1 apps.mobilityware.com
 127.0.0.1 ads.mobilityware.com
+#Moogos
+127.0.0.1 api.moogos.com
+127.0.0.1 cdn.moogos.com
+127.0.0.1 rcv.moogos.com
 #Mopub
 127.0.0.1 ads.mopub.com
 127.0.0.1 www.mopub.com
@@ -2581,10 +2600,13 @@
 127.0.0.1 dr.soso.com
 127.0.0.1 toolbar.soso.com
 #QQ-App
+127.0.0.1 dl.softmgr.qq.com
 127.0.0.1 a.wap.myapp.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
 127.0.0.1 dd.myapp.com
+127.0.0.1 dp.myapp.com
+127.0.0.1 dstrategy.myapp.com
 127.0.0.1 down.myapp.com
 127.0.0.1 pp.myapp.com
 127.0.0.1 www.myapp.com
@@ -2939,6 +2961,10 @@
 #talkingdata
 127.0.0.1 www.talkingdata.com
 127.0.0.1 a.appcpa.net
+#Tiancity
+127.0.0.1 ad.tiancity.com
+127.0.0.1 evt.tiancity.com
+127.0.0.1 ga.tiancity.com
 #Taobao
 127.0.0.1 www.tao123.com
 127.0.0.1 ai.m.taobao.com
@@ -3370,15 +3396,19 @@
 #Yoyi
 127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 atm.yoyi.com.cn
-127.0.0.1 d.yoyi.tv
 127.0.0.1 databank.air.yoyi.com.cn
-127.0.0.1 js.yoyi.tv
+127.0.0.1 g.rc.yoyi.com.cn
+127.0.0.1 g.rs.yoyi.com.cn
+127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 server.yoyi.com.cn
-127.0.0.1 t.d.yoyi.tv
 127.0.0.1 t.rc.yoyi.com.cn
 127.0.0.1 t.rs.yoyi.com.cn
 127.0.0.1 www.yoyi.com.cn
 127.0.0.1 yoyi.com.cn
+127.0.0.1 d.yoyi.tv
+127.0.0.1 g.d.yoyi.tv
+127.0.0.1 js.yoyi.tv
+127.0.0.1 t.d.yoyi.tv
 #Zampda
 127.0.0.1 cdn.zampda.net
 127.0.0.1 www.zampda.net
@@ -4023,5 +4053,7 @@
 127.0.0.1 dl.uuad.net
 127.0.0.1 file.xianglianai.cn
 127.0.0.1 analytics.hongshiyun.com
-127.0.0.1 api.moogos.com
-127.0.0.1 cdn.moogos.com
+127.0.0.1 tracking.ad-survey.com
+127.0.0.1 clk.gentags.net
+127.0.0.1 cm.qtmojo.com
+127.0.0.1 cms.gtags.net

@@ -1,4 +1,8 @@
 #Float Ads
+127.0.0.1 p.zaixiantuan.cn
+127.0.0.1 s.zaixiantuan.cn
+127.0.0.1 tou.junnew.com
+127.0.0.1 exxwey.code.junminshuiku.com
 127.0.0.1 img.88rpg.net
 127.0.0.1 www.5015.cn
 127.0.0.1 app.etongdai.com

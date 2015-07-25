@@ -258,6 +258,8 @@
 #Heiguang
 127.0.0.1 pro.heiguang.com
 @Sites-China/IT
+#Newhua
+127.0.0.1 count.newhua.com
 #MyDrivers
 127.0.0.1 count.mydrivers.com
 127.0.0.1 images.mydrivers.com

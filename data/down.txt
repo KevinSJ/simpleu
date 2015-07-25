@@ -1,5 +1,8 @@
 @sites block
 #virusdown
+127.0.0.1 dh.myie9.com
+127.0.0.1 getdownfile.myie.cc
+127.0.0.1 d.92youx.com
 127.0.0.1 static.linkbucks.com
 127.0.0.1 lp.btsearcher.com
 127.0.0.1 boboporn.com

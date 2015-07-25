@@ -308,6 +308,7 @@
 127.0.0.1 shop.funshion.com
 127.0.0.1 vas.funshion.com
 127.0.0.1 stat.funshion.net
+127.0.0.1 vasd.fun.tv
 #HuNanTV
 127.0.0.1 bs.da.hunantv.com
 127.0.0.1 click.hunantv.com
