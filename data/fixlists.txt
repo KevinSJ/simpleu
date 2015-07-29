@@ -1,4 +1,6 @@
 127.0.0.1 11.mydrivers.com
+127.0.0.1 sh.qihoo.com
+127.0.0.1 cnt.zhaopin.com
 127.0.0.1 eventlog.beacon.qq.com
 127.0.0.1 soft.imtt.qq.com
 127.0.0.1 j.gamersky.com

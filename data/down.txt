@@ -1,5 +1,6 @@
 @sites block
 #virusdown
+127.0.0.1 hc6p.com
 127.0.0.1 dh.myie9.com
 127.0.0.1 getdownfile.myie.cc
 127.0.0.1 d.92youx.com
@@ -297,7 +298,6 @@
 127.0.0.1 www.admflt.com
 127.0.0.1 hot.pcyule.com
 127.0.0.1 www.pcyule.com
-127.0.0.1 taofen8.com
 127.0.0.1 tbkszu.cc
 127.0.0.1 en.1012china.com
 127.0.0.1 tbtvr.lachlandewaard.org

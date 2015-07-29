@@ -174,7 +174,6 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 tf.360.cn
-127.0.0.1 sh.qihoo.com
 127.0.0.1 haostat.qihoo.com
 #360-Mob
 127.0.0.1 fd.shouji.360.cn
