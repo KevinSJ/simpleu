@@ -9,7 +9,7 @@ set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
 set p4=http://www.360kb.com/kb/2_122.html
 rem http://www.360kb.com/kb/2_139.html http://www.360kb.com/kb/2_143.html
-rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.abclite.org/67
+rem http://bbs.a9vg.com/thread-4549081-1-1.html http://www.abclite.org/67
 set s1=http://hosts.gav1n.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
