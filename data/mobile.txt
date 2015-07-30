@@ -451,6 +451,7 @@
 #Admaster
 127.0.0.1 admaster.mobi
 127.0.0.1 cm.admaster.com.cn
+127.0.0.1 vletv.admaster.com.cn
 127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 viqiyi.admaster.com.cn
@@ -1189,6 +1190,14 @@
 127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 mobads.e.shifen.com
 #Baidu-iQiyi
+127.0.0.1 a.ckm.iqiyi.com
+127.0.0.1 cmts.iqiyi.com
+127.0.0.1 meta.video.qiyi.com
+127.0.0.1 mixer.video.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 nlwl.iqiyi.com
+127.0.0.1 uestat.video.qiyi.com
+127.0.0.1 up.video.iqiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
@@ -2123,6 +2132,7 @@
 127.0.0.1 file.ipinyou.com.cn
 127.0.0.1 www.ipinyou.com.cn
 #irs01
+127.0.0.1 iqiyi.irs01.com
 127.0.0.1 bitauto.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 irs01.com
