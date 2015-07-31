@@ -1192,24 +1192,14 @@
 #Baidu-iQiyi
 127.0.0.1 a.ckm.iqiyi.com
 127.0.0.1 cmts.iqiyi.com
-127.0.0.1 meta.video.qiyi.com
-127.0.0.1 mixer.video.iqiyi.com
-127.0.0.1 nl.notice.iqiyi.com
-127.0.0.1 nlwl.iqiyi.com
-127.0.0.1 uestat.video.qiyi.com
-127.0.0.1 up.video.iqiyi.com
 127.0.0.1 ad.m.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
-127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 feedback.iqiyi.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mixer.cupid.iqiyi.com
-127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 msg.71.am
 127.0.0.1 afp.qiyi.com
-127.0.0.1 jsmsg.video.qiyi.com
-127.0.0.1 msg.video.qiyi.com
 127.0.0.1 track.cupid.qiyi.com
 #Baidu-PPStream
 127.0.0.1 areainfo.ppstream.com

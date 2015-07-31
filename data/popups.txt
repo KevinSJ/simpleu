@@ -1,4 +1,8 @@
 #Float Ads
+127.0.0.1 73216.jfy-stone.cn
+127.0.0.1 pic183025.images9999.com
+127.0.0.1 pic494036.images9999.com
+127.0.0.1 wap668.immn.cn
 127.0.0.1 pj.lhzly.com
 127.0.0.1 c.b0ge.com
 127.0.0.1 status.login.37.com
