@@ -518,6 +518,7 @@
 127.0.0.1 static.atm.youku.com
 127.0.0.1 td.atm.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com

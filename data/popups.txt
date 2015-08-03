@@ -1,9 +1,9 @@
 #Float Ads
+127.0.0.1 js.11ads.com
 127.0.0.1 my.6711.com
 127.0.0.1 www.wzlim.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 www.1dfgh.com
-
 127.0.0.1 73216.rczwt.com
 127.0.0.1 p.86pj.net
 127.0.0.1 www.qunarzz.com
@@ -110,7 +110,6 @@
 127.0.0.1 go.tiaonage.com
 127.0.0.1 wm.lrswl.com
 127.0.0.1 union.langtaojin.com
-127.0.0.1 guess.union2.50bang.org
 127.0.0.1 t.ruxianke.com
 127.0.0.1 cps.laifeng.com
 127.0.0.1 code.m-dx.com

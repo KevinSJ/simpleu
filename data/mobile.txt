@@ -228,6 +228,10 @@
 127.0.0.1 www.3gmimo.com
 127.0.0.1 product.3gmimo.com
 127.0.0.1 stage.3gmimo.com
+#50bang
+127.0.0.1 guess.union2.50bang.org
+127.0.0.1 js.50bang.org
+127.0.0.1 union2.50bang.org
 #51network
 127.0.0.1 g.51network.com
 127.0.0.1 log.51network.com
@@ -390,6 +394,7 @@
 127.0.0.1 afp.acs86.com
 127.0.0.1 amob.acs86.com
 127.0.0.1 static.acs86.com
+127.0.0.1 tga.acs86.com
 127.0.0.1 tgb.acs86.com
 #Ad4game
 127.0.0.1 ads.ad4game.com
@@ -1079,6 +1084,7 @@
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
+127.0.0.1 cpro.baidustatics1.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
@@ -2156,6 +2162,10 @@
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 www.jesgoo.com
+#jiathis
+127.0.0.1 v3.jiathis.com
+127.0.0.1 lc.jiathis.com
+127.0.0.1 id.jiathis.com
 #jifenqiang
 127.0.0.1 www.jifenqiang.com
 127.0.0.1 f1.jifenqiang.com
@@ -3120,8 +3130,10 @@
 127.0.0.1 img.ujian.cc
 127.0.0.1 l.ujian.cc
 127.0.0.1 t.ujian.cc
-127.0.0.1 uyan.cc
 127.0.0.1 v1.ujian.cc
+127.0.0.1 api.uyan.cc
+127.0.0.1 uyan.cc
+127.0.0.1 v1.uyan.cc
 127.0.0.1 v2.uyan.cc
 #UU.cc
 127.0.0.1 act.uu.cc
@@ -4010,7 +4022,6 @@
 127.0.0.1 www.you1ad.com
 127.0.0.1 y.applebaojia.com
 127.0.0.1 hz.dushimj.com
-127.0.0.1 lc.jiathis.com
 127.0.0.1 cdn.685wo.com
 127.0.0.1 kwcdn.ggmm777.com
 127.0.0.1 sorrys.chenwen7788.com

@@ -565,17 +565,19 @@
 127.0.0.1 img.rj518.com
 127.0.0.1 www.rj518.com
 #Scupio
-127.0.0.1 ad.scupio.com
 127.0.0.1 ad.scupio.com.tw
+127.0.0.1 ad.scupio.com
 127.0.0.1 adbw.scupio.com
 127.0.0.1 adclick.scupio.com
 127.0.0.1 adsense.scupio.com
 127.0.0.1 adsystem.scupio.com
 127.0.0.1 adyhk.scupio.com
 127.0.0.1 aspad.scupio.com
+127.0.0.1 img.scupio.com
 127.0.0.1 money.scupio.com
 127.0.0.1 pic.scupio.com
 127.0.0.1 rec.scupio.com
+127.0.0.1 u.scupio.com
 127.0.0.1 www.scupio.com
 #Sdo
 127.0.0.1 aa.sdo.com

@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201508031222
+;version=201508031352
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -1055,6 +1055,10 @@ fe80::1%lo0	localhost
 127.0.0.1 www.3gmimo.com
 127.0.0.1 product.3gmimo.com
 127.0.0.1 stage.3gmimo.com
+#50bang
+127.0.0.1 guess.union2.50bang.org
+127.0.0.1 js.50bang.org
+127.0.0.1 union2.50bang.org
 #51network
 127.0.0.1 g.51network.com
 127.0.0.1 log.51network.com
@@ -1217,6 +1221,7 @@ fe80::1%lo0	localhost
 127.0.0.1 afp.acs86.com
 127.0.0.1 amob.acs86.com
 127.0.0.1 static.acs86.com
+127.0.0.1 tga.acs86.com
 127.0.0.1 tgb.acs86.com
 #Ad4game
 127.0.0.1 ads.ad4game.com
@@ -1906,6 +1911,7 @@ fe80::1%lo0	localhost
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
+127.0.0.1 cpro.baidustatics1.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
@@ -2983,6 +2989,10 @@ fe80::1%lo0	localhost
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 www.jesgoo.com
+#jiathis
+127.0.0.1 v3.jiathis.com
+127.0.0.1 lc.jiathis.com
+127.0.0.1 id.jiathis.com
 #jifenqiang
 127.0.0.1 www.jifenqiang.com
 127.0.0.1 f1.jifenqiang.com
@@ -3947,8 +3957,10 @@ fe80::1%lo0	localhost
 127.0.0.1 img.ujian.cc
 127.0.0.1 l.ujian.cc
 127.0.0.1 t.ujian.cc
-127.0.0.1 uyan.cc
 127.0.0.1 v1.ujian.cc
+127.0.0.1 api.uyan.cc
+127.0.0.1 uyan.cc
+127.0.0.1 v1.uyan.cc
 127.0.0.1 v2.uyan.cc
 #UU.cc
 127.0.0.1 act.uu.cc
@@ -4837,7 +4849,6 @@ fe80::1%lo0	localhost
 127.0.0.1 www.you1ad.com
 127.0.0.1 y.applebaojia.com
 127.0.0.1 hz.dushimj.com
-127.0.0.1 lc.jiathis.com
 127.0.0.1 cdn.685wo.com
 127.0.0.1 kwcdn.ggmm777.com
 127.0.0.1 sorrys.chenwen7788.com
@@ -5430,6 +5441,7 @@ fe80::1%lo0	localhost
 127.0.0.1 static.atm.youku.com
 127.0.0.1 td.atm.youku.com
 127.0.0.1 test.gamex.mobile.youku.com
+127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
@@ -6029,7 +6041,6 @@ fe80::1%lo0	localhost
 204.79.197.214 global.bing.com
 204.79.197.201 testfamilysafety.bing.com
 118.215.70.152 h2.msn.com
-104.74.228.100 sb.scorecardresearch.com
 220.90.198.73 www.msftncsi.com
 220.90.198.73 crl.microsoft.com
 93.184.215.200 mscrl.microsoft.com
@@ -6764,6 +6775,11 @@ fe80::1%lo0	localhost
 127.0.0.1 marketing.chinatimes.com
 #Cyberctm
 127.0.0.1 ads.cyberctm.com
+#Doublemax
+127.0.0.1 ads.doublemax.net
+127.0.0.1 eland.doublemax.net
+127.0.0.1 static.doublemax.net
+127.0.0.1 tad.doublemax.net
 #GoGoBox
 127.0.0.1 ads.pics.gogobox.com.tw
 127.0.0.1 advs.gogobox.com.tw
@@ -6835,7 +6851,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.snsplus.com
 127.0.0.1 ad.sogi.com.tw
 127.0.0.1 ads.citytalk.tw
-127.0.0.1 ads.doublemax.net
 127.0.0.1 ads.fetnet.net
 127.0.0.1 ads.ign.com
 127.0.0.1 ads.miniclip.com
@@ -7245,6 +7260,11 @@ fe80::1%lo0	localhost
 127.0.0.1 m9.xcdf.cn
 #btlibrary.org
 127.0.0.1 count.qiqipower.com
+#xigua110
+127.0.0.1 a.xigua110.com
+127.0.0.1 jump.qucaiaa.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 gg.qucaigg.com
 #Common
 127.0.0.1 i.i.cbsi.com
 127.0.0.1 dw.cbsi.com
@@ -9971,17 +9991,19 @@ fe80::1%lo0	localhost
 127.0.0.1 img.rj518.com
 127.0.0.1 www.rj518.com
 #Scupio
-127.0.0.1 ad.scupio.com
 127.0.0.1 ad.scupio.com.tw
+127.0.0.1 ad.scupio.com
 127.0.0.1 adbw.scupio.com
 127.0.0.1 adclick.scupio.com
 127.0.0.1 adsense.scupio.com
 127.0.0.1 adsystem.scupio.com
 127.0.0.1 adyhk.scupio.com
 127.0.0.1 aspad.scupio.com
+127.0.0.1 img.scupio.com
 127.0.0.1 money.scupio.com
 127.0.0.1 pic.scupio.com
 127.0.0.1 rec.scupio.com
+127.0.0.1 u.scupio.com
 127.0.0.1 www.scupio.com
 #Sdo
 127.0.0.1 aa.sdo.com
@@ -10269,6 +10291,8 @@ fe80::1%lo0	localhost
 127.0.0.1 x.jd.com
 @sites block
 #virusdown
+127.0.0.1 download.6513.com
+127.0.0.1 www.789game.co
 127.0.0.1 q.nicesoftcn.com
 127.0.0.1 p.nicesoftcn.com
 127.0.0.1 download1.80166.com
@@ -10596,7 +10620,6 @@ fe80::1%lo0	localhost
 127.0.0.1 file.3gyu.com
 127.0.0.1 ghost.25pp.com
 127.0.0.1 hl.25pp.com
-127.0.0.1 js.50bang.org
 127.0.0.1 load.joymeng.com
 127.0.0.1 www.startappexchange.com
 127.0.0.1 www.laomaotao.net
@@ -11818,11 +11841,11 @@ fe80::1%lo0	localhost
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 rd.121.com
 #Float Ads
+127.0.0.1 js.11ads.com
 127.0.0.1 my.6711.com
 127.0.0.1 www.wzlim.com
 127.0.0.1 cloud.zyiis.net
 127.0.0.1 www.1dfgh.com
-
 127.0.0.1 73216.rczwt.com
 127.0.0.1 p.86pj.net
 127.0.0.1 www.qunarzz.com
@@ -11929,7 +11952,6 @@ fe80::1%lo0	localhost
 127.0.0.1 go.tiaonage.com
 127.0.0.1 wm.lrswl.com
 127.0.0.1 union.langtaojin.com
-127.0.0.1 guess.union2.50bang.org
 127.0.0.1 t.ruxianke.com
 127.0.0.1 cps.laifeng.com
 127.0.0.1 code.m-dx.com

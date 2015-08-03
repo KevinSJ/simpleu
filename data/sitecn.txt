@@ -398,3 +398,8 @@
 127.0.0.1 m9.xcdf.cn
 #btlibrary.org
 127.0.0.1 count.qiqipower.com
+#xigua110
+127.0.0.1 a.xigua110.com
+127.0.0.1 jump.qucaiaa.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 gg.qucaigg.com

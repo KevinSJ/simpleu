@@ -251,6 +251,11 @@
 127.0.0.1 marketing.chinatimes.com
 #Cyberctm
 127.0.0.1 ads.cyberctm.com
+#Doublemax
+127.0.0.1 ads.doublemax.net
+127.0.0.1 eland.doublemax.net
+127.0.0.1 static.doublemax.net
+127.0.0.1 tad.doublemax.net
 #GoGoBox
 127.0.0.1 ads.pics.gogobox.com.tw
 127.0.0.1 advs.gogobox.com.tw
@@ -322,7 +327,6 @@
 127.0.0.1 ad.snsplus.com
 127.0.0.1 ad.sogi.com.tw
 127.0.0.1 ads.citytalk.tw
-127.0.0.1 ads.doublemax.net
 127.0.0.1 ads.fetnet.net
 127.0.0.1 ads.ign.com
 127.0.0.1 ads.miniclip.com

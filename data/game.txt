@@ -402,7 +402,6 @@
 204.79.197.214 global.bing.com
 204.79.197.201 testfamilysafety.bing.com
 118.215.70.152 h2.msn.com
-104.74.228.100 sb.scorecardresearch.com
 220.90.198.73 www.msftncsi.com
 220.90.198.73 crl.microsoft.com
 93.184.215.200 mscrl.microsoft.com

@@ -1,5 +1,7 @@
 @sites block
 #virusdown
+127.0.0.1 download.6513.com
+127.0.0.1 www.789game.co
 127.0.0.1 q.nicesoftcn.com
 127.0.0.1 p.nicesoftcn.com
 127.0.0.1 download1.80166.com
@@ -327,7 +329,6 @@
 127.0.0.1 file.3gyu.com
 127.0.0.1 ghost.25pp.com
 127.0.0.1 hl.25pp.com
-127.0.0.1 js.50bang.org
 127.0.0.1 load.joymeng.com
 127.0.0.1 www.startappexchange.com
 127.0.0.1 www.laomaotao.net
