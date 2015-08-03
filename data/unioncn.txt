@@ -93,14 +93,6 @@
 127.0.0.1 js.7794lm.com
 127.0.0.1 v.7794.com
 127.0.0.1 www.7794.com
-#7pk
-127.0.0.1 al.7pk.com
-127.0.0.1 client.7pk.com
-127.0.0.1 cimg.7pk.com
-127.0.0.1 imgcache.7pk.com
-127.0.0.1 post.7pk.com
-127.0.0.1 software.7pk.com
-127.0.0.1 ufile.7pk.com
 #82816
 127.0.0.1 code.82816.com
 127.0.0.1 js.82816.com
@@ -399,6 +391,7 @@
 127.0.0.1 tan.f875.com
 127.0.0.1 tj.f875.com
 #Feitian
+127.0.0.1 feitian001.com
 127.0.0.1 img.feitian001.com
 127.0.0.1 www.feitian001.com
 #Feike5
@@ -500,10 +493,12 @@
 127.0.0.1 online4.lianmeng.com
 127.0.0.1 cn.lianmeng.com
 #LinkTech
+127.0.0.1 linktech.cn
 127.0.0.1 banner.linktech.cn
 127.0.0.1 click.linktech.cn
-127.0.0.1 track.linktech.cn
 127.0.0.1 smart.linktech.cn
+127.0.0.1 track.linktech.cn
+127.0.0.1 www.linktech.cn
 127.0.0.1 www.gw8888.com
 #Maxreturn
 127.0.0.1 go.maxreturn.cn
@@ -694,14 +689,6 @@
 127.0.0.1 i.tuite8.com
 127.0.0.1 js.tuite8.com
 127.0.0.1 www.tuite8.com
-#Ujian
-127.0.0.1 api.ujian.cc
-127.0.0.1 img.ujian.cc
-127.0.0.1 l.ujian.cc
-127.0.0.1 t.ujian.cc
-127.0.0.1 uyan.cc
-127.0.0.1 v1.ujian.cc
-127.0.0.1 v2.uyan.cc
 #Union001
 127.0.0.1 union001.com
 127.0.0.1 p.union001.com

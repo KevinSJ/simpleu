@@ -107,16 +107,23 @@
 127.0.0.1 inside.bitcomet.com
 #FlashGet
 127.0.0.1 ack.flashget.com
-127.0.0.1 al.flashget.com
 127.0.0.1 ad.flashget.com
+127.0.0.1 al.flashget.com
+127.0.0.1 cad1.flashget.com
 127.0.0.1 game.flashget.com
+127.0.0.1 ggstat.flashget.com
 127.0.0.1 guanggaobu.flashget.com
 127.0.0.1 log.flashget.com
 127.0.0.1 news.flashget.com
 127.0.0.1 stat.flashget.com
+127.0.0.1 union.flashget.com
 127.0.0.1 usrstat.flashget.com
+127.0.0.1 www.union.flashget.com
 127.0.0.1 adstat.fgsta.com
 127.0.0.1 cimg.kuaiche.com
+127.0.0.1 al.7pk.com
+127.0.0.1 cimg.7pk.com
+127.0.0.1 ufile.7pk.com
 127.0.0.1 client.7pk.com
 127.0.0.1 img.7pk.com
 127.0.0.1 imgcache.7pk.com
@@ -125,8 +132,6 @@
 127.0.0.1 software.7pk.com
 127.0.0.1 al.myrice.com
 127.0.0.1 all.myrice.com
-127.0.0.1 cad1.flashget.com
-127.0.0.1 ggstat.flashget.com
 127.0.0.1 dl.game.kuaiche.com
 127.0.0.1 directui.kuaiche.com.showq.net
 127.0.0.1 static.u966.com

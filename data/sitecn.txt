@@ -379,3 +379,22 @@
 127.0.0.1 adhome.1fangchan.com
 #cnbeta
 127.0.0.1 job.cnbeta.com
+@Sites-China/Media
+#ttmeiju
+127.0.0.1 googleads.g.jujinw.com
+127.0.0.1 www.jujinw.com
+127.0.0.1 pagead2.jujinw.com
+#xunleihao.com
+#www.dage123.com
+127.0.0.1 d.107788.com
+127.0.0.1 d.huimee.com
+127.0.0.1 stats.leyouduo8.com
+127.0.0.1 www.jutou5.com
+127.0.0.1 ys.8gys.com
+#www.xlpu.cc
+127.0.0.1 a.xlpu.cc
+#www.263tvb.com
+127.0.0.1 e.e70123.com
+127.0.0.1 m9.xcdf.cn
+#btlibrary.org
+127.0.0.1 count.qiqipower.com

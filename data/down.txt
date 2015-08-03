@@ -1,5 +1,8 @@
 @sites block
 #virusdown
+127.0.0.1 q.nicesoftcn.com
+127.0.0.1 p.nicesoftcn.com
+127.0.0.1 download1.80166.com
 127.0.0.1 hc6p.com
 127.0.0.1 dh.myie9.com
 127.0.0.1 getdownfile.myie.cc

@@ -54,8 +54,10 @@
 127.0.0.1 m.xcy8.com
 127.0.0.1 img9.3393.com
 127.0.0.1 u.3393.com
+127.0.0.1 ads8.com
 127.0.0.1 cpa.ads8.com
 127.0.0.1 u.ads8.com
+127.0.0.1 www.ads8.com
 127.0.0.1 count.1133.cc
 127.0.0.1 images1.1133.cc
 127.0.0.1 img7.1133.cc
@@ -182,6 +184,7 @@
 127.0.0.1 shouji.360.cn
 127.0.0.1 zhushou.360.cn
 #37cs
+127.0.0.1 cf.37cs.com
 127.0.0.1 c.37cs.com
 127.0.0.1 code.37cs.com
 127.0.0.1 fb.37cs.com
@@ -753,6 +756,14 @@
 127.0.0.1 dist.ad-stir.com
 127.0.0.1 js.ad-stir.com
 127.0.0.1 rtb.ad-stir.com
+#Agrant
+127.0.0.1 adx.agrantsem.com
+127.0.0.1 agrantsem.com
+127.0.0.1 c.agrantsem.com
+127.0.0.1 www.agrantsem.com
+127.0.0.1 c.agrant.cn
+127.0.0.1 static.agrant.cn
+127.0.0.1 www.agrant.cn
 #Alicommon
 127.0.0.1 count.tbcdn.cn
 127.0.0.1 cookiemapping.wrating.com
@@ -853,6 +864,8 @@
 127.0.0.1 tongji.linezing.com
 127.0.0.1 www.linezing.com
 #Allyes
+127.0.0.1 17173im.allyes.com
+127.0.0.1 allyes.com
 127.0.0.1 1.allyes.com.cn
 127.0.0.1 creatim.allyes.com.cn
 127.0.0.1 1100.adsina.allyes.com
@@ -1071,6 +1084,7 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #BaiduLink
+127.0.0.1 siteapp.baidu.com
 127.0.0.1 goutong.baidu.com
 127.0.0.1 r.qiao.baidu.com
 127.0.0.1 h.qiao.baidu.com
@@ -1320,7 +1334,9 @@
 127.0.0.1 q.s.cr-nielsen.com
 127.0.0.1 s.cr-nielsen.com
 #Criteo
+127.0.0.1 static.criteo.net
 127.0.0.1 cas.criteo.com
+127.0.0.1 dis.cn.criteo.com
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.hk.cn.criteo.com
 127.0.0.1 dis.ny.us.criteo.com
@@ -1981,6 +1997,8 @@
 127.0.0.1 stat.sp.kingsoft.com
 127.0.0.1 union.jx2.kingsoft.com
 127.0.0.1 union.kingsoft.com
+127.0.0.1 cd001.www.duba.net
+127.0.0.1 cv.duba.net
 127.0.0.1 dl.pop.www.duba.net
 127.0.0.1 download.duba.net
 127.0.0.1 game.duba.com
@@ -2190,6 +2208,7 @@
 127.0.0.1 www.ulink.cc
 127.0.0.1 keyrun.cn
 127.0.0.1 www.keyrun.cn
+127.0.0.1 keyrun.com
 127.0.0.1 a.keyrun.com
 127.0.0.1 b.keyrun.com
 127.0.0.1 c1.keyrun.cn
@@ -2558,6 +2577,7 @@
 127.0.0.1 badjs.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 dl_dir2.qq.com
+127.0.0.1 dldir1.qq.com
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir3.qq.com
 127.0.0.1 dldir5.qq.com
@@ -2599,7 +2619,9 @@
 127.0.0.1 dr.soso.com
 127.0.0.1 toolbar.soso.com
 #QQ-App
+127.0.0.1 download.sj.qq.com
 127.0.0.1 dl.softmgr.qq.com
+127.0.0.1 agent.sj.qq.com
 127.0.0.1 a.wap.myapp.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
@@ -3093,10 +3115,14 @@
 127.0.0.1 linkad.b0.upaiyun.com
 127.0.0.1 nxcms.b0.upaiyun.com
 127.0.0.1 tcw-advert.b0.upaiyun.com
-#ujian
+#Ujian
 127.0.0.1 api.ujian.cc
-127.0.0.1 v1.ujian.cc
 127.0.0.1 img.ujian.cc
+127.0.0.1 l.ujian.cc
+127.0.0.1 t.ujian.cc
+127.0.0.1 uyan.cc
+127.0.0.1 v1.ujian.cc
+127.0.0.1 v2.uyan.cc
 #UU.cc
 127.0.0.1 act.uu.cc
 127.0.0.1 app.uu.cc
@@ -3819,6 +3845,7 @@
 127.0.0.1 pics.unionsky.cn
 127.0.0.1 play.unionsky.cn
 127.0.0.1 unionsky.cn
+127.0.0.1 www.unionsky.cn
 127.0.0.1 appsent.unionsky1.cn
 127.0.0.1 www.unionsky1.cn
 127.0.0.1 lay.unionsky2.cn

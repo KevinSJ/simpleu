@@ -483,6 +483,7 @@
 127.0.0.1 luckshow.v1.cn
 127.0.0.1 luckstatic.v1.cn
 127.0.0.1 v1log.v1.cn
+127.0.0.1 stat.vodone.cn
 #Wasu
 127.0.0.1 acsystem.wasu.cn
 127.0.0.1 www.gridsum.com
