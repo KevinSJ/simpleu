@@ -219,6 +219,7 @@
 127.0.0.1 cdn.outfit7.com
 @MobMedia Ads
 #56
+127.0.0.1 acs.56.com
 127.0.0.1 stat.v-56.com
 127.0.0.1 msg.ua.56.com
 127.0.0.1 acs.stat.v-56.com

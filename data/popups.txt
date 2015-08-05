@@ -1,4 +1,9 @@
 #Float Ads
+127.0.0.1 cdn.449377.com
+127.0.0.1 swf.9377.com
+127.0.0.1 cdn.9377co.com
+127.0.0.1 tk.9377co.com
+127.0.0.1 cdn.ku9377.com
 127.0.0.1 js.11ads.com
 127.0.0.1 my.6711.com
 127.0.0.1 www.wzlim.com

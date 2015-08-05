@@ -384,12 +384,10 @@
 127.0.0.1 googleads.g.jujinw.com
 127.0.0.1 www.jujinw.com
 127.0.0.1 pagead2.jujinw.com
-#xunleihao.com
 #www.dage123.com
 127.0.0.1 d.107788.com
 127.0.0.1 d.huimee.com
 127.0.0.1 stats.leyouduo8.com
-127.0.0.1 www.jutou5.com
 127.0.0.1 ys.8gys.com
 #www.xlpu.cc
 127.0.0.1 a.xlpu.cc
