@@ -140,6 +140,10 @@
 127.0.0.1 pro.people.com.cn
 127.0.0.1 pmm.people.com.cn
 #iFeng
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 sta.play.ifeng.com
+127.0.0.1 mfp.deliver.ifeng.com
+127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 bc.ifeng.com
 127.0.0.1 dol.deliver.ifeng.com
 127.0.0.1 dol.ifeng.com
@@ -151,6 +155,14 @@
 127.0.0.1 sta.ifeng.com
 127.0.0.1 survey.news.ifeng.com
 127.0.0.1 img.vd.vsnoon.com
+127.0.0.1 s.trafficjam.cn
+127.0.0.1 vd.vsnoon.com
+127.0.0.1 u.img.vsnoon.net
+127.0.0.1 v.img.vsnoon.net
+127.0.0.1 i.img.vsnoon.net
+127.0.0.1 i.cc.vsnoon.net
+127.0.0.1 vsnoon.net
+127.0.0.1 www.vsnoon.net
 #Chinan
 127.0.0.1 log.china.cn
 127.0.0.1 union.china.com.cn
