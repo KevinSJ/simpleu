@@ -140,6 +140,10 @@
 127.0.0.1 pro.people.com.cn
 127.0.0.1 pmm.people.com.cn
 #iFeng
+127.0.0.1 img.9718.com
+127.0.0.1 info.9718.com
+127.0.0.1 show.9718.com
+127.0.0.1 iis1.deliver.ifeng.com
 127.0.0.1 stadig.ifeng.com
 127.0.0.1 sta.play.ifeng.com
 127.0.0.1 mfp.deliver.ifeng.com

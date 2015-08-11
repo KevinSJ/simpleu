@@ -1,4 +1,11 @@
 #Float Ads
+127.0.0.1 news.9377co.com 
+127.0.0.1 ji.ihualun.com
+127.0.0.1 lg1.pic9382.com
+127.0.0.1 lz-furniture.com
+127.0.0.1 media.201071.com
+127.0.0.1 www.jutou5.com
+127.0.0.1 www.sylsfbzj.com
 127.0.0.1 cdn.449377.com
 127.0.0.1 swf.9377.com
 127.0.0.1 cdn.9377co.com

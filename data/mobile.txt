@@ -2166,6 +2166,7 @@
 127.0.0.1 rcv.jesgoo.com
 127.0.0.1 www.jesgoo.com
 #jiathis
+127.0.0.1 v2.jiathis.com
 127.0.0.1 v3.jiathis.com
 127.0.0.1 lc.jiathis.com
 127.0.0.1 id.jiathis.com

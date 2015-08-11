@@ -278,6 +278,7 @@
 127.0.0.1 sy.at918.com
 127.0.0.1 ww.at918.com
 #At98
+127.0.0.1 vip.at98.com
 127.0.0.1 c.at98.com
 127.0.0.1 js.at98.com
 127.0.0.1 img.at98.com
