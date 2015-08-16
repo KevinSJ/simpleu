@@ -1,3 +1,4 @@
+127.0.0.1 dldir1.qq.com
 127.0.0.1 11.mydrivers.com
 127.0.0.1 sh.qihoo.com
 127.0.0.1 cnt.zhaopin.com
