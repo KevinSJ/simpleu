@@ -41,6 +41,9 @@
 127.0.0.1 kwflvcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
 127.0.0.1 kwcdn.000dn.com
+#001union
+127.0.0.1 jump.001union.com
+127.0.0.1 jump.baidu.001union.com
 #1o26
 127.0.0.1 cj.1o26.com
 127.0.0.1 ck.1o26.com

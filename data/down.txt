@@ -1,5 +1,7 @@
 @sites block
 #virusdown
+127.0.0.1 misc.jiedaibao.com
+127.0.0.1 events.jiedaibao.com
 127.0.0.1 download.6513.com
 127.0.0.1 www.789game.co
 127.0.0.1 q.nicesoftcn.com

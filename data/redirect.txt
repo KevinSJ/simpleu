@@ -23,6 +23,7 @@ fe80::1%lo0	localhost
 #Akamai
 220.90.198.73 akamaihd.net
 220.90.198.73 edgesuite.net
+220.90.198.73 e.akamai.net
 220.90.198.73 a248.e.akamai.net
 #GGDNS
 203.211.0.100 www.google.com

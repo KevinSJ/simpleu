@@ -13,7 +13,6 @@ rem http://bbs.a9vg.com/thread-4549081-1-1.html http://www.abclite.org/67
 set s1=http://hosts.gav1n.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
-set s4=https://www.projecth.us/sources
 rem wget -c --no-check-certificate -O grd.txt %s2%
 sed -i "1,19d" grd.txt
 sed -i "s/\t/ /g" grd.txt
@@ -28,7 +27,7 @@ sed -i "1i\#redirect" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt
 @echo off
-ver=0.2.7.1
+ver=0.2.7.2
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00

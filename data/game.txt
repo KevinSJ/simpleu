@@ -1,16 +1,5 @@
 @Game Accelerate
-#Limelight
-203.77.186.211 loris-e.llnwd.net
-203.77.186.211 loris.llnwd.net
-203.77.186.211 hs.llnwd.net
-203.77.186.211 vo.llnwd.net
-#UPlay
-68.142.107.183 cdn.ubi.com
 #ErrorLite
-104.74.253.44 skyapi.onedrive.live.com
-220.90.198.73 akamai.cdn.ea.com
-220.90.198.73 static.cdn.ea.com
-220.90.198.73 ams.akamai.cdn.ea.com
 220.90.198.73 a0.ww.np.dl.playstation.net
 220.90.198.73 a1.ww.np.dl.playstation.net
 220.90.198.73 gs-sec.ww.np.dl.playstation.net
@@ -18,17 +7,27 @@
 220.90.198.73 psp2-eb.ww.np.dl.playstation.net
 104.76.66.237 psp2.updptl.np.community.playstation.net
 104.76.66.237 ps4.updptl.np.community.playstation.net
-223.5.5.5 gs2.sonycoment.loris-e.llnwd.net
+104.74.253.44 skyapi.onedrive.live.com
+104.74.253.44 onedrive.live.com
+203.77.186.211 hs.llnwd.net
+203.77.186.211 loris-e.llnwd.net
+203.77.186.211 loris.llnwd.net
+203.77.186.211 vo.llnwd.net
+220.90.198.73 akamai.cdn.ea.com
+220.90.198.73 ams.akamai.cdn.ea.com
+220.90.198.73 ps3.download.playstation.net
+220.90.198.73 static.cdn.ea.com
 220.90.198.73 update.playstation.net
 220.90.198.73 update.playstation.org
-220.90.198.73 ps3.download.playstation.net
+223.5.5.5 gs2.sonycoment.loris-e.llnwd.net
+68.142.107.183 cdn.ubi.com
 #CDN & Other
 103.15.158.188 m.xp1.ru4.com
 202.230.15.201 pixel.rubiconproject.com
 54.254.113.222 app.ubertags.com
 #EA
 104.76.67.57 ecommerce2.dm.origin.com
-104.74.246.4 battlelog.battlefiel d.com
+104.74.246.4 battlelog.battlefiel.d.com
 107.23.202.75 cloudsync.dm.origin.com
 23.21.141.136 heartbeat.dm.origin.com
 159.153.228.75 accounts.ea.com
@@ -58,12 +57,12 @@
 220.90.198.73 store.akamai.steamstatic.com
 220.90.198.73 cdn.akamai.steamstatic.com
 203.77.186.211 cdn.store.steampowered.com
-220.90.198.73 cdn.steampowered.com
+220.90.198.73  cdn.steampowered.com
 203.77.186.211 cdn.steamcommunity.com
 203.77.186.211 media.steampowered.com
 205.185.216.10 media2.steampowered.com
 220.90.198.73 media4.steampowered.com
-220.90.198.73 content1.steampowered.com
+220.90.198.73  content1.steampowered.com
 205.185.216.10 content3.steampowered.com
 69.252.117.138 content6.steampowered.com
 220.90.198.73 content7.steampowered.com
@@ -402,6 +401,7 @@
 204.79.197.214 global.bing.com
 204.79.197.201 testfamilysafety.bing.com
 118.215.70.152 h2.msn.com
+104.74.228.100 sb.scorecardresearch.com
 220.90.198.73 www.msftncsi.com
 220.90.198.73 crl.microsoft.com
 93.184.215.200 mscrl.microsoft.com

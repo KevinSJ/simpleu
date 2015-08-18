@@ -1928,6 +1928,7 @@
 127.0.0.1 feeds.videosz.com
 127.0.0.1 ts.videosz.com
 #Other Foreign ads
+127.0.0.1 ad.dmm.com
 127.0.0.1 a.panxh.com
 127.0.0.1 ad.ad-srv.net
 127.0.0.1 ad.clickotmedia.com
