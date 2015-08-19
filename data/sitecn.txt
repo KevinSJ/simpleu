@@ -333,6 +333,7 @@
 @Sites-China/Infos
 #39
 127.0.0.1 app-g.39.net
+127.0.0.1 d.39.net
 127.0.0.1 dpvc.39.net
 #51Job
 127.0.0.1 logs.51job.com

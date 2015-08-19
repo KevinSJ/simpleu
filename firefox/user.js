@@ -1,6 +1,6 @@
 # SimpleU User Preferences File
 # Arrange & Choice: Kwok
-# 9:02 2015/7/3/周五
+# 下午 4:44 2015/8/19/周三
 # pref(key,value) 会覆盖默认设置,在删除之后会恢复默认设置.
 # user_pref(key,value)等同于从about:config修改,删除之后,修改的设置仍然有效.
 
@@ -44,9 +44,12 @@ user_pref("browser.urlbar.delay",0);
 user_pref("browser.urlbar.trimURLs", false);
 user_pref("browser.warnOnQuit", false);
 user_pref("browser.xul.error_pages.expert_bad_cert", true);
+user_pref("datareporting.healthreport.logging.consoleEnabled", false);
 user_pref("datareporting.healthreport.pendingDeleteRemoteData", true);
 user_pref("datareporting.healthreport.service.enabled", false);
+user_pref("datareporting.healthreport.service.firstRun", true);
 user_pref("datareporting.healthreport.uploadEnabled", false);
+user_pref("datareporting.policy.dataSubmissionEnabled", false);
 user_pref("dom.event.contextmenu.enabled", false);
 user_pref("dom.ipc.plugins.flash.disable-protected-mode", true);
 user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);

@@ -637,6 +637,9 @@
 127.0.0.1 tg2.subo.me
 127.0.0.1 tg26.subo.me
 127.0.0.1 tg5.subo.me
+#Syasn
+127.0.0.1 i.syasn.com
+127.0.0.1 m.syasn.com
 #T2click
 127.0.0.1 58.t2click.com
 127.0.0.1 adrate.t2click.com
