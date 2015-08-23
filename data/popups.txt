@@ -25,8 +25,6 @@
 127.0.0.1 www.1dfgh.com
 127.0.0.1 73216.rczwt.com
 127.0.0.1 p.86pj.net
-127.0.0.1 www.qunarzz.com
-127.0.0.1 qunarzz.com
 127.0.0.1 c.zp22938576.com
 127.0.0.1 www.fu68.com
 127.0.0.1 g.4y4c.com
