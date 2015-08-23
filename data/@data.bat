@@ -16,7 +16,7 @@ set s3=http://yu2n.sinaapp.com/wp/?p=367
 rem http://code.taobao.org/svn/gargoyle/hosts
 rem http://code.taobao.org/svn/dd-wrt/hosts
 rem wget -c --no-check-certificate -O grd.txt %s2%
-sed -i "1,16d" grd.txt
+sed -i "1,18d" grd.txt
 sed -i "s/\t/ /g" grd.txt
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
 sed -i "/googlesyndication/d" grd.txt
