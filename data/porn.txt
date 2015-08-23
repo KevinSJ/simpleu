@@ -1,4 +1,6 @@
 #Porn Sites
+127.0.0.1 image.providesupport.com
+127.0.0.1 messenger.providesupport.com
 127.0.0.1 www.xueyagao.net
 127.0.0.1 yhjg.baiduf.im
 127.0.0.1 ads.adxpansion.com

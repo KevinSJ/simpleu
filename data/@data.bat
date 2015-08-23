@@ -13,8 +13,10 @@ rem http://bbs.a9vg.com/thread-4549081-1-1.html http://www.abclite.org/67
 set s1=http://hosts.gav1n.com/GavinHosts.txt
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
+rem http://code.taobao.org/svn/gargoyle/hosts
+rem http://code.taobao.org/svn/dd-wrt/hosts
 rem wget -c --no-check-certificate -O grd.txt %s2%
-sed -i "1,19d" grd.txt
+sed -i "1,16d" grd.txt
 sed -i "s/\t/ /g" grd.txt
 sed -i "s/[ ]\{2,\}/ /g" grd.txt
 sed -i "/googlesyndication/d" grd.txt

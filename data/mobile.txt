@@ -3998,6 +3998,12 @@
 127.0.0.1 cj.8le8le.com
 127.0.0.1 e.cyacc.com
 #Popups-Include
+127.0.0.1 news.si9377.com
+127.0.0.1 cdn.si9377.com
+127.0.0.1 v.wqsph.net
+127.0.0.1 vv.wqsph.net
+127.0.0.1 v.sphwq.net
+127.0.0.1 tp.sphwq.net
 127.0.0.1 adpoint.swjoy.com
 127.0.0.1 clkads.com
 127.0.0.1 js.anonym.to
@@ -4011,7 +4017,6 @@
 127.0.0.1 tongji.wdres.com
 127.0.0.1 ads.adinall.com
 127.0.0.1 codes.dian5000.com
-127.0.0.1 v.sphwq.net
 127.0.0.1 www.giec-union.com
 127.0.0.1 z.cnzz1.net
 127.0.0.1 js.mosa86.com

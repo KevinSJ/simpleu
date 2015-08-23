@@ -71,6 +71,8 @@
 127.0.0.1 search.yousee.com
 127.0.0.1 sg.yousee.com
 127.0.0.1 m.souluo.net
+#X-Router
+127.0.0.1 info.yitsoftware.com
 #Operators ADS
 127.0.0.1 lc.havod.com
 127.0.0.1 havod.com

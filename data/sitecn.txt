@@ -415,5 +415,7 @@
 #xigua110
 127.0.0.1 a.xigua110.com
 127.0.0.1 jump.qucaiaa.com
-127.0.0.1 ph.qucaigg.com
 127.0.0.1 gg.qucaigg.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 px.qucaigg.com
+127.0.0.1 qucaigg.com
