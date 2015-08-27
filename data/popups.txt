@@ -1,4 +1,9 @@
 #Float Ads
+127.0.0.1 mystatic.le4le.com
+127.0.0.1 img.le4le.com
+127.0.0.1 p.ywbmh.com
+127.0.0.1 new.7o2o.com
+127.0.0.1 p.c9g5.com
 127.0.0.1 zdyjhzai.flash.beiziman.com
 127.0.0.1 czeu.pop.poyang.com
 127.0.0.1 ps.haohaowan8.com

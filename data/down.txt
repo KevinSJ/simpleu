@@ -1,5 +1,6 @@
 @sites block
 #virusdown
+127.0.0.1 apk.kuaizhuan.net
 127.0.0.1 misc.jiedaibao.com
 127.0.0.1 events.jiedaibao.com
 127.0.0.1 download.6513.com

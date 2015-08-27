@@ -182,6 +182,7 @@
 127.0.0.1 tf.360.cn
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 stats.guess.tf.360.cn
+127.0.0.1 v.tf.360.cn
 127.0.0.1 guess.h.qhimg.com
 127.0.0.1 haostat.qihoo.com
 #360-Mob
@@ -191,12 +192,13 @@
 127.0.0.1 shouji.360.cn
 127.0.0.1 zhushou.360.cn
 #37cs
-127.0.0.1 cf.37cs.com
 127.0.0.1 c.37cs.com
+127.0.0.1 cf.37cs.com
 127.0.0.1 code.37cs.com
-127.0.0.1 fb.37cs.com
 127.0.0.1 www.37cs.com
+127.0.0.1 fb.37cs.com
 127.0.0.1 cs.37see.com
+127.0.0.1 p.37see.com
 #37wan
 127.0.0.1 gameapp.37.com
 127.0.0.1 gcld.37.com
