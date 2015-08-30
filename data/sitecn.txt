@@ -139,33 +139,6 @@
 127.0.0.1 ads.people.com.cn
 127.0.0.1 pro.people.com.cn
 127.0.0.1 pmm.people.com.cn
-#iFeng
-127.0.0.1 img.9718.com
-127.0.0.1 info.9718.com
-127.0.0.1 show.9718.com
-127.0.0.1 bc.ifeng.com
-127.0.0.1 dol.deliver.ifeng.com
-127.0.0.1 dol.ifeng.com
-127.0.0.1 dolphin.deliver.ifeng.com
-127.0.0.1 g.ifeng.com
-127.0.0.1 games.ifeng.com
-127.0.0.1 iis1.deliver.ifeng.com
-127.0.0.1 map.tongji.ifeng.com
-127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 online.3g.ifeng.com
-127.0.0.1 sta.ifeng.com
-127.0.0.1 sta.play.ifeng.com
-127.0.0.1 stadig.ifeng.com
-127.0.0.1 survey.news.ifeng.com
-127.0.0.1 img.vd.vsnoon.com
-127.0.0.1 s.trafficjam.cn
-127.0.0.1 vd.vsnoon.com
-127.0.0.1 u.img.vsnoon.net
-127.0.0.1 v.img.vsnoon.net
-127.0.0.1 i.img.vsnoon.net
-127.0.0.1 i.cc.vsnoon.net
-127.0.0.1 vsnoon.net
-127.0.0.1 www.vsnoon.net
 #Chinan
 127.0.0.1 log.china.cn
 127.0.0.1 union.china.com.cn
@@ -273,11 +246,6 @@
 #Heiguang
 127.0.0.1 pro.heiguang.com
 @Sites-China/IT
-#Newhua
-127.0.0.1 count.newhua.com
-#MyDrivers
-127.0.0.1 count.mydrivers.com
-127.0.0.1 images.mydrivers.com
 #evolife
 127.0.0.1 g.x.evolife.cn
 #eNet
@@ -314,22 +282,6 @@
 #Rising
 127.0.0.1 alert.rising.com.cn
 127.0.0.1 union.rising.com.cn
-@Sites-China/Cars
-#BitAuto
-127.0.0.1 echo.adsense.cig.com.cn
-127.0.0.1 g.yccdn.com
-127.0.0.1 webtrends.yccdn.com
-127.0.0.1 static.union.easypass.cn
-127.0.0.1 autosense.bitauto.com
-127.0.0.1 g.bitauto.com
-127.0.0.1 gimg.bitauto.com
-127.0.0.1 ip.bitauto.com
-127.0.0.1 log.bitauto.com
-#AutoHome
-127.0.0.1 33.autohome.com.cn
-127.0.0.1 adx.autohome.com.cn
-127.0.0.1 stats.autohome.com.cn
-127.0.0.1 t.advuser.com
 @Sites-China/Infos
 #39
 127.0.0.1 app-g.39.net
@@ -357,12 +309,6 @@
 127.0.0.1 stat.baike.com
 #JDUnion
 127.0.0.1 pic.jdunion.com
-#Sofun
-127.0.0.1 click1.soufun.com
-127.0.0.1 clickm.soufun.com
-127.0.0.1 clickn.soufun.com
-127.0.0.1 show3.soufun.com
-127.0.0.1 tongji.home.soufun.com
 #jyeoo
 127.0.0.1 ad.jyeoo.com
 #BabyTree

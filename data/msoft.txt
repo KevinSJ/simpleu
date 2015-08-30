@@ -65,6 +65,33 @@
 127.0.0.1 popoi2.www.iciba.com
 127.0.0.1 u.iciba.com
 127.0.0.1 u.sl.iciba.com
+#iFeng
+127.0.0.1 img.9718.com
+127.0.0.1 info.9718.com
+127.0.0.1 show.9718.com
+127.0.0.1 bc.ifeng.com
+127.0.0.1 dol.deliver.ifeng.com
+127.0.0.1 dol.ifeng.com
+127.0.0.1 dolphin.deliver.ifeng.com
+127.0.0.1 g.ifeng.com
+127.0.0.1 games.ifeng.com
+127.0.0.1 iis1.deliver.ifeng.com
+127.0.0.1 map.tongji.ifeng.com
+127.0.0.1 mfp.deliver.ifeng.com
+127.0.0.1 online.3g.ifeng.com
+127.0.0.1 sta.ifeng.com
+127.0.0.1 sta.play.ifeng.com
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 survey.news.ifeng.com
+127.0.0.1 img.vd.vsnoon.com
+127.0.0.1 s.trafficjam.cn
+127.0.0.1 vd.vsnoon.com
+127.0.0.1 u.img.vsnoon.net
+127.0.0.1 v.img.vsnoon.net
+127.0.0.1 i.img.vsnoon.net
+127.0.0.1 i.cc.vsnoon.net
+127.0.0.1 vsnoon.net
+127.0.0.1 www.vsnoon.net
 #infolife
 127.0.0.1 adconfig.infolife.mobi
 127.0.0.1 cus.infolife.mobi
@@ -103,13 +130,31 @@
 127.0.0.1 a.koudai.com
 #Moji
 127.0.0.1 ad.moji001.com
-#Pconline
+#IT168
+127.0.0.1 168.it168.com
+127.0.0.1 stat.it168.com
+127.0.0.1 adshownew.it168.com
+127.0.0.1 g.168.it168.com
+127.0.0.1 33.pcpop.com
+127.0.0.1 ashow.pcpop.com
+127.0.0.1 ashownew.pcpop.com
+127.0.0.1 count.pcpop.com
+127.0.0.1 gg.pcpop.com
 127.0.0.1 adunion.pconline.com.cn
 127.0.0.1 adv.pconline.com.cn
 127.0.0.1 count5.pconline.com.cn
 127.0.0.1 count6.pconline.com.cn
 127.0.0.1 ivy.pconline.com.cn
 127.0.0.1 iyv.pconline.com.cn
+127.0.0.1 autosense.bitauto.com
+127.0.0.1 g.bitauto.com
+127.0.0.1 bglog.bitauto.com
+127.0.0.1 gimg.bitauto.com
+127.0.0.1 ip.bitauto.com
+127.0.0.1 log.bitauto.com
+127.0.0.1 33.autohome.com.cn
+127.0.0.1 adx.autohome.com.cn
+127.0.0.1 stats.autohome.com.cn
 127.0.0.1 count.pcgames.com.cn
 127.0.0.1 tga.pcgames.com.cn
 127.0.0.1 imgad0.pcauto.com.cn
@@ -119,20 +164,30 @@
 127.0.0.1 imgad0.3conline.com
 127.0.0.1 imgad1.3conline.com
 127.0.0.1 imgad2.3conline.com
-#Pcpop
-127.0.0.1 33.pcpop.com
-127.0.0.1 ashow.pcpop.com
-127.0.0.1 count.pcpop.com
+127.0.0.1 c.ctags.cn
+127.0.0.1 cl.ctags.cn
+127.0.0.1 i.ctags.cn
+127.0.0.1 im.ctags.cn
+127.0.0.1 im.mn.ctags.cn
+127.0.0.1 img1.mn.ctags.cn
+127.0.0.1 js.ctags.cn
+127.0.0.1 gdt.dc.ctags.cn
+127.0.0.1 scd.dc.ctags.cn
+127.0.0.1 www.ctags.cn
+127.0.0.1 scd.dc.cig.com.cn
+127.0.0.1 dcjs.cig.com.cn
+127.0.0.1 echo.adsense.mn.cig.com.cn
+127.0.0.1 i.dc.cig.com.cn
+127.0.0.1 t.dc.cig.com.cn
+127.0.0.1 echo.adsense.cig.com.cn
+127.0.0.1 g.yccdn.com
+127.0.0.1 webtrends.yccdn.com
+127.0.0.1 static.union.easypass.cn
+127.0.0.1 t.advuser.com
 127.0.0.1 acookie.ztcadx.com
 127.0.0.1 s.ztcadx.com
-127.0.0.1 168.it168.com
-127.0.0.1 stat.it168.com
 127.0.0.1 it168-intel2.buzzopt.com
 127.0.0.1 pcpop-intel2.buzzopt.com
-127.0.0.1 adshownew.it168.com
-127.0.0.1 ashownew.pcpop.com
-127.0.0.1 g.168.it168.com
-127.0.0.1 gg.pcpop.com
 #Pixiv
 127.0.0.1 img.ads.pixiv.org
 127.0.0.1 serv.ads.pixiv.org

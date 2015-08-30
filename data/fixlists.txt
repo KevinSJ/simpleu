@@ -1,4 +1,5 @@
 127.0.0.1 dldir1.qq.com
+127.0.0.1 g.alicdn.com
 127.0.0.1 mta.qq.com
 127.0.0.1 www.qunarzz.com
 127.0.0.1 qunarzz.com

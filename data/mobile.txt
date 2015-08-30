@@ -8,6 +8,8 @@
 127.0.0.1 event-img.qwapi.com
 127.0.0.1 adserver-live.yoc.mobi
 127.0.0.1 admax.nexage.com
+127.0.0.1 tongji.app111.com
+127.0.0.1 wbw.cocounion.com
 #iOS-Cydia
 127.0.0.1 a.ad-sys.com
 127.0.0.1 a.adorika.net
@@ -94,6 +96,7 @@
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
 127.0.0.1 stat.ws.126.net
+127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 union.netease.com
 127.0.0.1 adc.163.com
 127.0.0.1 adclient.163.com
@@ -1084,6 +1087,7 @@
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 rj.baidu.com
 127.0.0.1 pos.baidu.com
+127.0.0.1 pa.baidu.com
 127.0.0.1 rp.baidu.com
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 sa.tuisong.baidu.com
@@ -1151,6 +1155,7 @@
 127.0.0.1 dl.m.duoku.com
 127.0.0.1 www.pcfaster.com
 127.0.0.1 www.duapps.com
+127.0.0.1 count.newhua.com
 #Baidu
 127.0.0.1 a.baidu.com
 127.0.0.1 adm.baidu.com
@@ -2004,9 +2009,6 @@
 #ijinshan
 127.0.0.1 a.union.mi.com
 127.0.0.1 sg.a.stat.mi.com
-127.0.0.1 register.xmpush.xiaomi.com
-127.0.0.1 resolver.gslb.mi-idc.com
-127.0.0.1 f3.mi-stat.gslb.mi-idc.com
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
 127.0.0.1 stat.sp.kingsoft.com
@@ -2063,6 +2065,8 @@
 127.0.0.1 web.tj.ijinshan.com
 127.0.0.1 wxfk.dcys.ijinshan.com
 127.0.0.1 zj.dcys.ijinshan.com
+127.0.0.1 count.mydrivers.com
+127.0.0.1 images.mydrivers.com
 #immob
 127.0.0.1 ads.lmmob.com
 127.0.0.1 lmmob.com
@@ -2713,6 +2717,7 @@
 127.0.0.1 adver.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 caclick.qq.com
+127.0.0.1 cm.e.qq.com
 127.0.0.1 dmtrack.buy.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 e.qq.com
@@ -2859,6 +2864,8 @@
 127.0.0.1 gw6.push.mcp.weibo.cn
 127.0.0.1 security.weibo.cn
 127.0.0.1 adimg.mobile.sina.cn
+127.0.0.1 js1.t.sinajs.cn
+127.0.0.1 newspush.sinajs.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
 127.0.0.1 trends.mobile.sina.cn
@@ -2959,6 +2966,12 @@
 127.0.0.1 logs.17173.com
 127.0.0.1 log1.17173.com
 127.0.0.1 stat.v.17173.com
+#Sohu-Sofun
+127.0.0.1 click1.soufun.com
+127.0.0.1 clickm.soufun.com
+127.0.0.1 clickn.soufun.com
+127.0.0.1 show3.soufun.com
+127.0.0.1 tongji.home.soufun.com
 #Sohu-3rd
 127.0.0.1 imp.ad-plus.cn
 127.0.0.1 sohu.ad-plus.cn
