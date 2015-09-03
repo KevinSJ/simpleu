@@ -82,6 +82,8 @@
 127.0.0.1 rnd.dayoo.com
 127.0.0.1 sta.dayoo.com
 127.0.0.1 stats.dayoo.com
+#Gucheng
+127.0.0.1 bdcp.gucheng.com
 @Sites-China/Books
 #17K
 127.0.0.1 ad.17k.com

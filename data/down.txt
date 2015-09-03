@@ -1,5 +1,7 @@
 @sites block
 #virusdown
+127.0.0.1 m.okkkk.com
+127.0.0.1 app.biexiaochusheng.com
 127.0.0.1 apk.kuaizhuan.net
 127.0.0.1 misc.jiedaibao.com
 127.0.0.1 events.jiedaibao.com

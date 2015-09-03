@@ -1,4 +1,5 @@
 #Float Ads
+127.0.0.1 aos.prf.hn
 127.0.0.1 mystatic.le4le.com
 127.0.0.1 img.le4le.com
 127.0.0.1 p.ywbmh.com
