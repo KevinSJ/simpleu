@@ -1072,6 +1072,7 @@
 127.0.0.1 bzclk.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
+127.0.0.1 cbjslog.baidu.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cleaner.baidu.com
 127.0.0.1 cpro.baidu.com
@@ -1103,6 +1104,11 @@
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 #BaiduLink
+127.0.0.1 baichuan.baidu.com
+127.0.0.1 vsimg3.baidu.com
+127.0.0.1 vsimg5.baidu.com
+127.0.0.1 click.bes.baidu.com
+127.0.0.1 vs-static.baidu.com
 127.0.0.1 siteapp.baidu.com
 127.0.0.1 goutong.baidu.com
 127.0.0.1 r.qiao.baidu.com
@@ -1157,15 +1163,17 @@
 127.0.0.1 www.duapps.com
 127.0.0.1 count.newhua.com
 #Baidu
+127.0.0.1 share.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 127.0.0.1 a.baidu.com
 127.0.0.1 adm.baidu.com
 127.0.0.1 as.baidu.com
 127.0.0.1 br.bmbs.baidu.com
-127.0.0.1 cbjslog.baidu.com
 127.0.0.1 cdn.client.baidu.com
 127.0.0.1 ch.bmbs.baidu.com
 127.0.0.1 cjhq.baidu.com
-127.0.0.1 click.bes.baidu.com
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 ctj.wenku.baidu.com
 127.0.0.1 dl-vip.bav.baidu.com
@@ -1195,7 +1203,6 @@
 127.0.0.1 s.baidu.com
 127.0.0.1 sgame.baidu.com
 127.0.0.1 shadu.baidu.com
-127.0.0.1 share.baidu.com
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
@@ -2616,6 +2623,8 @@
 127.0.0.1 strategy.beacon.qq.com
 127.0.0.1 tcss.qq.com
 127.0.0.1 v.gdt.qq.com
+127.0.0.1 apps.game.qq.com
+127.0.0.1 ac.o2.qq.com
 #QQ-Win
 127.0.0.1 guanjia.qq.com
 127.0.0.1 ca.gtimg.com
@@ -3638,12 +3647,14 @@
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 amazon-adsystem.amazon.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 mads.amazon.com
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 amazon-adsystem.amazon.com
-127.0.0.1 mads.amazon.com
+127.0.0.1 ws-na.amazon-adsystem.com
+127.0.0.1 z-na.amazon-adsystem.com
 #Amazon-AWS
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
