@@ -1154,16 +1154,27 @@
 127.0.0.1 youqian.baidu.com
 127.0.0.1 youxi.baidu.com
 127.0.0.1 bcs.duapp.com
+127.0.0.1 treasurebox.duapp.com
+127.0.0.1 hbservices.duapp.com
 127.0.0.1 update.123juzi.net
 127.0.0.1 dl.hao123.com
 127.0.0.1 www.hao123.com
 127.0.0.1 softdownload.hao123.com
 127.0.0.1 dl.m.duoku.com
+127.0.0.1 api.m.duoku.com
+127.0.0.1 apiol.bce.baidu-mgame.com
 127.0.0.1 www.pcfaster.com
 127.0.0.1 www.duapps.com
 127.0.0.1 count.newhua.com
 #Baidu
+127.0.0.1 a.gdown.baidu.com
+127.0.0.1 tb.himg.baidu.com
+127.0.0.1 app.m.baidu.com
+127.0.0.1 appsearchcdn.baidu.com
+127.0.0.1 c.tieba.baidu.com
+127.0.0.1 urlsafe.baidu.com
 127.0.0.1 share.baidu.com
+127.0.0.1 t5.baidu.com
 127.0.0.1 t10.baidu.com
 127.0.0.1 t11.baidu.com
 127.0.0.1 t12.baidu.com
@@ -1215,7 +1226,6 @@
 127.0.0.1 ucstat.baidu.com
 127.0.0.1 ulic.baidu.com
 127.0.0.1 union.baidu.com
-127.0.0.1 urlsafe.baidu.com
 127.0.0.1 utility.baidu.com
 127.0.0.1 utk.baidu.com
 127.0.0.1 vs-andr-push.baidu.com
