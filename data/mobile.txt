@@ -2819,6 +2819,9 @@
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 tap-cdn.rubiconproject.com
 127.0.0.1 www.rubiconproject.com
+#Servebom
+127.0.0.1 m.servebom.com
+127.0.0.1 ads.servebom.com
 #Serving-sys
 127.0.0.1 activity.serving-sys.com
 127.0.0.1 bs.serving-sys.com
@@ -3859,6 +3862,7 @@
 127.0.0.1 adsrv1.tapad.com
 127.0.0.1 analytics.tapad.com
 127.0.0.1 swappit.tapad.com
+127.0.0.1 tapestry.tapad.com
 #TianJiMedia
 127.0.0.1 adsame.tianjimedia.com
 127.0.0.1 counter.tianjimedia.com
@@ -3958,7 +3962,6 @@
 127.0.0.1 go.oclaserver.com
 127.0.0.1 insanelymaccom.skimlinks.com
 127.0.0.1 kwserver.adhispanic.com
-127.0.0.1 m.servebom.com
 127.0.0.1 mcc.chinauma.net
 127.0.0.1 n388hkxg.com
 127.0.0.1 onclickads.net
