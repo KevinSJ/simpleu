@@ -710,6 +710,9 @@
 #Unlitui
 127.0.0.1 bsg.unlitui.com
 127.0.0.1 imgc.unlitui.com
+#uu898
+127.0.0.1 ad.uu898.com
+127.0.0.1 adjs.uu898.com
 #Wanliuliang
 127.0.0.1 c2m.wanliuliang.com
 127.0.0.1 cpc.wanliuliang.com
