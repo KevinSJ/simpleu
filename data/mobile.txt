@@ -478,6 +478,7 @@
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 click.admaster.com.cn
+127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 e.admaster.com.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 view.admaster.com.cn
@@ -1171,7 +1172,6 @@
 127.0.0.1 tb.himg.baidu.com
 127.0.0.1 app.m.baidu.com
 127.0.0.1 appsearchcdn.baidu.com
-127.0.0.1 c.tieba.baidu.com
 127.0.0.1 urlsafe.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 t5.baidu.com
@@ -2882,11 +2882,7 @@
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 game.weibo.cn
 127.0.0.1 promote.biz.weibo.cn
-127.0.0.1 gw5.push.mcp.weibo.cn
-127.0.0.1 gw6.push.mcp.weibo.cn
-127.0.0.1 security.weibo.cn
 127.0.0.1 adimg.mobile.sina.cn
-127.0.0.1 js1.t.sinajs.cn
 127.0.0.1 newspush.sinajs.cn
 127.0.0.1 sdkapp.mobile.sina.cn
 127.0.0.1 sdkclick.mobile.sina.cn
