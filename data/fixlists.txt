@@ -1,4 +1,5 @@
 127.0.0.1 dldir1.qq.com
+127.0.0.1 down.360safe.com
 127.0.0.1 ark.letv.com
 127.0.0.1 g.alicdn.com
 127.0.0.1 mta.qq.com
