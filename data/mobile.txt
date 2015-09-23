@@ -2932,6 +2932,7 @@
 127.0.0.1 config.acc.sogou.com
 127.0.0.1 cpc.brand.sogou.com
 127.0.0.1 cpc.sogou.com
+127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 download.ie.sogou.com
 127.0.0.1 download.haoma.sogou.com
 127.0.0.1 eff.inte.sogou.com
