@@ -145,6 +145,10 @@
 127.0.0.1 tracking.deltamediallc.com
 127.0.0.1 ul.to
 127.0.0.1 uploaded.net
+127.0.0.1 ad-safe.com
+127.0.0.1 dl.ad-safe.com
+127.0.0.1 m.ad-safe.com
+127.0.0.1 phone-cdn.ad-safe.com
 127.0.0.1 us.marketgid.com
 127.0.0.1 vda.icantw.com
 127.0.0.1 www.123-reg.co.uk
@@ -353,8 +357,6 @@
 127.0.0.1 www.shinannan.cn
 127.0.0.1 cdn.wuji.com
 127.0.0.1 download.wuji.com
-127.0.0.1 ad-safe.com
-127.0.0.1 dl.ad-safe.com
 127.0.0.1 dl.j9j9.com.cn
 127.0.0.1 xiazai.wan4399.com
 127.0.0.1 show.qx15.com
