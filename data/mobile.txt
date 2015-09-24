@@ -1125,22 +1125,24 @@
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
-#BaiduLink
-127.0.0.1 baichuan.baidu.com
 127.0.0.1 click.bes.baidu.com
+#BaiduLink
 127.0.0.1 vs-static.baidu.com
-127.0.0.1 siteapp.baidu.com
 127.0.0.1 goutong.baidu.com
+127.0.0.1 vsimg3.baidu.com
+127.0.0.1 vsimg5.baidu.com
+127.0.0.1 siteapp.baidu.com
+127.0.0.1 datax.baidu.com
+127.0.0.1 cpro.tieba.baidu.com
+127.0.0.1 baichuan.baidu.com
 127.0.0.1 r.qiao.baidu.com
 127.0.0.1 h.qiao.baidu.com
 127.0.0.1 r.h.qiao.baidu.com
 127.0.0.1 s.qiao.baidu.com
 127.0.0.1 cpro.zhidao.baidu.com
-127.0.0.1 cpro.tieba.baidu.com
 127.0.0.1 log.hm.baidu.com
 127.0.0.1 release.baidu.com
 127.0.0.1 ec.pos.baidu.com
-127.0.0.1 datax.baidu.com
 127.0.0.1 1.baidu.com
 127.0.0.1 8.baidu.com
 127.0.0.1 app.news.baidu.com
@@ -1172,9 +1174,6 @@
 127.0.0.1 yingxiao.baidu.com
 127.0.0.1 youqian.baidu.com
 127.0.0.1 youxi.baidu.com
-127.0.0.1 bcs.duapp.com
-127.0.0.1 treasurebox.duapp.com
-127.0.0.1 hbservices.duapp.com
 127.0.0.1 update.123juzi.net
 127.0.0.1 dl.hao123.com
 127.0.0.1 www.hao123.com
@@ -1183,11 +1182,13 @@
 127.0.0.1 api.m.duoku.com
 127.0.0.1 apiol.bce.baidu-mgame.com
 127.0.0.1 www.pcfaster.com
+127.0.0.1 bcs.duapp.com
+127.0.0.1 treasurebox.duapp.com
+127.0.0.1 hbservices.duapp.com
 127.0.0.1 www.duapps.com
 127.0.0.1 count.newhua.com
 #Baidu
 127.0.0.1 a.gdown.baidu.com
-127.0.0.1 tb.himg.baidu.com
 127.0.0.1 app.m.baidu.com
 127.0.0.1 appsearchcdn.baidu.com
 127.0.0.1 urlsafe.baidu.com
