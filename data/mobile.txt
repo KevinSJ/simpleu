@@ -1260,6 +1260,7 @@
 127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 mobads.e.shifen.com
 #Baidu-iQiyi
+127.0.0.1 msg.71.am
 127.0.0.1 a.ckm.iqiyi.com
 127.0.0.1 cmts.iqiyi.com
 127.0.0.1 ad.m.iqiyi.com
@@ -1268,7 +1269,6 @@
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mixer.cupid.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
-127.0.0.1 msg.71.am
 127.0.0.1 afp.qiyi.com
 127.0.0.1 track.cupid.qiyi.com
 #Baidu-PPStream
