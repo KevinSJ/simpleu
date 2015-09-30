@@ -2693,16 +2693,12 @@
 #QQ-App
 127.0.0.1 download.sj.qq.com
 127.0.0.1 dl.softmgr.qq.com
-127.0.0.1 agent.sj.qq.com
 127.0.0.1 a.wap.myapp.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
-127.0.0.1 dd.myapp.com
 127.0.0.1 dp.myapp.com
 127.0.0.1 dstrategy.myapp.com
 127.0.0.1 down.myapp.com
-127.0.0.1 pp.myapp.com
-127.0.0.1 www.myapp.com
 #QQ-Browser
 127.0.0.1 a.app.qq.com
 127.0.0.1 m.qq.com

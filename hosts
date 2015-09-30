@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201509301034
+;version=201509301202
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -6506,16 +6506,12 @@ fe80::1%lo0	localhost
 #QQ-App
 127.0.0.1 download.sj.qq.com
 127.0.0.1 dl.softmgr.qq.com
-127.0.0.1 agent.sj.qq.com
 127.0.0.1 a.wap.myapp.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
-127.0.0.1 dd.myapp.com
 127.0.0.1 dp.myapp.com
 127.0.0.1 dstrategy.myapp.com
 127.0.0.1 down.myapp.com
-127.0.0.1 pp.myapp.com
-127.0.0.1 www.myapp.com
 #QQ-Browser
 127.0.0.1 a.app.qq.com
 127.0.0.1 m.qq.com
