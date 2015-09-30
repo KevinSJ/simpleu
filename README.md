@@ -1,3 +1,4 @@
 #iMonkey
 优佳猴猴～
-支付宝：vokins@gmail.com
+U+ Hosts Project
+Since 2009-06-06

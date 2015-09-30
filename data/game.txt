@@ -48,11 +48,6 @@
 #2K NBA
 111.221.35.133 nba-cdn.2ksports.com
 #Steam
-184.50.91.157 store.steampowered.com
-184.50.91.157 steamcommunity.com
-184.50.91.157 forums.steampowered.com
-184.50.91.157 support.steampowered.com
-184.50.91.157 storefront.steampowered.com
 220.90.198.73 store.valvesoftware.com
 220.90.198.73 store.akamai.steamstatic.com
 220.90.198.73 cdn.akamai.steamstatic.com
@@ -63,7 +58,6 @@
 205.185.216.10 media2.steampowered.com
 220.90.198.73 media4.steampowered.com
 220.90.198.73  content1.steampowered.com
-205.185.216.10 content3.steampowered.com
 69.252.117.138 content6.steampowered.com
 220.90.198.73 content7.steampowered.com
 220.90.198.73 content8.steampowered.com
