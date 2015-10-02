@@ -98,6 +98,7 @@
 127.0.0.1 stat.ws.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 union.netease.com
+127.0.0.1 stat.nm.netease.com
 127.0.0.1 adc.163.com
 127.0.0.1 adclient.163.com
 127.0.0.1 adgeo.163.com
@@ -2051,9 +2052,12 @@
 127.0.0.1 kpns2.a.m.liebao.cn
 127.0.0.1 lm.bilibili.wan.liebao.cn
 127.0.0.1 wifi.liebao.cn
-#ijinshan
+#Xiaomi
 127.0.0.1 a.union.mi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 sg.a.stat.mi.com
+#ijinshan
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
 127.0.0.1 stat.sp.kingsoft.com
@@ -2700,7 +2704,6 @@
 127.0.0.1 dstrategy.myapp.com
 127.0.0.1 down.myapp.com
 #QQ-Browser
-127.0.0.1 a.app.qq.com
 127.0.0.1 m.qq.com
 127.0.0.1 masterconn.qq.com
 127.0.0.1 msm.qq.com
