@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201510021009
+;version=201510031419
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5085,6 +5085,7 @@ fe80::1%lo0	localhost
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 afp.qiyi.com
 127.0.0.1 track.cupid.qiyi.com
+255.255.255.255 data.video.qiyi.com
 #Baidu-PPStream
 127.0.0.1 areainfo.ppstream.com
 127.0.0.1 listso.m.areainfo.ppstream.com
@@ -8400,26 +8401,6 @@ fe80::1%lo0	localhost
 127.0.0.1 collect.log.ttpod.com
 127.0.0.1 feedback.ttpod.itlily.com
 127.0.0.1 v1.ard.update.itlily.com
-#Tudou
-127.0.0.1 union.tudou.com
-127.0.0.1 ad.api.3g.tudou.com
-127.0.0.1 adcontrol.tudou.com
-127.0.0.1 adextensioncontrol.tudou.com
-127.0.0.1 adplay.tudou.com
-127.0.0.1 erreport.tudou.com
-127.0.0.1 istat.tudou.com
-127.0.0.1 iwstat.tudou.com
-127.0.0.1 logs.live.tudou.com
-127.0.0.1 nstat.tudou.com
-127.0.0.1 pl.pb.ops.tudou.com
-127.0.0.1 player.pb.ops.tudou.com
-127.0.0.1 stat.tudou.com
-127.0.0.1 stats.tudou.com
-127.0.0.1 tdap.tudou.com
-127.0.0.1 tdcm.tudou.com
-127.0.0.1 tudouflv.dnion.com
-127.0.0.1 tvp.tudou.com
-127.0.0.1 wwwtest.tudou.com
 #V1CN
 127.0.0.1 ad.v1.cn
 127.0.0.1 luck.v1.cn
@@ -8437,7 +8418,7 @@ fe80::1%lo0	localhost
 #Ximalaya
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 ad.test.ximalaya.com
-#Youku
+#Youku-Tudou
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 ad.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
@@ -8473,6 +8454,25 @@ fe80::1%lo0	localhost
 127.0.0.1 vhtml.youku.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 walp.atm.youku.com
+127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 adcontrol.tudou.com
+127.0.0.1 adextensioncontrol.tudou.com
+127.0.0.1 adplay.tudou.com
+127.0.0.1 erreport.tudou.com
+127.0.0.1 istat.tudou.com
+127.0.0.1 iwstat.tudou.com
+127.0.0.1 logs.live.tudou.com
+127.0.0.1 nstat.tudou.com
+127.0.0.1 pl.pb.ops.tudou.com
+127.0.0.1 player.pb.ops.tudou.com
+127.0.0.1 stat.tudou.com
+127.0.0.1 stats.tudou.com
+127.0.0.1 tdap.tudou.com
+127.0.0.1 tdcm.tudou.com
+127.0.0.1 tvp.tudou.com
+127.0.0.1 union.tudou.com
+127.0.0.1 wwwtest.tudou.com
+127.0.0.1 tudouflv.dnion.com
 #YY
 127.0.0.1 gm_download3.yy.com
 127.0.0.1 policyres.game.yy.com
@@ -13280,6 +13280,7 @@ fe80::1%lo0	localhost
 127.0.0.1 redirect.cps.yixun.com
 127.0.0.1 click.saomaw.com
 127.0.0.1 www.51daohang.cn
+127.0.0.1 zzmlxd.com
 @sites block
 #virusdown
 127.0.0.1 m.qianka.com

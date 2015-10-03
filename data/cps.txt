@@ -22,3 +22,4 @@
 127.0.0.1 redirect.cps.yixun.com
 127.0.0.1 click.saomaw.com
 127.0.0.1 www.51daohang.cn
+127.0.0.1 zzmlxd.com
