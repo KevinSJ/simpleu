@@ -1,6 +1,6 @@
 del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
-wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
-gawk "!a[$0]++" 1.txt >360.txt
+rem wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
+rem gawk "!a[$0]++" 1.txt >360.txt
 rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 rem gawk "!a[$0]++" 2.txt >mwsl.txt
 rem sed -i "1i\#MWSL Lists" mwsl.txt
@@ -28,7 +28,7 @@ sed -i "1i\#redirect" grd.txt
 gawk "!a[$0]++" grd.txt >rd3rd.txt
 del /f grd.txt
 @echo off
-ver=0.2.7.3
+ver=0.2.7.5
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
