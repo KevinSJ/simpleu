@@ -308,7 +308,6 @@
 127.0.0.1 www.xjdsy.com
 127.0.0.1 xclock.hanlinciban.com
 127.0.0.1 yule.2258.com
-127.0.0.1 zzmlxd.com
 127.0.0.1 www.zhentj.com
 127.0.0.1 www.1155.com
 127.0.0.1 dl.yizhan123.com

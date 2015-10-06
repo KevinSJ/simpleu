@@ -144,13 +144,6 @@
 #Duomi
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
-#Fetion
-127.0.0.1 gg.joytod.com
-127.0.0.1 hdss1fta.fetion.com.cn
-127.0.0.1 huodong.feixin.10086.cn
-127.0.0.1 imgl.fetionpic.com
-127.0.0.1 minisite.fetionpic.com
-127.0.0.1 minisite0.fetionpic.com
 #Hotspot Shield
 127.0.0.1 rss2search.com
 127.0.0.1 box.anchorfree.net

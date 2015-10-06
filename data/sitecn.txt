@@ -367,3 +367,6 @@
 127.0.0.1 ph.qucaigg.com
 127.0.0.1 px.qucaigg.com
 127.0.0.1 qucaigg.com
+#chinaso
+127.0.0.1 adq.chinaso.com
+127.0.0.1 stat.chinaso.com
