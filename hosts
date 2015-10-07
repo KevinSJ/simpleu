@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201510061712
+;version=201510071605
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -8534,7 +8534,8 @@ fe80::1%lo0	localhost
 127.0.0.1 moblbssdk.yy.duowan.com
 127.0.0.1 mstat.duowan.com
 127.0.0.1 wtmoblbssdk.yy.duowan.com
-127.0.1.1 pflq.duowan.com
+127.0.0.1 pflq.duowan.com
+127.0.0.1 ka.duowan.com
 127.0.0.1 gm_download3.yy.com
 127.0.0.1 policyres.game.yy.com
 127.0.0.1 stat2.web.yy.com
@@ -10098,6 +10099,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.gmw.cn
 @Sites-China/Military
 #Miercn
+127.0.0.1 tongji.miercn.com
 127.0.0.1 tongji.junshijia.com
 #Tiexue
 127.0.0.1 log.tiexue.net

@@ -4721,7 +4721,8 @@
 127.0.0.1 moblbssdk.yy.duowan.com
 127.0.0.1 mstat.duowan.com
 127.0.0.1 wtmoblbssdk.yy.duowan.com
-127.0.1.1 pflq.duowan.com
+127.0.0.1 pflq.duowan.com
+127.0.0.1 ka.duowan.com
 127.0.0.1 gm_download3.yy.com
 127.0.0.1 policyres.game.yy.com
 127.0.0.1 stat2.web.yy.com

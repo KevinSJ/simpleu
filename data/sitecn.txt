@@ -173,6 +173,7 @@
 127.0.0.1 ad.gmw.cn
 @Sites-China/Military
 #Miercn
+127.0.0.1 tongji.miercn.com
 127.0.0.1 tongji.junshijia.com
 #Tiexue
 127.0.0.1 log.tiexue.net
