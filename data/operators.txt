@@ -1,4 +1,6 @@
 @Security Hijack
+#CMCC
+127.0.0.1 120.197.234.71
 #Domain Hijacking
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 searchportal.winindomain.com

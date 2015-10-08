@@ -1,5 +1,6 @@
 @sites block
 #virusdown
+127.0.0.1 bb3sxs.com
 127.0.0.1 m.qianka.com
 127.0.0.1 lp.freegameszonetab.com
 127.0.0.1 magicalled.info

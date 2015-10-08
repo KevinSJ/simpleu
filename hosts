@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201510071605
+;version=201510081729
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -13335,6 +13335,7 @@ fe80::1%lo0	localhost
 127.0.0.1 zzmlxd.com
 @sites block
 #virusdown
+127.0.0.1 bb3sxs.com
 127.0.0.1 m.qianka.com
 127.0.0.1 lp.freegameszonetab.com
 127.0.0.1 magicalled.info
@@ -13798,6 +13799,8 @@ fe80::1%lo0	localhost
 127.0.0.1 share.v89.com
 127.0.0.1 wl.v89.com
 @Security Hijack
+#CMCC
+127.0.0.1 120.197.234.71
 #Domain Hijacking
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 searchportal.winindomain.com
