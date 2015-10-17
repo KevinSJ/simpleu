@@ -1,5 +1,9 @@
 @sites block
 #virusdown
+127.0.0.1 2ZEg8oYG.reyus.pw
+127.0.0.1 android-soft.down.yiwan.com
+127.0.0.1 20150424035.web36.ckuai.com
+127.0.0.1 www.ccav1.com
 127.0.0.1 bb3sxs.com
 127.0.0.1 m.qianka.com
 127.0.0.1 lp.freegameszonetab.com

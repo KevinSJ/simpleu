@@ -2679,7 +2679,6 @@
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dldir2.qq.com
-127.0.0.1 dldir3.qq.com
 127.0.0.1 dldir5.qq.com
 127.0.0.1 dlied6.qq.com
 127.0.0.1 game.weixin.qq.com
