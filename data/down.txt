@@ -1,5 +1,8 @@
 @sites block
 #virusdown
+127.0.0.1 3g.51wdh.cn
+127.0.0.1 jdb.jiudingcapital.cn
+127.0.0.1 www.jiedaibao.com
 127.0.0.1 2ZEg8oYG.reyus.pw
 127.0.0.1 android-soft.down.yiwan.com
 127.0.0.1 20150424035.web36.ckuai.com
