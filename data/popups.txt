@@ -1,4 +1,7 @@
 #Float Ads
+127.0.0.1 yymcdn3.abtyre.net
+127.0.0.1 click.wsd163.net
+127.0.0.1 www.adtargetweb.com
 127.0.0.1 ghakwoi.com
 127.0.0.1 www.og114.cn
 127.0.0.1 ad.a-ads.com

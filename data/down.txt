@@ -1,5 +1,6 @@
 @sites block
 #virusdown
+127.0.0.1 www.fengqu.com
 127.0.0.1 xinmey.com.cn
 127.0.0.1 3g.51wdh.cn
 127.0.0.1 jdb.jiudingcapital.cn
