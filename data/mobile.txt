@@ -2078,6 +2078,7 @@
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 tracking.miui.com
 #ijinshan
