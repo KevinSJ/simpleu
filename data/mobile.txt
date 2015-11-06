@@ -2983,6 +2983,7 @@
 127.0.0.1 ww881.smartadserver.com
 #Sogou
 127.0.0.1 123.sogou.com
+127.0.0.1 web.sogou.com
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 alpha.brand.sogou.com
