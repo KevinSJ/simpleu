@@ -1,5 +1,10 @@
 @sites block
 #virusdown
+127.0.0.1 6du.in
+127.0.0.1 img6.shikee.com
+127.0.0.1 www.tigerbrokers.com
+127.0.0.1 vip.mtkan.top
+127.0.0.1 www.tgj123.com
 127.0.0.1 www.826826.com
 127.0.0.1 www.fengqu.com
 127.0.0.1 xinmey.com.cn

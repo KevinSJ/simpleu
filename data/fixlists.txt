@@ -5,6 +5,7 @@
 127.0.0.1 dd.myapp.com
 127.0.0.1 a.app.qq.com
 127.0.0.1 pp.myapp.com
+127.0.0.1 down.myapp.com
 127.0.0.1 agent.sj.qq.com
 127.0.0.1 www.myapp.com
 127.0.0.1 api.cupid.iqiyi.com
@@ -52,7 +53,6 @@
 127.0.0.1 discuz.gtimg.cn
 127.0.0.1 dlc2.pconline.com.cn
 127.0.0.1 down.fodder.neoimaging.cn
-127.0.0.1 down.myapp.com
 127.0.0.1 dp.ppstream.com
 127.0.0.1 dp.ppstv.com
 127.0.0.1 dp.ugc.pps.tv

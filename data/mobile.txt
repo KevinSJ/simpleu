@@ -2725,6 +2725,7 @@
 127.0.0.1 download.sj.qq.com
 127.0.0.1 dl.softmgr.qq.com
 127.0.0.1 a.wap.myapp.com
+127.0.0.1 a.app.qq.com
 127.0.0.1 app.qq.com
 127.0.0.1 aw.myapp.com
 127.0.0.1 dp.myapp.com
