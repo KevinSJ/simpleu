@@ -1,6 +1,8 @@
 127.0.0.1 tb.himg.baidu.com
+127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 dldir3.qq.com
+127.0.0.1 ark.letv.com
 127.0.0.1 icon.zol-img.com.cn
 127.0.0.1 dd.myapp.com
 127.0.0.1 a.app.qq.com
@@ -8,7 +10,6 @@
 127.0.0.1 down.myapp.com
 127.0.0.1 agent.sj.qq.com
 127.0.0.1 www.myapp.com
-127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 dldir1.qq.com
 127.0.0.1 down.360safe.com
 127.0.0.1 g.alicdn.com

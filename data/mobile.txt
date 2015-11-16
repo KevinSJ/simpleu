@@ -847,7 +847,6 @@
 127.0.0.1 app.uc.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 m.app.uc.cn
-127.0.0.1 down2.uc.cn
 127.0.0.1 api.ugame.uc.cn
 127.0.0.1 igouwu.uc.cn
 127.0.0.1 sdkgame.ugame.uc.cn
@@ -1275,7 +1274,6 @@
 127.0.0.1 track.cupid.qiyi.com
 127.0.0.1 a.ckm.iqiyi.com
 127.0.0.1 ad.m.iqiyi.com
-127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 cmts.iqiyi.com
@@ -4552,7 +4550,6 @@
 127.0.0.1 g.koowo.com
 127.0.0.1 wa.koowo.com
 #Letv
-127.0.0.1 ark.letv.com
 127.0.0.1 g.q4ik.com
 127.0.0.1 fz.letv.com
 127.0.0.1 dc.letv.com
