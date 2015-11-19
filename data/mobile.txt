@@ -2947,6 +2947,8 @@
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 ota.pay.mobile.sina.cn
+127.0.0.1 pay.mobile.sina.cn
 #Sina.com.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn

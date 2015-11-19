@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201511161848
+;version=201511191755
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -5610,6 +5610,8 @@ fe80::1%lo0	localhost
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 ota.pay.mobile.sina.cn
+127.0.0.1 pay.mobile.sina.cn
 #Sina.com.cn
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adm.leju.sina.com.cn
@@ -12754,6 +12756,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 rd.121.com
 #Float Ads
+127.0.0.1 g.f41g.com
 127.0.0.1 yymcdn3.abtyre.net
 127.0.0.1 click.wsd163.net
 127.0.0.1 www.adtargetweb.com
