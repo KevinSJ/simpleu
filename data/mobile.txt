@@ -806,6 +806,7 @@
 #Alicommon
 127.0.0.1 count.tbcdn.cn
 127.0.0.1 cookiemapping.wrating.com
+127.0.0.1 tejia.taobao.com
 127.0.0.1 tui.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 mclick.simba.taobao.com
@@ -1126,6 +1127,7 @@
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
+127.0.0.1 su.bdimg.com
 127.0.0.1 cpro.baidustatics1.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com

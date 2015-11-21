@@ -6,8 +6,10 @@
 127.0.0.1 cps.yintai.com
 127.0.0.1 gome.122.2o7.net
 127.0.0.1 pages.ctrip.com
+127.0.0.1 u.ctrip.com
 127.0.0.1 pb.sinaedge.com
 127.0.0.1 tad.suning.com
+127.0.0.1 union.suning.com
 127.0.0.1 track.lefeng.com
 127.0.0.1 union.moonbasa.com
 127.0.0.1 union.yohobuy.com
@@ -24,3 +26,6 @@
 127.0.0.1 www.51daohang.cn
 127.0.0.1 zzmlxd.com
 127.0.0.1 clkde.tradedoubler.com
+127.0.0.1 cnt.zhaopin.com
+127.0.0.1 cps.jumei.com
+127.0.0.1 jd.heima8.com

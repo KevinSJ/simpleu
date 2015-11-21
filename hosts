@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201511191755
+;version=20151121 951
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -3469,6 +3469,7 @@ fe80::1%lo0	localhost
 #Alicommon
 127.0.0.1 count.tbcdn.cn
 127.0.0.1 cookiemapping.wrating.com
+127.0.0.1 tejia.taobao.com
 127.0.0.1 tui.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 mclick.simba.taobao.com
@@ -3789,6 +3790,7 @@ fe80::1%lo0	localhost
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 ecmb.bdimg.com
+127.0.0.1 su.bdimg.com
 127.0.0.1 cpro.baidustatics1.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
@@ -12167,8 +12169,10 @@ fe80::1%lo0	localhost
 127.0.0.1 cps.yintai.com
 127.0.0.1 gome.122.2o7.net
 127.0.0.1 pages.ctrip.com
+127.0.0.1 u.ctrip.com
 127.0.0.1 pb.sinaedge.com
 127.0.0.1 tad.suning.com
+127.0.0.1 union.suning.com
 127.0.0.1 track.lefeng.com
 127.0.0.1 union.moonbasa.com
 127.0.0.1 union.yohobuy.com
@@ -12185,6 +12189,9 @@ fe80::1%lo0	localhost
 127.0.0.1 www.51daohang.cn
 127.0.0.1 zzmlxd.com
 127.0.0.1 clkde.tradedoubler.com
+127.0.0.1 cnt.zhaopin.com
+127.0.0.1 cps.jumei.com
+127.0.0.1 jd.heima8.com
 @sites block
 #virusdown
 127.0.0.1 6du.in
@@ -12756,6 +12763,7 @@ fe80::1%lo0	localhost
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 rd.121.com
 #Float Ads
+127.0.0.1 123.piadu.com
 127.0.0.1 g.f41g.com
 127.0.0.1 yymcdn3.abtyre.net
 127.0.0.1 click.wsd163.net
