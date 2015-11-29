@@ -2088,6 +2088,7 @@
 127.0.0.1 stat.sp.kingsoft.com
 127.0.0.1 union.jx2.kingsoft.com
 127.0.0.1 union.kingsoft.com
+127.0.0.1 bannera.kingsoft-office-service.com
 127.0.0.1 cd001.www.duba.net
 127.0.0.1 cv.duba.net
 127.0.0.1 dl.pop.www.duba.net
@@ -2676,6 +2677,7 @@
 #QQ-common
 127.0.0.1 adsrich.qq.com
 127.0.0.1 appicsh.qq.com
+127.0.0.1 appsupport.qq.com
 127.0.0.1 badjs.qq.com
 127.0.0.1 c.gdt.qq.com
 127.0.0.1 dl_dir2.qq.com

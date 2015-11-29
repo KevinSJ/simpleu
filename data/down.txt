@@ -1,5 +1,7 @@
 @sites block
 #virusdown
+127.0.0.1 go.uunt.com
+127.0.0.1 new.sdbhs.pw
 127.0.0.1 6du.in
 127.0.0.1 img6.shikee.com
 127.0.0.1 www.tigerbrokers.com
