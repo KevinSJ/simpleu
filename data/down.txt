@@ -1,5 +1,6 @@
 @sites block
 #virusdown
+127.0.0.1 d.wanyouxi7.com
 127.0.0.1 go.uunt.com
 127.0.0.1 new.sdbhs.pw
 127.0.0.1 6du.in
