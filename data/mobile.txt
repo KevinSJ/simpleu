@@ -83,11 +83,9 @@
 127.0.0.1 p83.1lo0.net
 #163
 127.0.0.1 analytics.ws.126.net
-127.0.0.1 web.stat.ws.126.net
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
-127.0.0.1 stat.ws.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 union.netease.com
 127.0.0.1 stat.nm.netease.com

@@ -1,4 +1,15 @@
 #Float Ads
+127.0.0.1 click.xajrhd.com
+127.0.0.1 cmih.pop.t5yx.cn
+127.0.0.1 inoq.code.mytanwan.com
+127.0.0.1 jtug.code.poyang.com
+127.0.0.1 lpcvfn.cnzz.jiehunmishu.com
+127.0.0.1 mm.ok365.com
+127.0.0.1 news.38ra.com
+127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 pop.code.poyang.cn
+127.0.0.1 www.yigo.cc
+127.0.0.1 zbvscrno.flash.t5yx.cn
 127.0.0.1 123.piadu.com
 127.0.0.1 g.f41g.com
 127.0.0.1 yymcdn3.abtyre.net

@@ -1,5 +1,8 @@
 @sites block
 #virusdown
+127.0.0.1 cfq.xianshuabao.com
+127.0.0.1 rom2.xianshuabao.com
+127.0.0.1 root.xianshuabao.com
 127.0.0.1 d.wanyouxi7.com
 127.0.0.1 go.uunt.com
 127.0.0.1 new.sdbhs.pw

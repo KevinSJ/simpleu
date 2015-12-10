@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201512071535
+;version=201512101031
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts-files.
 ;Vision=Better Internet Experience and Thanks 4 Every1.
@@ -2808,11 +2808,9 @@ fe80::1%lo0	localhost
 127.0.0.1 p83.1lo0.net
 #163
 127.0.0.1 analytics.ws.126.net
-127.0.0.1 web.stat.ws.126.net
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 m.analytics.126.net
-127.0.0.1 stat.ws.126.net
 127.0.0.1 haitaoad.nosdn.127.net
 127.0.0.1 union.netease.com
 127.0.0.1 stat.nm.netease.com
@@ -12259,6 +12257,9 @@ fe80::1%lo0	localhost
 127.0.0.1 jd.heima8.com
 @sites block
 #virusdown
+127.0.0.1 cfq.xianshuabao.com
+127.0.0.1 rom2.xianshuabao.com
+127.0.0.1 root.xianshuabao.com
 127.0.0.1 d.wanyouxi7.com
 127.0.0.1 go.uunt.com
 127.0.0.1 new.sdbhs.pw
@@ -12699,6 +12700,11 @@ fe80::1%lo0	localhost
 127.0.0.1 click.kink.com
 127.0.0.1 c.actiondesk.com
 #Email Marketing
+127.0.0.1 p.feedblitz.com
+127.0.0.1 www.taxidrivermovie.com
+127.0.0.1 ipove.info
+127.0.0.1 www.webstars.hu
+127.0.0.1 www.freemoneysystem.net
 127.0.0.1 click.e.debenhams.com
 127.0.0.1 ebm.cheetahmail.com
 127.0.0.1 edm2.emarketing.com.cn
@@ -12831,6 +12837,17 @@ fe80::1%lo0	localhost
 127.0.0.1 cloudcdn.yousee.com
 127.0.0.1 rd.121.com
 #Float Ads
+127.0.0.1 click.xajrhd.com
+127.0.0.1 cmih.pop.t5yx.cn
+127.0.0.1 inoq.code.mytanwan.com
+127.0.0.1 jtug.code.poyang.com
+127.0.0.1 lpcvfn.cnzz.jiehunmishu.com
+127.0.0.1 mm.ok365.com
+127.0.0.1 news.38ra.com
+127.0.0.1 pop.code.mytanwan.com
+127.0.0.1 pop.code.poyang.cn
+127.0.0.1 www.yigo.cc
+127.0.0.1 zbvscrno.flash.t5yx.cn
 127.0.0.1 123.piadu.com
 127.0.0.1 g.f41g.com
 127.0.0.1 yymcdn3.abtyre.net
