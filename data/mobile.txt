@@ -367,6 +367,7 @@
 127.0.0.1 urlservice.sj.91.com
 127.0.0.1 mobiledata-dev.91.com
 127.0.0.1 v2.g2.91.com
+127.0.0.1 mobiledata-dev2.91.com
 127.0.0.1 adpush.91smart.net
 #9158918
 127.0.0.1 p.9158918.com
@@ -1841,6 +1842,9 @@
 127.0.0.1 dnion-cdn.dianjoy.com
 127.0.0.1 fast-cdn.dianjoy.com
 127.0.0.1 www.dianjoy.com
+#dixanjoty
+127.0.0.1 a.dixanjoty.com
+127.0.0.1 c.dixanjoty.com
 #Directrev
 127.0.0.1 ad.directrev.com
 127.0.0.1 cdn.directrev.com
@@ -2067,17 +2071,18 @@
 127.0.0.1 kpns2.a.m.liebao.cn
 127.0.0.1 lm.bilibili.wan.liebao.cn
 127.0.0.1 wifi.liebao.cn
+#MIUI
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
 #Xiaomi
 127.0.0.1 a.union.mi.com
 127.0.0.1 sg.a.stat.mi.com
-127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 data.game.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 tracking.miui.com
 #ijinshan
@@ -4109,6 +4114,7 @@
 127.0.0.1 padsdel.cdnads.com
 127.0.0.1 fota4.adups.cn
 127.0.0.1 fotacontrol.adfuture.cn
+127.0.0.1 api.17le.com.cn
 @MobSoft Ads
 #10010-wostore
 127.0.0.1 push.wostore.cn
