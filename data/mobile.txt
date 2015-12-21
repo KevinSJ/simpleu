@@ -115,6 +115,7 @@
 127.0.0.1 clkservice.union.youdao.com
 127.0.0.1 clkservice.youdao.com
 127.0.0.1 clkservice2.dict.youdao.com
+127.0.0.1 conv.youdao.com
 127.0.0.1 d.clkservice.youdao.com
 127.0.0.1 dsp-impr.youdao.com
 127.0.0.1 dsp-impr2.youdao.com
@@ -164,19 +165,19 @@
 127.0.0.1 t.235123.net
 #360
 127.0.0.1 dl.360safe.com
-127.0.0.1 hot.m.shouji.360tpcdn.com
 127.0.0.1 inst.360safe.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 ad.dev.360.cn
 127.0.0.1 ad.gamebox.360.cn
+127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 down.360.cn
-127.0.0.1 s.360.cn
-127.0.0.1 s.mall.360.cn
-127.0.0.1 s.lianmeng.360.cn
-127.0.0.1 stat.lianmeng.360.cn
-127.0.0.1 tf.360.cn
 127.0.0.1 guess.tf.360.cn
+127.0.0.1 s.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 s.mall.360.cn
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stats.guess.tf.360.cn
+127.0.0.1 tf.360.cn
 127.0.0.1 v.tf.360.cn
 127.0.0.1 guess.h.qhimg.com
 127.0.0.1 haostat.qihoo.com
@@ -186,6 +187,7 @@
 127.0.0.1 msg.shouji.360.cn
 127.0.0.1 shouji.360.cn
 127.0.0.1 zhushou.360.cn
+127.0.0.1 hot.m.shouji.360tpcdn.com
 #37cs
 127.0.0.1 c.37cs.com
 127.0.0.1 cf.37cs.com
@@ -867,6 +869,7 @@
 #Ali-3rd
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 acookie.tanx.com
+127.0.0.1 cms.opendsp.tanx.com
 127.0.0.1 cdn.tanx.com
 127.0.0.1 click.tanx.com
 127.0.0.1 cmc.tanx.com
@@ -1093,6 +1096,7 @@
 127.0.0.1 ad.player.baidu.com
 127.0.0.1 antivirus.baidu.com
 127.0.0.1 api.share.baidu.com
+127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 sa0.tuisong.baidu.com
@@ -1131,6 +1135,7 @@
 127.0.0.1 cpro.baidustatics1.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro2.baidustatic.com
+127.0.0.1 rigel.baidustatic.com
 127.0.0.1 dup.baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 click.bes.baidu.com
@@ -1288,6 +1293,10 @@
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 store.iqiyi.com
+127.0.0.1 ckm.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 iface.iqiyi.com
+127.0.0.1 api.cupid.iqiyi.com
 #Baidu-PPStream
 127.0.0.1 areainfo.ppstream.com
 127.0.0.1 listso.m.areainfo.ppstream.com
@@ -2455,6 +2464,11 @@
 127.0.0.1 mvp.mediav.com
 127.0.0.1 pui.mediav.com
 127.0.0.1 secure.mediav.com
+127.0.0.1 pv.mediav.com
+127.0.0.1 3m.mediav.com
+127.0.0.1 show-g.mediav.com
+127.0.0.1 static-ssl.mediav.com
+127.0.0.1 tran.mediav.com
 127.0.0.1 show.g.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 show.mediav.com
@@ -2701,6 +2715,13 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 apps.game.qq.com
 127.0.0.1 ac.o2.qq.com
+127.0.0.1 t.gdt.qq.com
+127.0.0.1 tajs.qq.com
+127.0.0.1 mini2015.qq.com
+127.0.0.1 qj.l.qq.com
+127.0.0.1 x.l.qq.com
+127.0.0.1 bla.gtimg.com
+127.0.0.1 m.reachmax.cn
 #QQ-Win
 127.0.0.1 guanjia.qq.com
 127.0.0.1 ca.gtimg.com
@@ -2926,6 +2947,10 @@
 127.0.0.1 api.apps.sina.cn
 127.0.0.1 app.sina.cn
 127.0.0.1 app.sina.com.cn
+127.0.0.1 cre.mix.sina.com.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 slog.sina.com.cn
+127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 down.apps.sina.cn
 127.0.0.1 down.sina.cn
 127.0.0.1 market.sina.cn
@@ -4569,6 +4594,15 @@
 127.0.0.1 pro.letv.com
 127.0.0.1 pro.hoye.letv.com
 127.0.0.1 stat.letv.com
+127.0.0.1 ark.letv.com
+127.0.0.1 bx.optimix.asia
+127.0.0.1 cm.masky.biddingx.com
+127.0.0.1 letv.axp.admaster.com.cn
+127.0.0.1 letv.ipdx.cn.miaozhen.com
+127.0.0.1 cdn.cxense.com
+127.0.0.1 cm.mlt01.com
+127.0.0.1 comcluster.cxense.com
+127.0.0.1 www.cxense.com
 #M1905
 127.0.0.1 afp.m1905.com
 127.0.0.1 counter.m1905.com
@@ -4668,6 +4702,8 @@
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 ad.test.ximalaya.com
 #Youku-Tudou
+127.0.0.1 ads.vamaker.com
+127.0.0.1 a statis.api.3g.cp31.ott.cibntv.net
 127.0.0.1 ad.api.3g.youku.com
 127.0.0.1 ad.atm.youku.com
 127.0.0.1 api.gamex.mobile.youku.com
@@ -4749,6 +4785,7 @@
 #Zhangyue
 127.0.0.1 push.zhangyue.com
 #XunLei
+127.0.0.1 www.155.com
 127.0.0.1 advstat.xunlei.com
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 client.stat.xunlei.com

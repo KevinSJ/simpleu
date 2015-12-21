@@ -3,6 +3,8 @@
 127.0.0.1 notifier.avira.com
 #ESTsoft
 127.0.0.1 advert.estsoft.com
+#firefox
+127.0.0.1 adbma.adk2.co
 #Potplayer
 127.0.0.1 m.adtc.daum.net
 127.0.0.1 tiara.daum.net

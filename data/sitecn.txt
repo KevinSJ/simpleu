@@ -371,3 +371,21 @@
 #chinaso
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
+#hupu.com
+127.0.0.1 t1.hoopchina.com.cn
+127.0.0.1 cc.dace.hupu.com
+127.0.0.1 mmae.qtmojo.com
+127.0.0.1 wmcdn.qtmojo.cn
+#gywb.cn
+127.0.0.1 advertise.expai.com
+127.0.0.1 stat.gywb.com.cn
+#gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 log-oma.play.aiseet.atianqi.com
+#mp4ba.com
+127.0.0.1 mp4ba.qucaigg.com
+127.0.0.1 g.qucaigg.com
+127.0.0.1 lejuim.qtmojo.com
