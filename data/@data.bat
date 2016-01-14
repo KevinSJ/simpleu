@@ -14,21 +14,21 @@ set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
 set s4=http://code.taobao.org/svn/gargoyle/hosts
 set s5=http://code.taobao.org/svn/dd-wrt/hosts
-wget -c --no-check-certificate -O grd.txt %s1%
-sed -i "1,18d" grd.txt
-sed -i "s/\t/ /g" grd.txt
-sed -i "s/[ ]\{2,\}/ /g" grd.txt
-sed -i "/googlesyndication/d" grd.txt
-sed -i "/google-analytics/d" grd.txt
-sed -i "/googleadservices/d" grd.txt
-sed -i "/127.0.0.1/d" grd.txt
-sed -i "/^$/d" grd.txt
-sed -i "/^#/d" grd.txt
-sed -i "1i\#redirect" grd.txt
-gawk "!a[$0]++" grd.txt >rd3rd.txt
-del /f grd.txt
+rem wget -c --no-check-certificate -O grd.txt %s1%
+rem sed -i "1,18d" grd.txt
+rem sed -i "s/\t/ /g" grd.txt
+rem sed -i "s/[ ]\{2,\}/ /g" grd.txt
+rem sed -i "/googlesyndication/d" grd.txt
+rem sed -i "/google-analytics/d" grd.txt
+rem sed -i "/googleadservices/d" grd.txt
+rem sed -i "/127.0.0.1/d" grd.txt
+rem sed -i "/^$/d" grd.txt
+rem sed -i "/^#/d" grd.txt
+rem sed -i "1i\#redirect" grd.txt
+rem gawk "!a[$0]++" grd.txt >rd3rd.txt
+rem del /f grd.txt
 @echo off
-ver=0.2.7.5
+ver=0.2.7.6
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -64,7 +64,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt unioncn.txt cps.txt down.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt xunlei.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt unioncn.txt cps.txt down.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 
