@@ -72,7 +72,6 @@
 127.0.0.1 xz.jz5u.com
 127.0.0.1 www.163disk.com
 127.0.0.1 down.laomaotao.org
-127.0.0.1 ucdl.25pp.com
 127.0.0.1 action1.adit-media.com
 127.0.0.1 188.qy8.me
 127.0.0.1 360ads.go2cloud.org
@@ -361,8 +360,6 @@
 127.0.0.1 download.kkk5.com
 127.0.0.1 download.pplive.com
 127.0.0.1 file.3gyu.com
-127.0.0.1 ghost.25pp.com
-127.0.0.1 hl.25pp.com
 127.0.0.1 load.joymeng.com
 127.0.0.1 www.startappexchange.com
 127.0.0.1 www.laomaotao.net
