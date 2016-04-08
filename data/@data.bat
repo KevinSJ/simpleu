@@ -1,34 +1,34 @@
 del /f 360.txt Mwsl.txt 1.txt 2.txt rd3rd.txt
-wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
-gawk "!a[$0]++" 1.txt >360.txt
+rem wget -q -O- http://webscan.360.cn/url | gawk "BEGIN {print \"#360 MTPL\"};/\.html/{print $0=gensub(/.*url\/(.+)\.html.*/,\"127.0.0.1 \\1\",\"1\")}">1.txt
+rem gawk "!a[$0]++" 1.txt >360.txt
 rem wget -q -O- http://www.mwsl.org.cn/hosts/hosts | gawk "NR>10{print \"127.0.0.1\",$2}">2.txt
 rem gawk "!a[$0]++" 2.txt >mwsl.txt
 rem sed -i "1i\#MWSL Lists" mwsl.txt
 set p1=http://serve.netsh.org/pub/ping.php
 set p2=http://tools.pingdom.com/ping/
 set p3=http://ping.eu/ping
-set p4=http://www.360kb.com/kb/2_122.html
 rem http://www.360kb.com/kb/2_139.html http://www.360kb.com/kb/2_143.html
-rem http://bbs.a9vg.com/thread-3476870-1-1.html http://www.abclite.org/67
-set s1=http://hosts.gav1n.com/GavinHosts.txt
+rem http://bbs.a9vg.com/thread-4549081-1-1.html
+set s1=https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 set s2=https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
 set s3=http://yu2n.sinaapp.com/wp/?p=367
-set s4=https://www.projecth.us/sources
-rem wget -c --no-check-certificate -O grd.txt %s2%
-sed -i "1,19d" grd.txt
-sed -i "s/\t/ /g" grd.txt
-sed -i "s/[ ]\{2,\}/ /g" grd.txt
-sed -i "/googlesyndication/d" grd.txt
-sed -i "/google-analytics/d" grd.txt
-sed -i "/googleadservices/d" grd.txt
-sed -i "/127.0.0.1/d" grd.txt
-sed -i "/^$/d" grd.txt
-sed -i "/^#/d" grd.txt
-sed -i "1i\#redirect" grd.txt
-gawk "!a[$0]++" grd.txt >rd3rd.txt
-del /f grd.txt
+set s4=http://code.taobao.org/svn/gargoyle/hosts
+set s5=http://code.taobao.org/svn/dd-wrt/hosts
+rem wget -c --no-check-certificate -O grd.txt %s1%
+rem sed -i "1,18d" grd.txt
+rem sed -i "s/\t/ /g" grd.txt
+rem sed -i "s/[ ]\{2,\}/ /g" grd.txt
+rem sed -i "/googlesyndication/d" grd.txt
+rem sed -i "/google-analytics/d" grd.txt
+rem sed -i "/googleadservices/d" grd.txt
+rem sed -i "/127.0.0.1/d" grd.txt
+rem sed -i "/^$/d" grd.txt
+rem sed -i "/^#/d" grd.txt
+rem sed -i "1i\#redirect" grd.txt
+rem gawk "!a[$0]++" grd.txt >rd3rd.txt
+rem del /f grd.txt
 @echo off
-ver=0.2.6.6
+ver=0.2.7.6
 SetLocal EnableExtensions
 SetLocal EnableDelayedExpansion
 set str=%date:~0,4%%date:~5,2%00
@@ -44,13 +44,11 @@ sed -i "s/127.0.0.1/0.0.0.0/g" 0.txt
 start vblf.vbs
 ping -n 5 127.0.0.1
 copy hosts "%~dp0..\hosts"
-del /f 360.txt
 call :Android
 call :del
 cd %~dp0..\tools
 7z.bat
 exit
-
 
 :Android
 echo 7z x hosts.zip -y -oandroid>"%~dp0..\tools\7z.bat"
@@ -66,7 +64,7 @@ echo del %%0 >>"%~dp0..\tools\7z.bat"
 goto :eof
 
 :SDall
-set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt msoft.txt xunlei.txt game.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt down.txt 360.txt porn.txt email.txt operators.txt popups.txt
+set files=bat.txt Version.txt redirect.txt grd.txt rd3rd.txt mobile.txt xunlei.txt active.txt soft.txt site.txt sitecn.txt sitecbs.txt union.txt unioncn.txt cps.txt down.txt porn.txt email.txt operators.txt popups.txt
 for %%a in (%files%) do (type "%%a">>1A.txt)
 goto :eof
 

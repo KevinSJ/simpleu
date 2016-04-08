@@ -1,4 +1,6 @@
 @Security Hijack
+#CMCC
+127.0.0.1 120.197.234.71
 #Domain Hijacking
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 searchportal.winindomain.com
@@ -40,11 +42,13 @@
 127.0.0.1 error2.wo114.cc
 127.0.0.1 error8.wo114.cc
 127.0.0.1 jldnserror1.wo.com.cn
+127.0.0.1 hbdnserror2.wo.com.cn
 127.0.0.1 hbdnserror6.wo.com.cn
 127.0.0.1 hndnserror7.wo.com.cn
 127.0.0.1 hljdnserror1.wo.com.cn
 127.0.0.1 jldnserror5.wo.com.cn
 127.0.0.1 lndnserror1.wo.com.cn
+127.0.0.1 lndnserror3.wo.com.cn
 127.0.0.1 nfdnserror1.wo.com.cn
 127.0.0.1 hndnserror6.wo.com.cn
 127.0.0.1 nfdnserror14.wo.com.cn
@@ -69,6 +73,8 @@
 127.0.0.1 search.yousee.com
 127.0.0.1 sg.yousee.com
 127.0.0.1 m.souluo.net
+#X-Router
+127.0.0.1 info.yitsoftware.com
 #Operators ADS
 127.0.0.1 lc.havod.com
 127.0.0.1 havod.com
@@ -79,3 +85,6 @@
 127.0.0.1 ads.iisdoor.com
 127.0.0.1 pv.bbapp.net
 127.0.0.1 www.063.com
+127.0.0.1 pd.ok365.com
+127.0.0.1 cloudcdn.yousee.com
+127.0.0.1 rd.121.com

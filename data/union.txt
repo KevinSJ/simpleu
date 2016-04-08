@@ -319,14 +319,6 @@
 127.0.0.1 adl-wf4.s2.atlnet.jp
 127.0.0.1 adl-wf5v.s3.atlnet.jp
 127.0.0.1 adl-wf6v1.atlnet.jp
-#i-mobile
-127.0.0.1 i-mobile.co.jp
-127.0.0.1 spad.i-mobile.co.jp
-127.0.0.1 spapi.i-mobile.co.jp
-127.0.0.1 spcnv.i-mobile.co.jp
-127.0.0.1 spdeliver.i-mobile.co.jp
-127.0.0.1 spdmg-backend.i-mobile.co.jp
-127.0.0.1 spdmg.i-mobile.co.jp
 #impact-ad
 127.0.0.1 a.one.impact-ad.jp
 127.0.0.1 aa.impact-ad.jp
@@ -944,6 +936,7 @@
 127.0.0.1 www.adserverpub.com
 127.0.0.1 www2.adserverpub.com
 #Adsfactor
+127.0.0.1 cdn.adsfactor.net
 127.0.0.1 servedby.adsfactor.net
 #ADTrustMedia
 127.0.0.1 activation.adtrustmedia.com
@@ -1935,6 +1928,7 @@
 127.0.0.1 feeds.videosz.com
 127.0.0.1 ts.videosz.com
 #Other Foreign ads
+127.0.0.1 ad.dmm.com
 127.0.0.1 a.panxh.com
 127.0.0.1 ad.ad-srv.net
 127.0.0.1 ad.clickotmedia.com
@@ -1990,7 +1984,6 @@
 127.0.0.1 videoads.tetrisfriends.com
 127.0.0.1 www.adlinkmedia.net
 127.0.0.1 www.arcadebanners.com
-127.0.0.1 www.da-ads.com
 127.0.0.1 www.linkshare.com
 127.0.0.1 www.linkworth.com
 127.0.0.1 www.quibids.com
@@ -2030,3 +2023,5 @@
 127.0.0.1 tags.qservz.com
 127.0.0.1 uk-ads.openx.net
 127.0.0.1 zanox-affiliate.de
+127.0.0.1 se.symcd.com
+127.0.0.1 clvk.viki.io

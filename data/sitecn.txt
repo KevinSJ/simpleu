@@ -82,6 +82,8 @@
 127.0.0.1 rnd.dayoo.com
 127.0.0.1 sta.dayoo.com
 127.0.0.1 stats.dayoo.com
+#Gucheng
+127.0.0.1 bdcp.gucheng.com
 @Sites-China/Books
 #17K
 127.0.0.1 ad.17k.com
@@ -139,18 +141,6 @@
 127.0.0.1 ads.people.com.cn
 127.0.0.1 pro.people.com.cn
 127.0.0.1 pmm.people.com.cn
-#iFeng
-127.0.0.1 bc.ifeng.com
-127.0.0.1 dol.deliver.ifeng.com
-127.0.0.1 dol.ifeng.com
-127.0.0.1 dolphin.deliver.ifeng.com
-127.0.0.1 g.ifeng.com
-127.0.0.1 games.ifeng.com
-127.0.0.1 map.tongji.ifeng.com
-127.0.0.1 online.3g.ifeng.com
-127.0.0.1 sta.ifeng.com
-127.0.0.1 survey.news.ifeng.com
-127.0.0.1 img.vd.vsnoon.com
 #Chinan
 127.0.0.1 log.china.cn
 127.0.0.1 union.china.com.cn
@@ -183,6 +173,7 @@
 127.0.0.1 ad.gmw.cn
 @Sites-China/Military
 #Miercn
+127.0.0.1 tongji.miercn.com
 127.0.0.1 tongji.junshijia.com
 #Tiexue
 127.0.0.1 log.tiexue.net
@@ -239,6 +230,7 @@
 127.0.0.1 adsame.liba.com
 127.0.0.1 img.adsame.liba.com
 #Xici
+127.0.0.1 adimgs.xici.net
 127.0.0.1 icons.xici.net
 #BSP
 127.0.0.1 ad.dedecms.com
@@ -257,9 +249,6 @@
 #Heiguang
 127.0.0.1 pro.heiguang.com
 @Sites-China/IT
-#MyDrivers
-127.0.0.1 count.mydrivers.com
-127.0.0.1 images.mydrivers.com
 #evolife
 127.0.0.1 g.x.evolife.cn
 #eNet
@@ -296,25 +285,10 @@
 #Rising
 127.0.0.1 alert.rising.com.cn
 127.0.0.1 union.rising.com.cn
-@Sites-China/Cars
-#BitAuto
-127.0.0.1 echo.adsense.cig.com.cn
-127.0.0.1 g.yccdn.com
-127.0.0.1 webtrends.yccdn.com
-127.0.0.1 static.union.easypass.cn
-127.0.0.1 autosense.bitauto.com
-127.0.0.1 g.bitauto.com
-127.0.0.1 gimg.bitauto.com
-127.0.0.1 ip.bitauto.com
-127.0.0.1 log.bitauto.com
-#AutoHome
-127.0.0.1 33.autohome.com.cn
-127.0.0.1 adx.autohome.com.cn
-127.0.0.1 stats.autohome.com.cn
-127.0.0.1 t.advuser.com
 @Sites-China/Infos
 #39
 127.0.0.1 app-g.39.net
+127.0.0.1 d.39.net
 127.0.0.1 dpvc.39.net
 #51Job
 127.0.0.1 logs.51job.com
@@ -338,16 +312,13 @@
 127.0.0.1 stat.baike.com
 #JDUnion
 127.0.0.1 pic.jdunion.com
-#Sofun
-127.0.0.1 click1.soufun.com
-127.0.0.1 clickm.soufun.com
-127.0.0.1 clickn.soufun.com
-127.0.0.1 show3.soufun.com
-127.0.0.1 tongji.home.soufun.com
 #jyeoo
 127.0.0.1 ad.jyeoo.com
 #BabyTree
 127.0.0.1 log.babytree.com
+#QQYY
+127.0.0.1 dpvc2.qqyy.com
+127.0.0.1 dpvchos.qqyy.com
 #Yaolan
 127.0.0.1 adpub.yaolan.com
 127.0.0.1 adnetpub.yaolan.com
@@ -371,3 +342,50 @@
 127.0.0.1 ranking.ynet.com
 #1fangchan
 127.0.0.1 adhome.1fangchan.com
+#cnbeta
+127.0.0.1 job.cnbeta.com
+@Sites-China/Media
+#ttmeiju
+127.0.0.1 googleads.g.jujinw.com
+127.0.0.1 www.jujinw.com
+127.0.0.1 pagead2.jujinw.com
+#www.dage123.com
+127.0.0.1 d.107788.com
+127.0.0.1 d.huimee.com
+127.0.0.1 stats.leyouduo8.com
+127.0.0.1 ys.8gys.com
+#www.xlpu.cc
+127.0.0.1 a.xlpu.cc
+#www.263tvb.com
+127.0.0.1 e.e70123.com
+127.0.0.1 m9.xcdf.cn
+#btlibrary.org
+127.0.0.1 count.qiqipower.com
+#xigua110
+127.0.0.1 a.xigua110.com
+127.0.0.1 jump.qucaiaa.com
+127.0.0.1 gg.qucaigg.com
+127.0.0.1 ph.qucaigg.com
+127.0.0.1 px.qucaigg.com
+127.0.0.1 qucaigg.com
+#chinaso
+127.0.0.1 adq.chinaso.com
+127.0.0.1 stat.chinaso.com
+#hupu.com
+127.0.0.1 t1.hoopchina.com.cn
+127.0.0.1 cc.dace.hupu.com
+127.0.0.1 mmae.qtmojo.com
+127.0.0.1 wmcdn.qtmojo.cn
+#gywb.cn
+127.0.0.1 advertise.expai.com
+127.0.0.1 stat.gywb.com.cn
+#gitv.tv
+127.0.0.1 msg.ptqy.gitv.tv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 log-oma.play.aiseet.atianqi.com
+#mp4ba.com
+127.0.0.1 mp4ba.qucaigg.com
+127.0.0.1 g.qucaigg.com
+127.0.0.1 lejuim.qtmojo.com

@@ -43,6 +43,7 @@
 127.0.0.1 ad.xcar.com.cn
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
+127.0.0.1 click.xcar.com.cn
 127.0.0.1 html.xcar.com.cn
 #xiyuIT
 127.0.0.1 apic.xiyuit.com

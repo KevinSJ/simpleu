@@ -3,8 +3,14 @@
 127.0.0.1 notifier.avira.com
 #ESTsoft
 127.0.0.1 advert.estsoft.com
+#firefox
+127.0.0.1 adbma.adk2.co
 #Potplayer
 127.0.0.1 m.adtc.daum.net
+127.0.0.1 tiara.daum.net
+127.0.0.1 live.tvpot.daum.net
+127.0.0.1 track.tiara.daum.net
+127.0.0.1 tip.daum.net
 #RealPlayer
 127.0.0.1 client-software.real.com
 127.0.0.1 free-dl.cn.real.com
@@ -20,15 +26,24 @@
 127.0.0.1 hao.kaikai001.com
 #QVOD
 127.0.0.1 110.daddymami.net
+127.0.0.1 acctrack.daddymami.net
+127.0.0.1 android.dl.daddymami.net
 127.0.0.1 lbu.daddymami.net
 127.0.0.1 minisite.daddymami.net
 127.0.0.1 prom.qbho.daddymami.net
 127.0.0.1 qtip.daddymami.net
+127.0.0.1 statis.daddymami.net
 127.0.0.1 text-ad.daddymami.net
+127.0.0.1 vtrack.daddymami.net
 127.0.0.1 xml.web.daddymami.net
-127.0.0.1 searchstat.726.com
+127.0.0.1 android.dl.726.com
 127.0.0.1 lbu.726.com
+127.0.0.1 searchstat.726.com
+127.0.0.1 hunantv.update.yunfan.com
 127.0.0.1 minisite.yunfan.com
+127.0.0.1 mtracker.yunfan.com
+127.0.0.1 stat.yunfan.com
+127.0.0.1 urltracker.yunfan.com
 127.0.0.1 www.yunfan.com
 127.0.0.1 110.kuaibo.com
 127.0.0.1 clk.dm.kuaibo.com
@@ -95,36 +110,35 @@
 #FlashGet
 127.0.0.1 ack.flashget.com
 127.0.0.1 ad.flashget.com
+127.0.0.1 al.flashget.com
 127.0.0.1 cad1.flashget.com
-127.0.0.1 dll.flashget.com
-127.0.0.1 down1.flashget.com
-127.0.0.1 down2.flashget.com
-127.0.0.1 down3.flashget.com
-127.0.0.1 down4.flashget.com
-127.0.0.1 down5.flashget.com
-127.0.0.1 down6.flashget.com
-127.0.0.1 down7.flashget.com
-127.0.0.1 error.flashget.com
-127.0.0.1 fetch.flashget.com
+127.0.0.1 game.flashget.com
 127.0.0.1 ggstat.flashget.com
 127.0.0.1 guanggaobu.flashget.com
+127.0.0.1 log.flashget.com
 127.0.0.1 news.flashget.com
-127.0.0.1 olstat.flashget.com
-127.0.0.1 stac.flashget.com
 127.0.0.1 stat.flashget.com
-127.0.0.1 zx.flashget.com
+127.0.0.1 union.flashget.com
+127.0.0.1 usrstat.flashget.com
+127.0.0.1 www.union.flashget.com
 127.0.0.1 adstat.fgsta.com
-127.0.0.1 bc.kuaiche.com
 127.0.0.1 cimg.kuaiche.com
-127.0.0.1 client.kuaiche.com
+127.0.0.1 al.7pk.com
+127.0.0.1 cimg.7pk.com
+127.0.0.1 ufile.7pk.com
+127.0.0.1 client.7pk.com
+127.0.0.1 img.7pk.com
+127.0.0.1 imgcache.7pk.com
+127.0.0.1 post.7pk.com
+127.0.0.1 s.7pk.com
+127.0.0.1 software.7pk.com
+127.0.0.1 al.myrice.com
+127.0.0.1 all.myrice.com
 127.0.0.1 dl.game.kuaiche.com
-127.0.0.1 imgcache.kuaiche.com
-127.0.0.1 ufile.kuaiche.com
 127.0.0.1 directui.kuaiche.com.showq.net
 127.0.0.1 static.u966.com
 127.0.0.1 m.u966.com
-127.0.0.1 al.myrice.com
-127.0.0.1 all.myrice.com
+127.0.0.1 123.myrice.com
 127.0.0.1 client.myrice.com
 127.0.0.1 www.pzjczx.com
 127.0.0.1 bc.qushimeiti.com
@@ -132,13 +146,6 @@
 #Duomi
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 pc.boxshows.com
-#Fetion
-127.0.0.1 gg.joytod.com
-127.0.0.1 hdss1fta.fetion.com.cn
-127.0.0.1 huodong.feixin.10086.cn
-127.0.0.1 imgl.fetionpic.com
-127.0.0.1 minisite.fetionpic.com
-127.0.0.1 minisite0.fetionpic.com
 #Hotspot Shield
 127.0.0.1 rss2search.com
 127.0.0.1 box.anchorfree.net
@@ -207,7 +214,11 @@
 #XiGua
 127.0.0.1 ad.xigua.com
 127.0.0.1 adi.xigua.com
+127.0.0.1 log.xigua.com
+127.0.0.1 adv2.downsave.com
 #Yunduan
 127.0.0.1 newbox.yunduan.cn
 127.0.0.1 tj.yunduan.cn
 127.0.0.1 update.yunduan.cn
+#ZhuShou
+127.0.0.1 ad.click.zhushou.so
